@@ -1,0 +1,37 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Ratios
+title: Kontant vinst per aktie (kontant EPS)
+description: Kassavinst per aktie är ett mer konservativt alternativ till vinst per aktie som används för att bedöma den finansiella utvecklingen per aktie.
+---
+
+# Kontant vinst per aktie (kontant EPS)
+## Vad betyder kontantintäkter per aktie?
+
+Kassavinst per aktie (cash EPS), eller mer allmänt kallad [operativt kassaflöde](/operatingcashflow),. är ett finansiellt resultatmått som jämför kassaflödet med antalet utestående aktier. Kontant EPS skiljer sig från det mer populära nettovinstmåttet, vinst per aktie ( [EPS](/eps) ), som jämför nettovinsten på basis av per aktie.
+
+Fri från icke-kontantkomponenter, såsom [avskrivningar](/depreciation) som ingår i vinstbaserade EPS-mått, kan Cash EPS visa sig vara en mer tillförlitlig mätare av finansiell och operativ hälsa.
+
+Ju högre ett företags kontanta EPS, desto bättre anses det ha presterat under en period. Ett företags kontanta EPS kan användas för att göra jämförelser med andra företag eller trender i ett företags verksamhet.
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Kontant EPS </mtext><mo>=</mo><mtext> </mtext><mfrac> <mtext>Rörande kassaflöde</mtext><mtext>Utspädda aktier</mtext></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel= "0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow> <mtext mathvariant="bold">där:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true">>< mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>EPS </mtext><mo >=</mo><mtext> vinst per aktie</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encodin g="application/x-tex">\begin{aligned}&amp;\text{Cash EPS}\ =\ \frac{\text{Operativt kassaflöde}}{\text{Utspädda aktier utestående}}\\&amp; \textbf{där:}\\&amp;\text{EPS}\ =\ \text{vinst per aktie}\end{aligned}</annotation></semantics></math></span><span class= "katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:5.55188em;vertical-align:-2.5259400000000003em;"></span> <span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r" ><span class="vlist" style="height:3.0259399999999994em;"><span style="top:-5.025939999999999em;"><span class="pstrut" style="height:3.3714399999999998em;"></span> span><span class="mord"></span></span><span style="top:-3.0054999999999996em;"><span class="psrut" style="height:3.3714399999999998em;"></ span><span class="mord"></span></span><span style="top:-1.5054999999999996em;"><span class="psrut" style="height:3.371439999999998em;"></ span><span class="mord"></span></span></sp an><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:2.5259400000000003em;"><span ></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"></span class= "vlist-r"><span class="vlist" style="height:3.0259399999999994em;"><span style="top:-5.025939999999999em;"><span class="pstrut" style="height:3.3714399999999988 ;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Kontant EPS</span> </span><span class="mspace"> </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</ span><span class="mspace"> </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class=" mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height :1.3714399999999998em;"><span style="top:-2.314em;"><span class="psrut" style="height:3em;"></s pan><span class="mord"><span class="mord text"><span class="mord">Utspädda aktier utestående</span></span></span></span><span style= "top:-3.23em;"><span class="psrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em; "></span></span><span style="top:-3.677em;"><span class="psrut" style="height:3em;"></span><span class="mord" ><span class="mord text"><span class="mord">operativt kassaflöde</span></span></span></span></span><span class="vlist-s" </span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></ span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:-3.0054999999999996em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">där:</span></span></span></span><span style="top:-1.505499999999996em;"><span class="psrut" style="height: 3,371439 9999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">EPS</span> </span><span class="mspace"> </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</ span><span class="mspace"> </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class= "mord">vinst per aktie</span></span></span></span></span><span class="vlist-s">​</span></span><span class= "vlist-r"><span class="vlist" style="height:2.5259400000000003em;"><span></span></span></span></span></span></span> </span></span></span></span>
+
+
+
+## Förstå Cash EPS
+
+När man analyserar ett företag jämför en vanlig finansiell analysteknik kassaflöde från verksamheten (CEPS) med redovisat nettoresultat. Ett vanligt varningstecken för aggressiv intäktsredovisning dyker ofta upp när det operativa kassaflödet börjar släpa efter redovisat nettoresultat väsentligt. När detta händer kan det vara en röd flagga för att intäkterna redovisas för tidigt.
+
+Eftersom den är ganska mottaglig för redovisningsmanipulation kan grundläggande EPS vara ett opålitligt mått på prestanda. Som sådan, när de utvärderar en potentiell investering, föredrar investerare som Warren Buffet kontantbaserade åtgärder för att vägleda deras analys.
+
+På senare tid har återköp av aktier, snarare än aktieutdelningar, varit en överväldigande populär metod för att återföra vinster till aktieägarna. Man kan argumentera för att detta bidrar till att öka vinsten per aktie, genom att minska utestående aktier, och därigenom hjälpa företagsledare att spela vinst per aktie tillväxt att stärka [prestationsbaserade kompensationsplaner](/performancecompensation).
+
+Eftersom det är ett mer konservativt mått på prestanda, kan kontant EPS eliminera några av dessa problem som är gemensamma för den större användningen av finansiell teknik.
+
+## Fördelar med att använda kontanter EPS
+
+– CEPS är mindre benäget att manipulera redovisningen, vilket ger en tydligare bild av kassaflödet och reala intäkter. Ökad transparens är ett tecken på god bolagsstyrning.
+
+– CEPS visar investerare per aktie hur mycket vinst varje aktie genererar. Detta hjälper till att identifiera inkrementellt värde.
+
+– CEPS är inte föremål för samma kortsiktiga marknadsfokus som sett med EPS.
+
