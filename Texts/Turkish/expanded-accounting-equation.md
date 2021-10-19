@@ -1,0 +1,119 @@
+---
+keywords: Investing,Fundamental Analysis,Tools for Fundamental Analysis,Tools
+title: Genişletilmiş Muhasebe Denklemi
+description: Genişletilmiş muhasebe denklemi, muhasebe denkleminden türetilir ve bir şirketteki özkaynakların farklı bileşenlerini gösterir.
+---
+
+# Genişletilmiş Muhasebe Denklemi
+## Genişletilmiş Muhasebe Denklemi Nedir?
+
+[muhasebe denkleminden](/accounting-equation) türetilir ve bir şirketteki [özkaynakların](/stockholdersequity) farklı bileşenlerini daha ayrıntılı olarak gösterir .
+
+Analistler, öz sermayeyi bileşenlerine ayırarak kârların nasıl kullanıldığı, yani temettü olarak, şirkete yeniden yatırıldığı veya nakit olarak tutulduğu konusunda daha iyi bir fikir edinebilirler.
+
+## Genişletilmiş Muhasebe Denklemi Formülü
+
+Muhasebe denkleminin genişletilmiş versiyonu, temel muhasebe denklemindeki eşitlik rolünü detaylandırmaktadır. Muhasebe denkleminin yaygın şekli:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="sağ sol" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Varlıklar</mtext><mo>=</mo><mtext>Yükümlülükler</mtext><mo> +</mo><mtext>Öz Sermaye</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true">< mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">burada: </mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle> </mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Yükümlülükler</mtext><mo>=</mo><mtext>Tümü mevcut ve uzun vadeli borçlar</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true" ><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>ve yükümlülükler</mtext ></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd ><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Sahibinin Sermayesi</mtext><mo>=</mo><mtext>Kullanılabilir varlıklar hissedarlar</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle ></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>tüm yükümlülüklerden sonra</mtext></mrow></mstyle>< /mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{Varlıklar} = \text{Yükümlülükler} + \text{Sahipler Özsermaye}\\ &amp;\textbf{nerede:}\\ &amp;\text{Borçlar} = \text{Tüm mevcut ve uzun vadeli borçlar} \\ &amp;\text{ve yükümlülükler}\\ &amp;\text{ Sahibinin Sermayesi} = \text{Hissedarların kullanımına sunulan varlıklar} \\ &amp;\text{tüm yükümlülüklerden sonra }\\ \end{hizalanmış}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base">< span class="strut" style="height:9.000000000000002em;vertical-align:-4.250000000000001em;"></span><span class="mord"><span class="mtable"><span class="col -align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:4.750000000000001em;"><span style= "top:-6.750000000000001em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style= "top:-5.25em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style= "top:-3.749999999999999em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style= "top:-2.249999999999999em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style= "top:-0.7499999999999996em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span ><span style="top:0.7500000000000009em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span> </span><span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist" style="height:4.250000000000001em;"> < span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class ="vlist-r"><span class="vlist" style="height:4.750000000000001em;"><span style="top:-6.9100000000001em;"><span class="pstrut" style="yükseklik: 3em ;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Varlıklar</span> < /span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mrel">=</span><span class="mspace" style=" kenar boşluğu -right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">Yükümlülükler</span></span><span class="mspace" style="margin - right:0.222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.222 2222222222222em;"></span><span class="mord text"><span class="mord">Sahibinin Sermayesi</span></span></span></span><span style="top: -5.41em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class= "mord text"><span class="mord textbf">burada:</span></span></span></span><span style="top:-3.9099999999999993em;"><span class=" pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord ">Yükümlülükler</span></span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mrel">=</span><span class ="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Tüm cari ve uzun vadeli borçlar</span></span></span></span></p> span></span></span><span style="top:-2.4099999999999993em;"><span class="pstrut" style="height:3em;"></span><span class="mord" ><span class="mord"></span><span class="mord text"><span class="mord">ve yükümlülükler</span></span></span> </span><span style="top:-0.9099999999999997em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class=" mord"></span><span class="mord text"><span class="mord">Sahibinin Sermayesi</span></span><span class="mspace" style="margin-right:0.27777777777777778em ;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mord text "><span class="mord">Hissedarların kullanımına sunulan varlıklar</span></span></span></span><span style="top:0.59000000000007em;"><span class="pstrut" style ="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">sonra tüm yükümlülükler</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r" ><span class="vlist" style="height:4.250000000000001em;"><span></span></span></span></span></span></span></span></span>< /span></span></span>
+
+Genişletilmiş muhasebe denklemi, öz sermayeyi bileşenlere ayırır:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="sağ sol" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Varlıklar</mtext><mo>=</mo><mtext>Yükümlülükler</mtext><mo> +</mo><mtext>CC</mtext><mo>+</mo><mtext>BRE</mtext><mo>+</mo><mtext>R</mtext><mo>−< /mo><mtext>E</mtext><mo>−</mo><mtext>D</mtext></mrow></mstyle></mtd></mtr><mtr><mtd>< mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow>< /mrow><mtext mathvariant="bold">burada:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true "><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>CC</mtext ><mo>=</mo><mtext>Katkıda Bulunan Sermaye, sermaye karşılığı ed by</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></ mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>orijinal hissedarlar (Ödenmiş Sermaye olarak da bilinir)</mtext ></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd ><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>BRE</mtext><mo>=</mo><mtext>Birikmiş Kazançların Başlangıcı, kazanç değil</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></ mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>önceki dönemden hissedarlara dağıtıldı</mtext></mrow> </mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd>< mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>R</mtext><mo>=</mo><mtext>Gelir, ne tür devam eden</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow> </mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>şirketin işleyişi</mtext></mrow>< /mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>E</mtext><mo>=</mo><mtext>Giderler, operasyonları çalıştırmak için katlanılan maliyetler</ mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></ mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>işletme</mtext></mrow></mstyle></mtd>< /mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle=" true"><mrow><mrow></mrow><mtext>D</mtext><mo>=</mo><mtext>Temettüler, hissedarlara dağıtılan kazançlar</mtext></mrow></msty le></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel ="0" displaystyle="true"><mrow><mrow></mrow><mtext>şirketin</mtext></mrow></mstyle></mtd></mtr></mtable> <annotation encoding="application/x-tex">\begin{aligned}&amp;\text{Varlıklar} = \text{Yükümlülükler} + \text{CC} + \text{BRE} + \text{R} - \ text{E} - \text{D} \\&amp;\textbf{nerede:}\\&amp;\text{CC} = \text{Katkıda Bulunan Sermaye, sermaye} \\&amp;\text{orijinal hissedarlar (Ödenmiş Sermaye olarak da bilinir)} \\&amp;\text{BRE} = \text{Başlangıçta Dağıtılan Kârlar, kazançlar değil} \\&amp;\text{önceki dönemden hissedarlara dağıtılmamış} \\&amp;\ text{R} = \text{Gelir, devam eden faaliyetlerden elde edilenler} \\&amp;\text{şirketin işleyişi} \\&amp;\text{E} = \text{Giderler, yapılan maliyetler \\&amp;\text{şirket} \\&amp;\text{D} = \text{Temettüler, hissedarlara dağıtılan kazançlar} \\&amp;\text{şirketin} \\&amp;\text{şirketinin} işlemlerini yürütmek}\en d{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class=" strut" style="height:18em;vertical-align:-8.75em;"></span><span class="mord"><span class="mtable"><span class="col-align-r" ><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:9.25em;"><span style="top:-11.25 em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-9.75 em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-8.25 em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-6.749999999999999 em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-5.2499999999999999 em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-3.7499999999999982 em;"><span class="pstrut" style="heig ht:2.84em;"></span><span class="mord"></span></span><span style="top:-2.2499999999999982em;"><span class="pstrut" style=" height:2.84em;"></span><span class="mord"></span></span><span style="top:-0.7499999999999999987em;"><span class="pstrut" style=" height:2.84em;"></span><span class="mord"></span></span><span style="top:0.7500000000000009em;"><span class="pstrut" style="height :2.84em;"></span><span class="mord"></span></span><span style="top:2.250000000000001em;"><span class="pstrut" style="height: 2.84em;"></span><span class="mord"></span></span><span style="top:3.750000000000001em;"><span class="pstrut" style="height:2.84 em;"></span><span class="mord"></span></span><span style="top:5.25em;"><span class="pstrut" style="height:2.84em ;"></span><span class="mord"></span></span></span><span class="vlist-s">​</span></span><span class= "vlist-r"><span class="vlist" style="height:8.75em;"><span></span></span></span></span></span><span class= "col-align-l"><span class="vlist-t vlist-t2"><span class ="vlist-r"><span class="vlist" style="yükseklik:9.25em;"><span style="top:-11.41em;"><span class="pstrut" style="yükseklik:3em ;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Varlıklar</span>< /span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin -right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">Yükümlülükler</span></span><span class="mspace" style="margin- right:0.222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.222222222222222em;"></span><span class ="mord text"><span class="mord">CC</span></span><span class="mspace" style="margin-right:0.222222222222222em;"></span><span class= "mbin">+</span><span class="mspace" style="margin-right:0.222222222222222em;"></span><span class="mord text"><span class="mord">BRE </span></span><span class="mspace" style="margin-right:0.222222222222222em;"></sp an><span class="mbin">+</span><span class="mspace" style="margin-right:0.222222222222222em;"></span><span class="mord text"><span class ="mord">R</span></span><span class="mspace" style="margin-right:0.222222222222222em;"></span><span class="mbin">−</span> <span class="mspace" style="margin-right:0.222222222222222em;"></span><span class="mord text"><span class="mord">E</span></span>< span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.22222222222222222 em;"></span><span class="mord text"><span class="mord">D</span></span></span></span><span style="top:- 9.91em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class=" mord text"><span class="mord textbf">burada:</span></span></span></span><span style="top:-8.41em;"><span class="pstrut " style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord" >CC</sp an></span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mrel">=</span><span class="mspace" stili ="margin-right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">Katkıda Bulunan Sermaye,</span></span></span> tarafından sağlanan sermaye </span><span style="top:-6.90999999999999em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class=" mord"></span><span class="mord text"><span class="mord">orijinal hissedarlar (Ödenmiş Sermaye olarak da bilinir)</span></span></span></span></span></span></br></br></br></br></br></br></br></br></br></br></br></br></br></br> span><span style="top:-5.409999999999999em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord" ></span><span class="mord text"><span class="mord">BRE</span></span><span class="mspace" style="margin-right:0.277777777777778em;"> </span><span class="mrel">=</span><span class="mspace" style="margin-right:0.277777777777777em;"></span><span class="mord text">< span class="mord">Birikmiş Kazançların Başlangıcı, kazançlar değil</s pan></span></span></span><span style="top:-3.9099999999999984em;"><span class="pstrut" style="height:3em;"></span><span class ="mord"><span class="mord"></span><span class="mord text"><span class="mord">önceki dönemden hissedarlara dağıtıldı</span></span>< /span></span><span style="top:-2.4099999999999984em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">R</span></span><span class="mspace" style="margin-right: 0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class=" mord text"><span class="mord">Gelir, devam eden</span></span></span></span></span><span style="top:-0.9099999999999988em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class ="mord">şirketin işleyişi</span></span></span></span><span style="to p:0.59000000000007em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class ="mord text"><span class="mord">E</span></span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class= "mrel">=</span><span class="mspace" style="margin-right:0.277777777777777em;"></span><span class="mord text"><span class="mord">Giderler , </span></span></span></span></span><span style="top:2.0900000000000007em;"><span class="pstrut" style="height:3em;" işlemlerini çalıştırmak için katlanılan maliyetler ></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">iş</span></span></span></span></span> span></span></span><span style="top:3.59000000000000007em;"><span class="pstrut" style="height:3em;"></span><span class="mord"> <span class="mord"></span><span class="mord text"><span class="mord">D</span></span><span class="mspace" style="margin- right:0.27777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin -right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">Temettüler, hissedarlara dağıtılan kazançlar</span></span></span></span></span></span> span><span style="top:5.09em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"> </span><span class="mord text"><span class="mord">şirketin</span></span></span></span></span><span class="vlist -s">​</span></span><span class="vlist-r"><span class="vlist" style="height:8.75em;"><span></span></span ></span></span></span></span></span></span></span></span>
+
+## Genişletilmiş Muhasebe Denklemi Nasıl Çalışır?
+
+Bazen analistler, bir şirketin özkaynaklarının bileşimini daha iyi anlamak isterler. Genel muhasebe denkleminin bir parçası olan varlık ve yükümlülüklerin yanı sıra, özkaynaklar aşağıdaki unsurlara genişletilir:
+
+- **Katılan sermaye:** İlk hissedarlar tarafından sağlanan sermayedir ( [ödenmiş sermaye olarak da bilinir](/paidincapital) ).
+
+- **Geçmiş yıl karları:** [Birikmiş karlar](/retainedearnings),. hissedarlara bir önceki dönemden dağıtılmayan kazançlardır.
+
+- **Gelir:** Şirketin devam eden faaliyetlerinden elde edilen gelirdir.
+
+- **Giderler:** İşletmenin operasyonlarını yürütmek için katlanılan bu maliyetler.
+
+- **Temettüler:** Şirket hissedarlarına dağıtılan kazançlar olduğu için çıkarılmıştır.
+
+[Katkıda bulunan sermaye](/contributed-capital) ve temettüler, hissedarlarla yapılan işlemlerin etkisini gösterir. Elde edilen gelir ve kâr ile yapılan giderler ve zararlar arasındaki fark, [net gelirin (NI)](/netincome) özkaynak üzerindeki etkisini yansıtır. Genel olarak, genişletilmiş muhasebe denklemi, bir firmadaki hissedarların özkaynaklarının dönemden döneme nasıl değiştiğini temel düzeyde belirlemede yararlıdır.
+
+Bazı terminoloji, varlık yapısının türüne bağlı olarak değişebilir. "Üyelerin sermayesi" ve "sahiplerin sermayesi", sırasıyla ortaklıklar ve [şahıs şirketleri için yaygın olarak kullanılırken](/soleproprietorship),. "dağıtımlar" ve "çekilmeler", "temettüler" yerine kullanılan adlandırmalardır.
+
+> Gelirler ve giderler genellikle bilançoda "net gelir" olarak rapor edilir.
+
+>
+
+## Genişletilmiş Muhasebe Denklemine İlişkin Gerçek Dünya Örnekleri
+
+###ExxonMobil
+
+Gerçek bir tarihsel örneğe bakalım. Aşağıda, 30 Eylül 2018 itibariyle Exxon Mobil Corporation'ın (XOM) bilançosunun bir kısmı yer almaktadır.
+
+- Toplam varlıklar 354.628 dolardı (yeşil renkle vurgulanmıştır).
+
+- Toplam yükümlülükler 157.797 dolardı (1. vurgulanan kırmızı alan).
+
+- Toplam özkaynak 196.831 dolardı (2. vurgulanan kırmızı alan).
+
+Varlıklar = Borçlar + Özkaynaklar şeklindeki muhasebe denklemi aşağıdaki gibi hesaplanır:
+
+- **Muhasebe denklemi** = 157.797 $ (toplam yükümlülükler) + 196.831 $ (özkaynak), dönemin toplam varlıklarına eşit olan 354.628 $'a eşittir.
+
+Yeniden yatırılan kazançların (419.155$), diğer kapsamlı gelirin (18.370$) ve hazine stoğunun (225.674$) etkisini görmek için genişletilmiş muhasebe denklemini de kullanabiliriz. Şirketin kazandığı ve ödediği gelirlerin ve temettülerin miktarını belirlemek için XOM'un gelir tablosuna da bakabiliriz.
+
+<!--28C762EB9D9420843CF20EE6FCDDD806-->
+
+###Apple Inc.
+
+Başka bir örnek için, şirketin 28 Temmuz 2021 tarihli üç aylık raporunda yayınlanan Apple, Inc. bilançosunu ele alalım.
+
+26 Haziran 2021'de sona eren çeyrek için şirket aşağıdaki bakiyeleri bildirdi (milyon ABD doları olarak):
+
+- Toplam Varlıklar: 329.840 Dolar.
+
+- Toplam Yükümlülükler: 265.560 $.
+
+- Toplam Özsermaye: 64.280 dolar.
+
+Özsermayenin bileşenleri, konsolide mali tablolarda ayrıca bölünmüştür (milyon olarak):
+
+- Adi hisse senedi ve ek ödenmiş sermaye: 54.989 $
+
+- Başlangıç dağıtılmamış kazançlar: $15.261
+
+- Net gelir (gelir eksi giderler): 21.744 $
+
+- Temettüler ve Temettü eşdeğerleri: 3.713 $
+
+- Hisse geri alımları: 22.500 dolar. (genişletilmiş denklemde temettü olarak değerlendirilir, çünkü bu fonlar hissedarlara fayda sağlamak için etkin bir şekilde kullanılır).
+
+- Özsermaye ödüllerinin net hisse takasıyla ilgili adi hisse senedi: 1.559 $.
+
+- Birikmiş diğer kapsamlı gelir: 58 $.
+
+Genişletilmiş muhasebe denkleminin uygun terimlerinin yerine geçen bu rakamlar, Apple, Inc. için 329.840 milyon ABD doları değerinde beyan edilen toplam varlıkları toplar.
+
+##Öne çıkanlar
+
+- Öz sermayenin bileşenleri, katkıda bulunan sermayeyi, dağıtılmamış kârları ve gelir eksi temettüleri içerir.
+
+- Bazı terminoloji, bilançolarını nasıl düzenlediklerine bağlı olarak farklı şirketler arasında değişebilir.
+
+- Aynı zamanda toplam varlıkları ve toplam borçları da hesaba katar.
+
+- Genişletilmiş muhasebe denklemi, ortak muhasebe denklemi ile aynıdır, ancak öz sermayeyi bileşenlere ayırır.
+
+##SSS
+
+### Temel Muhasebe Denklemi Nedir?
+
+Temel muhasebe denklemi, halihazırda yatırılmış olan para miktarına ve herhangi bir yükümlülüğün maliyetine bağlı olarak bir şirketin ne kadar değerli olduğunu hesaplamak için kullanılır. Temel muhasebe denkleminin formülü aşağıdaki gibidir: - Varlıklar = Borçlar + Özsermaye
+
+### Genişletilmiş Muhasebe Denklemi Nedir?
+
+Genişletilmiş muhasebe denklemi, temettüler, hissedar sermayesi, gelir ve giderler gibi öz sermayenin farklı bileşenlerini içeren temel muhasebe denkleminin bir şeklidir. Genişletilmiş denklem, bir şirketin varlıklarını temel denklem tarafından sağlanandan daha fazla ayrıntıyla karşılaştırmak için kullanılır.
+
+### Temel Muhasebe Denklemini Ne Zaman Kullanmalıyım?
+
+Temel muhasebe denklemi, özsermaye ve borçların karşılaştırılmasına dayalı olarak bir şirketin değerinin basit bir hesaplamasını sağlamak için kullanılır. Öz sermaye bileşenlerinin daha spesifik bir dökümü için bunun yerine genişletilmiş denklemi kullanın.
+
