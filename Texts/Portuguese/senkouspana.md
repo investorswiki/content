@@ -1,0 +1,69 @@
+---
+keywords: Trading,Technical Analysis,Technical Analysis Basic Education
+title: Senkou Span A (Liderando o Span A)
+description: O Senkou Span A é um dos cinco componentes do indicador Ichimoku Cloud que forma a &amp;quot;nuvem&amp;quot; e pode ser usado para indicar áreas de suporte e resistência.
+---
+
+# Senkou Span A (Liderando o Span A)
+## O que é Senkou Span A (Leading Span A)?
+
+Senkou Span A, ou Leading Span A, em inglês, é um dos cinco componentes do indicador [Ichimoku Cloud](/ichimoku-cloud). O Leading Span A é uma linha usada para medir o momento e pode fornecer ideias de negociação com base nos níveis de suporte e resistência. Ele funciona em conjunto com a linha [Senkou Span B](/senkouspanb) para formar uma formação de nuvens conhecida como **kumo**.
+
+Também é chamado de Leading Span A porque o cálculo é plotado 26 períodos no futuro, mostrando onde o suporte e a resistência podem se formar no futuro.
+
+<!--90C707B4255E9C3C3A92B79CB1859B3D-->
+
+## Fórmula para Senkou Span A (Leading Span A)
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Liderança (Senkou) Span A</mtext><mo>=</mo><mfrac><mrow> <mtext>Linha de conversão</mtext><mo>+</mo><mtext>linha de base</mtext></mrow><mn>2</mn></mfrac></mrow></mstyle> </mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel=" 0" displaystyle="true"><mrow><mrow></mrow><mtext>Valor do gráfico 26 períodos no futuro.</mtext></mrow></mstyle></mtd></mtr>< mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true">< mrow><mrow></mrow><mtext mathvariant="bold">onde:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel= "0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow> <mtext>Linha de conversão</mtext><mo>=</mo><mfrac><mrow><mtext>9 períodos de alta</mtext><mo>+</mo><mtext>9 períodos de baixa</mtext ></mrow><mn>2</mn></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true "><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>linha base</ mtext><mo>=</mo><mfrac><mrow><mtext>26 períodos de alta</mtext><mo>+</mo><mtext>26 períodos de baixa</mtext></mrow><mn >2</mn></mfrac></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\ text{Leading (Senkou) Span A} = \frac{\text{Conversion line} + \text{base line}}{2} \\ &amp;\text{Plot value 26 períodos no futuro.}\\ &amp; \textbf{onde:}\\ &amp;\text{Linha de conversão}=\frac{\text{9 período alto} + \text{9 período baixo}}{2}\\ &amp;\text{linha base}= \frac{\text{26 períodos de alta} + \text{26 períodos de baixa}}{2} \\ \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:10.072320000000001em;vertical-align:-4.786160000000001em;"></span><span class="mord"><span class="mtable"><span class="col- align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:5.286160000000001em;"><span style=" top:-7.28616em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style=" top:-5.46016em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style=" top:-3.96016em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style=" top:-1.9287199999999998em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style=" top:0.42872000000000077em;"><span class="pstrut" style="altura:3.371439 9999999998em;"></span><span class="mord"></span></span></span><span class="vlist-s">​</span></span><span class ="vlist-r"><span class="vlist" style="height:4.786160000000001em;"><span></span></span></span></span></span><span class ="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:5.286160000000001em;">< span style="top:-7.28616em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord">< /span><span class="mord text"><span class="mord">Liderando (Senkou) Span A</span></span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord" ><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class=" vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><sp an class="mord"><span class="mord">2</span></span></span><span style="top:-3.23em;"><span class="pstrut" style= "height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:- 3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord"> Linha de conversão</span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class= "mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord text"><span class="mord">linha base</span></span></span> </span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686 em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></ span><span style="top:-5.46016em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord "></span><span class="mord text"> <span class="mord">Valor do gráfico 26 períodos no futuro.</span></span></span></span><span style="top:-3.96016em;"><span class=" pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class=" mord textbf">onde:</span></span></span></span><span style="top:-1.9287199999999998em;"><span class="pstrut" style="height:3.3714399999999998em; "></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Linha de conversão</span>< /span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin -right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist -t2"><span class="vlist-r"><span class="vlist" style="height:1.3714399999999998em;"><span style="top:-2.314em;"><span class="pstrut " style="height:3em;"></span><span class="mord"><span class="mor d">2</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span>< span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">9 períodos de alta</span></span>< span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222 em;"></span><span class="mord text"><span class="mord">9 período baixo</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span ></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:0.42872000000000077 em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class=" texto mord"><span class="mord">b linha ase</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class= "mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="altura:1.3714399999999998em;"><span style="top:-2.314em;" ><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span></span></span> <span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width :0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class ="mord"><span class="mord text"><span class="mord">máximo de 26 períodos</span></span><span class="mspace" style="margin-right:0.2222222222222222em; "></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span ><span class="mord text"><span class="mord">26 períodos baixos</span></span></span></span></span><span class="vlist-s" >​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></ span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span><span class="vlist-s">​ </span></span><span class="vlist-r"><span class="vlist" style="height:4.786160000000001em;"><span></span></span></span> </span></span></span></span></span></span></span>
+
+
+
+### Como Calcular Senkou Span A
+
+1. Calcule a Linha de Conversão encontrando o máximo e o mínimo dos últimos 9 períodos.
+
+1. Calcule a Linha de Base encontrando a máxima e a mínima nos últimos 26 períodos.
+
+1. Calcule o Leading Span A usando a linha de conversão e a linha de base.
+
+1. Plote o valor do Leading Span A de 26 períodos no futuro.
+
+1. Repita o processo no final de cada período.
+
+## O que Senkou Span A lhe diz?
+
+A linha Senkou Span A e a linha Senkou Span B são usadas juntas para formar a formação de nuvens em um diagrama Ichimoku Kinko Hyo, também chamado de Nuvem Ichimoku. A Nuvem Ichimoku originou-se no Japão e combina cinco linhas diferentes que fornecem ao trader diferentes insights.
+
+O Senkou Span A está relacionado ao Senkou Span B, pois essas linhas formam a "nuvem" que é um componente principal do indicador Ichimoku Cloud.
+
+A linha Senkou Span B é considerada o movimento mais lento das duas linhas porque é calculada usando 52 períodos de dados ((52 períodos de alta + 52 períodos de baixa) / 2). O Senkou Span A, por outro lado, usa dados baseados em 26 períodos e 9 períodos, para reagir mais rapidamente às mudanças de preço.
+
+Geralmente, quando o Senkou Span B assume a primeira posição na nuvem, é considerado um sinal de [baixa .](/bearmarket) Isso ocorre porque os preços de curto prazo caíram abaixo do ponto médio do preço de longo prazo. As linhas Senkou Span medem o ponto médio de uma faixa de preço porque estão dividindo a alta e a baixa combinadas por dois.
+
+Quando a linha Senkou Span A assume a primeira posição na nuvem, é considerado um sinal de [alta](/bullmarket),. pois o preço de curto prazo está se movendo acima do preço de ponto médio de longo prazo. Os [cruzamentos](/crossover) entre o Span A e o Span B podem sinalizar uma mudança de tendência, de baixa para alta ou vice-versa.
+
+Quando o preço está acima do Span A e/ou Span B, essas linhas podem atuar para dar suporte e apresentar possíveis áreas de compra. Quando o preço está abaixo do Span A e/ou Span B, essas linhas podem atuar como resistência, fornecendo possíveis áreas de venda ou [venda](/shortselling).
+
+## A diferença entre Senkou Span A e uma média móvel simples (SMA)
+
+Em um gráfico, o Senkou Span A e uma [média móvel simples](/sma) (SMA) podem parecer semelhantes, mas seus cálculos são bem diferentes. Um SMA é calculado tomando o número X de [preços de fechamento](/closingprice),. somando-os e dividindo esse número por X. O Leading Span A é calculado usando os máximos e mínimos dos últimos nove e 26 períodos. Esses cálculos são divididos por dois para criar um ponto médio, não uma média como a SMA.
+
+As linhas Senkou também são traçadas no futuro. Embora os SMAs possam ser traçados no futuro, isso não é a norma.
+
+## Limitações do uso do Senkou Span A
+
+Embora o Senkou Span A possa parecer preditivo porque é plotado no futuro, todos os seus cálculos são baseados em dados históricos e, portanto, ainda é um [indicador de atraso](/laggingindicator). Por encontrar o ponto médio de uma faixa de preço, será lento para reagir a mudanças bruscas de preço. Isso significa que os cruzamentos podem ocorrer bem depois que um grande movimento de preço já ocorreu, ou o preço pode passar de uma linha Senkou (suporte ou resistência) porque a linha não tem tempo para reagir e mudar de curso.
+
+O Senkou (Leading) Span A deve ser usado em conjunto com outros métodos de análise, como análise de ação de preço, análise [fundamental](/fundamentalanalysis) ou outros indicadores técnicos para ajudar a confirmar ou rejeitar sinais comerciais.
+
+## Destaques
+
+- Forma uma nuvem com Senkou Span B. Chama-se nuvem porque a área entre as duas linhas é sombreada ou colorida.
+
+- A nuvem, e as linhas que a compõem, podem atuar como suporte ou resistência. Quando o preço está acima deles, eles atuam como suporte, quando o preço está abaixo deles, eles atuam como resistência.
+
+- Senkou Span A é um componente do indicador Ichimoku.
+
+- Enquanto o Leading Span A usa apenas dados históricos, ele é considerado líder ou preditivo porque seus valores são plotados no futuro, mostrando onde o suporte ou resistência é esperado no futuro.
+
