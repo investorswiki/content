@@ -1,0 +1,49 @@
+---
+keywords: Financial Advisor,Portfolio Construction
+title: Rééquilibrage
+description: Le rééquilibrage consiste à réaligner les pondérations d&#39;un portefeuille d&#39;actifs en achetant ou en vendant périodiquement des actifs pour conserver l&#39;allocation d&#39;actifs initiale.
+---
+
+# Rééquilibrage
+## Qu'est-ce que le rééquilibrage ?
+
+Le rééquilibrage est le processus de réalignement des pondérations d'un [portefeuille](/portfolio) d'actifs. Le rééquilibrage consiste à acheter ou à vendre périodiquement des actifs dans un portefeuille afin de maintenir un niveau initial ou souhaité d'allocation d'actifs ou de risque.
+
+[allocation d'actifs](/assetallocation) cible initiale était de 50 % d'actions et de 50 % d'obligations. Si les actions se sont bien comportées au cours de la période, cela aurait pu augmenter la pondération des actions du portefeuille à 70 %. L'investisseur peut alors décider de vendre des actions et d'acheter des obligations pour ramener le portefeuille à l'allocation cible initiale de 50/50.
+
+## Comment fonctionne le rééquilibrage
+
+Principalement, le rééquilibrage du portefeuille protège l'investisseur contre une exposition excessive à des risques indésirables. Deuxièmement, le rééquilibrage garantit que les expositions du portefeuille restent dans le domaine d'expertise du gestionnaire. Souvent, ces mesures sont prises pour s'assurer que le niveau de risque encouru est au niveau souhaité par l'investisseur. Comme la performance des actions peut varier plus considérablement que celle des obligations, le pourcentage d'actifs associés aux actions changera avec les conditions du marché. En plus de la variable de performance, les investisseurs peuvent ajuster le risque global au sein de leurs portefeuilles pour répondre à l'évolution de leurs besoins financiers.
+
+Le « rééquilibrage », en tant que terme, a des connotations concernant une répartition égale des actifs ; cependant, une répartition 50/50 des actions et des obligations n'est pas requise. Au lieu de cela, le rééquilibrage d'un portefeuille implique la réaffectation des actifs à une composition définie. Cela s'applique que l'allocation cible soit 50/50, 70/30 ou 40/60.
+
+Bien qu'il n'y ait pas de calendrier obligatoire pour rééquilibrer un portefeuille, la plupart des recommandations consistent à examiner les allocations au moins une fois par an. Il est possible de se passer de rééquilibrer un portefeuille, même si cela serait généralement déconseillé. Le rééquilibrage donne aux investisseurs la possibilité de vendre au plus haut et d'acheter au plus bas, en profitant des gains des investissements les plus performants et en les réinvestissant dans des domaines qui n'ont pas encore connu une croissance aussi notable.
+
+Le rééquilibrage du calendrier est l'approche de rééquilibrage la plus rudimentaire. Cette stratégie consiste simplement à analyser les placements détenus dans le portefeuille à des intervalles de temps prédéterminés et à s'ajuster à la répartition initiale à une fréquence souhaitée. Les évaluations mensuelles et trimestrielles sont généralement préférées car un rééquilibrage hebdomadaire serait trop coûteux, tandis qu'une approche annuelle permettrait une trop grande dérive intermédiaire du portefeuille. La fréquence idéale de rééquilibrage doit être déterminée en fonction des contraintes de temps, des coûts de transaction et de la dérive autorisée. Un avantage majeur du rééquilibrage du calendrier par rapport aux méthodes plus réactives est qu'il est beaucoup moins long et coûteux pour l'investisseur car il implique moins de transactions et à des dates prédéterminées. L'inconvénient, cependant, est qu'il ne permet pas de rééquilibrage à d'autres dates même si le marché évolue de manière significative.
+
+Une approche plus réactive du rééquilibrage se concentre sur la composition en pourcentage autorisée d'un actif dans un portefeuille - c'est ce qu'on appelle une stratégie à composition constante avec des bandes ou des corridors. Chaque [classe d' actifs](/assetclasses),. ou titre individuel, se voit attribuer une pondération cible et une plage de tolérance correspondante. Par exemple, une stratégie d'allocation peut inclure l'obligation de détenir 30 % d'actions des marchés émergents, 30 % de blue chips domestiques et 40 % d' [obligations d'État](/government-bond) avec un corridor de +/- 5 % pour chaque classe d'actifs. Fondamentalement, les avoirs des marchés émergents et des blue chips domestiques peuvent fluctuer entre 25 % et 35 %, tandis que 35 % à 45 % du portefeuille doivent être alloués aux obligations d'État. Lorsque la pondération d'un titre dépasse la fourchette autorisée, l'ensemble du portefeuille est rééquilibré pour refléter la composition cible initiale.
+
+La stratégie de rééquilibrage la plus intensive couramment utilisée est l'assurance de portefeuille à proportion constante ( [CPPI](/cppi) ). Il s'agit d'un type d' [assurance de portefeuille](/portfolioinsurance) dans lequel l'investisseur fixe un plancher sur la valeur en dollars de son portefeuille, puis structure la répartition de l'actif autour de cette décision. Les classes d'actifs du CPPI sont stylisées comme un actif risqué (généralement des actions ou des fonds communs de placement) et un actif prudent composé de liquidités, d'équivalents ou d'obligations du Trésor. Le pourcentage attribué à chacun dépend d'une valeur "coussin", définie comme la valeur actuelle du portefeuille moins une valeur plancher, et d'un coefficient [multiplicateur](/multiplier). Plus le nombre multiplicateur est élevé, plus la stratégie de rééquilibrage est agressive. Le résultat de la stratégie CPPI est quelque peu similaire à celui de l'achat d'une [option d'achat synthétique](/calloption) qui n'utilise pas de contrats d'option réels. CPPI est parfois appelé une stratégie [convexe](/convexity),. par opposition à une "stratégie concave" comme le mélange constant.
+
+## Rééquilibrage des comptes de retraite
+
+L'un des domaines les plus courants que les investisseurs cherchent à rééquilibrer sont les allocations au sein de leurs comptes de retraite. La performance des actifs a un impact sur la valeur globale, et de nombreux investisseurs préfèrent investir de manière plus agressive à un âge plus jeune et de manière plus prudente à l'approche de l'âge de la retraite. Souvent, le portefeuille est le plus prudent une fois que l'investisseur se prépare à retirer les fonds pour fournir un revenu de retraite.
+
+## Rééquilibrage pour la diversification
+
+En fonction de la performance du marché, les investisseurs peuvent trouver un grand nombre d'actifs à court terme détenus dans une zone. Par exemple, si la valeur de l'action X augmente de 25 % alors que l'action Y ne gagne que 5 %, une grande partie de la valeur du portefeuille est liée à l'action X. Si l'action X subit une baisse soudaine, le portefeuille subira des pertes plus importantes. par association. Le rééquilibrage permet à l'investisseur de rediriger une partie des fonds actuellement détenus en actions X vers un autre investissement, que ce soit davantage d'actions Y ou l'achat d'une nouvelle action entièrement. En ayant des fonds répartis sur plusieurs actions, une baisse de l'une sera partiellement compensée par les activités des autres, ce qui peut assurer un niveau de stabilité du portefeuille.
+
+## Rééquilibrage bêta intelligent
+
+[bêta intelligent](/smart-beta) est un type de rééquilibrage périodique, similaire au rééquilibrage régulier que subissent les indices pour s'adapter aux variations de la valeur des actions et de la capitalisation boursière. Les stratégies de bêta intelligent adoptent une approche fondée sur des règles pour éviter les inefficacités du marché qui se glissent dans l'investissement indiciel en raison de la dépendance à la capitalisation boursière. Le rééquilibrage du bêta intelligent utilise des critères supplémentaires, tels que la valeur telle que définie par des mesures de performance telles que la valeur comptable ou le rendement du capital, pour répartir les avoirs sur une sélection d'actions. Cette méthode de création de portefeuille basée sur des règles ajoute une couche d'analyse systématique à l'investissement qui manque à l'investissement indiciel simple.
+
+Bien que le rééquilibrage du bêta intelligent soit plus actif que le simple recours à l'investissement indiciel pour imiter l'ensemble du marché, il est moins actif que la sélection de titres. L'une des principales caractéristiques du rééquilibrage bêta intelligent est que les émotions sont retirées du processus. En fonction de la manière dont les règles sont établies, un investisseur peut finir par réduire son exposition à ses plus performants et augmenter son exposition à ses moins performants. Cela va à l'encontre du vieil adage de [laisser vos gagnants courir](/letyourprofitrun),. mais le rééquilibrage périodique réalise les bénéfices régulièrement plutôt que d'essayer de chronométrer le sentiment du marché pour un profit maximum. Le bêta intelligent peut également être utilisé pour rééquilibrer les classes d'actifs si les paramètres appropriés sont définis. Dans ce cas, les rendements pondérés en fonction des risques sont souvent utilisés pour comparer différents types d'investissements et ajuster l'exposition en conséquence.
+
+## Points forts
+
+- Il existe plusieurs stratégies de rééquilibrage telles que celles basées sur le calendrier, les corridors ou les assurances de portefeuille.
+
+- Le rééquilibrage consiste à ajuster les pondérations des actifs du portefeuille afin de rétablir les allocations cibles ou les niveaux de risque au fil du temps.
+
+- Le rééquilibrage calendaire est le moins coûteux mais ne répond pas aux fluctuations du marché, tandis qu'une stratégie de mix constant est réactive mais plus coûteuse à mettre en œuvre.
+
