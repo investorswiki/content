@@ -1,0 +1,45 @@
+---
+keywords: Investing,Portfolio Management
+title: トレイナーインデックス
+description: トレイナーインデックスは、リスクの単位あたりのポートフォリオの超過リターンを測定します。
+---
+
+# トレイナーインデックス
+##トレイナーインデックスとは何ですか？
+
+Treynor Indexは、リスクの単位あたりのポートフォリオの超過収益を分析することにより、投資ポートフォリオのリスク調整後のパフォーマンスを測定します。トレイナーインデックスの場合、超過リターンとは、リスクのない投資で得られた可能性のあるリターンを上回って得られたリターンを指します。 （ただし、真のリスクのない投資はないため、これは理論上の推測です。）
+
+Treynor Indexの場合、使用される市場リスクの測定値は[ベータ](/beta)です。これは、全体的な市場リスクまたは体系的なリスクの測定値です。ベータは、市場全体の見返りの変化に応じてポートフォリオの見返りが変化する傾向を測定します。トレイナーインデックスが高いほど、全体的な市場リスクの各ユニットあたりのポートフォリオによって生成される超過リターンが大きくなります。
+
+トレイナーインデックスは、[トレイナーレシオ](/treynorratio)または報酬対ボラティリティレシオとしても知られています。
+
+##トレイナーインデックスの公式と計算
+
+トレイナーインデックス/レシオの式は次のとおりです。
+
+<span class = "katex"> <span class = "katex-mathml"> <math xmlns = "http://www.w3.org/1998/Math/MathML"> <semantics> <mtable rowspacing = "0.24999999999999992em "columnalign =" right left "columnspacing =" 0em "> <mtr> <mtd> <mstyle scriptlevel =" 0 "displaystyle =" true "> <mrow> </ mrow> </ mstyle> </ mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </mrow><mtext>トレイナー比率</mtext><mo> = </ mo> <mfrac> <mrow> <mtext> PR </ mtext> <mo> − </ mo> <mtext> RFR </ mtext> </ mrow> <mtext> PB </ mtext> </ mfrac> </ mrow> </ mstyle> </ mtd> </ mtr> <mtr> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> </ mrow> </ mstyle> </ mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true "> <mrow> <mrow> </ mrow> <mtext mathvariant =" bold">場所：</ mtext> </ mrow> </ mstyle> </ mtd> </ mtr> <mtr> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> </ mrow> </ mstyle> </ mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </ mrow> <mtext> PR </ mtext> <mo> = </mo><mtext>ポートフォリオリターン</mtext></ mrow> </ mstyle> </ mtd> </ mtr> <mtr> <mtd> < mstyle scriptlevel = "0"displaystyl e = "true"> <mrow> </ mrow> </ mstyle> </ mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </ mrow> <mtext> RFR </ mtext> <mo> = </mo><mtext>リスクフリーレート</mtext></ mrow> </ mstyle> </ mtd> </ mtr> <mtr> <mtd> <mstyle scriptlevel = " 0 "displaystyle =" true "> <mrow> </ mrow> </ mstyle> </ mtd> <mtd> <mstyle scriptlevel =" 0 "displaystyle =" true "> <mrow> <mrow> </ mrow> < mtext> PB </ mtext> <mo> = </mo><mtext>ポートフォリオベータ</mtext></ mrow> </ mstyle> </ mtd> </ mtr> </ mtable> <annotation encoding = "application / x-tex "> \ begin {aligned}＆amp; \ text {Treynor Ratio} = \ frac {\ text {PR}-\ text {RFR}} {\ text {PB}} \\＆amp; \ textbf {where ：} \\＆amp; \ text {PR} = \ text {Portfolio return} \\＆amp; \ text {RFR} = \ text {Risk free rate} \\＆amp; \ text {PB} = \ text {Portfolio beta } \ end {aligned} </ annotation> </ semantics> </ math> </ span> <span class = "katex-html" aria-hidden = "true"> <span class = "base"> <span class = "strut" style = "height：8.346329999999998em; vertical-align：-3.923165em;"> </ span> <span class = "mord"> <span class = "mtable"> <span class = "col-align -r "> <span class =" vlist-t vlist-t2 "> <span class = "vlist-r"> <span class = "vlist" style = "height：4.423164999999999em;"> <span style = "top：-6.423165em;"> <span class = "pstrut" style = "height： 3.3603300000000003em; "> </ span> <span class =" mord "> </ span> </ span> <span style =" top：-4.597165em; "> <span class =" pstrut "style =" height： 3.3603300000000003em; "> </ span> <span class =" mord "> </ span> </ span> <span style =" top：-3.0971650000000004em; "> <span class =" pstrut "style =" height： 3.3603300000000003em; "> </ span> <span class =" mord "> </ span> </ span> <span style =" top：-1.5971650000000004em; "> <span class =" pstrut "style =" height： 3.3603300000000003em; "> </ span> <span class =" mord "> </ span> </ span> <span style =" top：-0.09716500000000039em; "> <span class =" pstrut "style =" height： 3.3603300000000003em; "> </ span> <span class =" mord "> </ span> </ span> </ span> <span class =" vlist-s "> </ span> </ span> <span class = "vlist-r"> <span class = "vlist" style = "height：3.923165em;"> <span> </ span> </ span> </ span> </ span> </ span> <span class = "col-align-l"> <span class = "vlist-t vlist-t2"> <span class = "vlist-r"> <span class = "vlist" style = "height：4.423164999999999em;"> <span style = "top：-6.423165em;"> <span class = "pstrut" style = "height：3.3603300000000003em;"> </ span> <span class = "mord "> <span class = "mord"> </ span> <span class = "mord text"> <spanclass="mord">トレイナーレシオ</span></ span> <spanclass = "mspace" style = "margin-right：0.2777777777777778em;"> </ span> <span class = "mrel"> = </ span> <span class = "mspace" style = "margin-right：0.2777777777777778em;"> </ span> <span class = "mord"> <span class = "mopen nulldelimiter"> </ span> <span class = "mfrac"> <span class = "vlist-t vlist-t2"> <span class = "vlist-r "> <span class =" vlist "style =" height：1.36033em; "> <span style =" top：-2.314em; "> <span class =" pstrut "style =" height：3em; "> </ span> <span class = "mord"> <span class = "mord text"> <span class = "mord"> PB </ span> </ span> </ span> </ span> <span style = "top ：-3.23em; "> <span class =" pstrut "style =" height：3em; "> </ span> <span class =" frac-line "style =" border-bottom-width：0.04em; "> </ span> </ span> <span style = "top：-3.677em;"> <span class = "pstrut" style = "height：3em;"> </ span> <span class = "mord"> <span class = "mord text"> <span class = "mord"> PR </ span> </ span> <span class = "mspace" style = "margin-right：0.2222222222222222em;"> </ span> <span class = "mbin"> − </ span> <span class = "mspace" style = "margin-right：0.2222222222222222em;"> </ span> <span class = "mord text"> < span class = "mord"> RFR </ span> </ span> </ span> </ span> </ span> <span class = "vlist-s"> </ span> </ span> <span class = "vlist-r"> <span class = "vlist" style = "height：0.686em;"> <span> </ span> </ span> </ span> </ span> </ span> <span class = "mclose nulldelimiter"> </ span> </ span> </ span> </ span> <span style = "top：-4.597165em;"> <span class = "pstrut" style = "height：3.3603300000000003em; "> </ span> <span class = "mord"> <span class = "mord"> </ span> <span class = "mord text"> <span class = "mord textbf">場所：</ span> </ span> </ span> </ span> <span style = "top：-3.0971650000000004em;"> <span class = "pstrut" style = "height：3.3603300000000003em;"> </ span> <span class = "mord"> <span class = "mord"> </ span> <span class = "mord text"> <span class = "mord"> PR </ span> </ span> <span class="mspace"スタイル= "margin-right： 0.2777777777777778em; "> </ span> <span class =" mrel "> = </ span> <span class =" mspace "style =" margin-right：0.2777777777777778em; "> </ span> <span class =" mord text "> <spanclass="mord">ポートフォリオリターン</span></ span> </ span> </ span> <spanstyle =" top：-1.5971650000000004em; "> <span class =" pstrut " style = "height：3.3603300000000003em;"> </ span> <span class = "mord"> <span class = "mord"> </ span> <span class = "mord text"> <span class = "mord" > RFR </ span> </ span> <span class = "mspace" style = "margin-right：0.2777777777777778em;"> </ span> <span class = "mrel"> = </ span> <span class = "mspace" style = "margin-right：0.2777777777777778em;"> </ span> <span class = "mord text"> <spanclass="mord">リスクフリーレート</span></ span> </ span > </ span> <span style = "top：-0.09716500000000039em;"> <span class = "pstrut" style = "height：3.3603300000000003em;"> </ span> <span class = "mord"> <span class = "mord"> </ span> <span class = "mord text"> <span class = "mord"> PB </ span> </ span> <span class = "mspace" style = "margin-right：0.2777777777777778 em; "> </ span> <span class =" mrel "> = </ span> <span class = "mspace" style = "margin-right：0.2777777777777778em;"> </ span> <span class = "mord text"> <spanclass="mord">ポートフォリオベータ</span></ span> </ span > </ span> </ span> <span class = "vlist-s"> </ span> </ span> <span class = "vlist-r"> <span class = "vlist" style = "height： 3.923165em; "> <span> </ span> </ span> </ span> </ span> </ span> </ span> </ span> </ span> </ span> </ span>
+
+1
+
+##トレイナーインデックスが教えてくれること
+
+[上場投資信託](/etf)などの投資が引き受けたリスクの量に対してどれだけのリターンを獲得したかを示します。トレイナーインデックスが高いということは、ポートフォリオがより適切な投資であることを意味します。インデックスは、投資家が経験するボラティリティの単位ごとに与えられる報酬の単位数を本質的に表すパフォーマンスメトリックです。
+
+リスク尺度としてベータではなく[標準偏差](/standarddeviation)を使用する[シャープレシオ](/sharperatio)のように、トレイナーインデックスの背後にある基本的な前提は、パフォーマンスの正確な全体像を伝えるために投資パフォーマンスをリスクに合わせて調整する必要があるということです。 Traynor Indexは、Capital Asset Pricing Model（CAPM）の発明者の1人でもあるアメリカのエコノミストであるエコノミストのJackTreynor[によって開発されました。](/economist)
+
+より高いトレイナーインデックスは適切な投資を示しているかもしれませんが、投資家が投資決定に依存する唯一の要因は1つの比率ではないことを覚えておくことが重要です。さらに重要なことに、Treynor Indexは履歴データに基づいているため、Treynor Indexが提供する情報は、必ずしも将来のパフォーマンスを示すものではありません。
+
+##トレイナーインデックスの例
+
+たとえば、ポートフォリオマネージャーAが、[リスクのない収益率](/risk-freerate)が5％の場合に、特定の年に8％の[ポートフォリオ収益率を達成するとします。](/portfolio-return)ポートフォリオのベータは1.5でした。同じ年に、ポートフォリオマネージャーBは、ポートフォリオベータ0.8で、7％のポートフォリオリターンを達成しました。
+
+したがって、Treynor Indexは、ポートフォリオマネージャーAでは2.0、ポートフォリオマネージャーBでは2.5です。ポートフォリオマネージャーAはポートフォリオマネージャーBのパフォーマンスをパーセンテージポイント上回っていますが、ポートフォリオマネージャーBは、リスク調整後のパフォーマンスが実際に優れていました。
+
+##ハイライト
+
+-超過収益とは、リスクのない投資で得られた可能性のある収益を上回って得られた収益を指します。
+
+-Treynor Indexは、リスクの単位あたりのポートフォリオの超過収益を分析することにより、投資ポートフォリオのリスク調整後のパフォーマンスを測定します。
+
+-Treynor Indexの場合、使用される市場リスクの測定値はベータです。これは、全体的な市場リスクまたは体系的なリスクの測定値です。
+
