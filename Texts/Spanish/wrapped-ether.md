@@ -1,0 +1,11 @@
+---
+keywords: Crypto
+title: Éter envuelto (WETH)
+description: Éter envuelto (WETH). Token ERC-20 que representa a Ether en una proporción de 1:1. Permite a los usuarios intercambiar ETH por tokens ERC-20 en plataformas descentralizadas.
+---
+
+# Éter envuelto (WETH)
+Wrapped Ether (WETH) se refiere a la versión de ether compatible con [ERC-20](/erc-20) (también es posible envolver ether con otros estándares ERC). WETH se puede crear enviando ether a un contrato inteligente donde el ether se pone en espera y, a su vez, recibe el token WETH ERC-20 en una proporción de 1: 1. Este WETH se puede enviar de vuelta al mismo contrato inteligente para "desenvolverlo" o canjearlo por el éter original en una proporción de 1:1.
+
+Ether, siendo la moneda nativa en la cadena de bloques Ethereum, se creó antes de que se implementara el estándar ERC-20 y otros estándares; por lo tanto, ether en sí mismo no es compatible con ERC-20 y no se puede intercambiar directamente por otros tokens ERC-20 de manera descentralizada sin la mediación de un tercero de confianza o la adición de implementaciones técnicas complejas. En lugar de implementar dos interfaces (una para ether y otra para tokens ERC-20) dentro del mismo contrato inteligente que genera complejidades innecesarias, los desarrolladores decidieron "envolver" ether para actualizarlo al estándar ERC-20 a fin de manejar convenientemente WETH y otros ERC-20 dentro del mismo contrato. Wrapping ether permite el intercambio directo y fluido entre ether y tokens ERC-20 sin la necesidad de un tercero de confianza y sin incurrir en riesgos innecesarios, como errores inesperados durante las transacciones que resultan de implementaciones complejas. Muchas [aplicaciones descentralizadas (dApps) basadas en Ethereum](/decentralized-applications-dapps),. como las plataformas de [intercambio descentralizadas](/decentralized-exchange),. utilizan WETH en lugar de ether para facilitar el comercio directo y descentralizado entre pares entre ether en "forma envuelta" y tokens ERC-20 bajo el mismo estándar técnico. Los desarrollos recientes están tratando de tener un estándar WETH canónico que pueda ser utilizado por todas las dApps basadas en Ethereum.
+
