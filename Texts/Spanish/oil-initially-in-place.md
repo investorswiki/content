@@ -1,0 +1,21 @@
+---
+keywords: Investing,Commodities,Oil
+title: Petróleo inicialmente en el lugar (OIIP)
+description: El petróleo inicialmente en el lugar (OIIP) es la primera estimación del tamaño del depósito antes de cualquier producción.
+---
+
+# Petróleo inicialmente en el lugar (OIIP)
+## ¿Qué significa aceite inicialmente en su lugar?
+
+El petróleo inicialmente en el lugar (OIIP) es la cantidad de [petróleo crudo que](/crude-oil) se estima inicialmente en un yacimiento. El petróleo inicialmente disponible difiere de las reservas de petróleo, ya que OIIP se refiere a la cantidad total de petróleo que se encuentra potencialmente en un yacimiento y no a la cantidad de petróleo que se puede recuperar. Calcular OIIP requiere que los ingenieros determinen qué tan porosa es la roca que rodea el petróleo, qué tan alta podría ser la saturación de agua y el volumen neto de roca del yacimiento. Los números de los factores antes mencionados se establecen mediante la realización de una serie de simulacros de prueba alrededor del yacimiento.
+
+## Comprender el aceite inicialmente en su lugar (OIIP)
+
+El petróleo inicialmente en el lugar se conoce más simplemente como petróleo en el lugar (OIP). También se le conoce por algunas variaciones. El aceite del tanque de reserva inicialmente en el lugar (STOIIP) es el mismo cálculo volumétrico, pero se hace explícito que el volumen que se estima es el volumen llenado por el aceite extraído a la temperatura y presión de la superficie en lugar del volumen comprimido que el aceite crudo llena en el yacimiento debido. a la presión geológica. El gas original in situ (OGIP) es nuevamente el mismo cálculo volumétrico pero para los yacimientos de gas natural. Finalmente, [hidrocarburos](/hydrocarbon) inicialmente en el lugar (HCIIP) es el término genérico que se puede usar tanto para el petróleo como para el gas cuando se realiza un cálculo volumétrico para estimar el contenido de un sitio de perforación potencial.
+
+## La importancia del petróleo inicialmente en el lugar (OIIP)
+
+Determinar el petróleo inicialmente en el lugar es uno de los principales componentes que los analistas tienen en cuenta para determinar la economía del desarrollo de campos petroleros. El petróleo inicialmente en su lugar insinúa el potencial de un yacimiento. Este es un punto de datos crítico, pero es solo el comienzo del análisis antes de la decisión de perforar o tomar un contrato de arrendamiento. El petróleo inicialmente en el lugar le da a una compañía petrolera una estimación del número total de barriles que se encuentran bajo los diversos arrendamientos. Si todo el petróleo inicialmente en el lugar fuera [recuperable](/recoverabel-reserve),. entonces las compañías petroleras solo tendrían que comenzar en su reservorio más grande y avanzar hasta el más pequeño, tratando de mantener fijos [los costos de perforación](/day-rate-oil-drilling) en el camino. En realidad, solo se recuperará una parte del petróleo inicialmente existente y las características de la formación tendrán un impacto en los costos de perforación.
+
+Por lo tanto, analizar el petróleo inicialmente en el lugar es el desencadenante de un análisis posterior de cuánto del OIIP se puede recuperar con la tecnología actual. El petróleo recuperable estimado para un yacimiento permitirá a la compañía petrolera que tiene el contrato de arrendamiento decidir si los precios actuales respaldan la perforación y la producción. Por ejemplo, si una compañía petrolera solo puede extraer el 50 % del petróleo inicialmente disponible con la tecnología actual, puede tener sentido trasladar esos acres a sus [reservas probables](/probable-reserves) y conservarlos para el desarrollo futuro. Luego, la empresa puede usar el dinero ahorrado al no perforar ese yacimiento para explotar otro diferente con una mejor producción general para cubrir el costo de la perforación. Sin embargo, si los precios mundiales del petróleo suben, entonces el yacimiento puede ponerse en producción simplemente porque el nuevo precio hace que el costo de sacar ese 50% del suelo sea económico. Por esta razón, las compañías petroleras están reevaluando constantemente su tenencia de arrendamiento y el petróleo inicialmente disponible frente a los precios globales para tomar decisiones sobre dónde y cuándo perforar.
+
