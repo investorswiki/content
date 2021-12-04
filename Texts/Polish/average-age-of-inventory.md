@@ -1,0 +1,45 @@
+---
+keywords: Business,Corporate Finance and Accounting,Accounting
+title: Średni wiek zapasów
+description: Średni wiek zapasów to średnia liczba dni potrzebnych firmie do wyprzedania zapasów.
+---
+
+# Średni wiek zapasów
+## Jaki jest średni wiek inwentarza?
+
+Średni wiek zapasów to średnia liczba dni potrzebnych firmie do wyprzedania zapasów. Jest to miara, którą analitycy wykorzystują do określenia efektywności sprzedaży. Średni wiek zapasów jest również określany jako [dni sprzedaży w zapasach](/days-sales-inventory-dsi) (DSI).
+
+## Formuła i obliczanie średniego wieku zapasów
+
+Wzór na obliczenie średniego wieku inwentarza to:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="prawy lewy" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Średni wiek zasobów reklamowych</mtext><mo>=</mo><mfrac><mi>C< /mi><mi>G</mi></mfrac><mo>×</mo><mn>365</mn></mrow></mstyle></mtd></mtr><mtr> <mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow> <mrow></mrow><mtext mathvariant="bold">gdzie:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi> C</mi><mo>=</mo><mtext>Średni koszt zapasów na obecnym poziomie</mtext></mrow></mstyle></mtd></mtr><mtr><mtd ><mstyle scriptlevel="0" wyświetlacz ystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi> G</mi><mo>=</mo><mtext>Koszt sprzedanych towarów (COGS)</mtext></mrow></mstyle></mtd></mtr></mtable><adnotation kodowanie="application/x-tex">\begin{aligned} &amp;\text{Średni wiek zapasów}= \frac{ C }{ G } \times 365 \\ &amp;\textbf{gdzie:} \\ &amp ;C = \text{Średni koszt zapasów na obecnym poziomie} \\ &amp;G = \text{Koszt sprzedanych towarów (COGS)} \\ \end{aligned}</annotation></semantics>< /math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="rozpórka" style="height:6.8463299999999999em;pionowe wyrównanie :-3.1731649999999996em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2 "><span class="vlist-r"><span class="vlist" style="height:3.6731649999999996em;"><span style="top:-5.673165em;"><span class="pstrut" style ="height:3.3603300000000003em;"></span><span class="mord"></span></span>< span style="top:-3.8471650000000004em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span>< span style="top:-2.3471650000000004em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span>< span style="top:-0.8471650000000008em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span>< /span><span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist" style="height:3.1731649999999996em;">< span ></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class = "vlist-r"><span class="vlist" style="height:3.67316499999999996em;"><span style="top:-5.673165em;"><span class="pstrut" style="height:3.3603300000000003 em ;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Średni wiek zapasów< / span></span><span class="mspace" style="margin-right:0.27777777777777778em; "></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord"> <span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist " style="height:1.36033em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord "><span class="mord mathnormal">G</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em ;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;" ><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07153em;">C </span></span></span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class=" vlist " style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></ span ><span class="mspace" style="margin-right t:0.2222222222222222em;"></span><span class="mbin"></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class = "mord">3</span><span class="mord">6</span><span class="mord">5</span></span></span><span style="góra : -3.8471650000000004em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class ="mord text"><span class="mord textbf">gdzie:</span></span></span></span><span style="top:-2.3471650000000004em;"><span class = "pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin - right:0.07153em;">C</span><span class="mspace" style="margin-right:0.277777777777777778em;"></span><span class="mrel">=</span>< span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">Średni koszt zapasów na obecnym poziomie</ span ></span></span></span><span style="top:-0.847165000 0000008em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class=" mord mathnormal">G</span><span class="mspace" style="margin-right:0.277777777777777778em;"></span><span class="mrel">=</span><span class=" mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">Koszt sprzedanych towarów (KWS)</span></span ></span></span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist" style = "wysokość:3.1731649999999996em;"><span></span></span></span></span></span></span></span></span></span></span >
+
+
+
+## Co może ci powiedzieć średni wiek zapasów
+
+Średni wiek zapasów mówi analitykowi, jak szybko [zapasy](/inventory) zmieniają się w jednej firmie w porównaniu z inną. Im szybciej firma może sprzedać zapasy z zyskiem, tym bardziej jest to opłacalne. Firma może jednak zastosować strategię utrzymywania wyższych poziomów zapasów w celu uzyskania rabatów lub planowania długoterminowego. Chociaż metrykę można wykorzystać jako miarę efektywności, przed wyciągnięciem jakichkolwiek wniosków należy ją potwierdzić innymi miarami efektywności, takimi jak [marża zysku brutto .](/gross_profit_margin)
+
+Średni wiek zapasów ma kluczowe znaczenie w branżach o szybkich [cyklach sprzedaży i produktów](/product-life-cycle),. takich jak branża technologiczna. Wysoki średni wiek zapasów może wskazywać, że firma nie zarządza właściwie swoimi zapasami lub ma zapasy, które trudno sprzedać.
+
+Średni wiek zapasów pomaga agentom ds. zakupów w podejmowaniu decyzji zakupowych, a menedżerom w podejmowaniu decyzji dotyczących cen, takich jak dyskontowanie istniejących zapasów w celu przeniesienia produktów i zwiększenia [przepływu środków pieniężnych](/cashflow). Wraz ze wzrostem średniego wieku zapasów firmy rośnie również jej narażenie na [ryzyko przestarzałości](/obsolescencerisk). Ryzyko przestarzałości to ryzyko, że wartość zapasów straci na wartości z biegiem czasu lub na [miękkim rynku](/soft_market). Jeśli firma nie jest w stanie przenieść zapasów, może dokonać [odpisu zapasów](/inventory-write-off) na pewną kwotę niższą niż wartość podana w bilansie firmy.
+
+## Przykład wykorzystania średniego wieku inwentarza
+
+Inwestor postanawia porównać dwie spółki handlowe. Firma A posiada zapasy o wartości 100 000 USD, a COGS to 600 000 USD. Średni wiek zapasów firmy A oblicza się dzieląc średni koszt zapasów przez KWS, a następnie mnożąc produkt przez 365 dni. Obliczenie wynosi 100 000 USD podzielone przez 600 000 USD pomnożone przez 365 dni. Średni wiek zapasów dla Spółki A wynosi 60,8 dni. Oznacza to, że sprzedaż zapasów zajmuje firmie około dwóch miesięcy.
+
+Odwrotnie, firma B również posiada zapasy o wartości 100 000 USD, ale koszt sprzedanych zapasów wynosi 1 milion USD, co zmniejsza średni wiek zapasów do 36,5 dnia. Z pozoru firma B jest bardziej wydajna niż firma A.
+
+##Przegląd najważniejszych wydarzeń
+
+- Im szybciej firma może sprzedać swoje zapasy, tym może być bardziej opłacalna.
+
+- Średni wiek zapasów jest również nazywany sprzedażą dni w zapasach.
+
+- Średni wiek zapasów mówi, ile średnio dni zajmuje firmie sprzedaż zapasów.
+
+- Ta metryka powinna zostać potwierdzona innymi danymi, takimi jak marża zysku brutto.
+
+- Rosnąca liczba może sugerować, że firma ma problemy z zapasami.
+
