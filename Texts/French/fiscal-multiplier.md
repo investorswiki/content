@@ -1,0 +1,55 @@
+---
+keywords: Economy,Economics,Macroeconomics
+title: Multiplicateur fiscal
+description: Le multiplicateur budgétaire mesure l&#39;effet que l&#39;augmentation des dépenses budgétaires aura sur la production économique d&#39;un pays, ou produit intérieur brut (PIB).
+---
+
+# Multiplicateur fiscal
+## Qu'est-ce que le multiplicateur fiscal ?
+
+[multiplicateur](/multiplier) budgétaire mesure l'effet que l'augmentation des dépenses budgétaires aura sur la production économique d'un pays, ou [produit intérieur brut](/gdp) (PIB). En général, les économistes définissent les multiplicateurs budgétaires comme le rapport entre une variation de la production et une variation des recettes fiscales ou des dépenses publiques. Les multiplicateurs fiscaux sont importants parce qu'ils peuvent aider à orienter les politiques d'un gouvernement pendant une crise économique et aider à préparer le terrain pour [la reprise économique](/economic-recovery).
+
+## Comprendre le multiplicateur fiscal
+
+Le multiplicateur budgétaire est une idée [keynésienne](/keynesianeconomics) proposée pour la première fois par l'étudiant de John Maynard Keynes, Richard Kahn, dans un article de 1931 et est décrit comme un ratio pour montrer la causalité entre la variable contrôlée (changements de politique budgétaire) et le résultat (PIB). Au cœur de la théorie du multiplicateur budgétaire se trouve l'idée de la [propension marginale à consommer](/marginalpropensitytoconsume) (MPC), qui quantifie l'augmentation des dépenses de consommation, par opposition à l'épargne, due à une augmentation du revenu d'un individu, d'un ménage ou d'une société.
+
+La théorie du multiplicateur budgétaire postule que tant que le CPM global d'un pays est supérieur à zéro, une injection initiale de dépenses publiques devrait entraîner une augmentation disproportionnée du [revenu national](/national_income_accounting). Le multiplicateur budgétaire exprime à quel point le gain global du revenu national est supérieur ou, si la relance s'avère contre-productive, plus faible par rapport au montant des dépenses supplémentaires. La formule du multiplicateur fiscal est la suivante :
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="droite gauche" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Multiplicateur fiscal</mtext><mo>=</mo><mfrac><mn>1</mn ><mrow><mn>1</mn><mo>−</mo><mtext>MPC</mtext></mrow></mfrac></mrow></mstyle></mtd></ mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true "><mrow><mrow></mrow><mtext mathvariant="bold">où :</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></ mrow><mtext>MPC</mtext><mo>=</mo><mtext>propension marginale à consommer</mtext></mrow></mstyle></mtd></mtr></mtable>< annotation encoding="application on/x-tex">\begin{aligned} &amp;\text{Multiplicateur fiscal} = \frac { 1 }{ 1 - \text{MPC} } \\ &amp;\textbf{où :} \\ &amp;\ text{MPC} = \text{propension marginale à consommer} \\ \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden=" true"><span class="base"><span class="strut" style="height:5.39077em;vertical-align:-2.445385em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style= "hauteur:2.945385em ;"><span style="top:-4.945385em;"><span class="pstrut" style="hauteur:3.32144em;"></span><span class="mord"> </span></span><span style="top:-3.036055em;"><span class="pstrut" style="height:3.32144em;"></span><span class="mord"> </span></span><span style="top:-1.5360550000000002em ;"><span class="pstrut" style="height:3.32144em;"></span><span class="mord"> </span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style= "hauteur : 2 .445385em ;"><span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist- t2"><span class="vlist-r"><span class="vlist" style="height:2.945385em;"><span style="top:-4.945385em;"><span class="pstrut" style="height:3.32144em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord" >Multiplicateur fiscal</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class ="mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac">< span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em; "><span class="pstrut" style="height:3em ;"></span><span class="mord"><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em ;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.222222 2222222222em ;"></span><span class="mord text"><span class="mord">MPC</span></span></span></span><span style="top :- 3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></ span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class ="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r" ><span class="vlist" style="height:0.7693300000000001em ;"><span></span></span></span></span></span><span class="mclose nulldelimiter"> </span></span></span></span><span style="top:-3.036055em;"><span class="pstrut" style="height:3.32144em;"></span> <span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">où :</span></span></ span></span><span style="top:-1.5360550000000002em;"><span class="pstrut" style="height:3.32144em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="m ord">MPC</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mord text"><span class="mord">propension marginale à consommer</span></span> </span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style= "hauteur:2.445385em ;"><span></span></span></span></span></span></span></span></span></span></span >
+
+
+
+## Exemple de multiplicateur fiscal
+
+Disons qu'un gouvernement national adopte une [relance budgétaire de 1 milliard de dollars](/economic-stimulus) et que le CPM de ses consommateurs est de 0,75. Les consommateurs qui reçoivent le premier milliard de dollars économiseront 250 millions de dollars et dépenseront 750 millions de dollars, initiant ainsi une autre série de mesures de relance plus petites. Les bénéficiaires de ces 750 millions de dollars dépenseront 562,5 millions de dollars, et ainsi de suite.
+
+La variation totale du revenu national correspond à l'augmentation initiale des dépenses publiques, ou « autonomes », multipliée par le multiplicateur budgétaire. Puisque la propension marginale à consommer est de 0,75, le multiplicateur budgétaire serait de quatre. La théorie keynésienne prédirait donc une augmentation globale du revenu national de 4 milliards de dollars à la suite de la relance budgétaire initiale de 1 milliard de dollars.
+
+> En plus du multiplicateur budgétaire, les économistes utilisent d'autres multiplicateurs pour étudier le comportement de l'économie, notamment le multiplicateur de bénéfices et le [multiplicateur d'investissement](/investment-multiplier).
+
+>
+
+## Le multiplicateur fiscal dans le monde réel
+
+Les preuves empiriques suggèrent que la relation réelle entre les dépenses et la croissance est plus désordonnée que ne le suggère la théorie. Tous les membres de la société n'ont pas le même MPC. Par exemple, les ménages à faible revenu ont tendance à dépenser une part beaucoup plus importante d'une manne que les ménages à revenu élevé. Le CPM dépend également de la forme sous laquelle la relance budgétaire est reçue. Des politiques différentes peuvent donc avoir des multiplicateurs budgétaires radicalement différents.
+
+En 2009, Mark Zandi, alors économiste en chef de [Moody's](/moodys),. a estimé les multiplicateurs budgétaires suivants pour différentes options politiques, exprimés en augmentation d'un dollar du PIB réel par dollar d'augmentation des dépenses ou de diminution des recettes fiscales fédérales :
+
+<h5><a href="">TTT</a></h5>
+
+Selon cette analyse, les options politiques de loin les plus efficaces sont l'augmentation temporaire des coupons alimentaires (1,74), le financement fédéral temporaire des programmes de travail partagé (1,69) et l'extension [des prestations d'assurance -](/unemployment-insurance) chômage (1,61).﻿Ces politiques ciblent les groupes à faible revenu . revenus et, par conséquent, de fortes propensions marginales à consommer. En revanche, les réductions d'impôts permanentes bénéficiant principalement aux ménages à revenu élevé ont des multiplicateurs budgétaires inférieurs à 1 : pour chaque dollar « dépensé » (renoncé en recettes fiscales), seuls quelques centimes sont ajoutés au PIB réel.
+
+## Considérations particulières
+
+L'idée du multiplicateur budgétaire a vu son influence sur les politiques croître et décroître. La théorie keynésienne était extrêmement influente dans les années 1960, mais une période de [stagflation](/stagflation),. que les keynésiens étaient largement incapables d'expliquer, a fait décliner la confiance dans la relance budgétaire. À partir des années 1970, de nombreux décideurs ont commencé à favoriser les politiques [monétaristes](/monetarism),. estimant que la régulation de la masse monétaire était au moins aussi efficace que les dépenses publiques.
+
+Cependant, après la crise financière de 2008, le multiplicateur budgétaire a retrouvé une partie de sa popularité perdue. Les États-Unis, qui ont investi massivement dans la relance budgétaire, ont connu une reprise plus rapide et plus vigoureuse que l'Europe, où les renflouements étaient conditionnés par l' [austérité budgétaire](/austerity).
+
+## Points forts
+
+- Les preuves suggèrent que les ménages à faible revenu ont un MPC plus élevé que les ménages à revenu élevé.
+
+- Le multiplicateur budgétaire mesure l'effet que l'augmentation des dépenses budgétaires aura sur la production économique ou le produit intérieur brut (PIB) d'un pays.
+
+- Au cœur de la théorie du multiplicateur budgétaire se trouve l'idée de la propension marginale à consommer (MPC), qui quantifie l'augmentation des dépenses de consommation, par opposition à l'épargne, due à une augmentation du revenu d'un individu, d'un ménage ou d'une société.
+
