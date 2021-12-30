@@ -1,0 +1,81 @@
+---
+keywords: Trading,Technical Analysis,Technical Analysis Basic Education
+title: Canais Donchian
+description: Canais Donchian são indicadores de média móvel desenvolvidos por Richard Donchian. Eles traçam o preço mais alto e o preço mais baixo de um título em um determinado período de tempo.
+---
+
+# Canais Donchian
+## O que são canais Donchian?
+
+Canais Donchian são três linhas geradas por cálculos de média móvel que compreendem um indicador formado por bandas superior e inferior em torno de uma banda de médio ou médio. A banda superior marca o preço mais alto de um título em N períodos, enquanto a banda inferior marca o preço mais baixo de um título em N períodos. A área entre as bandas superior e inferior representa o Canal Donchian.
+
+O trader de futuros de carreira Richard Donchian desenvolveu o indicador em meados do século 20 para ajudá-lo a identificar tendências. Mais tarde, ele seria apelidado de "O Pai do Seguimento de Tendências".
+
+<!--2BE71D89CDD8D134C2261267283D2929-->
+
+## A Fórmula para Canais Donchian é:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>UC = Maior máximo no último </mtext><mi>N</mi><mtext> Períodos</ mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></ mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Canal Médio</mtext><mo>=</mo><mo stretchy=" false">(</mo><mo stretchy="false">(</mo><mi>U</mi><mi>C</mi><mo>+</mo><mi>L< /mi><mi>C</mi><mo stretchy="false">)</mo><mi mathvariant="normal">/</mi><mn>2</mn><mo stretchy=" false">)</mo></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow> </mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow> <mrow></mrow><mtext>LC = Baixa mais baixa nos últimos </mtext><mi>N</mi><mtext> períodos</mtext></mrow></mstyle></mtd></ mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true "><mrow><mrow></mrow><mtext mathvariant="bold">onde:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></ mrow><mi>U</mi><mi>C</mi><mo>=</mo><mtext>Canal superior</mtext></mrow></mstyle></mtd></mtr <mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true" > <mrow><mrow></mrow><mtable rowspacing="0.24999999999999992em" columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"> < mrow><mi>N</mi><mo>=</mo></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow> < mrow></mrow><mtext> Número de minutos , horas, dias,</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow ></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext> semanas, meses</mtext></mrow>< /mstyle></mtd></mtr></mtable></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"> <mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtable rowspacing="0.24999999999999992em" columnalign ="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mtext>Período</mtext><mo>=</mo>< /mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Minutos, horas, dias, semanas,</ mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></ mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>meses</mtext></mrow></mstyle></mtd></ mtr></mtable></mrow>< /mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>L</mi><mi>C</mi><mo>=</mo><mtext>Canal inferior </mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned}&amp;\text{UC = Máximo Alto nos Últimos }N\text{ Períodos}\\&amp;\text{Canal Médio} = ((UC+LC)/2)\\&amp;\text{LC = Menor mínimo nos últimos }N\text{ períodos}\ \&amp;\textbf{onde:}\\&amp;UC=\text{Canal superior}\\&amp;\begin{aligned}N=&amp;\text{ Número de minutos, horas, dias,}\\&amp; \text{ semanas, meses}\end{aligned}\\&amp;\begin{aligned}\text{Period}=&amp;\text{Minutos, horas, dias, semanas,}\\&amp;\text{meses} \end{aligned}\\&amp;LC=\text{Canal inferior}\end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden ="true"><span class="base"><span class="strut" style="height:15.600000000000003em;vertical-align:-7.5500000000000025em;"></span><span class=" mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class= "vlist" style="height:8.05em;"><span style="top:-10.96em;"><span class="pstrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-9.46em;"><span class="pstrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-7.96em;"><span class="pstrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-6.46em;"><span class="pstrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-4.96em;"><span class="pstrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-2.5499999999999985em;"><span class="pstrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:0.7500000000000022em;"><span class="pstrut" style="height:3.75em;"></span><span class= "mord"></span></span><span style="top:3.1400000000000023em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"></span></span></span><span class="vlist-s">​ </span></span><span class="vlist-r"><span class="vlist" style="height:7.550000000000025em;"><span></span></span></span> </span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:8.05em;"><span style="top:-10.96em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord "><span class="mord"></span><span class="mord text"><span class="mord">UC = Maior máximo no último </span></span><span class=" mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord text"><span class="mord"> Períodos</span></span></span> </span><span style="top:-9.46em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"><span class= "mord"></span><span class="mord text"><span class="mord">Canal Médio</span></span><span class="mspace" style="margin-right:0.277777777777778 em;"></span><span class="mr el">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mopen">(</span><span class="mopen ">(</span><span class="mord mathnormal" style="margin-right:0.10903em;">U</span><span class="mord mathnormal" style="margin-right:0.07153em; ">C</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal">L</span><span class="mord mathnormal" style="margin-right:0.07153em;"> C</span><span class="mclose">)</span><span class="mord">/</span><span class="mord">2</span><span class="mclose ">)</span></span></span><span style="top:-7.96em;"><span class="pstrut" style="height:3.75em;"></span>< span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">LC = Menor mínimo no último </span></span> <span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord text"><span class="mord"> períodos</span></span></span></span><span style="top:-6.46em;"><span class="pstrut" style="height:3.75em;"></span ><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">onde:</span></span>< /span></span><span style="top:-4.96em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord">< span class="mord"></span><span class="mord mathnormal" style="margin-right:0.10903em;">U</span><span class="mord mathnormal" style="margin-right :0.07153em;">C</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class ="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Canal superior</span></span></span ></span><span style="top:-2.5499999999999985em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"><span class ="mord"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"> <spancl ass="vlist-r"><span class="vlist" style="height:1.7500000000000002em;"><span style="top:-3.91em;"><span class="pstrut" style="height: 3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mspace" style= "margin-right:0.2777777777777778em;"></span><span class="mrel">=</span></span></span><span style="top:-2.41em;"><span class="pstrut" style="height:3em;"></span><span class="mord"></span></span></span><span class="vlist-s">​< /span></span><span class="vlist-r"><span class="vlist" style="height:1.2500000000000002em;"><span></span></span></span>< /span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" estilo ="height:1.7500000000000002em;"><span style="top:-3.91em;"><span class="pstrut" style="height:3em;"></span><span class="mord"> <span class="mord"></span><span class="mord text"><span class="mord"> Número de minutos, horas, dias,</span></span></span>< /span><spanstyle="top:-2.41 em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord"> semanas, meses</span></span></span></span></span><span class="vlist-s"></span></ span><span class="vlist-r"><span class="vlist" style="height:1.2500000000000002em;"><span></span></span></span></span>< / span></span></span></span></span><span style="top:0.7500000000000022em;"><span class="pstrut" style="height:3.75em;"></ span ><span class="mord"><span class="mord"></span><span class="mord"><span class="mtable"><span class="col-align-r"> < span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.7500000000000002em;"><span style="top:-3.91em ; "><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">Período</ span></span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mrel">=</span></span></span > <span style="top:-2.41em;"><span class="pstr ut" style="height:3em;"></span><span class="mord"></span></span></span><span class="vlist-s"><​</span > </span><span class="vlist-r"><span class="vlist" style="height:1.2500000000000002em;"><span></span></span></span></span > </span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style=" altura :1.7500000000000002em;"><span style="top:-3.91em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class ="mord"></span><span class="mord text"><span class="mord">Minutos, horas, dias, semanas,</span></span></span></span > <span style="top:-2.41em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"> </span><span class="mord text"><span class="mord">meses</span></span></span></span></span><span class="vlist-s " ></span></span><span class="vlist-r"><span class="vlist" style="height:1.2500000000000002em;"><span></span></span></ span></span></span></span></span></span></span><span style="top:3.140000000 0000023em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"><span class="mord"></span><span class=" mord mathnormal">L</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mspace" style="margin-right:0.277777777777778em ;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text "><span class="mord">Canal inferior</span></span></span></span></span><span class="vlist-s">​</span></span ><span class="vlist-r"><span class="vlist" style="height:7.5500000000000025em;"><span></span></span></span></span></span ></span></span></span></span></span>
+
+## Como Calcular Canais Donchian
+
+### Canal alto
+
+1. Escolha o período de tempo (N minutos/horas/dias/semanas/meses).
+
+1. Compare a impressão alta para cada minuto, hora, dia, semana ou mês nesse período.
+
+1. Escolha a impressão mais alta.
+
+1. Plote o resultado.
+
+### Canal baixo
+
+1. Escolha o período de tempo (N minutos/horas/dias/semanas/meses).
+
+1. Compare a impressão baixa para cada minuto, hora, dia, semana ou mês nesse período.
+
+1. Escolha a impressão mais baixa.
+
+1. Plote o resultado.
+
+### Canal central
+
+1. Escolha o período de tempo (N minutos/horas/dias/semanas/meses).
+
+1. Compare impressões altas e baixas para cada minuto, hora, dia, semana ou mês nesse período.
+
+1. Adicione a impressão mais baixa à impressão mais alta e divida por 2.
+
+1. Plote o resultado.
+
+## O que os canais Donchian dizem a você?
+
+Os Canais Donchian identificam relações comparativas entre o preço atual e as faixas de negociação em períodos predeterminados. Três valores constroem um mapa visual de preço ao longo do tempo, semelhante ao Bollinger Bands, indicando a extensão da alta e baixa para o período escolhido. A linha superior identifica a extensão da energia de alta, destacando o preço mais alto alcançado para o período através do conflito bull-bear.
+
+A linha central identifica o preço de reversão mediana ou média para o período, destacando o meio-termo alcançado para o período através do conflito bull-bear. A linha inferior identifica a extensão da energia baixista, destacando o preço mais baixo alcançado para o período através do conflito bull-bear.
+
+## Exemplo de como usar os canais Donchian
+
+<!--A1779CDD9C61EDC888BA3471CFCECA78-->
+
+Neste exemplo, o Canal Donchian é a área sombreada delimitada pela linha verde superior e pela linha vermelha inferior, ambas usando 20 dias como períodos de construção da banda (N). À medida que o preço sobe para seu ponto mais alto nos últimos 20 dias ou mais, as barras de preço "empurram" a linha verde para cima e, à medida que o preço desce para seu ponto mais baixo em 20 dias ou mais, as barras de preço "empurram" a linha vermelha linha inferior.
+
+Quando o preço diminuir por 20 dias a partir de uma alta, a linha verde será horizontal e começará a cair. Por outro lado, quando o preço sobe de um mínimo por 20 dias, a linha vermelha ficará horizontal por 20 dias e depois começará a subir.
+
+## A diferença entre canais Donchian e bandas de Bollinger
+
+Os Canais Donchian traçam a máxima máxima e mínima mínima ao longo de N períodos, enquanto as Bandas de Bollinger traçam uma média móvel simples (SMA) para N períodos mais/menos o desvio padrão do preço para N períodos X 2. Isso resulta em um cálculo mais equilibrado que reduz o impacto de grandes impressões altas ou baixas.
+
+## Limitações do uso de canais Donchian
+
+Os mercados se movem de acordo com muitos ciclos de atividade. Um valor de período N arbitrário ou comumente usado para Canais Donchian pode não refletir as condições atuais do mercado, gerando sinais falsos que podem prejudicar o desempenho de negociação e investimento.
+
+##Destaques
+
+- Canais Donchian são um indicador técnico que procura identificar extremos de alta e baixa que favorecem reversões, bem como fugas, quebras e tendências emergentes mais altas e mais baixas.
+
+- Esses pontos identificam a mediana ou preço médio de reversão.
+
+- A banda do meio simplesmente calcula a média entre a máxima mais alta em N períodos e a mínima mais baixa em N períodos.
+
