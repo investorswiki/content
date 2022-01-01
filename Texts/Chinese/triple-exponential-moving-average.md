@@ -1,0 +1,81 @@
+---
+keywords: Trading,Technical Analysis,Technical Analysis Basic Education
+title: 三重指数移动平均线 (TEMA)
+description: 三重指数移动平均线 (TEMA) 可以平滑价格波动，从而更容易识别趋势。
+---
+
+# 三重指数移动平均线 (TEMA)
+## 什么是三重指数移动平均线 (TEMA)？
+
+三重指数移动平均线 (TEMA) 旨在平滑价格波动，从而更容易识别趋势，而不会出现与传统移动平均线 (MA) 相关的[滞后。](/laggingindicator)它通过获取原始 EMA 的多个[指数移动平均线](/ema)(EMA) 并减去一些滞后来做到这一点。
+
+TEMA 与其他 MA 一样使用。它可以帮助识别[趋势](/trend)方向，发出潜在的短期趋势变化或回调的信号，并提供支撑或阻力。 TEMA 可以与[双指数移动平均](/double-exponential-moving-average)线 (DEMA) 进行比较。
+
+## TEMA 的公式和计算
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>三重指数移动平均线 (TEMA)</mtext></mrow></mstyle></mtd>< /mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle=" true"><mrow><mrow></mrow><mtext> </mtext><mtext> </mtext><mtext> </mtext><mo>=</mo><mrow><mo fence=" true">(</mo><mn>3</mn><mo> ∗ </mo><mi>E</mi><mi>M</mi><msub><mi>A</mi ><mn>1</mn></msub><mo fence="true">)</mo></mrow><mo>-</mo><mrow><mo fence="true">( </mo><mn>3</mn><mo> ∗ </mo><mi>E</mi><mi>M</mi><msub><mi>A</mi><mn> 2</mn></msub><mo fence="true">)</mo></mrow><mo>+</mo><mi>E</mi><mi>M</mi> <msub><mi>A</mi><mn>3</mn></msub></mrow></mstyle></mtd>< /mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle=" true"><mrow><mrow></mrow><mtext mathvariant="bold">其中：</mtext></mrow></mstyle></mtd></mtr><mtr><mtd>< mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow>< /mrow><mi>E</mi><mi>M</mi><msub><mi>A</mi><mn>1</mn></msub><mo>=</mo> <mtext>指数移动平均线 (EMA)</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow ></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>E</mi><mi> M</mi><msub><mi>A</mi><mn>2</mn></msub><mo>=</mo><mi>E</mi><mi>M</ mi><mi>A</mi><mtext> </mtext><mtext>of</mtext><mtext> </mtext><mi>E</mi><mi>M</mi><msub ><mi>A</mi><mn>1</mn></msub></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displ aystyle="true"><mrow><mrow></mrow><mi>E</mi><mi>M</mi><msub><mi>A</mi><mn>3</mn ></msub><mo>=</mo><mi>E</mi><mi>M</mi><mi>A</mi><mtext> </mtext><mtext>的</ mtext><mtext> </mtext><mi>E</mi><mi>M</mi><msub><mi>A</mi><mn>2</mn></msub></ mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{三重指数移动平均线 (TEMA)} \\ &amp;\;\;\;= \left( 3*EMA_1\right) - \left( 3*EMA_2\right) + EMA_3\\ &amp;\textbf{其中:}\\ &amp;EMA_1=\text{指数移动平均线 (EMA)}\\ &amp;EMA_2=EMA\;\text{of}\;EMA_1\\ &amp;EMA_3=EMA\;\text{of}\;EMA_2\\ \end{aligned}</annotation ></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 9.000000000000002em;vertical-align:-4.250000000000001em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class=" vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:4.750000000000001em;"><span style="top: -6.750000000000001em;"><span class="psstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top: -5.25em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top: -3.749999999999999em;"><span class="psstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top: -2.249999999999999em;"><span class="psstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top: -0.7499999999999996em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top: 0.7500000000000009em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span></span><span class= "vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:4.250000000000001em;"><span></span>< /span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"> <span class="vlist" style="height:4.7500000 00000001em;"><span style="top:-6.910000000000001em;"><span class="psstrut" style="height:3em;"></span><span class="mord"><span class=" mord"></span><span class="mord text"><span class="mord">三重指数移动平均线 (TEMA)</span></span></span></span><span 风格="top:-5.41em;"><span class="psstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span> <span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class= "mspace" style="margin-right:0.2777777777777778em;"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel"> =</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em ;">(</span><span class="mord">3</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin "> ∗ </span><span class="mspace" style="margin-r ight:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mord mathnormal" style="margin-right :0.10903em;">M</span><span class="mord"><span class="mord mathnormal">A</span><span class="msupsub"><span class="vlist-t vlist -t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin- right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"> 1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class= "vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mclose delimcenter" style= "top:0em;">)</span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">-</ span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="minner"><s pan class="mopen delimcenter" style="top:0em;">(</span><span class="mord">3</span><span class="mspace" style="margin-right:0.2222222222222222em ;"></span><span class="mbin"> ∗ </span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal " style="margin-right:0.05764em;">E</span><span class="mord mathnormal" style="margin-right:0.10903em;">M</span><span class="mord" ><span class="mord mathnormal">A</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class= "vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height :2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span>< span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></ span></span></span></span></span></span><span class="mclose delimcenter" style= "top:0em;">)</span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</ span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span> <span class="mord mathnormal" style="margin-right:0.10903em;">M</span><span class="mord"><span class="mord mathnormal">A</span><span class ="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style=" top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="psstrut" style="height:2.7em;"></span><span class="sizing reset- size6 size3 mtight"><span class="mord mtight">3</span></span></span></span><span class="vlist-s">​</span></span> <span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span> </span></span></span><span style="top:-3.909999999999993em;"><span class="psstrut" style="height:3em;">< /span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">其中：</span></span ></span></span><span style="top:-2.4099999999999993em;"><span class="psstrut" style="height:3em;"></span><span class="mord"> <span class="mord"></span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mord mathnormal" style="margin-右：0.10903em;">M</span><span class="mord"><span class="mord mathnormal">A</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin -right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight" >1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class ="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" st yle="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span> span><span class="mord text"><span class="mord">指数移动平均线 (EMA)</span></span></span></span><span style="top:-0.9099999999999997 em;"><span class="psstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mord mathnormal" style="margin-right:0.10903em;">M</span><span class="mord "><span class="mord mathnormal">A</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class ="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style=" height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span> <span class="vlist-s">​</span></span><span class="vlist-r"> <span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace " style="margin-right:0.277777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;">< /span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mord mathnormal" style="margin-right:0.10903em;">M< /span><span class="mord mathnormal">A</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text">< span class="mord">of</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord mathnormal" style=" margin-right:0.05764em;">E</span><span class="mord mathnormal" style="margin-right:0.10903em;">M</span><span class="mord"><span class ="mord mathnormal">A</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" 风格="height:0.30110799999999993em;"><span style="top:-2.55000000000 00003em;margin-left:0em;margin-right:0.05em;"><span class="psstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight" ><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class= "vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span> </span></span><span style="top:0.5900000000000007em;"><span class="psstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mord mathnormal" style="margin-right: 0.10903em;">M</span><span class="mord"><span class="mord mathnormal">A</span><span class="msupsub"><span class="vlist-t vlist- t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right :0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><sp an class="mord mtight">3</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist -r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mord mathnormal" style="margin-right:0.10903em; ">M</span><span class="mord mathnormal">A</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">of</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord mathnormal " style="margin-right:0.05764em;">E</span><span class="mord mathnormal" style="margin-right:0.10903em;">M</span><span class="mord" ><span class="mord mathnormal">A</span><span class="msupsub"><span class="vlist-t vlist-t2"> <span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em ;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span ></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" 样式="height:0.15em;"><span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:4.250000000000001em;"><span></span ></span></span></span></span></span></span></span></span></span>
+
+1. 选择回溯期。这是将多少个周期计入第一个 EMA。由于周期数较少，例如 10 个，EMA 将密切跟踪价格并突出短期趋势。如果回溯期较长，例如 100，EMA 将不会密切跟踪价格，并将突出长期趋势。
+
+1. 计算回溯期的 EMA。这是EMA1。
+
+1. 使用相同的回溯期计算 EMA1 的 EMA。例如，如果对 EMA1 使用 15 个句点，则在此步骤中也使用 15。这是EMA2。
+
+1. 使用与以前相同的回溯期计算 EMA2 的 EMA。
+
+1. 将 EMA1、EMA2 和 EMA3 代入 TEMA 公式，计算三重指数移动平均线。
+
+## TEMA 告诉您什么？
+
+TEMA 对价格变化的反应比传统[MA](/movingaverage)或 EMA 更快。这是因为在计算中已经减去了一些滞后。
+
+TEMA 的使用方式与其他类型的 MA 相同。主要是，TEMA 的倾斜方向指示短期（平均）价格方向。当这条线向上倾斜时，这意味着价格正在上涨。当它向下倾斜时，价格正在下跌。
+
+指标仍有少量滞后，因此当价格快速变化时，指标可能不会立即改变其角度。此外，回溯期越大，当价格改变方向时，TEMA 改变其角度的速度就越慢。
+
+## TEMA 和趋势方向
+
+TEMA 相对于价格的位置也提供了趋势方向的线索。通常，当价格高于 TEMA 时，它有助于确认该回顾期内价格正在上涨。当价格低于 TEMA 时，有助于确认该回溯期内价格正在下跌。
+
+也就是说，应该选择一个回溯期，所以这实际上在大多数情况下都是正确的。因此，如果交易者打算使用 TEMA 帮助识别趋势，则由交易者为他们交易的资产选择适当的回溯期。
+
+如果 TEMA 可以帮助识别趋势方向，那么它也可以帮助识别趋势变化。如果价格高于平均线，然后跌破，这可能表明上涨趋势正在[逆转](/reversal)，或者至少表明价格正在进入回调阶段。如果价格低于平均水平，然后向上移动，则表明价格正在上涨。这种[交叉](/crossover)信号可用于帮助决定是进入还是退出位置。
+
+## 支撑和阻力的 TEMA
+
+TEMA 也可能为价格提供支撑或阻力。例如，当价格整体上涨时，在回调时它可能会跌至 TEMA，然后价格可能会出现反弹并继续上涨。这一变动取决于资产的适当回溯期。如果为此目的使用 TEMA，它过去应该已经提供了支撑和阻力。如果该指标过去没有提供支撑或阻力，那么将来可能不会。
+
+最后，一些交易者使用 TEMA（通常具有较短的回溯期）作为价格本身的替代方案。单线过滤掉了传统[烛台](/candlestick)或条形图上的大部分噪音。[折线图](/linechart)也可以在这方面发挥作用。
+
+## TEMA 与双指数移动平均线 (DEMA)
+
+这两个指标都旨在减少基于平均值的指标固有的滞后性。 TEMA 比双指数移动平均线 (DEMA) 更能减少滞后。
+
+DEMA 的公式不同，这意味着它将为交易者提供略有不同的信息和信号。它的计算方法是将价格的 EMA 乘以 2，然后减去原始 EMA 的 EMA。
+
+## 使用 TEMA 的限制
+
+虽然 TEMA 减少了延迟，但它仍然继承了其他 MA 的一些传统问题。 MA 主要用于趋势市场，当价格在一个方向或另一个方向上持续移动时。在[震荡](/choppymarket)时期，当价格来回波动时，MA 或 TEMA 可能提供的洞察力很少，并且会产生[错误信号](/false-signal)，因为只要价格保持[区间波动，交叉可能不会导致持续移动](/rangeboundtrading)。
+
+减少延迟可能会使一些交易者受益，但对其他交易者则不然。一些交易者更喜欢他们的指标滞后，因为他们不希望他们的指标对每一次价格变化做出反应。例如，由于 TEMA 对价格变化的反应更快，因此它将比[简单移动平均](/sma)线 (SMA) 更密切地跟踪价格。但这也意味着价格可能会以比穿越 SMA 所需的更小的价格波动穿越 TEMA。投资者通常不想积极交易，因此他们不希望被[平仓](/shakeout)，除非趋势发生重大变化。
+
+一种类型的 MA 并不比另一种更好。决定使用哪个取决于个人喜好以及最适合某人使用的策略。
+
+TEMA 最好与其他形式的分析结合使用，例如[价格行为](/price-action)分析、其他技术指标和[基本面分析](/fundamentalanalysis)。
+
+## TEMA 示例
+
+这是应用于 SPDR S&P 500 ETF 的 TEMA 示例。
+
+<!--9D1D825B7DFD32DEBEB949B85A824968-->
+
+TEMA 平滑了价格走势。即使在价格小幅波动的日常噪音中，TEMA 的角度也有助于识别整体趋势方向。
+
+＃＃ 强调
+
+- 三重指数移动平均线 (TEMA) 使用多个 EMA 计算并减去滞后以创建对价格变化快速反应的趋势跟踪指标。
+
+- TEMA 可以帮助识别趋势方向，发出潜在的短期趋势变化或回调的信号，并提供支撑或阻力。
+
+- 当价格高于 TEMA 时，有助于确认上升趋势；当价格低于 TEMA 时，它有助于确认下降趋势。
+
