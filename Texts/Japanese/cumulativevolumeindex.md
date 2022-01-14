@@ -1,0 +1,47 @@
+---
+keywords: Trading,Technical Analysis,Technical Analysis Basic Education
+title: 累積ボリュームインデックス（CVI）
+description: 累積ボリュームインデックス（CVI）は、株式市場全体に出入りする資金の動きを測定する勢いの指標です。
+---
+
+# 累積ボリュームインデックス（CVI）
+##累積ボリュームインデックス（CVI）とは何ですか？
+
+累積ボリュームインデックス（CVI）は、株価の上昇と下降の差を現在の合計として計算することにより、株式市場全体に出入りする資金の動きを測定する[勢いの指標です。](/momentum)
+
+##累積ボリュームインデックス（CVI）を理解する
+
+累積ボリュームインデックスは、[ニューヨーク証券取引所](/nyse)や[S＆P500インデックス](/sp500)などの市場またはインデックスの方向性を示す[幅の指標](/breadthindicator)です。その名前は[On-Balance-Volumeインジケーターに似ているように聞こえますが、違いは、CVIは、](/onbalancevolume) [Advance / Decline Index](/advancedeclineindex)と同様に、証券のボリュームではなく、証券の数のみを見るということです。
+
+CVIを読むときは、正規化されていないため、実際の数は重要ではないことに注意することが重要です（これは単なる累計です）。トレーダーと投資家は、代わりに、インデックスの価格と比較したCVIの経時的な[傾向を見て、その意味を解釈する必要があります。](/trend)
+
+スタンドアロンのインジケーターとして使用するのではなく、チャートパターンやテクニカルインジケーターなどの他の形式の[テクニカル分析](/technicalanalysis)と組み合わせて使用します。そうすることによって、彼らはトレンドと[逆転](/reversal)の確認を探すことによって成功する取引のオッズを増やします。
+
+##CVIの計算方法
+
+累積ボリュームインデックスは、次のように計算できます。
+
+<span class = "katex"> <span class = "katex-mathml"> <math xmlns = "http://www.w3.org/1998/Math/MathML"> <semantics> <mtable rowspacing = "0.24999999999999992em "columnalign =" right left "columnspacing =" 0em "> <mtr> <mtd> <mstyle scriptlevel =" 0 "displaystyle =" true "> <mrow> </ mrow> </ mstyle> </ mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </ mrow> <mtext> CVI </ mtext> <mo> = </ mo> <mtext> PPCVI </ mtext> <mo> + </ mo> <mo Stretchy = "false">（</mo><mtext>在庫の増加</mtext><mo> − </mo><mtext>在庫の減少</mtext><mo Stretchy = "false ">）</ mo> </ mrow> </ mstyle> </ mtd> </ mtr> <mtr> <mtd> <mstyle scriptlevel =" 0 "displaystyle =" true "> <mrow> </ mrow> < / mstyle> </ mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </ mrow> <mtext mathvariant = "bold">ここで：</ mtext> </ mrow > </ mstyle> </ mtd> </ mtr> <mtr> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> </ mrow> </ mstyle> </ mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </ mrow> <mtext> PPCVI </ mtext> <mo> = </mo><mtext>前期間のCVI</mtext> < / mrow> </ mst yle> </ mtd> </ mtr> <mtr> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> </ mrow> </ mstyle> </ mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </mrow><mtext>アドバンスストック</mtext><mo> = </mo><mtext>アドバンスストックの数</mtext>< / mrow> </ mstyle> </ mtd> </ mtr> <mtr> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> </ mrow> </ mstyle> </ mtd> < mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </mrow><mtext>現在の期間</mtext></ mrow> </ mstyle> </ mtd> </ mtr> <mtr> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> </ mrow> </ mstyle> </ mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </mrow><mtext>減少している在庫</mtext><mo> = </mo><mtext>減少している在庫の数</mtext></ mrow> </ mstyle> </ mtd > </ mtr> <mtr> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> </ mrow> </ mstyle> </ mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </mrow><mtext>現在の期間</mtext></ mrow> </ mstyle> </ mtd> </ mtr> </ mtable> <annotation encoding = "application /バツ-tex "> \ begin {aligned}＆amp; \ text {CVI} = \ text {PPCVI} +（\ text {Advancing Stocks}-\ text {Declining Stocks}）\\＆amp; \ textbf {where：} \\ ＆amp; \ text {PPCVI} = \ text {Prior Period＆＃x27; s CVI} \\＆amp; \ text {Advancing Stocks} = \ text {Number of advancing stocks in} \\＆amp; \ text {current period} \ \＆amp; \text{減少している在庫}=\ text{減少している在庫の数}\\＆amp; \text{現在の期間}\\\ end{aligned}</注釈></セマンティクス></math> </ span> <span class = "katex-html" aria-hidden = "true"> <span class = "base"> <span class = "strut" style = "height：10.500000000000004em; vertical-align：-5.000000000000002em; "> </ span> <span class =" mord "> <span class =" mtable "> <span class =" col-align-r "> <span class =" vlist-t vlist-t2 "> <span class = "vlist-r"> <span class = "vlist" style = "height：5.500000000000001em;"> <span style = "top：-7.500000000000001em;"> <span class = "pstrut" style = "height：2.84 em; "> </ span> <span class =" mord "> </ span> </ span> <span style =" top：-6em; "> <span class =" pstrut "style =" height：2.84em ; "> </ span> <span class =" mord "> </ sp an> </ span> <span style = "top：-4.499999999999999em;"> <span class = "pstrut" style = "height：2.84em;"> </ span> <span class = "mord"> </ span> </ span> <span style = "top：-2.999999999999999em;"> <span class = "pstrut" style = "height：2.84em;"> </ span> <span class = "mord"> </ span> </ span> <span style = "top：-1.4999999999999991em;"> <span class = "pstrut" style = "height：2.84em;"> </ span> <span class = "mord"> </ span> </ span> <span style = "top：1.7763568394002505e-15em;"> <span class = "pstrut" style = "height：2.84em;"> </ span> <span class = "mord"> < / span> </ span> <span style = "top：1.5000000000000018em;"> <span class = "pstrut" style = "height：2.84em;"> </ span> <span class = "mord"> </ span> </ span> </ span> <span class = "vlist-s"> </ span> </ span> <span class = "vlist-r"> <span class = "vlist" style = "height ：5.000000000000002em; "> <span> </ span> </ span> </ span> </ span> </ span> <span class =" col-align-l "> <span class =" vlist-t vlist -t2 "> <span class =" vlist-r "> <span class =" vlist "style =" height：5.500000000000001em; "> <span style =" top：-7.660000000000001em; "> <span class =" pstrut "style = "height：3em;"> </ span> <span class = "mord"> <span class = "mord"> </ span> <span class = "mord text"> <span class = "mord"> CVI < / span> </ span> <span class = "mspace" style = "margin-right：0.2777777777777778em;"> </ span> <span class = "mrel"> = </ span> <span class = "mspace" style = "margin-right：0.2777777777777778em;"> </ span> <span class = "mord text"> <span class = "mord"> PPCVI </ span> </ span> <span class = "mspace" style = "margin-right：0.2222222222222222em;"> </ span> <span class = "mbin"> + </ span> <span class = "mspace" style = "margin-right：0.2222222222222222em;"> </ span > <span class = "mopen">（</ span> <span class = "mord text"> <spanclass="mord">アドバンスストック</span></ span> <spanclass = "mspace" style = "margin-right：0.2222222222222222em;"> </ span> <span class = "mbin"> − </ span> <span class = "mspace" style = "margin-right：0.2222222222222222em;"> </ span> <span class = "mord text"> <spanclass="mord">在庫の減少</span></ span> <spanclass = "mclose">）</ span> </ span> </ span> <span style = "top：-6.16em;"> <span class = "pstrut" style = "height：3em;"> </ span> <span class = " mord "> <span class =" mord "> </ span> <span class =" mord text "> <span class =" mord textbf">場所：</ span> </ span> </ span> </ span > <span style = "top：-4.659999999999999em;"> <span class = "pstrut" style = "height：3em;"> </ span> <span class = "mord"> <span class = "mord"> </ span> <span class = "mord text"> <span class = "mord"> PPCVI </ span> </ span> <span class = "mspace" style = "margin-right：0.2777777777777778em;"> < / span> <span class = "mrel"> = </ span> <span class = "mspace" style = "margin-right：0.2777777777777778em;"> </ span> <span class = "mord text"> <span class="mord">前期間のCVI</span> </ span> </ span> </ span> <span style = "top：-3.1599999999999993em;"> <span class = "pstrut" style = "height： 3em; "> </ span> <span class =" mord "> <span class =" mord "> </ span> <span class =" mord text "> <spanclass="mord">在庫の増加</span > </ span> <span class = "mspace" style = "margin-right：0.2777777777777778em;"> </ span> <span class = "mrel"> = </ span> <span class = "mspace" style = "margin-right：0.2777777777777778em;"> </ span> <span class = "mord text"> <spanclass="mord">広告の数</ span> </ span> </ span> </ span> <span style = "top：-1.6599999999999993em;"> <span class = "pstrut" style = "height：3em;"> </ span> <span class = "mord"> <span class = "mord"> </ span> <span class = "mord text"> <spanclass="mord">現在の期間</span></ span> < / span> </ span> <span style = "top：-0.15999999999999837em;"> <span class = "pstrut" style = "height：3em;"> </ span> <span class = "mord"> <span class = "mord"> </ span> <span class = "mord text"> <spanclass="mord">在庫の減少</span></ span> <span class = "mspace" style = "margin-right ：0.2777777777777778em; "> </ span> <span class =" mrel "> = </ span> <span class =" mspace "style =" margin-right：0.2777777777777778em; "> </ span> <span class = "mord text"> <spanclass="mord">減少している在庫の数</span></ span> </ span> </ span> <spanstyle = "top：1.3400000000000016em;"> <span class = "pstrut" style = "height：3em;"> </ span> <span class = "mord"> <span class = "mord"> </ span> <span class = "mord text"> <span class = " mord">現在の期間</span></ span> </ span> </ span> </ span> <span class =" vlist-s "> </ span> </ sp an> <span class = "vlist-r"> <span class = "vlist" style = "height：5.000000000000002em;"> <span> </ span> </ span> </ span> </ span> </スパン></span> </ span> </ span> </ span> </ span>
+
+##CVIの使用
+
+[インデックス](/marketindex)から移動しているかを判断するために使用されます。 CVIが低下傾向にある場合、トレーダーは傾向が勢いを失い、逆転が間近に迫っていると想定する可能性があります。 CVIが上昇傾向にある場合、トレーダーはトレンドが勢いを増していると想定する可能性があり、トレンドと一緒に取引する時期かもしれません。
+
+同時に、トレーダーは価格とCVIトレンドラインの間の[発散](/divergence)または[収束を探すこともできます。](/convergence) CVIの測定値に反映されていない価格で行われた高値と安値は、弱体化傾向と今後の[修正の兆候である可能性があります](/correction)。
+
+##CVIの例
+
+次のグラフは、2020年3月から2021年3月までにSPDR S＆P 500 ETF（NYSE ARCA：SPY）に適用された累積ボリュームインデックスの例を示しています。
+
+<！-809A24B3AF78AA9128E6AF456201396B->
+
+上のグラフでは、CVI（下のパネルの青い線で示されている）が2020年4月に減少するが、その後着実に増加していることがわかります。
+
+##ハイライト
+
+-CVIは、前の期間のCVI値に、上昇株から下降株を差し引いたものを追加します。
+
+-それはより広い市場の進歩/衰退を説明する勢いの指標です。
+
+-累積ボリュームインデックス（CVI）は、純資本フローが株式市場に出入りしているかどうかを調べます。
+
