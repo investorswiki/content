@@ -1,0 +1,49 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Ratios
+title: Netto gjeld-til-EBITDA-forhold
+description: Netto gjeld-til-EBITA-forhold er et mål på gearing, beregnet som et selskaps rentebærende gjeld minus kontanter, delt på EBITDA.
+---
+
+# Netto gjeld-til-EBITDA-forhold
+## Hva er netto gjeld-til-EBITDA-forhold?
+
+Netto gjeld-til- [EBITDA](/ebitda) (inntjening før renteavskrivninger og amortisering)-forholdet er et mål på gearing, beregnet som et selskaps rentebærende gjeld minus kontanter eller kontantekvivalenter, delt på EBITDA. Netto gjeld-til-EBITDA-forhold er en gjeldsgrad som viser hvor mange år det vil ta for et selskap å betale tilbake gjelden hvis netto gjeld og EBITDA holdes konstant. Men hvis et selskap har mer kontanter enn gjeld, kan forholdet være negativt. Det ligner på [gjeld/EBITDA-forholdet](/debt_edbitda),. men netto gjeld trekker fra kontanter og kontantekvivalenter mens standardforholdet ikke gjør det.
+
+##﻿Formelen for netto gjeld-til-EBITDA er
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>N </mi><mi>e</mi><mi>t</mi><mtext> </mtext><mi>D</mi><mi>e</mi><mi>b</mi ><mi>t</mi><mtext> </mtext><mi>t</mi><mi>o</mi><mtext> </mtext><mi>E</mi><mi> B</mi><mi>I</mi><mi>T</mi><mi>D</mi><mi>A</mi><mo>=</mo><mfrac><mrow ><mi>T</mi><mi>o</mi><mi>t</mi><mi>a</mi><mi>l</mi><mtext> </mtext><mi >D</mi><mi>e</mi><mi>b</mi><mi>t</mi><mo>−</mo><mi>C</mi><mi>a </mi><mi>s</mi><mi>h</mi><mi mathvariant="normal">&amp;</mi><mi>E</mi><mi>q</mi> <mi>u</mi><mi>i</mi><mi>v</mi><mi>a</mi><mi>l</mi><mi>e</mi><mi >n</mi><mi>t</mi><mi>s</mi></mrow><mrow><mi>E</mi><mi>B</mi><mi>I< /mi><mi>T</mi><mi>D</mi><mi>A</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex" >Netto \ Gjeld \ til \ EBITDA = \frac{Totalt \ Gjeld - Kontanter \&amp; Ekvivalenter}{EBITDA}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class= "strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord mathnormal">e</span><span class="mord mathnormal">t</span><span class="mspace"> </span><span class="mord mathnormal" style="margin -right:0.02778em;">D</span><span class="mord mathnormal">e</span><span class="mord mathnormal">b</span><span class="mord mathnormal"> t</span><span class="mspace"> </span><span class="mord mathnormal">t</span><span class="mord mathnormal">o</span><span class=" mspace"> </span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mord mathnormal" style="margin-right:0.05017em; ">B</span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="mord mathnormal" style="margin-right:0.13889em; ">T</span><span class="mord mathnormal" stil le="margin-right:0.02778em;">D</span><span class="mord mathnormal">A</span><span class="mspace" style="margin-right:0.2777777777777778em;"> </span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base "><span class="strut" style="height:1.277216em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9322159999999999em;"> <span style="top:-2.6550000000000002em;"><span class="psrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class= "mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.05764em;">E</span><span class="mord mathnormal mtight" style="margin-right:0.05017em; ">B</span><span class="mord mathnormal mtight" style="margin-right:0.07847em;">I</span><span class="mord mathnormal mtight" style="margin-right:0.13889 em;">T </span><span class="mord mathnormal mtight" style="margin-right:0.02778em;">D</span><span class="mord mathnormal mtight">A</span></span>< /span></span><span style="top:-3.23em;"><span class="psrut" style="height:3em;"></span><span class="frac-line" style ="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108em;"><span class="psrut" style="height:3em;"> </span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.13889em;">T</span> span><span class="mord mathnormal mtight">o</span><span class="mord mathnormal mtight">t</span><span class="mord mathnormal mtight">a</span><span class ="mord mathnormal mtight" style="margin-right:0.01968em;">l</span><span class="mspace mtight"><span class="mtight"> </span></span><span class="mord mathnormal mtight" style="margin-right:0.02778em;">D</span><span class="mord mathnormal mtight">e</span><span class="mord mathnormal mtight">b </span><span class="mord mathnormal m tight">t</span><span class="mbin mtight">−</span><span class="mord mathnormal mtight" style="margin-right:0.07153em;">C</span><span class="mord mathnormal mtight">a</span><span class="mord mathnormal mtight">s</span><span class="mord mathnormal mtight">h</span><span class="mord mtight ">&amp;</span><span class="mord mathnormal mtight" style="margin-right:0.05764em;">E</span><span class="mord mathnormal mtight" style="margin-right: 0.03588em;">q</span><span class="mord mathnormal mtight">u</span><span class="mord mathnormal mtight">i</span><span class="mord mathnormal mtight" stil ="margin-right:0.03588em;">v</span><span class="mord mathnormal mtight">a</span><span class="mord mathnormal mtight" style="margin-right:0.01968em; ">l</span><span class="mord mathnormal mtight">e</span><span class="mord mathnormal mtight">n</span><span class="mord mathnormal mtight">t</span> span><span class="mord mathnormal mtight">s</span></span></span></span></span><span class="vlist-s"><</span>< / span><span class=" vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class=" mclose nulldelimiter"></span></span></span></span></span>
+
+
+
+## Hva netto gjeld-til-EBITDA kan fortelle deg
+
+Netto gjeld-til-EBITDA-forholdet er populært blant analytikere fordi det tar hensyn til et selskaps evne til å redusere gjelden. Forhold høyere enn 4 eller 5 setter vanligvis alarmklokkene i gang fordi dette indikerer at det er mindre sannsynlig at et selskap vil klare å håndtere gjeldsbyrden sin, og dermed er det mindre sannsynlig at de kan ta på seg den ekstra gjelden som kreves for å vokse virksomheten.
+
+Netto gjeld-til-EBITDA-forholdet bør sammenlignes med et referanseindeks eller bransjegjennomsnittet for å bestemme kredittverdigheten til et selskap. I tillegg kan en [horisontal analyse](/horizontalanalysis) utføres for å avgjøre om et selskap har økt eller redusert gjeldsbyrden over en spesifisert periode. For horisontal analyse sammenlignes forholdstall eller poster i regnskapet med tidligere perioder for å bestemme hvordan selskapet har vokst over den angitte tidsrammen.
+
+## Eksempel på hvordan du bruker netto gjeld-til-EBITDA
+
+Anta at en investor ønsker å gjennomføre en horisontal analyse av selskapet ABC for å fastslå dets evne til å betale ned gjelden. For det forrige regnskapsåret var selskapet ABCs kortsiktige gjeld 6,31 milliarder dollar, langsiktig gjeld var 28,99 milliarder dollar, og kontantbeholdningen var 13,84 milliarder dollar.
+
+Derfor rapporterte selskapet ABC en netto gjeld på 21,46 milliarder dollar, eller 6,31 milliarder dollar pluss 28,99 milliarder dollar minus 13,84 milliarder dollar, og en EBITDA på 60,60 milliarder dollar i løpet av regnskapsperioden. Følgende er selskapet ABCs netto gjeld-til-EBITDA-forhold 0,35 eller 21,46 milliarder dollar delt på 60,60 milliarder dollar.
+
+Nå, for det siste regnskapsåret, hadde selskapet ABC kortsiktig gjeld på 8,50 milliarder dollar, langsiktig gjeld på 53,46 milliarder dollar og 21,12 milliarder dollar i kontanter. Selskapets netto gjeld økte med 90,31 % til 40,84 milliarder dollar fra år til år. Selskapet ABC rapporterte en EBITDA på 77,89 milliarder dollar, en økning på 28,53 % fra EBITDA året før.
+
+Derfor hadde selskapet ABC et forhold mellom netto gjeld og EBITDA på 0,52 eller 40,84 milliarder dollar delt på 77,89 milliarder dollar. Selskapet ABCs netto gjeld i forhold til EBITDA økte med 0,17, eller 49,81 % fra år til år.
+
+## Begrensninger ved bruk av netto gjeld-til-EBITDA
+
+Analytikere liker forholdet netto gjeld/EBITDA fordi det er enkelt å beregne. Gjeldstall finnes i balansen og EBITDA kan beregnes fra resultatregnskapet. Problemet er imidlertid at det kanskje ikke gir det mest nøyaktige målet for inntekter. Mer enn inntjening ønsker analytikere å måle mengden kontanter som er tilgjengelig for gjeldsnedbetaling.
+
+Avskrivninger og amortisering er ikke-kontante utgifter som egentlig ikke påvirker kontantstrømmene, men renter kan være en betydelig utgift for noen selskaper. Banker og investorer som ser på gjeldende gjeld/EBITDA-forhold for å få innsikt i hvor godt selskapet kan betale for gjelden, kan være lurt å vurdere virkningen av renter på gjelden, selv om den gjelden vil bli inkludert i ny utstedelse. På denne måten kan nettoinntekt minus kapitalutgifter pluss avskrivninger og amortisering være det bedre målet på kontanter tilgjengelig for gjeldsnedbetaling.
+
+##Høydepunkter
+
+– Det ligner på gjeld/EBITDA-forholdet, men netto gjeld trekker fra kontanter og kontantekvivalenter mens standardforholdet ikke gjør det.
+
+– Netto gjeld-til-EBITDA-forhold er en gjeldsgrad som viser hvor mange år det vil ta for et selskap å betale tilbake gjelden sin dersom netto gjeld og EBITDA holdes konstant.
+
+– Hvis en bedrift har mer kontanter enn gjeld, kan forholdstallet være negativt.
+
+– Når analytikere ser på netto gjeld-til-EBITDA-forhold, vil de vite hvor godt et selskap kan dekke gjelden sin.
+
