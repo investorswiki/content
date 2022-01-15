@@ -1,0 +1,45 @@
+---
+keywords: Business,Corporate Finance and Accounting,Accounting
+title: Ortalama Envanter Yaşı
+description: Ortalama envanter yaşı, bir firmanın envanteri satması için geçen ortalama gün sayısıdır.
+---
+
+# Ortalama Envanter Yaşı
+## Envanterin Ortalama Yaşı Nedir?
+
+Ortalama envanter yaşı, bir firmanın envanteri satması için geçen ortalama gün sayısıdır. Analistlerin satışların verimliliğini belirlemek için kullandığı bir ölçümdür. Ortalama envanter yaşı, envanterde [gün satışları](/days-sales-inventory-dsi) (DSİ) olarak da adlandırılır.
+
+## Ortalama Envanter Yaşının Formülü ve Hesaplanması
+
+Ortalama envanter yaşını hesaplama formülü:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="sağ sol" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Ortalama Envanter Yaşı</mtext><mo>=</mo><mfrac><mi>C< /mi><mi>G</mi></mfrac><mo>×</mo><mn>365</mn></mrow></mstyle></mtd></mtr><mtr> <mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow> <mrow></mrow><mtext mathvariant="bold">burada:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi> C</mi><mo>=</mo><mtext>Mevcut düzeyde envanterin ortalama maliyeti</mtext></mrow></mstyle></mtd></mtr><mtr><mtd ><mstyle scriptlevel="0" ekran ystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi> G</mi><mo>=</mo><mtext>Satılan malların maliyeti (COGS)</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{Ortalama Envanter Yaşı}= \frac{ C }{ G } \times 365 \\ &amp;\textbf{nerede:} \\ &amp ;C = \text{Mevcut düzeyde ortalama envanter maliyeti} \\ &amp;G = \text{Satılan malların maliyeti (COGS)} \\ \end{uyumlu}</annotation></semantics>< /math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:6.846329999999999em;dikey hizalama :-3.17316499999999996em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2 "><span class="vlist-r"><span class="vlist" style="height:3.67316499999999996em;"><span style="top:-5.673165em;"><span class="pstrut" stil ="height:3.3603300000000003em;"></span><span class="mord"></span></span>< span style="top:-3.8471650000000004em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span>< span style="top:-2.3471650000000004em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span>< span style="top:-0.8471650000000008em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span>< /span><span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist" style="height:3.17316499999999996em;">< span ></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class = "vlist-r"><span class="vlist" style="height:3.6736499999999996em;"><span style="top:-5.673165em;"><span class="pstrut" style="height:3.3603300000000003 em ;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Ortalama Envanter Yaşı</ span></span><span class="mspace" style="margin-right:0.277777777777777em; "></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.277777777777777em;"></span><span class="mord"> <span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist " style="height:1.36033em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord "><span class="mord mathnormal">G</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em ;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;" ><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07153em;">C </span></span></span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class=" vlist " style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span ><span class="mspace" style="margin-sağ t:0.2222222222222222em;"></span><span class="mbin"></span><span class="mspace" style="margin-right:0.222222222222222em;"></span><span class = "mord">3</span><span class="mord">6</span><span class="mord">5</span></span></span><span style="top : -3.8471650000000004em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class ="mord text"><span class="mord textbf">burada:</span></span></span></span><span style="top:-2.3471650000000004em;"><span class = "pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin - right:0.07153em;">C</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span>< span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Mevcut düzeyinde ortalama envanter maliyeti</ span ></span></span></span><span style="top:-0.847165000 0000008em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class=" mord mathnormal">G</span><span class="mspace" style="margin-right:0.277777777777777em;"></span><span class="mrel">=</span><span class=" mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Satılan malların maliyeti (COGS)</span></span ></span></span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist" style = "height:3.173164999999996em;"><span></span></span></span></span></span></span></span></span></span></span></ >
+
+
+
+## Ortalama Envanter Yaşının Size Söyleyebilecekleri
+
+Ortalama envanter yaşı, analiste [envanterin](/inventory) bir şirkette diğerine kıyasla ne kadar hızlı döndüğünü söyler. Bir şirket kâr için envanteri ne kadar hızlı satabilirse, o kadar karlı olur. Bununla birlikte, bir şirket, indirimler veya uzun vadeli planlama çabaları için daha yüksek düzeyde envanter tutma stratejisi uygulayabilir. Metrik bir verimlilik ölçüsü olarak kullanılabilse de , herhangi bir sonuca varmadan önce [brüt kar marjı](/gross_profit_margin) gibi diğer verimlilik ölçütleriyle doğrulanmalıdır .
+
+Ortalama envanter yaşı , teknoloji endüstrisi gibi hızlı satış ve [ürün döngülerine sahip sektörlerde kritik bir rakamdır.](/product-life-cycle) Ortalama envanter yaşının yüksek olması, bir firmanın envanterini düzgün bir şekilde yönetmediğini veya satması zor bir envantere sahip olduğunu gösterebilir.
+
+Ortalama envanter yaşı, satın alma temsilcilerinin satın alma kararları vermesine ve yöneticilerin, ürünleri taşımak ve [nakit akışını artırmak için mevcut envanteri iskonto etmek gibi fiyatlandırma kararları almasına yardımcı olur](/cashflow). Bir firmanın ortalama stok yaşı arttıkça, [eskime riskine maruz kalması](/obsolescencerisk) da artar. Eskime riski, stok değerinin zaman içinde veya [yumuşak bir piyasada değerini kaybetmesi riskidir](/soft_market). Bir firma envanteri taşıyamazsa, bir firmanın bilançosunda belirtilen değerden daha az bir miktar için bir [envanter iptali yapabilir.](/inventory-write-off)
+
+## Ortalama Envanter Yaşının Nasıl Kullanılacağına İlişkin Örnek
+
+Bir yatırımcı iki perakende şirketini karşılaştırmaya karar verir. A Şirketi, 100.000 ABD Doları değerinde envantere sahiptir ve SMM 600.000 ABD Dolarıdır. A Şirketinin envanterinin ortalama yaşı, ortalama envanter maliyetinin COGS'ye bölünmesi ve ardından ürünün 365 gün ile çarpılmasıyla hesaplanır. Hesaplama 100.000 ABD Doları bölü 600.000 ABD Doları ve 365 gün ile çarpılır. A Şirketi için ortalama envanter yaşı 60,8 gündür. Bu, firmanın envanterini satmasının yaklaşık iki ay sürdüğü anlamına gelir.
+
+Tersine, B Şirketi de 100.000 ABD Doları değerinde envantere sahiptir, ancak satılan envanterin maliyeti 1 milyon ABD Dolarıdır, bu da envanterin ortalama yaşını 36.5 güne düşürür. Yüzeyde, B Şirketi, A Şirketinden daha verimlidir.
+
+##Öne çıkanlar
+
+- Bir şirket envanterini ne kadar hızlı satabilirse o kadar karlı olabilir.
+
+- Ortalama envanter yaşı, envanterde günlük satışlar olarak da bilinir.
+
+- Ortalama envanter yaşı, bir şirketin envanterini satması için ortalama kaç gün sürdüğünü gösterir.
+
+- Bu metrik, brüt kar marjı gibi diğer rakamlarla teyit edilmelidir.
+
+- Yükselen bir rakam, bir şirketin envanter sorunları olduğunu gösterebilir.
+
