@@ -1,0 +1,39 @@
+---
+keywords: Personal Finance,Taxes
+title: पूंजीगत लाभ एक्सपोजर (सीजीई)
+description: कैपिटल गेन एक्सपोजर एक आकलन है कि किस हद तक स्टॉक फंड या अन्य समान निवेश फंड की संपत्ति की सराहना या मूल्यह्रास हुआ है।
+---
+
+# पूंजीगत लाभ एक्सपोजर (सीजीई)
+## कैपिटल गेन एक्सपोजर क्या है?
+
+कैपिटल गेन एक्सपोजर एक आकलन है कि किस हद तक स्टॉक फंड या अन्य समान निवेश फंड की संपत्ति की सराहना या मूल्यह्रास हुआ है। पूंजीगत लाभ एक्सपोजर का निवेशकों के लिए कर संबंधी प्रभाव हो सकता है।
+
+## पूंजीगत लाभ एक्सपोजर (सीजीई) को समझना
+
+सकारात्मक पूंजीगत लाभ एक्सपोजर का मतलब होगा कि फंड में संपत्ति की सराहना हुई है और शेयरधारकों को सराहना की गई संपत्ति पर किसी भी [वास्तविक लाभ](/realizedprofit) पर कर का भुगतान करना होगा। नेगेटिव एक्सपोजर का मतलब है कि फंड का नुकसान कैरी-फॉरवर्ड है जो कुछ पूंजीगत लाभ को कम कर सकता है।
+
+के रूप में परिकलित:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable Rowpacing="0.24999999999999992em " columnalign="right left" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>पूंजीगत लाभ एक्सपोजर</mtext><mo>=</mo><mfrac><mrow><mtext> CGA</mtext><mo>−</mo><mtext>नुकसान को आगे बढ़ाना</mtext></mrow><mtext>परिसंपत्तियों का वर्तमान मूल्य</mtext></mfrac></mrow></mstyle>< /mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0 " displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">कहाँ:</mtext></mrow></mstyle></mtd></mtr><mtr> <mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow> <mrow></mrow><mtext>CGA</mtext><mo>=</mo><mtext>संपत्ति का पूंजीगत लाभ</mtext></mrow></mstyle></mtd ></mtr></mtable><एनोटेशन एन्कोडिंग = "एप्लिकेशन/एक्स-टेक्स">\begin{aligned} &amp;\text{कैपिटल गेन्स एक्सपोजर} = \frac { \text{CGA} - \text{लॉस कैरीफॉरवर्ड } }{ \text{संपत्ति का वर्तमान मूल्य} } \\ &amp;\textbf{where:} \\ &amp;\text{CGA} = \text{संपत्ति का पूंजीगत लाभ} \\ \end{aligned}</एनोटेशन ></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 5.35744em;लंबवत-संरेखण:-2.42872em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class=" vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.92872em;"><span style="top:-4.92872em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:-3.1027199999999997em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:-1.6027199999999997em;"><span वर्ग = "pstrut" शैली = "ऊंचाई: 3.3714399999999998em;"></spa n><span class="mord"></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r" ><span class="vlist" style="height:2.42872em;"><span></span></span></span></span><span class="col-align- l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.92872em;"><span style="top: -4.92872em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class ="mord text"><span class="mord">पूंजीगत लाभ एक्सपोजर</span></span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter" </span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3714399999999998em ;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="m ord text"><span class="mord">संपत्ति का वर्तमान मूल्य</span></span></span></span><span style="top:-3.23em;"><span class=" pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style= "टॉप:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class= "mord">CGA</span></span><span class="mspace" style="margin-right:0.222222222222222em;"></span><span class="mbin">−</span>< स्पैन क्लास="mspace" स्टाइल="मार्जिन-राइट:0.22222222222222222em;"></span><span class="mord text"><span class="mord">लॉस कैरीफॉरवर्ड</span></span>< /span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style=" ऊंचाई:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span ></span><span style="top:-3.1027199999999997em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class ="मोर्ड">< /span><span class="mord text"><span class="mord textbf">कहां:</span></span></span></span><span style="top:-1.6027199999999997em; "><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord text "><span class="mord">CGA</span></span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mrel"> =</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">संपत्ति का पूंजीगत लाभ< /span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:2.42872em;"><span></span></span></span></span></span></span></span></span> </span></span>
+
+
+
+उदाहरण के लिए, एक मिलियन शेयरों वाले स्टॉक फंड में वर्तमान में कुल $ 100 मिलियन की संपत्ति है। छह महीने पहले, संपत्ति केवल $ 50 मिलियन की थी, और फंड में अभी भी $ 10 मिलियन का नुकसान है जिसे आगे बढ़ाया जा सकता है। इस मामले में, पूंजीगत लाभ का जोखिम 40% है या, दूसरे शब्दों में, यदि फंड मैनेजर को लाभ का एहसास होता है, तो प्रत्येक निवेशक को $40 के पूंजीगत लाभ पर कर का भुगतान करना होगा।
+
+## पूंजी लाभ
+
+पूंजीगत लाभ एक [पूंजीगत संपत्ति](/capitalasset) (निवेश या अचल संपत्ति) के मूल्य में वृद्धि है जो इसे खरीद मूल्य से अधिक मूल्य देता है। जब तक संपत्ति बेची नहीं जाती तब तक लाभ का एहसास नहीं होता है। एक पूंजीगत लाभ अल्पावधि (एक वर्ष या उससे कम) या लंबी अवधि (एक वर्ष से अधिक) हो सकता है और आयकर पर दावा किया जाना चाहिए ।
+
+जबकि पूंजीगत लाभ आम तौर पर शेयरों और फंडों से उनके अंतर्निहित मूल्य अस्थिरता के कारण जुड़े होते हैं, पूंजीगत लाभ किसी भी सुरक्षा पर हो सकता है जो इसके लिए भुगतान किए गए [खरीद मूल्य से अधिक कीमत के लिए बेचा](/purchaseprice) जाता है। वास्तविक पूंजीगत लाभ और हानि तब होती है जब कोई संपत्ति बेची जाती है, जो एक कर योग्य घटना को ट्रिगर करती है। अवास्तविक लाभ और हानि, जिसे कभी-कभी कागजी लाभ और हानि के रूप में संदर्भित किया जाता है, एक निवेश के मूल्य में वृद्धि या कमी को दर्शाता है लेकिन अभी तक एक कर योग्य घटना को ट्रिगर नहीं किया है ।
+
+[पूंजीगत हानि तब होती है जब](/capitalloss) किसी परिसंपत्ति के खरीद मूल्य की तुलना में पूंजीगत परिसंपत्ति मूल्य में कमी होती है ।
+
+## पूंजी लाभ कर
+
+एक [पूंजीगत लाभ](/capitalgain) कर एक गैर-सूची संपत्ति की बिक्री पर प्राप्त लाभ पर एक कर है जो बिक्री पर प्राप्त राशि से अधिक था। सबसे आम पूंजीगत लाभ स्टॉक, बांड, कीमती धातुओं की बिक्री से महसूस किया जाता है, और संपत्ति। सभी देश पूंजीगत लाभ कर लागू नहीं करते हैं, और अधिकांश में व्यक्तियों और निगमों के लिए कराधान की अलग-अलग दरें होती हैं।
+
+शेयर बाजार पर लेनदेन, लाभांश और पूंजीगत लाभ पर राज्य द्वारा कर लगाया जाता है। हालाँकि, ये वित्तीय दायित्व क्षेत्राधिकार से क्षेत्राधिकार में भिन्न हो सकते हैं।
+
+संयुक्त राज्य अमेरिका में, कुछ अपवादों के साथ, व्यक्ति और निगम अपने सभी पूंजीगत लाभ के कुल योग पर आयकर का भुगतान करते हैं। अल्पकालिक पूंजीगत लाभ पर उच्च दर से कर लगाया जाता है: सामान्य आयकर दर। "दीर्घकालिक पूंजीगत लाभ" पर व्यक्तियों के लिए कर की दर, जो संपत्ति पर लाभ है जो बेचने से पहले एक वर्ष से अधिक समय तक रखा गया है, सामान्य आयकर दर से कम है, और कुछ कर ब्रैकेट में, कोई नहीं है ऐसे लाभ पर देय कर
+
