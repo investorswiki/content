@@ -1,0 +1,19 @@
+---
+keywords: Trading,Futures Commodities Trading,Futures Commodities Trading Strategy and Education,Futures and Commodities Trading,Strategy and Education
+title: Líkamleg afhending
+description: Líkamleg afhending er hugtak í valréttar- eða framtíðarsamningi sem krefst þess að raunveruleg undirliggjandi eign sé afhent á tilteknum afhendingardegi.
+---
+
+# Líkamleg afhending
+Líkamleg afhending er hugtak í valréttar- eða framtíðarsamningi sem krefst þess að raunveruleg undirliggjandi eign sé afhent á tilgreindum afhendingardegi, frekar en að skipt sé út með jöfnunarsamningum.
+
+## Að skilja líkamlega afhendingu
+
+[Afleiðusamningar](/derivative) eru annað hvort gerðir [upp í reiðufé](/cashsettlement) eða afhentir líkamlega á lokadegi samningsins. Þegar samningur er gerður upp í reiðufé færist hrein reiðufjárstaða samningsins á fyrningardegi milli kaupanda og seljanda. Til dæmis, gerðu ráð fyrir að tveir aðilar geri E-mini S&P 500 framtíðarsamning sem á að gera upp eftir sex mánuði fyrir $2.770 ( [framvirkt verð](/settlementprice) ). Ef verðmæti vísitölunnar á þeim degi sem samningurinn rennur út er hærra en framvirkt verð, hagnast kaupandinn; annars græðir seljandinn. Mismunur á [s](/spotprice) [pottverði](/spotprice) samningsins á uppgjörsdegi og framvirku verði sem samið var um verður færður eða skuldfærður af reikningum beggja aðila. Segjum að lokagildi vísitölunnar eftir sex mánuði sé $2.900, reikningur handhafa langtímasamninga verður lögð inn ($2.900 - $2.770) x $50 = 130 x 50 = $6.500. Þessi upphæð verður skuldfærð af reikningi þess aðila sem skartar stöðunni. [Athugið að **$50 x S&P 500 vísitalan** táknar 1 samningseiningu fyrir E-mini S&P 500 framtíðarsamning].
+
+Með efnislegri afhendingu er undirliggjandi eign [valréttarins](/option) eða afleiðusamningsins afhent líkamlega á fyrirfram ákveðnum afhendingardegi. Við skulum skoða dæmi um líkamlega fæðingu. Gerum ráð fyrir að tveir aðilar geri eins árs (mars 2019) framtíðarsamning um [hráolíu](/wti) á framvirku verði $58,40. Burtséð frá skyndiverði vörunnar á uppgjörsdegi er kaupanda skylt að kaupa 1.000 tunnur af hráolíu (eining fyrir 1 framvirkan hráolíusamning) af seljanda. Ef söluverðið á umsömdum uppgjörsdegi einhvern tímann í mars er undir $58,40 tapar langi samningshafinn og skortstaðan hækkar. Ef söluverðið er yfir framtíðarverðinu upp á $58,40, hagnast langstaðan og seljandinn skráir tap.
+
+Skipti tilgreina afhendingarskilmála fyrir þá samninga sem þau taka til. Kauphöllin tilnefnir vöruhús og afhendingarstaði fyrir margar vörur. Þegar afhending á sér stað breytist ábyrgð eða [handhafakvittun](/depositaryreceipt) sem táknar ákveðið magn og gæði vöru á tilteknum stað frá seljanda til kaupanda sem greiðir síðan að fullu. Kaupandi á rétt á að fjarlægja vöruna úr geymslunni eða á þess kost að skilja vöruna eftir í geymslunni gegn reglubundnu gjaldi. Kaupandi gæti einnig samið við vöruhúsið um að flytja vöruna á annan stað að eigin vali, þar með talið heimili sitt, og greiðir öll flutningsgjöld. Auk afhendingarforskrifta sem kauphallirnar kveða á um, eru gæði, einkunn eða eðli undirliggjandi eignar sem á að afhenda einnig stjórnað af kauphöllunum.
+
+Flestar afleiður eru ekki nýttar en verslað er út fyrir afhendingardag. Hins vegar, líkamleg afhending á sér stað með sumum viðskiptum - það er algengast með vörur og skuldabréf en getur einnig átt sér stað með öðrum fjármálagerningum. Uppgjör með líkamlegri afhendingu fer fram af [greiðslumiðlarum](/clearingbroker) eða umboðsmönnum þeirra. Strax eftir síðasta viðskiptadag mun greiðslujöfnunarstofnun skipulegrar kauphallar tilkynna um kaup og sölu á undirliggjandi eign á uppgjörsverði fyrri dags. Kaupmenn sem eru með skortstöðu í framvirkum verðbréfasamningi til að renna út, þurfa að afhenda undirliggjandi eign. Þeir sem þegar eiga eignirnar geta boðið þær til viðeigandi greiðslujöfnunarstofnunar. Kaupmönnum sem ekki eiga eignir er skylt að kaupa þær á núverandi verði.
+
