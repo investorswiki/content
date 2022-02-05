@@ -1,0 +1,49 @@
+---
+keywords: Economy,Economics,Macroeconomics
+title: Lei de Gresham
+description: A lei de Gresham é um princípio monetário que afirma que &quot;dinheiro ruim expulsa o bom&quot;. É usado principalmente para consideração e aplicação nos mercados de câmbio.
+---
+
+# Lei de Gresham
+## O que é a Lei de Gresham?
+
+A lei de Gresham é um princípio monetário que afirma que "dinheiro ruim expulsa o bom". É usado principalmente para consideração e aplicação nos [mercados de](/international-currency-markets) [câmbio](/international-currency-markets). A lei de Gresham foi originalmente baseada na composição das moedas cunhadas e no valor dos metais preciosos usados nelas. No entanto, desde o abandono dos padrões de moeda metálica, a teoria foi aplicada à relativa estabilidade do valor de diferentes moedas nos mercados globais.
+
+## Entendendo o bom dinheiro versus o mau dinheiro
+
+No centro da lei de Gresham está o conceito de dinheiro bom (dinheiro que está subvalorizado ou dinheiro com valor mais estável) versus dinheiro ruim (dinheiro que está supervalorizado ou perde valor rapidamente). A lei afirma que o dinheiro ruim expulsa o dinheiro bom em circulação. Bad money é então a moeda que se considera ter valor intrínseco igual ou menor em comparação com seu valor de face. Enquanto isso, o bom dinheiro é uma moeda que se acredita ter maior valor intrínseco ou mais potencial para um valor maior do que seu valor de face. Uma suposição básica para o conceito é que ambas as moedas são tratadas como meios de troca geralmente aceitáveis, são facilmente líquidas e disponíveis para uso simultâneo. Logicamente, as pessoas escolherão fazer negócios usando dinheiro ruim e manter saldos de dinheiro bom porque o dinheiro bom tem o potencial de valer mais do que seu valor de face.
+
+## Origens da Lei de Gresham
+
+A cunhagem de moedas fornece o exemplo mais básico da aplicação da lei de Gresham. Na verdade, o homônimo da lei, Sir Thomas Gresham, estava se referindo a moedas de ouro e prata em sua escrita relevante. Gresham viveu de 1519 a 1579, trabalhando como financista servindo a rainha e mais tarde fundando o Royal Exchange of the City of London. Henrique VIII mudou a composição do xelim inglês, substituindo uma parte substancial da [prata](/silver-standard) por metais básicos. As consultas de Gresham com a rainha explicaram que as pessoas estavam cientes da mudança e começaram a separar as moedas do xelim inglês com base em suas datas de produção para acumular as moedas com mais prata que, quando derretidas, valiam mais do que seu valor nominal. Gresham observou que o dinheiro ruim estava tirando o dinheiro bom da circulação.
+
+Esse fenômeno já havia sido notado e escrito anteriormente na Grécia antiga e na Europa medieval. A observação não recebeu o nome formal de "lei de Gresham" até meados do século 19, quando o economista escocês Henry Dunning Macleod a atribuiu a Gresham.
+
+## Como funciona a lei de Gresham
+
+Ao longo da história, as casas da moeda fizeram moedas de ouro, prata e outros metais preciosos, que originalmente dão às moedas seu valor. Com o tempo, os emissores de moedas às vezes reduziram a quantidade de [metais preciosos](/preciousmetal) usados para fazer moedas e tentaram passá-los como moedas de valor total. Normalmente, novas moedas com menos conteúdo de metais preciosos teriam menos valor de mercado e seriam negociadas com desconto, ou não, e as moedas antigas manteriam um valor maior. No entanto, com o envolvimento do governo, como as leis de curso legal, as novas moedas normalmente seriam obrigadas a ter o mesmo valor de face das moedas mais antigas. Isso significa que as novas moedas seriam legalmente supervalorizadas e as moedas antigas legalmente desvalorizadas. Governos, governantes e outros emissores de moedas se envolveriam nisso para obter receita na forma de [senhoriagem](/seigniorage) e pagar suas dívidas antigas (que emprestaram em moedas antigas) de volta nas novas moedas (que têm menos valor intrínseco) pelo valor nominal .
+
+Como o valor do metal nas moedas antigas (dinheiro bom) é maior do que nas moedas novas (dinheiro ruim) pelo valor nominal, as pessoas têm um claro incentivo para preferir as moedas antigas com maior teor intrínseco de metais preciosos. Contanto que eles sejam legalmente obrigados a tratar os dois tipos de moedas como a mesma unidade monetária, os compradores desejarão repassar suas moedas menos preciosas o mais rápido possível e manter as moedas antigas. Eles podem derreter as moedas antigas e vender o metal, ou podem simplesmente acumular as moedas como um valor armazenado maior. O dinheiro ruim circula pela economia e o dinheiro bom é removido de circulação, para ser guardado ou derretido para venda como metal bruto.
+
+O resultado final desse processo, conhecido como [depreciação da moeda](/debasement),. é uma queda no poder de compra das unidades monetárias, ou um aumento nos preços gerais: em outras palavras, a inflação. Para combater a lei de Gresham, os governos muitas vezes culpam os especuladores e recorrem a táticas como controles de moeda, proibições de remover moedas de circulação ou confisco de suprimentos de metais preciosos de propriedade privada mantidos para uso monetário.
+
+Em um exemplo moderno desse processo, em 1982, o governo dos EUA mudou a composição da moeda para conter 97,5% de zinco. Essa mudança fez com que os centavos anteriores a 1982 valessem mais do que seus equivalentes pós-1982, enquanto o valor nominal permaneceu o mesmo. Com o tempo, devido à desvalorização da moeda e à inflação resultante, os preços do cobre subiram de uma média de US$ 0,6662/lb. em 1982 para US$ 3,0597/lb. em 2006, quando os EUA impuseram duras novas penalidades para moedas derretidas. Isso significa que o valor de face do centavo perdeu 78% de seu poder de compra, e as pessoas estavam derretendo avidamente centavos antigos, que valiam quase cinco vezes o valor dos centavos pós-1982 naquele ponto. A legislação leva a uma multa de US$ 10.000 e/ou cinco anos de prisão se for condenado por esse delito.
+
+## Legalidades, Lei de Gresham e o mercado de câmbio
+
+A lei de Gresham funciona na economia moderna pelas mesmas razões que foi observada em primeiro lugar: leis de curso legal. Na ausência de leis de curso legal efetivamente aplicadas, a lei de Gresham tende a operar no sentido inverso; o dinheiro bom tira o dinheiro ruim de circulação porque as pessoas podem se recusar a aceitar o dinheiro menos valioso como meio de pagamento nas transações. Mas quando todas as unidades monetárias são legalmente obrigadas a serem reconhecidas pelo mesmo valor nominal, a versão tradicional da lei de Gresham funciona.
+
+Nos tempos modernos, os vínculos legais entre moedas e metais preciosos tornaram-se mais tênues e acabaram sendo totalmente cortados. Com a adoção do papel-moeda como moeda legal (e dinheiro de entrada contábil por meio de reservas bancárias fracionárias), isso significa que os emissores de dinheiro podem obter senhoriagem imprimindo ou emprestando dinheiro à vontade, em vez de cunhar novas moedas. Essa degradação contínua levou a uma tendência persistente de inflação como norma na maioria das economias, na maioria das vezes. Em casos extremos, esse processo pode até levar à hiperinflação, onde o dinheiro literalmente não vale o papel em que é impresso.
+
+Em casos de hiperinflação, as moedas estrangeiras geralmente substituem as moedas locais hiperinfladas; este é um exemplo da lei de Gresham operando ao contrário. Uma vez que uma moeda perde valor com rapidez suficiente, as pessoas tendem a parar de usá-la em favor de moedas estrangeiras mais estáveis, às vezes mesmo diante de penalidades legais repressivas. Por exemplo, durante a hiperinflação no Zimbábue, a inflação atingiu uma taxa anual estimada em 250 milhões por cento em julho de 2008. Embora ainda seja legalmente obrigado a reconhecer o dólar do Zimbábue como moeda legal, muitas pessoas no país começaram a abandonar seu uso em transações, eventualmente forçando o governo a reconhecer a [dolarização](/dollarization) **de facto** e posterior **de jure** da economia. No caos de uma crise econômica com uma moeda quase sem valor, o governo foi incapaz de aplicar efetivamente suas leis de curso legal. O dinheiro bom (mais estável) tirou o dinheiro ruim (hiperinflado) de circulação primeiro no mercado negro, depois no uso geral e, finalmente, com o apoio oficial do governo.
+
+Nesse sentido, a lei de Gresham também pode ser considerada nos mercados de câmbio globais e no comércio internacional, uma vez que as leis de curso legal quase por definição se aplicam apenas às moedas domésticas. Nos mercados globais, moedas fortes, como o dólar americano ou o euro, que possuem um valor relativamente mais estável ao longo do tempo (bom dinheiro) tendem a circular como meio de troca internacional e são usadas como referência internacional de preços para commodities negociadas globalmente. Moedas mais fracas e menos estáveis (dinheiro ruim) de nações menos desenvolvidas tendem a circular muito pouco ou nada fora dos limites e jurisdição de seus respectivos emissores para impor seu uso como moeda legal. Com a concorrência internacional em moedas, e nenhuma moeda legal global única, o dinheiro bom circula e o dinheiro ruim é mantido fora de circulação geral pela operação do mercado.
+
+## Destaques
+
+- Na ausência de leis de curso legal efetivamente aplicadas, como em crises hiperinflacionárias ou mercados internacionais de commodities e moedas, a lei de Gresham opera ao contrário.
+
+- A lei de Gresham diz que a moeda legalmente supervalorizada tenderá a tirar de circulação a moeda legalmente desvalorizada.
+
+- A lei de Gresham originou-se como uma observação dos efeitos da desvalorização da moeda metálica, mas também se aplica ao mundo atual de papel e dinheiro eletrônico.
+
