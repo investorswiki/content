@@ -1,0 +1,81 @@
+---
+keywords: Trading,Technical Analysis,Technical Analysis Basic Education
+title: Donchian kanavat
+description: Donchian-kanavat ovat Richard Donchianin kehittämiä liukuvia keskiarvoindikaattoreita. Ne kuvaavat arvopaperin korkeimman korkean hinnan ja alhaisimman hinnan tietyltä ajanjaksolta.
+---
+
+# Donchian kanavat
+## Mitä Donchian-kanavat ovat?
+
+Donchian-kanavat ovat kolme viivaa, jotka on luotu liukuvan keskiarvon laskelmilla. Ne sisältävät indikaattorin, jonka muodostavat ylä- ja alakaistat keskialueen tai mediaanikaistan ympärillä. Ylempi nauha merkitsee arvopaperin korkeinta hintaa N jakson aikana, kun taas alempi kaista merkitsee arvopaperin alinta hintaa N jakson aikana. Ylemmän ja alemman vyöhykkeen välinen alue edustaa Donchianin kanavaa.
+
+Urafutuurikauppias Richard Donchian kehitti indikaattorin 1900-luvun puolivälissä auttaakseen häntä tunnistamaan trendit. Hän sai myöhemmin lempinimen "trendin seuraamisen isä".
+
+<!--2BE71D89CDD8D134C2261267283D2929-->
+
+## Donchian-kanavien kaava on:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantiikka><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>UC = Korkein viimeisten </mtext><mi>N</mi><mtext> jaksojen aikana mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></ mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Keskikanava</mtext><mo>=</mo><mo stretchy=" false">(</mo><mo stretchy="false">(</mo><mi>U</mi><mi>C</mi><mo>+</mo><mi>L< /mi><mi>C</mi><mo stretchy="false">)</mo><mi mathvariant="normal">/</mi><mn>2</mn><mo stretchy=" false">)</mo></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow> </mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow> <mrow></mrow><mtext>LC = Alin alin viimeisten </mtext><mi>N</mi><mtext> jakson aikana</mtext></mrow></mstyle></mtd></ mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true "><mrow><mrow></mrow><mtext mathvariant="bold">missä:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></ mrow><mi>U</mi><mi>C</mi><mo>=</mo><mtext>Ylempi kanava</mtext></mrow></mstyle></mtd></mtr <mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true" > <mrow><mrow></mrow><mtable rowspacing="0.24999999999999992em" columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"> < mrow><mi>N</mi><mo>=</mo></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow> < mrow></mrow><mtext> Minuuttimäärä , tunnit, päivät,</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow ></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext> viikkoa, kuukautta</mtext></mrow>< /mstyle></mtd></mtr></mtable></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"> <mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtable rowspacing="0.249999999999999992em" columnalign ="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mtext>Jakso</mtext><mo>=</mo>< /mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Minuutit, tunnit, päivät, viikot,</ mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></ mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>kuukautta</mtext></mrow></mstyle></mtd></ mtr></mtable></mrow>< /mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>L</mi><mi>C</mi><mo>=</mo><mtext>Alempi kanava </mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned}&amp;\text{UC = Korkein korkein in Last }N\text{ Periods}\\&amp;\text{Middle Channel} = ((UC+LC)/2)\\&amp;\text{LC = alin alhainen viime }N\teksti{ jaksossa}\ \&amp;\textbf{where:}\\&amp;UC=\text{Ylempi kanava}\\&amp;\begin{aligned}N=&amp;\text{ Minuutit, tunnit, päivät,}\\&amp; \text{ viikkoa, kuukautta}\end{aligned}\\&amp;\begin{aligned}\text{Period}=&amp;\teksti{Minuutit, tunnit, päivät, viikot,}\\&amp;\teksti{kuukautta} \end{aligned}\\&amp;LC=\text{Alempi kanava}\end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden ="true"><span class="base"><span class="strut" style="height:15.600000000000003em;vertical-align:-7.5500000000000025em;"></span><span class=" mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class= "vlist" style="height:8.05em;"><span style="top:-10.96em;"><span class="pstrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-9.46em;"><span class="pstrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-7.96em;"><span class="pstrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-6.46em;"><span class="pstrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-4.96em;"><span class="pstrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-2.5499999999999985em;"><span class="pstrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:0.750000000000022em;"><span class="pstrut" style="height:3.75em;"></span><span class= "mord"></span></span><span style="top:3.1400000000000023em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"></span></span></span><span class="vlist-s">​ </span></span><span class="vlist-r"><span class="vlist" style="height:7.550000000000025em;"><span></span></span></span> </span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:8.05em;"><span style="top:-10.96em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord "><span class="mord"></span><span class="mord text"><span class="mord">UC = Viimeisen korkein </span></span><span class=" mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord text"><span class="mord"> Jaksot</span></span></span> </span><span style="top:-9.46em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"><span class= "mord"></span><span class="mord text"><span class="mord">Middle Channel</span></span><span class="mspace" style="margin-right:0.2777777777777778 em;"></span><span class="mr el">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mopen">(</span><span class="mopen ">(</span><span class="mord mathnormal" style="margin-right:0.10903em;">U</span><span class="mord mathnormal" style="margin-right:0.07153em; ">C</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal">L</span><span class="mord mathnormal" style="margin-right:0.07153em;"> C</span><span class="mclose">)</span><span class="mord">/</span><span class="mord">2</span><span class="mclose ">)</span></span></span><span style="top:-7.96em;"><span class="pstrut" style="height:3.75em;"></span>< span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">LC = alin alhainen viimeisessä </span></span> <span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord text"><span class="mord"> jaksot</span></span></span></span><span style="top:-6.46em;"><span class="pstrut" style="height:3.75em;"></span ><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">missä:</span></span>< /span></span><span style="top:-4.96em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"> span class="mord"></span><span class="mord mathnormal" style="margin-right:0.10903em;">U</span><span class="mord mathnormal" style="margin-right :0.07153em;">C</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class ="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Ylempi kanava</span></span></span ></span><span style="top:-2.5499999999999985em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"><span class ="mord"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"> <spancl ass="vlist-r"><span class="vlist" style="height:1.7500000000000002em;"><span style="top:-3.91em;"><span class="pstrut" style="height: 3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mspace" style= "margin-right:0.2777777777777778em;"></span><span class="mrel">=</span></span></span><span style="top:-2.41em;"><span class="pstrut" style="height:3em;"></span><span class="mord"></span></span></span><span class="vlist-s">​< /span></span><span class="vlist-r"><span class="vlist" style="height:1.2500000000000002em;"><span></span></span></span>< /span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style ="height:1.7500000000000002em;"><span style="top:-3.91em;"><span class="pstrut" style="height:3em;"></span><span class="mord"> <span class="mord"></span><span class="mord text"><span class="mord"> Minuuttien, tuntien, päivien määrä,</span></span></span>< /span><spanstyle="top:-2.41 em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord"> viikkoa, kuukautta</span></span></span></span></span><span class="vlist-s"></span>< / span><span class="vlist-r"><span class="vlist" style="height:1.2500000000000002em;"><span></span></span></span></span>< / span></span></span></span></span><span style="top:0.7500000000000022em;"><span class="pstrut" style="height:3.75em;"></ span ><span class="mord"><span class="mord"></span><span class="mord"><span class="mtable"><span class="col-align-r"> < span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.7500000000000002em;"><span style="top:-3.91em ; "><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">Kausi< / span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span></span></span > <span style="top:-2.41em;"><span class="pstr ut" style="height:3em;"></span><span class="mord"></span></span></span><span class="vlist-s"><​</span > </span><span class="vlist-r"><span class="vlist" style="height:1.2500000000000002em;"><span></span></span></span></span > </span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style=" korkeus :1.7500000000000002em;"><span style="top:-3.91em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class ="mord"></span><span class="mord text"><span class="mord">Minuutit, tunnit, päivät, viikot,</span></span></span></span > <span style="top:-2.41em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"> < /span><span class="mord text"><span class="mord">kuukausia</span></span></span></span></span><span class="vlist-s " ></span></span><span class="vlist-r"><span class="vlist" style="height:1.2500000000000002em;"><span></span></span></ span></span></span></span></span></span></span><span style="top:3.140000000 0000023em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"><span class="mord"></span><span class=" mord mathnormal">L</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text "><span class="mord">Alempi kanava</span></span></span></span></span><span class="vlist-s">​</span></span ><span class="vlist-r"><span class="vlist" style="height:7.550000000000025em;"><span></span></span></span></span></span ></span></span></span></span></span>
+
+## Kuinka laskea Donchian-kanavat
+
+### Channel High
+
+1. Valitse aikajakso (N minuuttia/tuntia/päivää/viikkoa/kuukautta).
+
+1. Vertaa korkeaa tulosta kunkin minuutin, tunnin, päivän, viikon tai kuukauden kohdalla kyseisen ajanjakson aikana.
+
+1. Valitse korkein painatus.
+
+1. Piirrä tulos.
+
+### Kanava matala
+
+1. Valitse aikajakso (N minuuttia/tuntia/päivää/viikkoa/kuukautta).
+
+1. Vertaile kunkin minuutin, tunnin, päivän, viikon tai kuukauden alhaista tulosta kyseisellä ajanjaksolla.
+
+1. Valitse pienin tuloste.
+
+1. Piirrä tulos.
+
+### Keskikanava
+
+1. Valitse aikajakso (N minuuttia/tuntia/päivää/viikkoa/kuukautta).
+
+1. Vertaa korkeita ja alhaisia tulosteita kullekin minuutille, tunnille, päivälle, viikolle tai kuukaudelle kyseisenä ajanjaksona.
+
+1. Lisää matalin painatus korkeimpaan korkeaan tulosteeseen ja jaa kahdella.
+
+1. Piirrä tulos.
+
+## Mitä Donchian-kanavat kertovat sinulle?
+
+Donchian Channels tunnistaa vertailevia suhteita nykyisen hinnan ja kaupankäyntirajojen välillä ennalta määrättyjen ajanjaksojen aikana. Kolme arvoa muodostavat visuaalisen hinnan kartan ajan kuluessa, kuten Bollinger Bands, osoittaen nousun ja laskun laajuuden valitulla ajanjaksolla. Ylärivi ilmaisee nousevan energian laajuuden korostaen kauden korkeinta hintaa, joka saavutettiin härkäkarhukonfliktin kautta.
+
+Keskiviiva identifioi jakson mediaani- tai keskimääräisen palautushinnan korostaen kaudella saavutettua keskitietä härkä-karhukonfliktin kautta. Lopputulos ilmaisee karhuenergian laajuuden ja korostaa kaudella saavutettua alinta hintaa härkä-karhukonfliktin kautta.
+
+## Esimerkki Donchian-kanavien käytöstä
+
+<!--A1779CDD9C61EDC888BA3471CFCECA78-->
+
+Tässä esimerkissä Donchin kanava on varjostettu alue, jota rajoittavat ylempi vihreä viiva ja alempi punainen viiva, jotka molemmat käyttävät 20 päivää kaistanmuodostusjaksoina (N). Kun hinta nousee korkeimpaan pisteeseensä viimeisen 20 päivän aikana tai kauemmin, hintapalkit "työntävät" vihreää viivaa korkeammalle, ja kun hinta laskee alimmalle tasolle 20 päivässä tai enemmän, hintapalkit "työntävät" punaista. rivi alempana.
+
+Kun hinta laskee 20 päivän ajan korkeimmasta tasosta, vihreä viiva on vaakasuora ja alkaa sitten laskea. Päinvastoin, kun hinta nousee alhaalta 20 päivän ajan, punainen viiva on vaakasuora 20 päivää ja alkaa sitten nousta.
+
+## Donchian-kanavien ja Bollinger-yhtyeiden välinen ero
+
+Donchian-kanavat kuvaavat korkeimman korkeimman ja alimman alimman N jakson ajalta, kun taas Bollingerin nauhat kuvaavat yksinkertaisen liukuvan keskiarvon (SMA) N jaksolle plus/miinus hinnan keskihajonnan N jaksolle X 2. Tämä johtaa tasapainoisempaan laskelmaan, joka pienentää suurten korkeiden tai matalien tulosteiden vaikutus.
+
+## Donchian-kanavien käytön rajoitukset
+
+Markkinat liikkuvat useiden aktiviteettisyklien mukaan. Satunnainen tai yleisesti käytetty N-jakson arvo Donchian-kanaville ei välttämättä heijasta tämänhetkisiä markkinaolosuhteita, mikä tuottaa vääriä signaaleja, jotka voivat heikentää kaupankäynnin ja sijoitusten suorituskykyä.
+
+##Kohokohdat
+
+- Donchian Channels on tekninen indikaattori, joka pyrkii tunnistamaan nousevia ja laskevia äärimmäisyyksiä, jotka suosivat käänteitä sekä korkeampia ja pienempiä läpimurtoja, hajotuksia ja uusia trendejä.
+
+- Nämä pisteet osoittavat keskimääräisen palautushinnan.
+
+- Keskikaista yksinkertaisesti laskee keskiarvon korkeimman N jakson ja alimman N jakson välillä.
+
