@@ -1,0 +1,39 @@
+---
+keywords: Investing,Financial Technology and Automated Investing,FinTech
+title: Offenes Banking
+description: Open Banking ist ein System, das Drittanbietern den Zugriff auf Finanzdaten durch die Verwendung von Anwendungsprogrammierschnittstellen (APIs) ermöglicht.
+---
+
+# Offenes Banking
+## Was ist Open Banking?
+
+Open Banking wird auch als „offene Bankdaten“ bezeichnet. Open Banking ist eine Banking-Praxis, die Drittanbietern von Finanzdienstleistungen durch die Verwendung von [Anwendungsprogrammierschnittstellen (APIs)](/application-programming-interface) freien Zugang zu Verbraucherbank-, Transaktions- und anderen Finanzdaten von Banken und [Finanzinstituten außerhalb des Bankensektors bietet](/financialinstitution). Open Banking ermöglicht die institutsübergreifende Vernetzung von Konten und Daten zur Nutzung durch Verbraucher, Finanzinstitute und Drittanbieter. Open Banking entwickelt sich zu einer wichtigen Innovationsquelle, die die Bankenbranche umgestalten wird.
+
+## Open Banking verstehen
+
+Im Rahmen von Open Banking gewähren Banken Drittanbietern, bei denen es sich in der Regel um Tech-Startups und Anbieter von Online-Finanzdienstleistungen handelt, Zugriff und Kontrolle über persönliche und finanzielle Daten von Kunden. Kunden müssen normalerweise eine Art Zustimmung erteilen, damit die Bank einen solchen Zugriff zulässt, z. B. das Aktivieren eines Kästchens auf einem Bildschirm mit den Nutzungsbedingungen in einer Online-App. Drittanbieter-APIs können dann die gemeinsamen Daten des Kunden (und Daten über die finanziellen Gegenparteien des Kunden) verwenden. Zu den Verwendungszwecken gehören der Vergleich der Konten und des Transaktionsverlaufs des Kunden mit einer Reihe von Finanzdienstleistungsoptionen, das Sammeln von Daten über teilnehmende Finanzinstitute und Kunden zur Erstellung von Marketingprofilen oder das Vornehmen neuer Transaktionen und Kontoänderungen im Namen des Kunden.
+
+## Das Versprechen von Open Banking
+
+Open Banking ist ein Innovationstreiber in der Bankenbranche. Durch den Einsatz von Netzwerken anstelle von Zentralisierung kann Open Banking Finanzdienstleistungskunden dabei unterstützen, ihre Finanzdaten sicher mit anderen Finanzinstituten zu teilen. Beispielsweise können Open-Banking-APIs den manchmal mühsamen Prozess des Wechsels von der Nutzung des [Girokontodienstes einer Bank](/checkingaccount) zu dem einer anderen Bank erleichtern. Die API kann auch die Transaktionsdaten der Verbraucher einsehen, um die besten Finanzprodukte und -dienstleistungen für sie zu identifizieren, z. B. ein neues [Sparkonto](/savingsaccount),. das einen höheren Zinssatz als das aktuelle Sparkonto bringen würde, oder eine andere Kreditkarte mit einem niedrigeren Zinssatz.
+
+Durch die Nutzung vernetzter Konten könnte Open Banking Kreditgebern helfen, sich ein genaueres Bild von der finanziellen Situation und dem Risikoniveau eines Verbrauchers zu machen, um rentablere Kreditkonditionen anbieten zu können. Es könnte den Verbrauchern auch helfen, sich ein genaueres Bild von ihren eigenen Finanzen zu machen, bevor sie sich verschulden. Eine Open-Banking-App für Kunden, die ein Eigenheim kaufen möchten, könnte auf der Grundlage aller Informationen in ihren Konten automatisch berechnen, was sich Kunden leisten können, und möglicherweise ein zuverlässigeres Bild liefern, als die aktuellen Richtlinien für Baufinanzierungen liefern. Eine andere App könnte sehbehinderten Kunden helfen, ihre Finanzen durch Sprachbefehle besser zu verstehen. Open Banking kann auch kleinen Unternehmen dabei helfen, durch Online-Buchhaltung Zeit zu sparen, und Betrugserkennungsunternehmen helfen, Kundenkonten besser zu überwachen und Probleme früher zu erkennen.
+
+Open Banking wird große, etablierte Banken dazu zwingen, gegenüber kleineren und neueren Banken wettbewerbsfähiger zu sein, was im Idealfall zu niedrigeren Kosten, besserer Technologie und besserem Kundenservice führt. Etablierte Banken müssen Dinge auf neue Weise tun, für die sie derzeit nicht eingerichtet sind, und Geld ausgeben, um neue Technologien einzuführen. Banken können diese neue Technologie jedoch nutzen, um Kundenbeziehungen und Kundenbindung zu stärken, indem sie Kunden besser bei der Verwaltung ihrer Finanzen unterstützen, anstatt nur Transaktionen zu erleichtern.
+
+Bevor Banken Open Banking anboten, waren Aggregationsseiten wie Mint oder Personal Capital, die die Kontoinformationen der Benutzer von all ihren Finanzinstituten kombinieren, so dass sie sie an einem Ort sehen können, das Nächstmögliche. Solche Dienste erreichen dies, indem sie von den Benutzern verlangen, ihre Benutzernamen und Passwörter für jedes Konto zu übergeben, und dann die Daten von den Bildschirmen dieser Konten löschen. Diese Praxis birgt Sicherheitsrisiken und die Ergebnisse des Screen Scraping sind nicht immer ganz genau, was es für Benutzer manchmal schwierig macht, Transaktionen zu identifizieren. Darüber hinaus stellen Benutzer möglicherweise fest, dass nicht alle ihre Finanzkonten mit Kontenaggregationsdiensten kompatibel sind, was sie daran hindert, sich ein wahres oder vollständiges Bild ihrer Finanzen zu machen. APIs gelten als sicherere Option, da sie es Anwendungen ermöglichen, Daten direkt zu teilen, ohne Kontoanmeldeinformationen weiterzugeben.
+
+## Risiken von Open Banking
+
+Open Banking kann Vorteile in Form eines bequemen Zugangs zu Finanzdaten und -diensten für Verbraucher bieten und einige Kosten für Finanzinstitute rationalisieren. Es birgt jedoch möglicherweise auch ernsthafte Risiken für die finanzielle Privatsphäre und die Sicherheit der Verbraucherfinanzen sowie daraus resultierende Verbindlichkeiten gegenüber Finanzinstituten. Open-Banking-APIs sind nicht ohne Sicherheitsrisiken, wie z. B. das Potenzial für eine bösartige [Drittanbieter-](/third-party) App, das Konto eines Kunden zu bereinigen. Dies wäre eine extreme (und weniger wahrscheinliche) Bedrohung. Viel breitere Bedenken wären einfach Datenschutzverletzungen aufgrund mangelnder Sicherheit, Hacking oder Insider-Bedrohungen, die in der Neuzeit relativ weit verbreitet sind, auch bei Finanzinstituten, und wahrscheinlich alltäglich bleiben werden, da immer mehr Daten auf immer mehr Arten miteinander verbunden werden.
+
+Open Banking wird wahrscheinlich die Wettbewerbslandschaft der Finanzdienstleistungsbranche verändern, was den Verbrauchern zugute kommen könnte, indem es den Wettbewerb wie oben beschrieben verstärkt, aber auch den umgekehrten Effekt haben und die Verbraucherkosten erhöhen könnte, wenn es aufgrund der Natur zu einer [Konsolidierung](/consolidation) bei Finanzdienstleistungen führt [Skaleneffekte](/economiesofscale) durch Big Data und [Netzwerkeffekte](/network-effect). Die daraus resultierende Marktkonzentration und die damit verbundene [Preissetzungsmacht](/market-power) könnten alle Kostenvorteile für die Verbraucher mehr als ausgleichen. Eine solche Marktkonsolidierung wurde bereits bei anderen internetbasierten Diensten wie Online-Shopping, Suchmaschinen und sozialen Medien beobachtet und vielfach kritisiert, da Verbraucher und Aufsichtsbehörden weithin glauben, dass dies zu einem Missbrauch von Kundendaten durch Technologiegiganten führt zu ihrem eigenen Vorteil. Abgesehen von den direkten Kosten der [Marktkonzentration könnte](/hhi) [ein](/hhi) ähnlicher Missbrauch privater Finanzdaten von Kunden letztendlich noch größere Bedenken hervorrufen.
+
+## Höhepunkte
+
+- Open Banking hat das Potenzial, die Wettbewerbslandschaft und das Verbrauchererlebnis der Bankenbranche neu zu gestalten.
+
+- Open Banking ist das System, das den Zugang und die Kontrolle von Bank- und Finanzkonten für Verbraucher durch Anwendungen von Drittanbietern ermöglicht.
+
+- Open Banking erhöht das Potenzial für sowohl vielversprechende Gewinne als auch schwerwiegende Risiken für die Verbraucher, da mehr ihrer Daten breiter geteilt werden.
+
