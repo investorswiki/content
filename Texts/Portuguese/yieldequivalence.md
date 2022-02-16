@@ -1,0 +1,53 @@
+---
+keywords: Investing,Bonds,Municipal Bonds
+title: Equivalência de rendimento
+description: Equivalência de rendimento é a taxa de juros de um título tributável que produziria um retorno igual ao de um título isento de impostos e vice-versa.
+---
+
+# Equivalência de rendimento
+## O que é a equivalência de rendimento?
+
+Equivalência de rendimento é a [taxa de juros](/interestrate) de um título tributável que geraria um retorno equivalente ao retorno de um [título isento de impostos](/tax_exempt_security) e vice-versa.
+
+## Entendendo a equivalência de rendimento
+
+A equivalência de rendimento é importante para investidores de [títulos](/municipalbond) [municipais](/municipalbond),. que querem saber se a economia fiscal de seus títulos compensará os [rendimentos mais baixos](/yield) em relação a títulos tributáveis de duração semelhante. A equivalência de rendimento é uma comparação frequentemente usada pelos investidores quando estão tentando descobrir se obteriam um retorno melhor de um investimento isento de impostos ou isento de impostos do que obteriam de uma alternativa tributável.
+
+A equivalência de rendimento pode ser calculada usando as seguintes equações:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Equivalência de rendimento tributável</mtext><mo>=</mo><mfrac><mtext>Isento de impostos Rendimento</mtext><mrow><mn>1</mn><mo>−</mo><mtext>Taxa de imposto</mtext></mrow></mfrac></mrow></mstyle>< /mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{Taxable Yield Equivalence} = \frac { \text{Tax-Exempt Yield} } { 1 - \text{Taxa de imposto} } \\ \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"> <span class="base"><span class="strut" style="height:2.4407699999999997em;vertical-align:-0.970385em;"></span><span class="mord"><span class=" mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.4703849999999996em;"><span style="top:-3.4703849999999994em;"><span class="pstrut" style="height: 3.3714399999999998em;"></span><span class="mord"></span></span></span><span class="vlist-s"></span></span><span class ="vlist-r"><span class="vlist" style="height:0.970385em;"><span></span></span></span></span></span><span class ="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.4703849999999996em;"> < span style="top:-3.4703849999999994em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"> < /span><span class="mord text"><span class="mord">Equivalência de rendimento tributável</span></span><span class="mspace" style="margin-right:0.277777777777778em;" > </span><span class="mrel">=</span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mord">< span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vli st-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3714399999999998em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span><span class="mspace" style="margin -right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord text"><span class="mord">Taxa de imposto</span></span></span></span><span style="top:-3.23em;"><span class= "pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style ="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class ="mord">Rendimento isento de impostos</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.7693300000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span ></span></span></span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class=" vlist" style="height:0.970385em;"><span></span></span></span></span></span></span></span></span></ span ></span>
+
+﻿
+
+e
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mtext>Equivalência de rendimento isento de impostos</mtext><mo> =</mo></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext> Rendimento tributável </ mtext><mo>×</mo></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></ mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo stretchy="false">(</mo>< mn>1</mn><mo>−</mo><mtext>Taxa de imposto</mtext><mo stretchy="false">)</mo></mrow></mstyle></mtd>< /mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} \text{Tax-Exempt Yield Equivalence} =&amp; \ \text{Taxable Yield} \ \times \\ &amp;( 1 - \text{Tax Rate} ) \\ \end{aligned}</annotation></semantics></math></span><span class ="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:3.0000000000000004em;vertical-align:-1.2500000000000002em;"></span ><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r "><span class="vlist" style="height:1.7500000000000002em;"><span style="top:-3.91em;"><span class="pstrut" style="height:3em;"></ span><span class="mord"><span class="mord text"><span class="mord">Equivalência de rendimento isento de impostos</span></span><span class="mspace" style=" margin-right:0.2777777777777778em;"></span><span class="mrel">=</span></span></span><span style="top:-2.41em;"><span class ="pstrut" style="height:3em;"></span><span class="mord"></span></span></span><span class="vlist-s">​</ span></span><span class="vlist-r"><span class="vlist" style="height:1.2500000000000002em;"><span></span></span ></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.7500000000000002em;"><span style="top:-3.91em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mspace"> </span><span class="mord text"><span class="mord">Rendimento Tributável< /span></span><span class="mspace"> </span><span class="mord">×</span></span></span><span style="top:-2.41em ;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mopen" >(</span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin"> −</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord text"><span class="mord">Taxa de imposto</span ></span><span class="mclose">)</span></span></span></span><span class="vlist-s"><​</span></span> < span class="vlist-r"><span class="vlist" style="height:1 .2500000000000002em;"><span></span></span></span></span></span></span></span></span></span></span>
+
+﻿
+
+Para calcular a equivalência de rendimento entre títulos isentos de impostos e títulos tributáveis, comece dividindo o rendimento isento de impostos do título por 1 menos a [taxa de imposto do investidor](/taxrate). Por exemplo, suponha que você esteja considerando um investimento em um título municipal isento de impostos de 6%, mas queira saber qual seria a taxa de juros de um [título corporativo tributável](/corporatebond) para obter o mesmo retorno. Se você tiver uma taxa de tributação de 24%, subtrairia 0,24 menos um, o que totaliza 0,76. Então, você dividiria 6, o rendimento isento de impostos, por 0,76, o que equivale a 7,9.
+
+Esse cálculo informa que você precisaria de um [retorno](/return) de 7,9% sobre seu investimento tributável para igualar o retorno de 6% sobre o investimento isento de impostos. Se, por outro lado, você estivesse na faixa de 35% do imposto, precisaria de um retorno de 9,2% em seu título corporativo para igualar o retorno de 6% em seu investimento municipal.
+
+Por outro lado, se você conhece sua taxa de retorno tributável, pode calcular a taxa equivalente em um investimento isento de impostos. Isso é feito multiplicando a taxa tributável por 1 menos sua taxa de imposto. Portanto, se sua declaração tributável for de 6% e sua taxa de tributação for de 24%, você precisará de uma declaração de 4,6% sobre um título isento de impostos para corresponder à declaração pós-imposto sobre um título tributável.
+
+## Novas alíquotas de impostos marginais
+
+A aprovação da Lei de Cortes de Impostos e Empregos no final de 2017 resultou em uma série de mudanças nas [taxas marginais de imposto](/marginaltaxrate) [e](/income) nas faixas de renda a partir de 2018 . . À medida que a taxa marginal de imposto aumenta, os contribuintes acabam com menos dinheiro por dólar ganho do que retiveram em dólares anteriormente ganhos.
+
+os sistemas tributários que empregam alíquotas marginais aplicam alíquotas diferentes a diferentes níveis de renda; à medida que o rendimento aumenta, é tributado a uma taxa mais elevada. É importante notar, no entanto, que a renda não é toda tributada em uma alíquota, mas em muitas alíquotas à medida que se move ao longo da tabela [de alíquota marginal](/taxschedule).
+
+Ao calcular a equivalência de rendimentos entre investimentos isentos de impostos e tributáveis, os investidores devem estar cientes dessas novas alíquotas e incorporá-las de acordo com suas equações de equivalência de rendimentos.
+
+**Suportes de Imposto de Renda 2021**
+
+<h5><a href="">TT</a></h5>
+
+##Destaques
+
+- A equivalência de rendimentos é importante para investidores de títulos municipais, que desejam saber se a economia fiscal de seus títulos compensará os rendimentos mais baixos em relação a títulos tributáveis de duração semelhante.
+
+- Equivalência de rendimento é a taxa de juros de um título tributável que geraria um retorno equivalente ao retorno de um título isento de impostos e vice-versa.
+
+- Ao calcular a equivalência de rendimento entre investimentos isentos de impostos e tributáveis, os investidores devem estar cientes das taxas de imposto vigentes.
+
