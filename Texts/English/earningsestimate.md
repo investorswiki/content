@@ -1,0 +1,24 @@
+---
+keywords: Investing,Markets,Stock Markets
+title: Earnings Estimate
+description: What Are Earnings Estimates? Earnings estimates are the projected profits of a company for a period. Estimates can be given by a company&#39;s executive
+---
+
+# Earnings Estimate
+## What Are Earnings Estimates?
+Earnings estimates are the projected [profits](/netincome) of a company for a period. Estimates can be given by a company's executive management as part of public disclosure in forward-looking statements, or by analysts who serve in the interests of investors, and the figures are generally expressed on a [per-share basis](/fundamental earnings-per-share).
+For publicly traded companies, these estimates could show up in a financial statement that is recorded quarterly and yearly with the Securities and Exchange Commission. They may likewise show up in press releases or be announced verbally by an executive to the media. Any forward-looking statement issued by a publicly traded company, including any internal estimate gave at introductions, must be disclosed to the public as part of SEC regulation.
+Analysts would distribute earnings estimates in their reports prepared for investors, and they commonly would give a clarification to their conjectures.
+## How Are Earnings Estimates Calculated?
+Earnings are calculated in view of the details that make up a company's [income statement](/incomestatement). Analysts at institutional brokerage firms or resource management firms make earnings projections in view of estimates for revenue and costs, and these conjectures might differ by year, quarter, or season.
+Christmas sales during the fourth quarter could be the greatest quarter of the calendar year for retailers, for instance, as shoppers make large purchases of goods as gifts to family and friends. A company's traditional release of new products in the second from last quarter could make that period the greatest, while the main quarter could be the slowest earnings growth period as consumer purchases ebb after the colder time of year holiday season.
+Financial data suppliers, for example, Bloomberg LP and FactSet gather analysts' earnings estimates on listed companies, and they normally distribute what's known as a consensus earnings estimate, or the average of analysts' earnings estimates.
+## Why Are Earnings Estimates Important?
+After a company reports its net income, that figure is matched against its earnings estimates, and in the event that the two figures aren't about something very similar, the outcome is an earnings surprise. Earnings that were higher than estimates are supposed to be, in investorspeak, above expectations. In the event that they were short of estimates, they're below expectations, and assuming on target, they have measured up to assumptions.
+The market's reaction to earnings surprises can be prompt. Being above expectations can push stock prices higher and give strong returns to investors, while being below can cut share prices down and offer poor returns.
+At the end of the day, on the off chance that a stock neglects to match earnings estimates, investors might respond by cutting the stock price down. Then again, they might respond emphatically when profit surpasses estimates. For instance, in the event that a company reports earnings at $2 a share in its fiscal first quarter, and analysts' consensus earnings estimate was $3 a share, that is called a "negative surprise." If the company reported earnings at $4 a share, it "beats" estimates, and that is called an "potential gain surprise."
+Profit that comes in above expectations can likewise recommend future earnings growth, which prompts higher [price-to-estimated-earnings ratios](/price-earningsratio). Also, alternately, profit that was below expectations could drag likely earnings in later periods.
+## How Do Earnings Estimates Relate to Profit Warnings?
+In some cases, publicly traded companies will issue a profit warning on their earnings performance for a future period, be it a quarter or a year. This might predict net income coming in below analysts' consensus earnings estimates, or potentially a loss. Purposes behind giving a profit warning fluctuate from a **force majeure** at a facility to a sudden downturn in the economy depressing consumer demand. Analysts could likewise thusly change their earnings estimates to mirror the profit warning.
+## How Does a Whisper Number Differ From an Earnings Estimate?
+The market may likewise respond to an unpublished earnings estimate, known as a [whisper number](/whispernumber). This is an unofficial estimate frequently released by an anonymous analyst, or even an anonymous company insider, to surrender investors a heads on profit prior to the release of official financial outcomes. Now and again, the whisper number is the real number or exceptionally close to it.
