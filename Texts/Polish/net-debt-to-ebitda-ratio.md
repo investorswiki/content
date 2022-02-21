@@ -1,0 +1,49 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Ratios
+title: Wskaźnik zadłużenia netto do EBITDA
+description: Wskaźnik zadłużenia netto do EBITA jest miarą dźwigni finansowej, obliczoną jako oprocentowane zobowiązania spółki pomniejszone o gotówkę i podzielone przez EBITDA.
+---
+
+# Wskaźnik zadłużenia netto do EBITDA
+## Jaki jest stosunek zadłużenia netto do EBITDA?
+
+Wskaźnik zadłużenia netto do [EBITDA](/ebitda) (zysk przed amortyzacją odsetek) jest miarą dźwigni finansowej obliczaną jako oprocentowane zobowiązania spółki pomniejszone o środki pieniężne lub ich ekwiwalenty, podzielone przez jej EBITDA. Wskaźnik zadłużenia netto do EBITDA to wskaźnik zadłużenia, który pokazuje, ile lat zajęłoby firmie spłata zadłużenia, gdyby dług netto i EBITDA były utrzymywane na stałym poziomie. Jeśli jednak firma ma więcej gotówki niż zadłużenia, wskaźnik może być ujemny. Jest podobny do wskaźnika [dług/EBITDA](/debt_edbitda),. ale dług netto odejmuje środki pieniężne i ich ekwiwalenty, podczas gdy standardowy wskaźnik nie.
+
+##﻿Wzór na stosunek zadłużenia netto do EBITDA to
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantyka><mrow><mi>N </mi><mi>e</mi><mi>t</mi><mtext> </mtext><mi>D</mi><mi>e</mi><mi>b</mi ><mi>t</mi><mtext> </mtext><mi>t</mi><mi>o</mi><mtext> </mtext><mi>E</mi><mi> B</mi><mi>I</mi><mi>T</mi><mi>D</mi><mi>A</mi><mo>=</mo><mfrac><mrow ><mi>T</mi><mi>o</mi><mi>t</mi><mi>a</mi><mi>w</mi><mtext> </mtext><mi >D</mi><mi>e</mi><mi>b</mi><mi>t</mi><mo>−</mo><mi>C</mi><mi>a </mi><mi>s</mi><mi>h</mi><mi mathvariant="normal">&amp;</mi><mi>E</mi><mi>q</mi> <mi>u</mi><mi>ja</mi><mi>w</mi><mi>a</mi><mi>ja</mi><mi>j</mi><mi >n</mi><mi>t</mi><mi>s</mi></mrow><mrow><mi>E</mi><mi>B</mi><mi>I< /mi><mi>T</mi><mi>D</mi><mi>A</mi></mrow></mfrac></mrow><annotation encoding="aplikacja/x-tex" > Netto \ Dług \ do \ EBITDA = \frac{Całkowity \ Dług - Gotówka \&amp; Ekwiwalenty}{EBITDA}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class= "strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord mathnormal">e</span><span class="mord mathnormal">t</span><span class="mspace"> </span><span class="mord mathnormal" style="margines -right:0.02778em;">D</span><span class="mord mathnormal">e</span><span class="mord mathnormal">b</span><span class="mord mathnormal"> </span><span class="mspace"> </span><span class="mord mathnormal"> </span><span class="mord mathnormal">o</span><span class=" mspace"> </span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mord mathnormal" style="margin-right:0.05017em; ">B</span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="mord mathnormal" style="margin-right:0.13889em; Styl ">T</span><span class="mord mathnormal" le="margin-right:0.02778em;">D</span><span class="mord mathnormal">A</span><span class="mspace" style="margin-right:0.277777777777778em;"> </span><span class="mrel">=</span><span class="mspace" style="margin-right:0.277777777777777778em;"></span></span><span class="base "><span class="strut" style="height:1.277216em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></ span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9322159999999999em;"> <span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class= "mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.05764em;">E</span><span class="mord mathnormal mtight" style="margin-right:0.05017em; ">B</span><span class="mord mathnormal mtight" style="margin-right:0.07847em;">I</span><span class="mord mathnormal mtight" style="margin-right:0.13889 em;">T </span><span class="mord mathnormal mtight" style="margin-right:0.02778em;">D</span><span class="mord mathnormal mtight">A</span></span>< /span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style ="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108em;"><span class="pstrut" style="height:3em;"> </span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.13889em;">T</ span><span class="mord mathnormal mtight">o</span><span class="mord mathnormal mtight">t</span><span class="mord mathnormal mtight">a</span><span klasa ="mord mathnormal mtight" style="margin-right:0.01968em;">l</span><span class="mspace mtight"><span class="mtight"> </span></span><span class="mord mathnormal mtight" style="margin-right:0.02778em;">D</span><span class="mord mathnormal mtight">e</span><span class="mord mathnormal mtight">b </span><span class="mord mathnormal m tight">t</span><span class="mbin mtight">−</span><span class="mord mathnormal mtight" style="margin-right:0.07153em;">C</span><span class="mord mathnormal mtight">a</span><span class="mord mathnormal mtight">s</span><span class="mord mathnormal mtight">h</span><span class="mord mtight ">&amp;</span><span class="mord mathnormal mtight" style="margin-right:0.05764em;">E</span><span class="mord mathnormal mtight" style="margin-right: 0.03588em;">q</span><span class="mord mathnormal mtight">u</span><span class="mord mathnormal mtight">i</span><span class="mord mathnormal mtight" styl ="margin-right:0.03588em;">v</span><span class="mord mathnormal mtight">a</span><span class="mord mathnormal mtight" style="margin-right:0.01968em; ">l</span><span class="mord mathnormal mtight">e</span><span class="mord mathnormal mtight">n</span><span class="mord mathnormal mtight">t</ span><span class="mord mathnormal mtight">s</span></span></span></span></span><span class="vlist-s"><​</span>< / span><span class=" vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class=" mclose nulldelimiter"></span></span></span></span></span>
+
+
+
+## Co może Ci powiedzieć dług netto do EBITDA
+
+Wskaźnik zadłużenia netto do EBITDA jest popularny wśród analityków, ponieważ uwzględnia zdolność firmy do zmniejszania zadłużenia. Wskaźniki wyższe niż 4 lub 5 zwykle wywołują dzwonki alarmowe, ponieważ oznacza to, że firma jest mniej skłonna do obsługi zadłużenia, a tym samym jest mniej prawdopodobne, że będzie w stanie zaciągnąć dodatkowy dług wymagany do rozwoju firmy.
+
+Wskaźnik zadłużenia netto do EBITDA należy porównać ze wskaźnikiem lub średnią branżową, aby określić zdolność kredytową firmy. Dodatkowo można przeprowadzić [analizę horyzontalną](/horizontalanalysis) w celu ustalenia, czy firma zwiększyła lub zmniejszyła swoje obciążenie zadłużeniem w określonym czasie. W przypadku analizy poziomej wskaźniki lub pozycje w sprawozdaniu finansowym są porównywane z tymi z poprzednich okresów, aby określić, jak firma rozwinęła się w określonym przedziale czasowym.
+
+## Przykład wykorzystania długu netto do EBITDA
+
+Załóżmy, że inwestor chce przeprowadzić analizę horyzontalną firmy ABC, aby określić jej zdolność do spłaty zadłużenia. W poprzednim roku finansowym krótkoterminowe zadłużenie Spółki ABC wyniosło 6,31 mld USD, zadłużenie długoterminowe 28,99 mld USD, a zasoby gotówkowe 13,84 mld USD.
+
+W związku z tym firma ABC odnotowała zadłużenie netto w wysokości 21,46 mld USD, czyli 6,31 mld USD plus 28,99 mld USD minus 13,84 mld USD oraz EBITDA w wysokości 60,60 mld USD w okresie podatkowym. następnie wskaźnik zadłużenia netto spółki ABC do EBITDA wynosi 0,35, czyli 21,46 mld USD, podzielone przez 60,60 mld USD.
+
+Teraz, w ostatnim roku podatkowym, firma ABC miała krótkoterminowe zadłużenie w wysokości 8,50 miliarda dolarów, zadłużenie długoterminowe w wysokości 53,46 miliarda dolarów i 21,12 miliarda w gotówce. Dług netto firmy wzrósł o 90,31% do 40,84 miliarda dolarów rok do roku. Spółka ABC odnotowała EBITDA w wysokości 77,89 mld USD, co stanowi wzrost o 28,53% w porównaniu z EBITDA w poprzednim roku.
+
+W związku z tym spółka ABC miała wskaźnik zadłużenia netto do EBITDA na poziomie 0,52 lub 40,84 miliarda USD podzielonego przez 77,89 miliarda USD. Wskaźnik zadłużenia netto spółki ABC do EBITDA wzrósł o 0,17, czyli 49,81% rok do roku.
+
+## Ograniczenia korzystania z długu netto do EBITDA
+
+Analitycy lubią wskaźnik dług netto/EBITDA, ponieważ łatwo go obliczyć. Dane dotyczące zadłużenia można znaleźć w bilansie, a EBITDA można obliczyć z rachunku zysków i strat. Problem polega jednak na tym, że może nie zapewniać najdokładniejszej miary zarobków. Bardziej niż zarobki, analitycy chcą ocenić ilość gotówki dostępnej na spłatę zadłużenia.
+
+Amortyzacja to wydatki bezgotówkowe, które tak naprawdę nie wpływają na przepływy pieniężne, ale odsetki mogą być znaczącym wydatkiem dla niektórych firm. Banki i inwestorzy przyglądając się aktualnemu wskaźnikowi dług/EBITDA, aby uzyskać wgląd w to, jak dobrze firma może spłacić swój dług, mogą chcieć rozważyć wpływ odsetek na dług, nawet jeśli dług zostanie uwzględniony w nowej emisji. W ten sposób dochód netto pomniejszony o wydatki kapitałowe oraz amortyzację i amortyzację może być lepszą miarą środków pieniężnych dostępnych na spłatę zadłużenia.
+
+##Przegląd najważniejszych wydarzeń
+
+- Jest podobny do wskaźnika dług/EBITDA, ale dług netto odejmuje środki pieniężne i ich ekwiwalenty, podczas gdy standardowy wskaźnik nie.
+
+- Wskaźnik zadłużenia netto do EBITDA to wskaźnik zadłużenia, który pokazuje, ile lat zajęłoby firmie spłata zadłużenia, gdyby dług netto i EBITDA były utrzymywane na stałym poziomie.
+
+- Jeśli firma ma więcej gotówki niż zadłużenia, wskaźnik może być ujemny.
+
+- Kiedy analitycy patrzą na stosunek zadłużenia netto do EBITDA, chcą wiedzieć, jak dobrze firma może pokryć swoje zadłużenie.
+
