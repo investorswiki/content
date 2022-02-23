@@ -1,0 +1,49 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Ratios
+title: Relação Dívida Líquida/EBITDA
+description: A relação dívida líquida/EBITA é uma medida de alavancagem, calculada como os passivos remunerados de uma empresa menos o caixa, dividido pelo EBITDA.
+---
+
+# Relação Dívida Líquida/EBITDA
+## Qual é a relação dívida líquida/EBITDA?
+
+A relação dívida líquida/ [EBITDA](/ebitda) (lucro antes da depreciação e amortização de juros) é uma medida de alavancagem, calculada como os passivos remunerados de uma empresa menos caixa ou equivalentes de caixa, dividido pelo seu EBITDA. O índice dívida líquida/EBITDA é um índice de dívida que mostra quantos anos levaria para uma empresa pagar sua dívida se a dívida líquida e o EBITDA fossem mantidos constantes. No entanto, se uma empresa tiver mais caixa do que dívida, o índice pode ser negativo. É semelhante ao [índice dívida/EBITDA](/debt_edbitda),. mas a dívida líquida subtrai caixa e equivalentes de caixa, enquanto o índice padrão não.
+
+##﻿A Fórmula da Dívida Líquida para o EBITDA é
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>N </mi><mi>e</mi><mi>t</mi><mtext> </mtext><mi>D</mi><mi>e</mi><mi>b</mi ><mi>t</mi><mtext> </mtext><mi>t</mi><mi>o</mi><mtext> </mtext><mi>E</mi><mi> B</mi><mi>I</mi><mi>T</mi><mi>D</mi><mi>A</mi><mo>=</mo><mfrac><mrow ><mi>T</mi><mi>o</mi><mi>t</mi><mi>a</mi><mi>l</mi><mtext> </mtext><mi >D</mi><mi>e</mi><mi>b</mi><mi>t</mi><mo>−</mo><mi>C</mi><mi>a </mi><mi>s</mi><mi>h</mi><mi mathvariant="normal">&amp;</mi><mi>E</mi><mi>q</mi> <mi>u</mi><mi>i</mi><mi>v</mi><mi>a</mi><mi>l</mi><mi>e</mi><mi >n</mi><mi>t</mi><mi>s</mi></mrow><mrow><mi>E</mi><mi>B</mi><mi>I< /mi><mi>T</mi><mi>D</mi><mi>A</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex" >Líquido \ Dívida \ a \ EBITDA = \frac{Total \ Dívida - Caixa \&amp; Equivalentes}{EBITDA}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class= "strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord mathnormal">e</span><span class="mord mathnormal">t</span><span class="mspace"> </span><span class="mord mathnormal" style="margin -right:0.02778em;">D</span><span class="mord mathnormal">e</span><span class="mord mathnormal">b</span><span class="mord mathnormal"> t</span><span class="mspace"> </span><span class="mord mathnormal">t</span><span class="mord mathnormal">o</span><span class=" mspace"> </span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mord mathnormal" style="margin-right:0.05017em; ">B</span><span class="mord mathnormal" style="margin-right:0.07847em;">eu</span><span class="mord mathnormal" style="margin-right:0.13889em; Estilo ">T</span><span class="mord mathnormal" le="margin-right:0.02778em;">D</span><span class="mord mathnormal">A</span><span class="mspace" style="margin-right:0.2777777777777778em;"> </span><span class="mrel">=</span><span class="mspace" style="margin-right:0.277777777777778em;"></span></span><span class="base "><span class="strut" style="height:1.277216em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></ span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9322159999999999em;"> <span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class= "mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.05764em;">E</span><span class="mord mathnormal mtight" style="margin-right:0.05017em; ">B</span><span class="mord mathnormal mtight" style="margin-right:0.07847em;">eu</span><span class="mord mathnormal mtight" style="margin-right:0.13889 em;">T </span><span class="mord mathnormal mtight" style="margin-right:0.02778em;">D</span><span class="mord mathnormal mtight">A</span></span>< /span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style ="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108em;"><span class="pstrut" style="height:3em;"> </span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.13889em;">T</ span><span class="mord mathnormal mtight">o</span><span class="mord mathnormal mtight">t</span><span class="mord mathnormal mtight">a</span><span class ="mord mathnormal mtight" style="margin-right:0.01968em;">l</span><span class="mspace mtight"><span class="mtight"> </span></span><span class="mord mathnormal mtight" style="margin-right:0.02778em;">D</span><span class="mord mathnormal mtight">e</span><span class="mord mathnormal mtight">b </span><span class="mord mathnormal m tight">t</span><span class="mbin mtight">−</span><span class="mord mathnormal mtight" style="margin-right:0.07153em;">C</span><span class="mord mathnormal mtight">a</span><span class="mord mathnormal mtight">s</span><span class="mord mathnormal mtight">h</span><span class="mord mtight" ">&amp;</span><span class="mord mathnormal mtight" style="margin-right:0.05764em;">E</span><span class="mord mathnormal mtight" style="margin-right: 0.03588em;">q</span><span class="mord mathnormal mtight">u</span><span class="mord mathnormal mtight">i</span><span class="mord mathnormal mtight" estilo ="margin-right:0.03588em;">v</span><span class="mord mathnormal mtight">a</span><span class="mord mathnormal mtight" style="margin-right:0.01968em; ">l</span><span class="mord mathnormal mtight">e</span><span class="mord mathnormal mtight">n</span><span class="mord mathnormal mtight">t</ span><span class="mord mathnormal mtight">s</span></span></span></span></span><span class="vlist-s"><​</span>< / span><span class=" vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class=" mclose nulldelimiter"></span></span></span></span></span>
+
+
+
+## O que a Dívida Líquida sobre o EBITDA pode lhe dizer
+
+A relação dívida líquida/EBITDA é popular entre os analistas porque leva em consideração a capacidade da empresa de diminuir sua dívida. Índices superiores a 4 ou 5 normalmente disparam alarmes porque isso indica que uma empresa tem menos probabilidade de lidar com sua carga de dívida e, portanto, é menos provável que seja capaz de assumir a dívida adicional necessária para expandir os negócios.
+
+A relação dívida líquida/EBITDA deve ser comparada com um benchmark ou a média da indústria para determinar a qualidade de crédito de uma empresa. Além disso, uma [análise horizontal](/horizontalanalysis) pode ser realizada para determinar se uma empresa aumentou ou diminuiu sua carga de dívida em um período específico. Para análise horizontal, os índices ou itens da demonstração financeira são comparados com os de períodos anteriores para determinar como a empresa cresceu no período de tempo especificado.
+
+## Exemplo de como usar a relação dívida líquida/EBITDA
+
+Suponha que um investidor deseje realizar uma análise horizontal na Empresa ABC para determinar sua capacidade de pagar sua dívida. No ano fiscal anterior, a dívida de curto prazo da Empresa ABC era de US$ 6,31 bilhões, a dívida de longo prazo era de US$ 28,99 bilhões e o caixa era de US$ 13,84 bilhões.
+
+Portanto, a Empresa ABC reportou uma dívida líquida de US$ 21,46 bilhões, ou US$ 6,31 bilhões, mais US$ 28,99 bilhões menos US$ 13,84 bilhões, e um EBITDA de US$ 60,60 bilhões durante o período fiscal. a seguir, a relação dívida líquida/EBITDA da Empresa ABC é de 0,35 ou US$ 21,46 bilhões dividido por US$ 60,60 bilhões.
+
+Agora, para o ano fiscal mais recente, a Empresa ABC tinha dívidas de curto prazo de US$ 8,50 bilhões, dívidas de longo prazo de US$ 53,46 bilhões e US$ 21,12 bilhões em caixa. A dívida líquida da empresa aumentou 90,31% para US$ 40,84 bilhões ano a ano. A empresa ABC reportou um EBITDA de US$ 77,89 bilhões, um aumento de 28,53% em relação ao EBITDA do ano anterior.
+
+Portanto, a Empresa ABC tinha uma relação dívida líquida/EBITDA de 0,52 ou US$ 40,84 bilhões dividido por US$ 77,89 bilhões. A relação dívida líquida/EBITDA da Companhia ABC aumentou 0,17, ou 49,81% ano a ano.
+
+## Limitações do Uso da Dívida Líquida para o EBITDA
+
+Os analistas gostam da relação dívida líquida/EBITDA porque é fácil de calcular. Os valores da dívida podem ser encontrados no balanço e o EBITDA pode ser calculado a partir da demonstração de resultados. O problema, no entanto, é que ele pode não fornecer a medida mais precisa dos ganhos. Mais do que ganhos, os analistas querem mensurar a quantidade de caixa disponível para o pagamento da dívida.
+
+Depreciação e amortização são despesas não monetárias que realmente não impactam o fluxo de caixa, mas os juros podem ser uma despesa significativa para algumas empresas. Bancos e investidores que analisam a relação dívida/EBITDA atual para obter uma visão de quão bem a empresa pode pagar sua dívida podem considerar o impacto dos juros sobre a dívida, mesmo que essa dívida seja incluída em uma nova emissão. Dessa forma, o lucro líquido menos as despesas de capital, mais a depreciação e a amortização podem ser a melhor medida de caixa disponível para pagamento da dívida.
+
+##Destaques
+
+- É semelhante ao índice dívida/EBITDA, mas a dívida líquida subtrai caixa e equivalentes de caixa, enquanto o índice padrão não.
+
+- O índice dívida líquida/EBITDA é um índice de dívida que mostra quantos anos levaria para uma empresa pagar sua dívida se a dívida líquida e o EBITDA fossem mantidos constantes.
+
+- Se uma empresa tiver mais caixa do que dívida, o índice pode ser negativo.
+
+- Quando os analistas analisam a relação dívida líquida/EBITDA, eles querem saber quão bem uma empresa pode cobrir suas dívidas.
+
