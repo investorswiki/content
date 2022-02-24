@@ -1,0 +1,19 @@
+---
+keywords: Company News
+title: Profit Warning
+description: Profit warning happens when a company exhorts shareholders and the public that its earnings results won&#39;t meet analyst expectations. A company generally issues a profit warning prior to the public announcement of its official earnings results.
+---
+
+# Profit Warning
+## What Is a Profit Warning?
+A profit warning is a statement issued by a company connecting with risks of its earnings in a future period, be it a quarter or a year. At the point when a publicly traded company reports a profit warning on its earnings performance, it might predict [net income](/netincome) coming in below its own estimate or analysts' consensus [earnings estimate](/earningsestimate). It likewise might actually post a loss.
+The warning might be remembered for forward-looking statements, for example, in the management discussion and analysis section of the financial statement that is recorded quarterly or every year with the Securities and Exchange Commission. Further, the profit warning could be issued separately in a press release. Subsequent to the public announcement, analysts are probably going to change their earnings estimates and stock price targets to mirror the company's profit warning.
+Explanations behind giving a profit warning change. A multinational oil company might say that earnings are probably going to be down from a similar reporting period a year sooner due to a **force majeure** at a major refining facility. An automaker might report that demand for its gas burning motor cars and trucks in the current fiscal year will be down as purchases for electric vehicles increase. A sudden downturn in the economy will depress consumer demand, raising a ruckus around town of luxury goods producers.
+After the beginning of the COVID-19 pandemic in 2020, many companies cautioned of declining sales and profit as consumers remained at home and held off on purchases. Manufacturers cautioned of disturbances to their supply chains, making them defer production.
+## How Does a Profit Warning Affect a Stock's Price?
+A profit warning is probably going to cause a company's stock to decline. Lower net income means an analyst covering the company's stock should reexamine earnings conjectures, and that could lead to a cascade of different changes, for example, an adjustment in the [price-to-estimated-earnings ratio](/price-earningsratio).
+There is no regulation directing a company's obligation to caution investors of its profit being adversely impacted for a period. However, fair warning essentially half a month's time prior to the release of its [earnings report](/incomestatement) may be considered adequate. That could give time for investors to choose whether to reduce their positions or stand by. All things considered, investor reaction to a company's stock will be immediate, by sending share prices lower.
+Nonetheless, the degree of seriousness of a stock's decline relies upon investor sentiment. A warning that [sales](/income) and profit will be negatively impacted permanently, for instance, could lead to a lofty price decline.
+It would serve to the greatest advantage of a company to release data that could substantially impact its earnings, and inability to do so may be perceived as an endeavor to dupe investors under SEC rules. Subsequently, a justification for companies to publicly caution investors of their impending profit is keep away from shareholder lawsuits.
+## What's the Difference Between a Profit Warning and a Whisper Number?
+A profit warning is a company's distributed disclosure to the public that its earnings may not meet its own internal profit projections or analysts' earnings estimates. A [whisper number](/whispernumber) is an unofficial and unpublished earnings estimate that is casually released prior to the release of a company's income statement.
