@@ -1,0 +1,39 @@
+---
+keywords: Investing,Fundamental Analysis,Tools for Fundamental Analysis,Tools
+title: Pris-vækst flow
+description: Pris-vækst flow er et mål for en virksomheds indtjeningsevne og R&amp;D-udgifter sammenlignet med dens aktuelle markedsværdi.
+---
+
+# Pris-vækst flow
+## Hvad er pris-vækst flow?
+
+Pris-vækst flow er et [finansielt nøgletal](/ratioanalysis),. der identificerer virksomheder, der producerer solid indtjening, mens de foretager store investeringer i [forskning og udvikling](/randd) (F&U). Et flowmål for høj prisvækst indikerer, at en virksomhed sandsynligvis er i stand til at drage fordel af innovation og opfindelse.
+
+## Formlen for pris-vækst flow
+
+Det måles ved hjælp af følgende formel:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Pris-vækstflow</mtext><mo>=</mo><mfrac><mrow><mtext >EPS</mtext><mo>+</mo><mtext>R &amp; D Per Share</mtext></mrow><mtext>Pris Per Share</mtext></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel ="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow ><mtext mathvariant="bold">hvor:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"> <mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>EPS</mtext>< mo>=</mo><mtext>indtjening pr. aktie</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\ start{aligned} &amp;\text{Price-Growth Flow} = \frac{ \text{EPS} + \text{R \&amp; D Per Share} }{ \text{Price Per Share} } \\ &amp;\textbf{hvor:} \\ &amp;\text{EPS} = \text{indtjening pr. aktie} \\ \end{aligned}</ annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height :5.35744em;vertical-align:-2.42872em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class= "vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.92872em;"><span style="top:-4.92872em;">< span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:-3.1027199999999997em;">< span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:-1.6027199999999997em;">< span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span></span><span class="vlist-s"> </span></span><span class="vlist-r"><span class="vlist" style="height:2.42872em;"><span></ span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist- r"><span class="vlist" style="height:2.92872em;"><span style="top:-4.92872em;"><span class="psrut" style="height:3.3714399999999998em;"> </span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Pris-vækstflow</span>< /span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin -right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist -t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="psrutt " style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">Pris pr. andel</span></span> </span></span><span style="top:-3.23em;"><span class="psrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="psrut" style="height:3em;" ></span><span class="mord"><span class="mord text"><span class="mord">EPS</span></span><span class="mspace" style="margin -right:0.22222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mord text"><span class="mord">R &amp; D pr. andel</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r "><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter" ></span></span></span></span><span style="top:-3.1027199999999997em;"><span class="psrut" style="height:3.3714399999999998em;"></span ><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">hvor:</span></span>< /span></span><span style="top:-1.6027199999999997em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord">>< span class="mord"></span><span class="mord text"><span class="mord">EPS</span></span><span class="mspace" style="margin-right :0.27777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class= "mord text"><span class="mord">indtjening pr. aktie</span></span></span></span></span><span class="vlist-s">​</span ></span ><span class="vlist-r"><span class="vlist" style="height:2.42872em;"><span></span></span></span></span></span ></span></span></span></span></span>
+
+
+
+## Forstå pris-vækst flow
+
+Pris-vækst flow er et udtryk for [indtjeningskraft](/earnings-power) og potentiel vækst i forhold til den aktuelle kurs pr. Som formlen ovenfor viser, dividerer forholdet indtjening pr. aktie (EPS) plus [R&D-udgifter](/research-and-development-expenses) pr. aktie med aktiekursen.
+
+Analytikere ser på metrikken for et vindue til en virksomheds kapitalallokeringsstruktur. For eksempel kan ledelsen bruge mere på at udvikle nye produkter og tjenester end på nuværende profitcentre. Tanken er, at lav indtjening kan kompenseres med større R&D-udgifter og omvendt. Hvis en virksomhed beslutter sig for at bruge på i dag og forsømme fremtiden, kan den nuværende indtjening pr. aktie overstige F&U-udgifterne. Begge tilfælde resulterer i en høj læsning af forholdet, hvilket betyder solid indtjening pr. aktie eller R&D-udgifter. På den måde kan investorer vurdere potentiel indtjeningsvækst nu og i fremtiden.
+
+## Pris-vækst og R&D-kapacitet
+
+Men prisvækststrømmen siger ikke noget om, hvor effektivt ledelsen allokerer [kapital](/capital). En stor F&U-regning garanterer for eksempel ikke, at nye produktlanceringer eller markedsimplementeringer vil generere overskud i fremtidige kvartaler. I mellemtiden formår robust indtjeningsvækst ikke at give investorerne indsigt i fremtidsudsigter eller vækstmuligheder. Et optimalt forhold er et, der skaber en balance mellem indtjening og forskning og udvikling uden at vippe helt til én metrik.
+
+I tilfælde af, at kursvækstflowet registrerer en lav læsning, fortæller det investorerne, at aktiekursen har afveget langt ud over fundamentals. Kort sagt er markedsaktiviteten drevet af andet end den nuværende indtjeningsvækst eller af potentiel innovation. Det kan være politisk, økonomisk eller noget helt uafhængigt, der driver den daglige bevægelse. I så fald vil investorer gøre klogt i at overvåge nyhedscyklussen, økonomiske data eller andre finansielle målinger som pris-til-salg og pris-til-bog.
+
+## Højdepunkter
+
+- Prisvækstflow er en populær metode til at måle nuværende og fremtidig indtjeningskraft, da den indikerer, hvilke virksomheder der med succes kan udnytte forskning og udvikling til overskud.
+
+- Et lavt forhold kan betyde, at en virksomhed enten ikke bruger meget på F&U, eller hvis det er, afspejler aktiekursen ikke fremtidige gevinster fra sådanne udgifter.
+
+- Pris-vækst flow dividerer summen af indtjening pr. aktie (EPS) og R&D-udgifter pr. aktie med pris pr. aktie.
+
