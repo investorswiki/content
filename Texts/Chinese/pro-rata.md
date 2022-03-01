@@ -1,0 +1,73 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Analysis
+title: 按比例
+description: 按比例用于描述按比例分配。它是一种根据分数在整体中的份额为分数分配数量的方法。
+---
+
+# 按比例
+## 什么是 Pro Rata？
+
+Pro rata 是一个拉丁术语，用于描述按比例分配。它本质上翻译为“按比例”，这意味着分配的任何东西都将被平均分配的过程。
+
+如果按比例分配给人们某物，则意味着根据他们在整体中的份额分配给一个人。虽然可以使用按比例计算来确定任何给定整体的适当部分，但它通常用于商业金融。
+
+## 了解按比例
+
+按比例通常意味着每一方或个人按整体比例获得公平份额。按比例计算可用于许多领域，包括确定[股息](/dividend)支付，这是公司支付给股东的现金支付。
+
+在保险中，按比例用于确定仅涵盖部分期限的保单的到期[保费金额。](/insurance-premium)也可以按比例将年利率的适当部分分配到较短的时间范围内。
+
+当帐户包含税前和税后美元时，按比例还用于确定来自合格退休帐户（例如 IRA、SEP 或 401(k)）的分配有多少应纳税。例如，账户持有人的 401(k) 资金由 20% 的税前美元和 80% 的税后美元资助。因此，提款将包括 20% 的应税和 80% 的非应税资金。
+
+## 按比例和每位股东的股息
+
+当一家公司向其股东支付股息时，每个投资者都根据其持有的股份获得报酬。例如，如果一家公司有 100[股流通股](/outstandingshares)，并发行每股 2 美元的股息，则支付的股息总额将为 200 美元。无论有多少股东，股息支付总额都不能超过这个限额。在这种情况下，200 美元是整体，并且必须使用按比例计算来确定该整体中应支付给每个股东的适当部分。
+
+假设只有四个股东分别持有 50、25、15 和 10 股。应付每位股东的金额为其按比例分配的份额。这是通过将每个人的所有权除以股份总数，然后将所得分数乘以股息支付总额来计算的。
+
+因此，[大股东](/majorityshareholder)[的份额](/majorityshareholder)为 (50 / 100) x 200 美元 = 100 美元。这是有道理的，因为股东拥有一半的股份并获得总股息的一半。其余股东分别获得 50 美元、30 美元和 20 美元。
+
+## 按比例计算保险费
+
+另一个常见用途是确定部分保险单期限的应付金额。大多数保险单基于 12 个月的期限，因此如果需要短期保单，保险公司必须按比例分配年度保费以确定所欠金额。为此，将总保费除以标准期限的天数，然后乘以截断保单涵盖的天数。
+
+例如，假设通常涵盖一整年的汽车保单的保费为 1,000 美元。如果被保险人只要求保单270天，那么公司必须相应减少保费。此期间到期的按比例保费为 ($1,000 / 365) x 270 = $739.73。
+
+## 按比例计算利率
+
+按比例计算也用于确定投资将获得的利息金额。如果一项投资赚取年利率，那么在较短时期内按比例赚取的金额是通过将利息总额除以一年中的月数并乘以截断期间的月数来计算的。每年产生 10% 利息的投资在两个月内赚取的利息金额为 (10% / 12) x 2 = 1.67%。
+
+就债券而言，[应计利息的支付](/accruedinterest)是按比例计算的。应计利息是债券自上次付息以来累积的总利息。当债券持有人在下一个票息日之前出售债券时，他们仍然有权获得截至债券出售时应计的利息。债券买方而不是发行人负责向债券卖方支付应计利息，该利息被添加到市场价格中。
+
+应计利息的计算公式如下：
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>AI</mtext><mo>=</mo><mtext>债券面值</mtext> <mo>×</mo><mtext>优惠券率</mtext><mo>×</mo><mtext>时间因素</mtext></mrow></mstyle></mtd></mtr> <mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"> <mrow><mrow></mrow><mtext mathvariant="bold">哪里：</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel= "0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow> <mtext>AI</mtext><mo>=</mo><mtext>应计利息</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel ="0" 显示style="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>票面利率</mtext><mo>=</mo><mfrac><mtext>年票面利率</mtext><mtext>每年的期数</mtext></mfrac></mrow></mstyle ></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel= "0" displaystyle="true"><mrow><mrow></mrow><mtext>时间因素</mtext><mo>=</mo><mfrac><mtext>自上次付款后经过的天数</mtext ><mtext>支付周期的天数</mtext></mfrac></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin {aligned} &amp;\text{AI} = \text{债券面值} \times \text{优惠券率} \times \text{时间因子} \\ &amp;\textbf{where:} \\ &amp;\ text{AI} = \text{应计利息} \\ &amp;\text{息票利率} = \frac{ \text{年息票利率} }{ \text{每年的期数} } \\ &amp;\text {时间因子} = \frac{ \text{自上次付款后经过的天数} }{ \text{Paymen 中的天数t Period} } \\ \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base "><span class="strut" style="height:9.409320000000001em;vertical-align:-4.4546600000000005em;"></span><span class="mord"><span class="mtable"><span class ="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:4.9546600000000005em;">< span style="top:-7.4861em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span>< span style="top:-5.9860999999999995em;"><span class="psstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span>< span style="top:-4.486099999999999em;"><span class="psstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span>< span style="top:-2.4546599999999983em;"><span class="psstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span>< span style="top:-0.09721999999999942em;"><span cla ss="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span></span><span class="vlist-s">​ </span></span><span class="vlist-r"><span class="vlist" style="height:4.4546600000000005em;"><span></span></span></span> </span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:4.9546600000000005em;"><span style="top:-7.4861em;"><span class="psstrut" style="height:3.37143999999999998em;"></span><span class="mord "><span class="mord"></span><span class="mord text"><span class="mord">AI</span></span><span class="mspace" style=" margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span>< span class="mord text"><span class="mord">债券面值</span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span ><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span> <span class="mord text"><span class="mord">优惠券率</span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span> <span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord text"><span class=" mord">时间因素</span></span></span></span><span style="top:-5.9860999999999995em;"><span class="pstrut" style="height:3.3714399999999998em;" ></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">哪里：</span>< /span></span></span><span style="top:-4.486099999999999em;"><span class="psstrut" style="height:3.3714399999999998em;"></span><span class=" mord"><span class="mord"></span><span class="mord text"><span class="mord">AI</span></span><span class="mspace" style= "margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span> <span class="mord text"><span class="mord">应计利息</span></ span></span></span><span style="top:-2.4546599999999983em;"><span class="psstrut" style="height:3.3714399999999998em;"></span><span class="mord "><span class="mord"></span><span class="mord text"><span class="mord">优惠券率</span></span><span class="mspace" style= "margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span> <span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r "><span class="vlist" style="height:1.3714399999999998em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></ span><span class="mord"><span class="mord text"><span class="mord">每年的周期数</span></span></span></span><span style="top:-3.23em;"><span class="psstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04 em;"></span></span><span style="top:-3.677em;"><span class="psstrut" style="height :3em;"></span><span class="mord"><span class="mord text"><span class="mord">年利率</span></span></span>< /span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em ;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span ><span style="top:-0.09721999999999942em;"><span class="psstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord" ></span><span class="mord text"><span class="mord">时间因素</span></span><span class="mspace" style="margin-right:0.2777777777777778em;" ></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord">< span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3714399999999998em;"><span style="top:-2.314em;"><span class="psstrut" style="height:3em;"></span><span cla ss="mord"><span class="mord text"><span class="mord">付款天数</span></span></span></span><span style="top: -3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;">< /span></span><span style="top:-3.677em;"><span class="psstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">自上次付款后的天数</span></span></span></span></span><span class="vlist-s"> ​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></span ></span></span><span class="mclose nulldelimiter"></span></span></span></span></span><span class="vlist-s">​< /span></span><span class="vlist-r"><span class="vlist" style="height:4.4546600000000005em;"><span></span></span></span>< /span></span></span></span></span></span></span>
+
+该因子的计算方法是将债券在最后一次付息后持有的时间长度除以从一次付息到下一次付息的时间。
+
+例如，假设一位债券持有人在 6 月 30 日出售其公司债券。债券面值为 1,000 美元，票面利率为 5%，每半年支付一次，于 3 月 1 日和 9 月 1 日支付。债券的买方将向卖方付款：
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi mathvariant="normal">$</mi><mn>1</mn><mo separator="true ">,</mo><mn>000</mn><mo>×</mo><mfrac><mrow><mn>5</mn><mi mathvariant="normal">%</mi> </mrow><mn>2</mn></mfrac><mo>×</mo><mfrac><mn>122</mn><mn>184</mn></mfrac><mo> =</mo><mi mathvariant="normal">$</mi><mn>16.58</mn></mrow></mstyle></mtd></mtr></mtable><annotation encoding= "application/x-tex">\begin{aligned}&amp;\$1,000 \times \frac { 5\% } { 2 } \times \frac { 122 }{ 184 } = \$16.58 \\\end{aligned}< /annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="高度：2.4130000000000003em;垂直对齐：-0.9565em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r">< span class="vlist" style="height:1.4565000000000001em;"><span style="top:-3.4565em;"><span class="psstrut" style="height:3.427em;"></span> <span class="mord"></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r">< span class="vlist" style="height:0.9565em;"><span></span></span></span></span></span><span class="col-align-l" ><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.4565000000000001em;"><span style="top:-3.4565 em;"><span class="psstrut" style="height:3.427em;"></span><span class="mord"><span class="mord"></span><span class=" mord">$</span><span class="mord">1</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em ;"></span><span class="mord">0</span><span class="mord">0</span><span class="mord">0</span><span class= "mspace" style="margin-right:0.2222222222222222em;">< /span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord"><span class ="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style= "height:1.427em;"><span style="top:-2.314em;"><span class="psstrut" style="height:3em;"></span><span class="mord">< span class="mord">2</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;">< /span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.6769999999999996em;"><span class ="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">5</span><span class="mord">%</span ></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" 样式="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span>< span class="mspace" style="margin-right:0.222222222222222 2em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord "><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class= "vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="psstrut" style="height:3em;"></span><span class= "mord"><span class="mord">1</span><span class="mord">8</span><span class="mord">4</span></span></span ><span style="top:-3.23em;"><span class="psstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom- width:0.04em;"></span></span><span style="top:-3.677em;"><span class="psstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span><span class="mord">2</span><span class="mord">2</span></span>< /span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em ;"><span></span></span></span></span></span><span class="mclose nulldelim ter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class ="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord">$</span><span class="mord">1</span><span class= "mord">6</span><span class="mord">.</span><span class="mord">5</span><span class="mord">8</span></ span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height :0.9565em;"><span></span></span></span></span></span></span></span></span></span></span>
+
+＃＃ 强调
+
+- 如果某样东西是按比例分配的，这通常意味着每个人都得到了他们应得的份额。
+
+- 按比例表示按比例，例如与员工工资成比例增加的费用。
+
+- 按比例分配的做法可以应用于许多领域，从服务计费到支付股息或分配业务合作伙伴收入。
+
+＃＃ 常问问题
+
+### 您如何计算 Pro Rata？
+
+自然，计算不同项目的比例会有所不同，因为它计算的是给定整体的比例。例如，要计算六个月的按比例分配的利率，请考虑一家每年收取 20% 利息的公司。在这里，按比例分配的[利率](/interestrate)将计算为 (20% / 12) x 6 = 10%。
+
+### 按比例如何适用于每股股息？
+
+当公司分配股息时，通常是按比例执行。例如，考虑一个大股东，例如创始人或主要执行官，他拥有公司总 1,000 股股份的 50%，并且公司正在发行 1 美元的股息。在 1,000 美元的股息中，大股东将获得 500 美元的价值。公式如下：(50 / 100) x $1,000 = $500。
+
+### 什么是按比例折扣？
+
+按比例折扣是商家向客户提供的一种折扣。公司出于各种原因为客户提供[折扣。](/discount)他们可能会提供折扣以激励新客户尝试产品或服务。如果客户在特定时间段内购物或作为回馈客户的奖励，他们可能会提供折扣。折扣的比例部分取决于商家如何构建他们的报价。例如，如果新客户花费 100 美元或更多，商家可能会为其首次购买产品提供 20 美元的优惠。如果客户购买了四种产品，每件产品将获得 5 美元的折扣。如果客户在每月第一天以外的任何一天加入月度订阅服务，也可以享受按比例折扣。商家不会向客户收取当月的全部订阅价格，而是按比例折扣并仅向客户收取他们实际拥有服务的月份的天数。
+
