@@ -1,0 +1,69 @@
+---
+keywords: Trading,Technical Analysis,Technical Analysis Basic Education
+title: Сенкоу Спан А (Ведущий Спан А)
+description: Senkou Span A — один из пяти компонентов индикатора Облака Ишимоку, который формирует «облако». и может использоваться для обозначения областей поддержки и сопротивления.
+---
+
+# Сенкоу Спан А (Ведущий Спан А)
+## Что такое Senkou Span A (ведущий диапазон A)?
+
+Senkou Span A, или Leading Span A, по-английски, является одним из пяти компонентов индикатора [Облака Ишимоку](/ichimoku-cloud). Leading Span A — это линия, используемая для измерения импульса, которая может давать торговые идеи на основе уровней поддержки и сопротивления. Он работает в сочетании с линией [Senkou Span B](/senkouspanb),. образуя облачное образование, известное как **kumo**.
+
+Его также называют опережающим интервалом А, потому что расчет ведется на 26 периодов вперед, показывая, где в будущем могут сформироваться поддержка и сопротивление.
+
+<!--90C707B4255E9C3C3A92B79CB1859B3D-->
+
+## Формула для Senkou Span A (Опережающий диапазон A)
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Ведущий (Сенкоу) диапазон A</mtext><mo>=</mo><mfrac><mrow> <mtext>Линия конверсии</mtext><mo>+</mo><mtext>базовая линия</mtext></mrow><mn>2</mn></mfrac></mrow></mstyle> </mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel=" 0" displaystyle="true"><mrow><mrow></mrow><mtext>Построить значение на 26 периодов в будущем.</mtext></mrow></mstyle></mtd></mtr>< mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true">< mrow><mrow></mrow><mtext mathvariant="bold">где:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel= "0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow> <mtext>Линия конверсии</mtext><mo>=</mo><mfrac><mrow><mtext>максимум за 9 периодов</mtext><mo>+</mo><mtext>минимум за 9 периодов</mtext ></mrow><mn>2</mn></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true "><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>базовая линия</ mtext><mo>=</mo><mfrac><mrow><mtext>максимум за 26 периодов</mtext><mo>+</mo><mtext>минимум за 26 периодов</mtext></mrow><mn >2</mn></mfrac></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\ text{Ведущий (Senkou) Span A} = \frac{\text{Линия конверсии} + \text{базовая линия}}{2} \\ &amp;\text{Значение графика 26 периодов в будущем.}\\ &amp; \textbf{где:}\\ &amp;\text{Линия конверсии}=\frac{\text{максимум 9 периодов} + \text{минимум 9 периодов}}{2}\\ &amp;\text{базовая линия}= \frac{\text{максимум 26 периода} + \text{минимум 26 периода}}{2} \\ \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:10.072320000000001em;vertical-align:-4.786160000000001em;"></span><span class="mord"><span class="mtable"><span class="col- align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:5.286160000000001em;"><span style=" top:-7.28616em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style=" top:-5.46016em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style=" top:-3.96016em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style=" top:-1.9287199999999998em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style=" top:0.42872000000000077em;"><span class="pstrut" style="height:3.371439 9999999998em;"></span><span class="mord"></span></span></span><span class="vlist-s">​</span></span><span класс ="vlist-r"><span class="vlist" style="height:4.786160000000001em;"><span></span></span></span></span></span><span class ="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:5.286160000000001em;">< span style="top:-7.28616em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord">< /span><span class="mord text"><span class="mord">Ведущий (Сенкоу) Span A</span></span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord" ><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class=" vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><sp an class="mord"><span class="mord">2</span></span></span><span style="top:-3.23em;"><span class="pstrut" style= "height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:- 3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord"> Строка конверсии</span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class= "mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord text"><span class="mord">базовая линия</span></span></span> </span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0,686 em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></ span><span style="top:-5.46016em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord "></span><span class="mord text"> <span class="mord">Постройте значение 26 периодов в будущем.</span></span></span></span><span style="top:-3.96016em;"><span class=" pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class=" mord textbf">где:</span></span></span></span><span style="top:-1.9287199999999998em;"><span class="pstrut" style="height:3.3714399999999998em; "></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Строка конверсии</span>< /span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin -right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist -t2"><span class="vlist-r"><span class="vlist" style="height:1.3714399999999998em;"><span style="top:-2.314em;"><span class="pstrut " style="height:3em;"></span><span class="mord"><span class="mord d">2</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span>< span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">максимум 9 периода</span></span>< span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.22222222222222222 em;"></span><span class="mord text"><span class="mord">9 период низкий</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span ></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:0.42872000000000077 em;"><span class="pstrut" style="height:3.37143999999999998em;"></span><span class="mord"><span class="mord"></span><span class=" mord text"><span class="mord">b линия ase</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class= "mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3714399999999998em;"><span style="top:-2.314em;" ><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span></span></span> <span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width :0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class ="mord"><span class="mord text"><span class="mord">максимум 26 периода</span></span><span class="mspace" style="margin-right:0.2222222222222222em; "></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span ><span class="mord text"><span class="mord">минимум за 26 периодов</span></span></span></span></span><span class="vlist-s" >​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></ span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span><span class="vlist-s">​ </span></span><span class="vlist-r"><span class="vlist" style="height:4.786160000000001em;"><span></span></span></span> </span></span></span></span></span></span></span>
+
+
+
+### Как рассчитать Senkou Span A
+
+1. Рассчитайте конверсионную линию, найдя максимум и минимум за последние 9 периодов.
+
+1. Рассчитайте базовую линию, найдя максимум и минимум за последние 26 периодов.
+
+1. Рассчитайте ведущий пролет A, используя линию преобразования и базовую линию.
+
+1. Нанесите значение Lead Span A на 26 периодов в будущее.
+
+1. Повторите процесс в конце каждого периода.
+
+## О чем говорит Senkou Span A?
+
+Линия Сенкоу Спан А и Сенкоу Спан В используются вместе для формирования облака на диаграмме Ишимоку Кинко Хё, также называемой Облаком Ишимоку. Облако Ишимоку возникло в Японии и объединяет пять разных линий, которые дают трейдеру различную информацию.
+
+Сенкоу Спан А связан с Сенкоу Спан В, поскольку эти линии образуют «облако», которое является основным компонентом индикатора Облака Ишимоку.
+
+Линия Senkou Span B считается более медленной из двух линий, поскольку рассчитывается с использованием данных за 52 периода ((максимум за 52 периода + минимум за 52 периода) / 2). Senkou Span A, с другой стороны, использует данные, основанные на 26-периодах и 9-периодах, поэтому он будет быстрее реагировать на изменения цены.
+
+Как правило, когда Senkou Span B занимает верхнюю позицию в облаке, это считается [медвежьим](/bearmarket) сигналом. Это связано с тем, что краткосрочные цены упали ниже средней точки долгосрочных цен. Линии Senkou Span измеряют среднюю точку ценового диапазона, потому что они делят объединенные максимум и минимум на два.
+
+Когда линия Senkou Span A занимает верхнюю позицию в облаке, это считается [бычьим](/bullmarket) сигналом, поскольку краткосрочная цена движется выше долгосрочной средней цены. [Пересечения](/crossover) между Span A и Span B могут сигнализировать об изменении тренда с медвежьего на бычий или наоборот.
+
+Когда цена выше Span A и/или Span B, эти линии могут выступать в качестве поддержки и представлять возможные области для покупок. Когда цена ниже Span A и/или Span B, эти линии могут выступать в качестве сопротивления, предоставляя возможные области для продажи или [продажи](/shortselling).
+
+## Разница между Senkou Span A и простой скользящей средней (SMA)
+
+На графике Senkou Span A и [простая скользящая средняя](/sma) (SMA) могут выглядеть одинаково, но их расчеты совершенно разные. SMA рассчитывается путем сложения X [цен закрытия](/closingprice),. а затем деления этого числа на X. Ведущий диапазон A рассчитывается с использованием максимумов и минимумов за последние девять и 26 периодов. Эти расчеты делятся на два, чтобы создать среднюю точку, а не среднюю, как SMA.
+
+Линии Сенкоу также нанесены в будущем. Хотя SMA можно нанести на график в будущем, это не является нормой.
+
+## Ограничения использования Senkou Span A
+
+Хотя Senkou Span A может показаться предсказательным, потому что он построен в будущем, все его расчеты основаны на исторических данных, и поэтому он все еще является [запаздывающим индикатором](/laggingindicator). Поскольку он находит среднюю точку ценового диапазона, он будет медленно реагировать на резкие изменения цен. Это означает, что пересечения могут произойти после того, как уже произошло большое ценовое движение, или цена может уйти далеко за линию Сенкоу (поддержка или сопротивление), потому что линия не успевает среагировать и изменить курс.
+
+Senkou (Leading) Span A следует использовать в сочетании с другими методами анализа, такими как анализ ценового действия, [фундаментальный анализ](/fundamentalanalysis) или другие технические индикаторы, чтобы помочь подтвердить или отклонить торговые сигналы.
+
+## Особенности
+
+- Он образует облако с Senkou Span B. Это называется облаком, потому что область между двумя линиями заштрихована или окрашена.
+
+- Облако и линии, которые его составляют, могут действовать как поддержка или сопротивление. Когда цена выше их, они действуют как поддержка, когда цена ниже них, они действуют как сопротивление.
+
+- Сенкоу Спан А является компонентом индикатора Ишимоку.
+
+- Хотя опережающий интервал А использует только исторические данные, он считается опережающим или прогнозным, поскольку его значения нанесены на график в будущем, показывая, где ожидается поддержка или сопротивление в будущем.
+
