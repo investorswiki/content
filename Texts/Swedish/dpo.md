@@ -1,0 +1,87 @@
+---
+keywords: Business,Corporate Finance and Accounting,Accounting
+title: Utestående dagar (DPO)
+description: Utestående dagar (DPO) är ett förhållande som används för att räkna ut hur lång tid det tar för ett företag i genomsnitt att betala sina räkningar och fakturor.
+---
+
+# Utestående dagar (DPO)
+## Vad är utestående dagar (DPO)?
+
+Utestående dagar (DPO) är ett finansiellt nyckeltal som anger den genomsnittliga tid (i dagar) som ett företag tar för att betala sina räkningar och fakturor till sina fordringsägare, vilket kan inkludera leverantörer, leverantörer eller finansiärer. Förhållandet beräknas vanligtvis på kvartals- eller årsbasis, och det indikerar hur väl företagets kassautflöden hanteras.
+
+Ett företag med ett högre värde på DPO tar längre tid att betala sina räkningar, vilket innebär att det kan behålla tillgängliga medel under en längre tid, vilket ger företaget en möjlighet att använda dessa medel på ett bättre sätt för att maximera fördelarna. En hög DPO kan dock också vara en röd flagga som indikerar en oförmåga att betala sina räkningar i tid.
+
+## Formel för utestående dagar (DPO)
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>DPO</mtext><mo>=</mo><mfrac><mrow><mtext>Lekonortoskulder </mtext><mo>×</mo><mtext>Antal dagar</mtext></mrow><mtext>COGS</mtext></mfrac></mrow></mstyle></mtd> </mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle= "true"><mrow><mrow></mrow><mtext mathvariant="bold">där:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow> </mrow><mtext>COGS</mtext><mo>=</mo><mtext>Kostnad för sålda varor</mtext></mrow></mstyle></mtd></mtr><mtr> <mtd><mstyle script level="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></ mrow><mspace width="2em"/><mtext> </mtext><mtext> </mtext><mtext> </mtext><mo>=</mo><mtext>Börjande inventering</mtext>< mo>+</mo><mtext>P</mtext><mo>−</mo><mtext>Slutande annonsutrymme</mtext></mrow></mstyle></mtd></mtr><mtr <mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow > <mrow></mrow><mtext>P</mtext><mo>=</mo><mtext>Inköp</mtext></mrow></mstyle></mtd></mtr></ mtable ><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{DPO} = \frac{\text{Accounts Payable}\times\text{Antal dagar}}{\text{ COGS }}\\ &amp;\textbf{där:}\\ &amp;\text{COGS}=\text{Kostnad för sålda varor} \\ &amp;\qquad\ \ \, \,= \text{Börjande inventering} + \text{P} -\text{Ending Inventory}\\ &amp;\text{P}=\text{Purchases} \end{aligned}</annotation></semantics></math></span>< span class="katex-html" aria-hidden="true e"><span class="base"><span class="strut" style="height:8.35744em;vertical-align:-3.92872em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style= "height:4.42872em;"><span style="top:-6.428719999999999em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"> </span></span><span style="top:-4.60272em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"> </span></span><span style="top:-3.1027199999999997em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"> </span></span><span style="top:-1.6027199999999997em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"> </span></span><span style="top:-0.1027199999999997em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"> </span></span></span><span class="vlist-s">​</span></span><span c lass="vlist-r"><span class="vlist" style="height:3.92872em;"><span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:4.42872em;"> <span style="top:-6.428719999999999em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"> </span><span class="mord text"><span class="mord">DPO</span></span><span class="mspace" style="margin-right:0.27777777777777778em;">< /span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class ="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style= "height:1.3714399999999998em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord">>< span class="mord text"><span class="mord">COGS</span></span></span></span><span style="top:-3.23em;"><span c lass="psrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span>< span style="top:-3.677em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord text">< span class="mord">Rekontoreskontra</span></span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin">×< /span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mord text"><span class="mord">Antal dagar</span> </span></span></span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class=" vlist " style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></ span ></span></span><span style="top:-4.60272em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord " ><span class="mord"></span><span class="mord text"><span class="mord textbf">där:</span></span></span></span> < span style="top:-3.10271 99999999997em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class=" mord text"><span class="mord">COGS</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel ">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Kostnad för varor Såld</span></span></span></span><span style="top:-1.6027199999999997em;"><span class="psrut" style="height:3.371439999999998em;"></span ><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:2em;"></span><span class="mspace" > </span><span class="mspace"> </span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mspace" style=" margin-right:0.16666666666666666em;"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span>< span class="mspace" style="margin-right:0.2777777 777777778em;"></span><span class="mord text"><span class="mord">Börjande inventering</span></span><span class="mspace" style="margin-right:0.22222222222222222 em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mord text"><span class="mord">P</span></span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin" >−</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mord text"><span class="mord">Slutande annonsutrymme</span> span></span></span></span><span style="top:-0.1027199999999997em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">P</span></span><span class="mspace " style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;">< /span><span class="mord text"><span class="mord" >Inköp</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r" ><span class="vlist" style="height:3.92872em;"><span></span></span></span></span></span></span></span>< /span></span></span>
+
+
+
+## Hur man beräknar DPO
+
+För att tillverka en säljbar produkt behöver ett företag råmaterial, verktyg och andra resurser. När det gäller redovisningspraxis representerar leverantörsskulderna hur mycket pengar företaget är skyldigt sin leverantör(er) för inköp som gjorts på kredit.
+
+Dessutom finns det en kostnad förknippad med att tillverka den säljbara produkten, och den inkluderar betalning för verktyg som el och anställdas löner. Detta representeras av [kostnaden för sålda varor (COGS)](/cogs),. som definieras som kostnaden för att förvärva eller tillverka de produkter som ett företag säljer under en period. Båda dessa siffror representerar kassautflöden och används för att beräkna DPO över en tidsperiod.
+
+Antalet dagar i motsvarande period tas vanligtvis till 365 för ett år och 90 för ett kvartal. Formeln tar hänsyn till den genomsnittliga kostnad per dag som företaget bär för att tillverka en säljbar produkt. Täljarsiffran representerar utestående betalningar. Nettofaktorn anger det genomsnittliga antalet dagar det tar för företaget att betala av sina åtaganden efter att ha mottagit räkningarna.
+
+Två olika versioner av DPO-formeln används beroende på redovisningspraxis. I en av versionerna tas leverantörsskuldens belopp som den siffra som rapporterades i slutet av räkenskapsperioden, som "i slutet av räkenskapsåret/kvartalet som slutar sept. trettio." Denna version representerar DPO-värdet från det nämnda datumet.
+
+I en annan version tas medelvärdet av början AP och slutande AP, och den resulterande siffran representerar DPO-värdet under den specifika perioden. COGS förblir densamma i båda versionerna.
+
+## Vad säger DPO dig?
+
+I allmänhet förvärvar ett företag lager, verktyg och andra nödvändiga tjänster på kredit. Det resulterar i [leverantörsskulder (AP)](/accountspayable),. en viktig bokföringspost som representerar ett företags skyldighet att betala av de kortfristiga skulderna till sina fordringsägare eller leverantörer. Utöver det faktiska beloppet som ska betalas, blir tidpunkten för betalningarna i dollar - från dagen för mottagandet av räkningen tills kontanterna faktiskt går ut från företagets konto - också en viktig aspekt av verksamheten. DPO försöker mäta denna genomsnittliga tidscykel för utbetalningar och beräknas genom att ta hänsyn till standardredovisningssiffrorna under en viss tidsperiod.
+
+Företag som har hög DPO kan använda tillgängliga kontanter för kortsiktiga investeringar och för att öka sitt [rörelsekapital](/workingcapital) och [fria kassaflöde (FCF)](/freecashflow). Men högre värden på DPO kanske inte alltid är positivt för verksamheten. Om bolaget tar för lång tid på sig att betala sina fordringsägare riskerar det att äventyra förbindelserna med de leverantörer och fordringsägare som kan vägra att erbjuda handelskrediten i framtiden eller kan erbjuda den på villkor som kan vara mindre förmånliga för bolaget. Företaget kan också gå miste om eventuella rabatter på betalningar i tid, om de är tillgängliga, och det kan betala mer än nödvändigt.
+
+Dessutom kan ett företag behöva balansera sin utflödesperiod med den för inflödet. Föreställ dig om ett företag tillåter en 90-dagarsperiod för sina kunder att betala för varorna de köper men har bara en 30-dagarsperiod för att betala sina leverantörer och leverantörer. Denna bristande överensstämmelse kommer att resultera i att företaget ofta är benäget att drabbas av kontantkris. Företag måste göra en känslig balans med DPO.
+
+> En hög DPO kan indikera ett företag som använder kapital på ett resursmässigt sätt, men det kan också visa att företaget kämpar för att betala sina borgenärer.
+
+>
+
+## Särskilda överväganden
+
+Typiska DPO-värden varierar kraftigt mellan olika industrisektorer och det är inte värt att jämföra dessa värden mellan olika sektorsföretag. Ett företags ledning kommer istället att jämföra sin DPO med genomsnittet inom sin bransch för att se om det betalar sina leverantörer för snabbt eller för långsamt. Beroende på de olika globala och lokala faktorerna, som ekonomins, regionens och sektorns övergripande resultat, plus eventuella tillämpliga säsongseffekter, kan DPO-värdet för ett visst företag variera avsevärt från år till år, från företag till företag och från bransch till industri.
+
+DPO-värdet utgör också en integrerad del av formeln som används för att beräkna [kontantomvandlingscykeln](/cashconversioncycle) [(CCC)](/cashconversioncycle),. ett annat nyckelmått som uttrycker hur lång tid det tar för ett företag att omvandla resursinsatserna till realiserade kassaflöden från försäljning. Medan DPO fokuserar på den aktuella utestående betalningen av företaget, följer superset-CCC hela kontanttidscykeln eftersom kontanterna först omvandlas till lager, utgifter och leverantörsskulder, till försäljning och kundfordringar och sedan tillbaka till kontanter i handen när den tas emot.
+
+## Exempel på hur DPO används
+
+Som ett historiskt exempel hade det ledande detaljhandelsföretaget Walmart (WMT) leverantörsskulder värda 49,1 miljarder dollar och försäljningskostnader (kostnad för sålda varor) värda 420,3 miljarder dollar för räkenskapsåret som slutade januari. 31, 2021. Dessa siffror finns tillgängliga i bolagets [årsredovisning](/financial-statements) och [balansräkning](/balancesheet). Om man tar antalet dagar som 365 för årlig beräkning, kommer DPO för Walmart till [ (49,1 x 365) / 420,1 ] = 42,7 dagar.
+
+Liknande beräkningar kan användas för teknikledaren Microsoft (MSFT), som hade 2,8 miljarder USD som AP och 41,3 miljarder USD som COGS, vilket ledde till ett DPO-värde på 24,7 dagar.
+
+Det indikerar att under räkenskapsåret som slutade 2021 betalade Walmart sina fakturor cirka 43 dagar efter att ha mottagit räkningarna, medan Microsoft tog cirka 25 dagar i genomsnitt att betala sina räkningar.
+
+En titt på liknande siffror för onlinebutiksjätten Amazon (AMZN), som hade ett AP på 72,5 miljarder dollar och COGS på 233,3 miljarder dollar för räkenskapsåret 2020, avslöjar ett mycket högt värde på 113,4 dagar. Ett så högt värde av DPO tillskrivs Amazons arbetsmodell, som har ungefär 50 % av sin försäljning från tredjepartssäljare. Amazon får omedelbart pengar på sitt konto för den tredje försäljningen av varor som faktiskt levereras av partförsäljare med hjälp av Amazons onlineplattform.
+
+Det betalar dock inte säljarna direkt efter försäljningen, men kan skicka ackumulerade betalningar baserat på en vecko-/månads- eller tröskelbaserad betalningscykel. Denna funktionsmekanism gör det möjligt för Amazon att hålla kvar pengarna under en längre tid, och den ledande onlineåterförsäljaren slutar med en betydligt högre DPO.
+
+## Begränsningar för uppgiftsskyddsombud
+
+Även om DPO är användbar för att jämföra den relativa styrkan mellan företag, finns det ingen entydig siffra för vad som utgör en hälsosam betalningsdag, eftersom DPO varierar avsevärt beroende på bransch, företagets konkurrensposition och dess förhandlingsstyrka. Stora företag med en stark förhandlingsförmåga kan ingå avtal om bättre villkor med leverantörer och fordringsägare, vilket effektivt producerar lägre DPO-siffror än de skulle ha gjort annars.
+
+##Höjdpunkter
+
+- Days payable outstanding (DPO) beräknar det genomsnittliga antalet dagar ett företag behöver för att betala sina räkningar och förpliktelser.
+
+- Men högre värden på DPO, även om det är önskvärt, kanske inte alltid är positivt för verksamheten eftersom det kan signalera ett kontantbrist och oförmåga att betala.
+
+– Företag som har en hög DPO kan skjuta upp betalningar och använda de tillgängliga kontanterna för kortsiktiga investeringar samt för att öka sitt rörelsekapital och fria kassaflöde.
+
+##FAQ
+
+### Vad är skillnaden mellan DPO och DSO?
+
+Utestående dagar (DPO) är den genomsnittliga tiden för ett företag att betala sina räkningar. Återstående dagar (DSO) är däremot den genomsnittliga tid det tar för försäljningen ska betalas tillbaka till företaget. När en DSO är hög indikerar det att företaget väntar längre perioder för att samla in pengar för produkter som det sålt på kredit. Däremot kan en hög DPO tolkas på flera sätt, antingen indikerar det att företaget använder sina pengar till hands för att skapa mer rörelsekapital, eller indikerar dålig hantering av fritt kassaflöde.
+
+### Hur beräknar du utestående dagar?
+
+För att beräkna utestående dagar (DPO) används följande formel: DPO = Leverantörsskulder X Antal dagar/kostnad för sålda varor (COGS). Här hänvisar COGS till början av inventering plus inköp som subtraherar slutlager. Leverantörsskulder å andra sidan avser företagsinköp som har gjorts på kredit som är förfallna till dess leverantörer.
+
+### Vad betyder utestående dagar i bokföring?
+
+Som ett finansiellt nyckeltal visar utestående dagar (DPO) hur lång tid det tar för företag att betala finansiärer, fordringsägare, leverantörer eller leverantörer. DPO:n kan indikera några saker, nämligen hur ett företag hanterar sina pengar, eller hur ett företag kan använda dessa pengar för kortsiktiga investeringar som i sin tur kan förstärka deras kassaflöde. DPO mäts på en kvartals- eller årsperiod.
+
