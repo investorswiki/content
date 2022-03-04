@@ -1,0 +1,79 @@
+---
+keywords: Business,Business Leaders,Math and Statistics
+title: Chi-kwadrat (χ2) Statystyka
+description: Statystyka chi-kwadrat (χ2) to test, który mierzy porównanie oczekiwań z rzeczywistymi zaobserwowanymi danymi (lub wynikami modelu).
+---
+
+# Chi-kwadrat (χ2) Statystyka
+## Co to jest statystyka chi-kwadrat?
+
+Statystyka chi-kwadrat (**χ**^2^) ^^ to test, który mierzy porównanie modelu z rzeczywistymi obserwowanymi danymi. Dane wykorzystywane do obliczania [statystyki chi-kwadrat](/statistics) muszą być losowe, surowe, [wzajemnie wykluczające](/mutuallyexclusive) się , pochodzące ze zmiennych niezależnych i pochodzące z odpowiednio dużej próby. Na przykład wyniki rzucania uczciwą monetą spełniają te kryteria.
+
+Testy chi-kwadrat są często używane w [testowaniu hipotez](/hypothesistesting). Statystyka chi-kwadrat porównuje wielkość wszelkich rozbieżności między wynikami oczekiwanymi a wynikami rzeczywistymi, biorąc pod uwagę wielkość próby i liczbę zmiennych w relacji.
+
+W przypadku tych testów wykorzystuje się [stopnie swobody w](/degrees-of-freedom) celu określenia, czy pewna [hipoteza zerowa](/null_hypothesis) może zostać odrzucona na podstawie całkowitej liczby zmiennych i próbek w eksperymencie. Jak w przypadku każdej statystyki, im większy rozmiar próbki, tym bardziej wiarygodne wyniki.
+
+## Formuła Chi-kwadrat to
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="prawy lewy" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><msubsup><mi>χ</mi><mi>c</mi><mn>2</mn> </msubsup><mo>=</mo><mo>∑</mo><mfrac><mrow><mo stretchy="false">(</mo><msub><mi>O</mi> <mi>i</mi></msub><mo>−</mo><msub><mi>E</mi><mi>i</mi></msub><msup><mo stretchy= "false">)</mo><mn>2</mn></msup></mrow><msub><mi>E</mi><mi>i</mi></msub></ mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></ mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">gdzie:</mtext></mrow></mstyle> </mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel=" 0" styl wyświetlania = "t rue"><mrow><mrow></mrow><mi>c</mi><mo>=</mo><mtext>Stopnie wolności</mtext></mrow></mstyle></mtd ></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" styl wyświetlania ="true"><mrow><mrow></mrow><mi>O</mi><mo>=</mo><mtext>Obserwowane wartości</mtext></mrow></mstyle ></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel= "0" displaystyle="true"><mrow><mrow></mrow><mi>E</mi><mo>=</mo><mtext>Oczekiwane wartości</mtext></mrow ></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned}&amp;\chi^2_c = \sum \frac{(O_i - E_i )^2}{E_i} \\&amp;\textbf{gdzie:}\\&c=\text{Stopień wolności}\\&O=\text{Obserwowane wartości}\\&E =\text{Oczekiwane wartości}\end{wyrównane}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:8.627108em;vertical-align:-4.063554em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r">< span class="vlist" style="height:4.563554em;"><span style="top:-6.563554em;"><span class="pstrut" style="height:3.491108em;"></span> <span class="mord"></span></span><span style="top:-4.587553999999999em;"><span class="pstrut" style="height:3.491108em;"></span> <span class="mord"></span></span><span style="top:-3.087554em;"><span class="pstrut" style="height:3.491108em;"></span> <span class="mord"></span></span><span style="top:-1.587554em;"><span class="pstrut" style="height:3.491108em;"></span> <span class="mord"></span></span><span style="top:-0.08755400000000035em;"><span class="pstrut" style="height:3.491108em;"></span> <span class="mord"></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r">< span class="vlist" style="height:4.063554em;"><span></span></span></span></span></span><span class="col-align-l" ><span class="vlist-t vlist-t2"><span class=" vlist-r"><span class="vlist" style="height:4.563554em;"><span style="top:-6.563554em;"><span class="pstrut" style="height:3.491108em; "></span><span class="mord"><span class="mord"></span><span class="mord"><span class="mord mathnormal">χ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8641079999999999em;"><span style= "top:-2.4530000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="resetowanie rozmiaru -size6 size3 mtight"><span class="mord mathnormal mtight">c</span></span></span><span style="top:-3.113em;margin-right:0.05em;">< span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span ></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0,247em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0 .2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class=" mop op-symbol large-op" style="position:relative;top:-0.000004999999999977245em;">∑</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span ><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist- r"><span class="vlist" style="height:1.491108em;"><span style="top:-2.31399999999999996em;"><span class="pstrut" style="height:3em;">< /span><span class="mord"><span class="mord"><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="msupsub "><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31166399999999994em;"><span style="top:- 2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 rozmiar3 mtight"><span cl ass="mord mathnormal mtight">i</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist -r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></ span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style= "border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;">< /span><span class="mord"><span class="mopen">(</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em; ">O</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"> </span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">i</span></span></span></span><span class="vlist -s">​</span></span>< span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span>< /span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin -right:0.2222222222222222em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class=" msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31166399999999994em;"><span style="top: -2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="resetowanie rozmiaru- size6 size3 mtight"><span class="mord mathnormal mtight">i</span></span></span></span><span class="vlist-s">​</span></span ><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span ></span><span class="mclose"><span class="mclose">)</span><span class="msupsub"><span class="vlist-t"><span c lass="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class=" pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span ></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></ span><span class="vlist-r"><span class="vlist" style="height:0.83600000000000001em;"><span></span></span></span></span></ span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:-4.587553999999999em;"><span class="pstrut" style=" height:3.491108em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">gdzie :</span></span></span></span><span style="top:-3.087554em;"><span class="pstrut" style="height:3.491108em;"></span ><span class="mord"><span class="mord"></span><span class="mord mathnormal">c</span><span class="mspace" style="margin-right:0.27777777777777778 em;"></s pan><span class="mrel">=</span><span class="mspace" style="margin-right:0.277777777777777778em;"></span><span class="mord text"><span class ="mord">Stopnie wolności</span></span></span></span><span style="top:-1.587554em;"><span class="pstrut" style="height:3.491108 em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.02778em;">O< /span><span class="mspace" style="margin-right:0.277777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margines -right:0.277777777777778em;"></span><span class="mord text"><span class="mord">Obserwowane wartości</span></span></span></span> <span style="top:-0.08755400000000035em;"><span class="pstrut" style="height:3.491108em;"></span><span class="mord"><span class="mord"> </span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mspace" style="margin-right:0.27777777777777778em;"></ span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.27777777777777778em;"></span><span class="mord text"><span class="mord">Oczekiwane wartości</span></span></span></span></span ><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:4.063554em;"><span> </span></span></span></span></span></span></span></span></span></span>
+
+
+
+## Co mówi statystyka chi-kwadrat?
+
+Istnieją dwa główne rodzaje testów chi-kwadrat: test niezależności, który zadaje pytanie o związek, np. „Czy istnieje związek między płcią ucznia a wyborem kursu?”; oraz [test dopasowania](/goodness-of-fit),. który pyta coś w stylu „Jak dobrze moneta w mojej ręce pasuje do teoretycznie uczciwej monety?”
+
+> Analiza chi-kwadrat jest stosowana do zmiennych kategorialnych i jest szczególnie przydatna, gdy te zmienne są nominalne (gdzie kolejność nie ma znaczenia, jak stan cywilny czy płeć).
+
+>
+
+### Niezależność
+
+Rozważając płeć ucznia i wybór kursu, można zastosować **χ**^2^ test niezależności. Aby przeprowadzić ten test, badacz zbierał dane dotyczące dwóch wybranych zmiennych (wybranej płci i kierunków), a następnie porównywał częstotliwości wyboru spośród oferowanych zajęć przez studentów i studentki według wzoru podanego powyżej i **χ**^ 2^ tabela statystyczna.
+
+Jeśli nie ma związku między płcią a wyborem kursu (tj. jeśli są one niezależne), należy oczekiwać, że rzeczywista częstotliwość, z jaką studenci i studenci wybierają każdy oferowany kurs, będzie w przybliżeniu równa lub odwrotnie proporcja mężczyzn i kobiet studentki na dowolnym wybranym kursie powinny być w przybliżeniu równe proporcji studentów płci męskiej i żeńskiej w próbie.
+
+**χ**^2^ test niezależności może nam powiedzieć, jak prawdopodobne jest, że losowy przypadek może wyjaśnić każdą zaobserwowaną różnicę między rzeczywistymi częstościami w danych a tymi teoretycznymi oczekiwaniami.
+
+### Dobroć dopasowania
+
+**χ**^2^ umożliwia sprawdzenie, jak dobrze próbka danych pasuje do (znanych lub zakładanych) cech większej populacji, którą próbka ma reprezentować. Nazywa się to dobrocią dopasowania. Jeśli dane próbki nie pasują do oczekiwanych właściwości populacji, która nas interesuje, nie chcielibyśmy używać tej próbki do wyciągania wniosków na temat większej populacji.
+
+## Przykład
+
+Rozważmy na przykład wyimaginowaną monetę z dokładnie 50/50 szansą na wylądowanie orła lub reszki oraz prawdziwą monetę, którą rzucasz 100 razy. Jeśli ta moneta jest sprawiedliwa, to będzie miała równe prawdopodobieństwo wylądowania po obu stronach, a oczekiwany wynik rzucenia monetą 100 razy to 50 razy wypadnięcie orła, a 50 razy reszki.
+
+W tym przypadku **χ**^2^ może nam powiedzieć, jak dobrze rzeczywiste wyniki 100 rzutów monetą wypada w porównaniu z teoretycznym modelem, że uczciwa moneta da wynik 50/50. Rzeczywisty rzut może wynieść 50/50, 60/40, a nawet 90/10. Im dalej rzeczywiste wyniki 100 rzutów są od 50/50, tym mniej dobre dopasowanie tego zestawu rzutów do teoretycznych oczekiwań 50/50 i tym bardziej prawdopodobne, że możemy dojść do wniosku, że ta moneta w rzeczywistości nie jest uczciwa moneta.
+
+## Kiedy używać testu chi-kwadrat
+
+Test chi-kwadrat służy do określenia, czy zaobserwowane wyniki są zgodne z wynikami oczekiwanymi oraz do wykluczenia, że obserwacje są przypadkowe. Test chi-kwadrat jest odpowiedni do tego, gdy analizowane dane pochodzą z [próby losowej](/simple-random-sample) i gdy dana zmienna jest zmienną kategoryczną. Zmienna kategoryczna to taka, która składa się z selekcji takich jak typ samochodu, rasa, wykształcenie, mężczyzna vs kobieta, jak bardzo ktoś lubi kandydata politycznego (od bardzo do bardzo małego) itp.
+
+Tego typu dane są często gromadzone za pośrednictwem odpowiedzi ankietowych lub kwestionariuszy. Dlatego analiza chi-kwadrat jest często najbardziej użyteczna w analizie tego typu danych.
+
+## Przegląd najważniejszych wydarzeń
+
+- **χ**^2^ zależy od wielkości różnicy między wartościami rzeczywistymi i obserwowanymi, stopni swobody i wielkości próbki.
+
+- Statystyka chi-kwadrat (**χ**^2^) ^^ jest miarą różnicy między obserwowanymi a oczekiwanymi częstościami wyników zbioru zdarzeń lub zmiennych.
+
+- Chi-kwadrat jest przydatny do analizy takich różnic w zmiennych kategorycznych, zwłaszcza tych o charakterze nominalnym.
+
+- Może być również używany do testowania zgodności między obserwowanym rozkładem a teoretycznym rozkładem częstotliwości.
+
+- **χ**^2^ może być użyte do sprawdzenia, czy dwie zmienne są ze sobą powiązane lub niezależne od siebie.
+
+## FAQ
+
+### Czy analiza chi-kwadrat jest używana, gdy zmienna niezależna jest nominalna czy porządkowa?
+
+Zmienna nominalna to zmienna kategorialna, która różni się jakością, ale której kolejność liczbowa może być nieistotna. Na przykład poproszenie kogoś o jego ulubiony kolor dałoby zmienną nominalną. Z drugiej strony pytanie o wiek dałoby uporządkowany zestaw danych. Chi-kwadrat najlepiej zastosować do danych nominalnych.
+
+### Kto korzysta z analizy chi-kwadrat?
+
+Ponieważ chi-kwadrat odnosi się do zmiennych kategorycznych, jest najczęściej używany przez badaczy, którzy badają dane z odpowiedzi ankietowych. Ten rodzaj badań może obejmować od demografii, badania konsumenckie i marketingowe, po nauki polityczne i ekonomię.
+
+### Do czego służy test chi-kwadrat?
+
+Chi-kwadrat to test statystyczny używany do badania różnic między zmiennymi kategorialnymi z próby losowej w celu oceny zgodności między wynikami oczekiwanymi i obserwowanymi.
+
