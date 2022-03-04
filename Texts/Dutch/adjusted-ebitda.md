@@ -1,0 +1,79 @@
+---
+keywords: Investing,Fundamental Analysis,Tools for Fundamental Analysis,Tools
+title: Justeret EBITDA
+description: Justeret EBITDA (indtjening før renter, skatter, afskrivninger og amortiseringer) er et mål beregnet for en virksomhed, der tager sin indtjening og tilføjer renteudgifter, skatter og afskrivninger tilbage, plus andre justeringer af metrikken.
+---
+
+# Justeret EBITDA
+## Hvad er justeret EBITDA?
+
+Justeret EBITDA (indtjening før renter, skatter, [afskrivninger](/depreciation) og [amortiseringer](/amortization) ) er et mål beregnet for en virksomhed, der tager sin indtjening og tilføjer renteudgifter, skatter og afskrivninger, plus andre justeringer af metrikken.
+
+Standardisering af [EBITDA](/ebitda) ved at fjerne anomalier betyder, at den resulterende justerede eller normaliserede EBITDA er mere præcis og let sammenlignelig med EBITDA for andre virksomheder og med EBITDA for en virksomheds branche som helhed.
+
+## Formlen for justeret EBITDA er
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mo> ∋ </mo><mo>+</mo ><mi>I</mi><mi>T</mi><mo>+</mo><mi>D</mi><mi>A</mi><mo>=</mo>< mi>E</mi><mi>B</mi><mi>I</mi><mi>T</mi><mi>D</mi><mi>A</mi></mrow ></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>E</mi><mi>B</mi><mi>I</mi><mi> T</mi><mi>D</mi><mi>A</mi><mo>+</mo><mtext> ⁣</mtext><mtext> ⁣</mtext><mi mathvariant=" normal">/</mi><mtext> ⁣</mtext><mtext> ⁣</mtext><mo>−</mo><mi>A</mi><mo>=</mo><mtext >Justeret </mtext><mi>E</mi><mi>B</mi><mi>I</mi><mi>T</mi><mi>D</mi><mi>A </mi></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle> </mtd><mtd><mstyle scriptlevel="0" dis playstyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">hvor:</mtext></mrow></mstyle></mtd></mtr><mtr>< mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mo> ∋ </mo><mtext> </mtext><mo>=</mo><mtext> Nettoindkomst</mtext> </mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd> <mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>I</mi><mi>T</mi><mtext> </mtext>< mo>=</mo><mtext> Interesse &amp; skatter</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle ></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>D</mi><mi>A</mi><mtext> </mtext><mo>=</mo><mtext> Afskrivning &amp; amortisering</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle ></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>A</mi><mtext> </mtext><mo>= </mo><mtext> Justeringer</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} ∋ +IT+DA=EBITDA\\ &amp;EBITDA +\!\!/\!\!-A = \tekst{Justeret }EBITDA\\ &amp;\textbf{hvor:}\\ ∋ \ =\ \text{Netto indkomst}\\ &amp;IT\ =\ \tekst{Rente \&amp; skatter}\\ &amp;DA\ =\ \text{Afskrivning \&amp; amortization}\\ &amp;A\ =\ \text{Adjustments} \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden=" true"><span class="base"><span class="strut" style="height:10.5000000000000004em;vertical-align:-5.000000000000002em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style= "height:5.5000000000000001em;"><span style="top:-7.660000000000001em;"><span class="psrut" style="height:3em;"></span><span class="mord">>< span class="mrel"> ∋ </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord">+</span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="mord mathnormal" style="margin-right:0.13889em;">T</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.22222222222222222em ;"></span><span class="mord mat hnormal" style="margin-right:0.02778em;">D</span><span class="mord mathnormal">A</span><span class="mspace" style="margin-right:0.27777777777777778em; "></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mord mathnormal" style="margin-right:0.05017em;">B</span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="mord mathnormal" style="margin-right:0.13889em;">T</span><span class="mord mathnormal" style="margin-right:0.02778em;">D</span><span class="mord mathnormal">A</span></span></span><span style="top:-6.16em; "><span class="psrut" style="height:3em;"></span><span class="mord"></span></span><span style="top:-4.659999999999999em;" ><span class="psrut" style="height:3em;"></span><span class="mord"></span></span><span style="top:-3.1599999999999993em;"> <span class="psrut" style="height:3em;"></span><span class="mord"><span class="mrel"> ∋ </span><span class="mspace"> </span><span class="mrel">=</span><span class="mspace"> </span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">Nettoindkomst</span></span></ span></span><span style="top:-1.6599999999999993em;"><span class="psrut" style="height:3em;"></span><span class="mord"></span ></span><span style="top:-0.15999999999999837em;"><span class="psrut" style="height:3em;"></span><span class="mord"></span> </span><span style="top:1.34000000000000016em;"><span class="psrut" style="height:3em;"></span><span class="mord"></span></ span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist" style="height:5.000000000000002em; " ><span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"> < span class="vlist-r"><span class="vlist" style="height:4.000000000000001em;"><span style="top:-6.16em;"><span class="pstrut" style=" height :3em;"></span> <span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class=" mord mathnormal" style="margin-right:0.05017em;">B</span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class=" mord mathnormal" style="margin-right:0.13889em;">T</span><span class="mord mathnormal" style="margin-right:0.02778em;">D</span><span class=" mord mathnormal">A</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin">+</span><span class=" mspace" style="margin-right:-0.16666666666666666em;"></span><span class="mspace" style="margin-right:-0.166666666666666666em;"></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord">/</span><span class="mspace" style="margin-right:-0.16666666666666666em;">< /span><span class="mspace" style="margin-right:-0.16666666666666666em;"></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span> <spancl ass="mbin">−</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mord mathnormal">A</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mord text"><span class="mord">Justeret </span></span><span class="mord mathnormal" style="margin-right:0.05764em ;">E</span><span class="mord mathnormal" style="margin-right:0.05017em;">B</span><span class="mord mathnormal" style="margin-right:0.07847em ;">I</span><span class="mord mathnormal" style="margin-right:0.13889em;">T</span><span class="mord mathnormal" style="margin-right:0.02778em ;">D</span><span class="mord mathnormal">A</span></span></span><span style="top:-4.66em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf" >hvor:</span></span></span></span><span style="top:-1.66000000000 00001em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="mord mathnormal" style="margin-right:0.13889em;">T</span><span class="mspace "> </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace"> </span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">Interesse &amp; skatter</span></span></span></span><span style="top:-0.15999999999999925em;"><span class="psrut" style="height:3em;"></span> <span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.02778em;">D</span><span class=" mord mathnormal">A</span><span class="mspace"> </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel ">=</span><span class="mspace"> </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text" ><span class="mord">Afskrivning &amp; amortisering</span></span></span></span><span style="top:1.3400000000000007em;"><span class="pstrut" style="height:3em;"></span>< span class="mord"><span class="mord"></span><span class="mord mathnormal">A</span><span class="mspace"> </span><span class=" mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace"> </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Justeringer</span></span></span></span> </span><span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist" style="height:5.0000000000000001em;"> < span></span></span></span></span></span></span></span></span></span></span>
+
+
+
+## Sådan beregnes justeret EBITDA
+
+Start med at beregne indtjening før indkomst, skat, afskrivninger og amortisering, altså EBITDA, som begynder med en virksomheds nettoindkomst. Til dette tal skal du tilføje renteudgifter, indkomstskatter og alle ikke-kontante omkostninger, inklusive afskrivning og amortisering.
+
+Derefter skal du enten tilføje ikke-rutineudgifter, såsom overdreven ejerkompensation, eller trække eventuelle typiske udgifter, der ville være til stede i sammenlignelige virksomheder, men som måske ikke er til stede i virksomheden, der analyseres. Dette kan for eksempel omfatte løn for det nødvendige antal medarbejdere i en virksomhed, der er underbemandet.
+
+## Hvad fortæller justeret EBITDA dig?
+
+Justeret EBITDA bruges til at vurdere og sammenligne relaterede virksomheder til værdiansættelsesanalyse og til andre formål. Justeret EBITDA adskiller sig fra standard EBITDA-målet ved, at en virksomheds justerede EBITDA bruges til at [normalisere](/normalizedearnings) dens indtægter og udgifter, da forskellige virksomheder kan have flere typer udgiftsposter, der er unikke for dem. Justeret EBITDA, i modsætning til den ikke-justerede version, vil forsøge at normalisere indkomst, standardisere pengestrømme og eliminere abnormiteter eller idiosynkrasier (såsom overflødige aktiver, [bonusser](/bonus) udbetalt til ejere, leje over eller under fair markedsværdi osv.). hvilket gør det nemmere at sammenligne flere forretningsenheder eller virksomheder i en given branche.
+
+For mindre virksomheder er ejernes personlige udgifter ofte kørt gennem virksomheden og skal justeres ud. Justeringen for rimelig kompensation til ejere er defineret af finansministeriets forordning 1.162-7(b)(3) som "det beløb, der normalt ville blive betalt for lignende tjenester af lignende organisationer under lignende omstændigheder."
+
+Andre gange skal engangsudgifter lægges tilbage, såsom advokatomkostninger, ejendomsudgifter såsom reparationer eller vedligeholdelse eller forsikringskrav. Ikke-tilbagevendende indtægter og udgifter såsom engangsopstartsomkostninger, der normalt reducerer EBITDA, bør også lægges tilbage, når den justerede EBITDA beregnes.
+
+Justeret EBITDA bør ikke bruges isoleret og giver mere mening som en del af en række analytiske værktøjer, der bruges til at værdiansætte en virksomhed eller virksomheder. Nøgletal, der er afhængige af justeret EBITDA, kan også bruges til at sammenligne virksomheder af forskellig størrelse og i forskellige brancher, såsom [virksomhedens værdi](/enterprisevalue) / justeret EBITDA-forhold.
+
+## Eksempel på, hvordan man bruger justeret EBITDA
+
+Den justerede EBITDA-metrik er mest nyttig, når den bruges til at bestemme værdien af en virksomhed for transaktioner såsom [fusioner](/merger),. opkøb eller kapitalfremskaffelse. For eksempel, hvis en virksomhed værdiansættes ved hjælp af et multiplum af EBITDA, kan værdien ændre sig betydeligt efter add-backs.
+
+Antag, at en virksomhed bliver vurderet til en salgstransaktion, ved at bruge et EBITDA-multipel på 6x for at nå frem til købsprisestimatet. Hvis virksomheden kun har $1 million i engangs- eller usædvanlige udgifter at tilføje tilbage som EBITDA-justeringer, tilføjer dette $6 millioner ($1 million gange 6x multiplen) til sin købspris. Af denne grund kommer EBITDA-justeringer under stor kontrol fra aktieanalytikere og investeringsbankfolk under disse typer transaktioner.
+
+Tilpasningerne til en virksomheds EBITDA kan variere en del fra den ene virksomhed til den næste, men målet er det samme. Justering af EBITDA-metrikken har til formål at "normalisere" tallet, så det er noget generisk, hvilket betyder, at det i det væsentlige indeholder de samme linjepostudgifter, som enhver anden lignende virksomhed i sin branche ville indeholde.
+
+Hovedparten af justeringerne er ofte forskellige typer udgifter, der lægges tilbage til EBITDA. Det resulterende justerede EBITDA afspejler ofte et højere indtjeningsniveau på grund af de reducerede omkostninger.
+
+## EBITDA-justeringer
+
+Almindelige EBITDA-justeringer inkluderer:
+
+- Urealiserede gevinster eller tab
+
+- Ikke-kontante udgifter (afskrivning, amortisering)
+
+- Sagsomkostninger
+
+- Ejerkompensation, der er højere end markedsgennemsnittet (i private virksomheder)
+
+- Gevinster eller tab på udenlandsk valuta
+
+- Nedskrivninger på goodwill
+
+- Ikke-driftsindtægter
+
+- Aktiebaseret aflønning
+
+Denne metrik beregnes typisk på årsbasis til en værdiansættelsesanalyse, men mange virksomheder vil se på justeret EBITDA på kvartals- eller endda månedsbasis, selvom det muligvis kun er til intern brug.
+
+Analytikere bruger ofte en treårig eller femårig gennemsnitlig justeret EBITDA til at [udjævne dataene](/data-smoothing). Jo højere den justerede EBITDA-margin er, jo bedre. Forskellige firmaer eller analytikere kan nå frem til lidt anderledes justeret EBITDA på grund af forskelle i deres metodologi og antagelser ved at foretage justeringerne.
+
+Disse tal gøres ofte ikke tilgængelige for offentligheden, mens ikke-normaliseret EBITDA typisk er offentlig information. Det er vigtigt at bemærke, at justeret EBITDA ikke er en [almindeligt accepteret regnskabsprincip (GAAP)](/gaap) -standardlinjepost på en virksomheds resultatopgørelse.
+
+##Højdepunkter
+
+- Adjusted EBITDA giver værdiansættelsesanalytikere en normaliseret metrik for at gøre sammenligninger mere meningsfulde på tværs af en række forskellige virksomheder i samme branche.
+
+- Offentlige virksomheder rapporterer standard EBITDA i regnskaber, da Justeret EBITDA ikke er påkrævet i GAAP-regnskaber.
+
+- Den justerede EBITDA-måling fjerner ikke-tilbagevendende, uregelmæssige og engangsposter, der kan forvrænge EBITDA.
+
