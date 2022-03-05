@@ -1,0 +1,37 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Ratios
+title: Hagnaður í reiðufé á hlut (Cash EPS)
+description: Hagnaður í reiðufé á hlut er íhaldssamari valkostur við grunnhagnað á hlut sem notaður er til að meta fjárhagslega frammistöðu á hlut.
+---
+
+# Hagnaður í reiðufé á hlut (Cash EPS)
+## Hvað þýðir peningatekjur á hlut?
+
+Handbært fé á hlut (cash EPS), eða oftar kallað [rekstrarsjóðstreymi](/operatingcashflow),. er fjárhagsleg frammistöðumælikvarði sem ber saman sjóðstreymi við fjölda útistandandi hluta. Reiðufé EPS er frábrugðið vinsælli hreinni hagnaðarmælingunni, hagnaði á hlut ( [EPS](/eps) ), sem ber saman hreinar tekjur á hlut.
+
+Laus við íhluti sem ekki eru reiðufé, eins og [afskriftir](/depreciation) sem eru innifalin í hagnaðartengdum EPS-mælingum, getur EPS í reiðufé reynst áreiðanlegri mælikvarði á fjárhagslegt og rekstrarlegt heilsufar.
+
+Því hærra sem EPS fyrirtækis í reiðufé er, því betra er talið að það hafi staðið sig á tímabili. EPS fyrirtækis í reiðufé er hægt að nota til að bera saman við önnur fyrirtæki eða þróun í viðskiptum fyrirtækis.
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Reiðufé EPS </mtext><mo>=</mo><mtext> </mtext><mfrac> <mtext>Rekstrarsjóðstreymi</mtext><mtext>Útstandandi útþynnt hlutabréf</mtext></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel= "0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow> <mtext mathvariant="bold">þar sem:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true">>< mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>EPS </mtext><mo >=</mo><mtext> hagnaður á hlut</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encodin g="application/x-tex">\begin{aligned}&amp;\text{Cash EPS}\ =\ \frac{\text{Rekstrarsjóðstreymi}}{\text{Þynnt hlutabréf útistandandi}}\\&amp; \textbf{þar:}\\&amp;\text{EPS}\ =\ \text{hagnaður á hlut}\end{aligned}</annotation></semantics></math></span><span class= "katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:5.55188em;vertical-align:-2.5259400000000003em;"></span> <span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r" ><span class="vlist" style="height:3.0259399999999994em;"><span style="top:-5.025939999999999em;"><span class="pstrut" style="height:3.3714399999999998em;"></span span><span class="mord"></span></span><span style="top:-3.0054999999999996em;"><span class="psrut" style="height:3.3714399999999998em;"></ span><span class="mord"></span></span><span style="top:-1.5054999999999996em;"><span class="psrut" style="height:3.3714399999999998em;"></ span><span class="mord"></span></span></sp an><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:2.5259400000000003em;"><span ></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"></span class= "vlist-r"><span class="vlist" style="height:3.0259399999999994em;"><span style="top:-5.025939999999999em;"><span class="pstrut" style="height:3.3714399999999988 ;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Cash EPS</span> </span><span class="mspace"> </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</ span><span class="mspace"> </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class=" mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height :1.3714399999999998em;"><span style="top:-2.314em;"><span class="psrut" style="height:3em;"></s pan><span class="mord"><span class="mord text"><span class="mord">Útstandandi útþynnt hlutabréf</span></span></span></span><span style= "top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em; "></span></span><span style="top:-3.677em;"><span class="psrut" style="height:3em;"></span><span class="mord" ><span class="mord text"><span class="mord">Rekstrarsjóðstreymi</span></span></span></span></span><span class="vlist-s" </span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></ span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:-3.0054999999999996em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">þar sem:</span></span></span></span><span style="top:-1.505499999999996em;"><span class="psrut" style="height: 3,371439 9999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">EPS</span> </span><span class="mspace"> </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</ span><span class="mspace"> </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class= "mord">hagnaður á hlut</span></span></span></span></span><span class="vlist-s">​</span></span><span class= "vlist-r"><span class="vlist" style="height:2.5259400000000003em;"><span></span></span></span></span></span></span> </span></span></span></span>
+
+
+
+## Skilningur á EPS í reiðufé
+
+Við greiningu á fyrirtæki ber stöðluð fjárhagsgreiningartækni saman sjóðstreymi frá rekstri (CEPS) við tilkynntar hreinar tekjur. Algengt viðvörunarmerki fyrir árásargjarna tekjufærslu kemur oft upp á yfirborðið þegar sjóðstreymi í rekstri fer að dragast verulega eftir uppgefnum hreinum tekjum. Þegar þetta gerist gæti það verið rautt flagg fyrir að viðurkenna tekjur of snemma.
+
+Með því að vera frekar næm fyrir bókhaldsmeðferð getur grunn EPS verið óáreiðanlegur mælikvarði á frammistöðu. Sem slíkur, þegar þeir meta hugsanlega fjárfestingu, kjósa fjárfestar eins og Warren Buffet ráðstafanir sem byggja á reiðufé til að leiðbeina greiningu sinni.
+
+Nýlega hafa hlutabréfakaup, frekar en hlutabréfaarðgreiðslur, verið yfirþyrmandi vinsæl aðferð til að skila hagnaði til hluthafa. Það er hægt að færa rök fyrir því að þetta hjálpar til við að auka EPS, með því að lækka útistandandi hlutabréf, og hjálpa þar með stjórnendum fyrirtækja að spila hagnað á hlut vexti til að draga úr [frammistöðutengdum](/performancecompensation) bótaáætlunum.
+
+Með því að vera íhaldssamari mælikvarði á frammistöðu getur EPS í reiðufé útrýmt sumum þessara vandamála sem eru sameiginleg fyrir meiri notkun fjármálaverkfræði.
+
+## Kostir þess að nota EPS í reiðufé
+
+- CEPS er minna tilhneigingu til bókhaldsmeðferðar, sem gefur skýrari mynd af sjóðstreymi og rauntekjum. Aukið gagnsæi er merki um góða stjórnarhætti.
+
+- CEPS sýnir fjárfestum á hvern hlut hversu mikinn hagnað hver hlutur skilar. Þetta hjálpar til við að bera kennsl á stigvaxandi gildi.
+
+- CEPS er ekki háð sömu skammtímamarkaðsáherslu og sést með EPS.
+
