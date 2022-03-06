@@ -1,0 +1,35 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Ratios
+title: Effektivitetsförhållande
+description: Effektivitetskvoten används för att analysera hur väl ett företag utnyttjar sina tillgångar och skulder internt.
+---
+
+# Effektivitetsförhållande
+## Vad är ett effektivitetsförhållande?
+
+Effektivitetskvoten används vanligtvis för att analysera hur väl ett företag använder sina tillgångar och skulder internt. En [effektivitetskvot](/efficiency) kan beräkna omsättningen av fordringar, återbetalning av skulder, mängden och användningen av eget kapital och den allmänna användningen av inventarier och maskiner. Detta förhållande kan också användas för att spåra och analysera resultatet för affärs- och investeringsbanker.
+
+## Vad säger ett effektivitetsförhållande?
+
+Effektivitetskvoter, även känd som aktivitetskvoter, används av analytiker för att mäta resultatet av ett företags kortsiktiga eller aktuella resultat. Alla dessa nyckeltal använder siffror i ett företags omsättningstillgångar eller kortfristiga skulder, och kvantifierar verksamheten i verksamheten.
+
+En effektivitetskvot mäter ett företags förmåga att använda sina tillgångar för att generera intäkter. Till exempel tittar ett effektivitetsförhållande ofta på olika aspekter av företaget, såsom den tid det tar att samla in pengar från kunder eller hur lång tid det tar att konvertera lager till kontanter. Detta gör effektivitetskvoterna viktiga, eftersom en förbättring av effektivitetskvoterna vanligtvis leder till förbättrad lönsamhet.
+
+Dessa kvoter kan jämföras med kollegor i samma bransch och kan identifiera företag som är bättre styrda i förhållande till de andra. Några vanliga effektivitetsförhållanden är [kundfordringars omsättning](/receivableturnoverratio),. omsättning av [anläggningstillgångar](/fixed-asset-turnover),. försäljning till lager, försäljning till nettorörelsekapital, leverantörsskulder till försäljning och lageromsättningsgrad.
+
+## Effektivitetskvoter för banker
+
+Inom bankbranschen har ett effektivitetsförhållande en specifik betydelse. För banker är effektivitetsgraden icke-räntekostnader/intäkter. Detta visar hur väl bankens chefer kontrollerar sina omkostnader (eller "backoffice"). Liksom effektivitetskvoterna ovan tillåter detta analytiker att bedöma resultatet för affärs- och investeringsbanker.
+
+## Effektivitetskvoten för banker är:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Effektivitetskvot</mtext><mo>=</mo><mfrac><msup><mtext>Utgifter </mtext><mo lspace="0em" rspace="0em">†</mo></msup><mtext>Intäkter</mtext></mfrac></mrow></mstyle></mtd> </mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle= "true"><mrow><mrow></mrow><mo>†</mo><mtext>exklusive ränta</mtext></mrow></mstyle></mtd></mtr></ mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{Efficiency Ratio} = \frac{\text{Expenses}^{\dolk}}{\text{Intäkter}} \ \ &amp;\dolk \text{exklusive intresse}\\ \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:4.085338em;vertical-align:-1.792669em;"></ span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist- r"><span class="vlist" style="height:2.292669em;"><span style="top:-4.292669em;"><span class="psrut" style="height:3.599338em;"> </span><span class="mord"></span></span><span style="top:-2.466669em;"><span class="psrut" style="height:3.599338em;"> </span><span class="mord"></span></span></span><span class="vlist-s"></span></span><span class="vlist- r "><span class="vlist" style="height:1.792669em;"><span></span></span></span></span></span><span class="col- align -l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.292669em;"><span style=" topp :-4.292669em;"><span class="psrut" style="height:3.599338em;"></span><span class="mord"><span class="mord"></span>< span class="mord text"><span class="mord">Effi ciency Ratio</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class= "mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.599338em;"><span style="top:-2.314em;" ><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">Intäkter</span ></span></span></span><span style="top:-3.23em;"><span class="psrut" style="height:3em;"></span><span class= "frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="psrut" style=" height:3em;"></span><span class="mord"><span class="mord"><span class="mord text"><span class="mord">Utgifter</span></ span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9223379999999999em;">< span style="top:-3.1362300000000003em;margin-right:0.05em;"><span class="psrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">†</span></span></span></span></span></span></span> </span></span></span></span></span><span class="vlist-s"></span></span><span class="vlist-r">< span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></ span ></span></span></span><span style="top:-2.466669em;"><span class="psrut" style="height:3.599338em;"></span><span class ="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin">† < /span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mord text"><span class="mord">inklusive ränta</span > </span></span></span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist " style="höjd:1,79266 9em;"><span></span></span></span></span></span></span></span></span></span></span>
+
+
+
+Eftersom en banks driftskostnader finns i täljaren och dess intäkter finns i nämnaren, innebär en lägre effektivitetskvot att en bank fungerar bättre.
+
+Ett effektivitetsförhållande på 50 % eller lägre anses vara optimalt. Om effektivitetsgraden ökar betyder det att en banks kostnader ökar eller att dess intäkter minskar.
+
+Till exempel rapporterade Bank X kvartalsresultat och den hade en effektivitetsgrad på 57,1 %, vilket var lägre än 63,2 % för samma kvartal förra året. Detta innebär att företagets verksamhet blev effektivare och ökade dess tillgångar med 80 miljoner dollar för kvartalet.
+
