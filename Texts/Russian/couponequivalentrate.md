@@ -1,0 +1,53 @@
+---
+keywords: Trading,Fixed Income Trading,Fixed Income Trading Strategy and Education,Strategy and Education
+title: Купонный эквивалент (CER)
+description: Ставка эквивалента купона (CER) — это альтернативный расчет ставки купона, используемый для сравнения бескупонных и купонных ценных бумаг с фиксированным доходом.
+---
+
+# Купонный эквивалент (CER)
+## Что такое эквивалентная ставка купона (CER)?
+
+Ставка эквивалента купона (CER) — это альтернативный расчет [ставки купона,](/coupon-rate) используемый для сравнения бескупонных и купонных ценных бумаг с фиксированным доходом. Это годовая доходность бескупонной облигации, рассчитанная так, как если бы она выплачивала купон. Он также известен как [эквивалентная](/bey) [доходность облигации](/bey) (BEY) или [купонная эквивалентная доходность](/couponequivalentrate) (CEY).
+
+## Понимание эквивалентной ставки купона (CER)
+
+Ставка эквивалента купона (CER) позволяет инвестору сравнить облигацию с нулевым купоном и облигацию с купонной выплатой. В то время как большинство облигаций выплачивают инвесторам ежегодные или полугодовые процентные платежи, некоторые облигации, называемые облигациями с [нулевым купоном](/zero-couponbond),. вообще не выплачивают проценты, а вместо этого выпускаются с большим дисконтом к номиналу.
+
+Инвестор получает доход по этим дисконтным облигациям, когда срок погашения облигации истекает. Чтобы сравнить доходность по купонным ценным бумагам с доходностью бескупонных ценных бумаг в относительном выражении, аналитики используют формулу ставки купонного эквивалента. Ставка купонного эквивалента (CER) указывает годовой доход по краткосрочным долговым ценным бумагам, который обычно котируется на основе [банковского дисконта](/bankdiscountbasis),. так что доходность может быть сопоставима с котировками по купонным ценным бумагам.
+
+По сути, в нем указывается, какой была бы купонная ставка по дисконтному инструменту (например, бескупонному векселю, казначейскому векселю или коммерческой бумаге), если бы этот инструмент имел купон и был продан по номинальной стоимости.
+
+Поскольку котируемая ставка облигаций рассчитывается на основе [номинальной стоимости](/facevalue),. эта ставка для облигаций, выпущенных с дисконтом, неверна для сравнения их с другими купонными облигациями. Дисконтные или бескупонные облигации не продаются по номинальной стоимости. Они продаются со скидкой, и инвестор обычно получает больше, чем вложил при погашении. Таким образом, более точно использовать CER, поскольку он использует первоначальные инвестиции инвестора в качестве основы для доходности.
+
+Формула эквивалентной ставки купона:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>CR</mtext><mo>=</mo><mfrac><mrow><mtext>Номинальная стоимость </mtext><mo>−</mo><mtext>Рыночная цена</mtext></mrow><mtext>Рыночная цена</mtext></mfrac><mo>×</mo><mfrac>< mn>360</mn><mtext>Дней до погашения</mtext></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant ="bold">где:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow>< /mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>CR</mtext><mo>=< /mo><mtext>Купонный эквивалент iвалентная скорость</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned}&amp;\text{CR} =\frac{\text{Номинальная стоимость}-\text{Рыночная цена}}{\text{Рыночная цена}}\times\frac{360}{\text{Дней до погашения}}\\ &amp;\textbf{где :}\\ &amp;\text{CR}=\text{Эквивалентная ставка купона} \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria -hidden="true"><span class="base"><span class="strut" style="height:5.551880000000001em;vertical-align:-2.5259400000000003em;"></span><span class="mord "><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class=" vlist" style="height:3.0259400000000003em;"><span style="top:-5.02594em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class= "mord"></span></span><span style="top:-3.0054999999999996em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class= "морд"></span></span><span style="top:-1.50549999999999 96em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span></span><span class=" vlist-s"></span></span><span class="vlist-r"><span class="vlist" style="height:2.5259400000000003em;"><span></span></ span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r">< span class="vlist" style="height:3.0259400000000003em;"><span style="top:-5.02594em;"><span class="pstrut" style="height:3.3714399999999998em;"></span> <span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">CR</span></span><span class= "mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;" ></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class ="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">Рыночная цена</span></span></ span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style= "border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;">< /span><span class="mord"><span class="mord text"><span class="mord">Номинальная стоимость</span></span><span class="mspace" style="margin- right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class ="mord text"><span class="mord">Рыночная цена</span></span></span></span></span><span class="vlist-s"></span ></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span ></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class=" mbin">×</span><span cla ss="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"> <span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em ;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">дней до Зрелость</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span> <span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut " style="height:3em;"></span><span class="mord"><span class="mord">3</span><span class="mord">6</span><span class="mord">0</span></span></span></span><span class="vlist-s"></span></span><span class="vlist-r" "><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter" ></span></span></span></span><span ул yle="top:-3.0054999999999996em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></ span><span class="mord text"><span class="mord textbf">где:</span></span></span></span><span style="top:-1.5054999999999996em;" ><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord text" ><span class="mord">CR</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">= </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Эквивалентная ставка купона</span ></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class= "vlist" style="height:2.5259400000000003em;"><span></span></span></span></span></span></span></span></span></ диапазон></промежуток>
+
+Ставка эквивалента купона (CER) рассчитывается как:
+
+1. Найдите дисконт, с которым торгуется облигация, который равен номинальной стоимости за вычетом рыночной стоимости.
+
+1. Затем разделите скидку на рыночную цену.
+
+1. Разделите 360 на количество дней до погашения.
+
+1. Затем это число (из № 3) умножается на число, найденное в № 3. 2.
+
+Ставка купонного эквивалента является альтернативным способом расчета доходности облигации и позволяет сравнивать облигацию с нулевым купоном с облигацией с другим сроком. Однако это номинальная доходность, не учитывающая начисления сложных процентов.
+
+Доходность к погашению (YTM) — это теоретическая доходность, которую получил бы инвестор, если бы он держал облигацию до погашения. Но в отличие от купонной эквивалентной доходности (CER), [доходность к погашению](/yieldtomaturity) учитывает начисление сложных процентов. Оба выражены в годовом исчислении.
+
+## Пример CER
+
+Например, казначейский вексель США на 10 000 долларов со сроком погашения 91 день продается за 9 800 долларов. Его купонная эквивалентная ставка составит 8,08%, или ((10 000 – 9 800 долларов США) / (9 800 долларов США)) * (360 / 91), что составляет 0,0204 * 3,96. По сравнению с облигацией с годовым купоном 8% мы бы выбрали облигацию с нулевым купоном, поскольку она имеет более высокую ставку {8,08% > 8%].
+
+[казначейскую облигацию](/treasurystrips) с нулевым купоном , срок погашения которой наступает 15 марта 2022 года. Номинальная стоимость составляет 100 долларов США, а рыночная цена — 98,63 доллара США по состоянию на 14 сентября 2021 года. Ставка эквивалента купона (CER) составляет 2,75%, или ((100 долларов США). - 98,63 долл. США) / (98,63 долл. США) * (360/182).
+
+## Особенности
+
+- Ставка купонного эквивалента (CER) представляет собой годовую доходность бескупонной облигации, рассчитанную так, как если бы она выплачивала купон.
+
+- CER является номинальной доходностью и не учитывает начисление процентов.
+
+- CER позволяет сравнивать бескупонные облигации и другие ценные бумаги с фиксированным доходом.
+
