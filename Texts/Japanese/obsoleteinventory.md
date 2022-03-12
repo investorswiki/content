@@ -1,0 +1,63 @@
+---
+keywords: Business,Corporate Finance and Accounting
+title: 廃止された在庫
+description: 廃止された在庫とは、製品ライフサイクルの終わりにあり、将来販売される予定のない在庫を指す用語です。
+---
+
+# 廃止された在庫
+##廃止された在庫とは何ですか？
+
+[製品ライフサイクル](/product-life-cycle)の終わりにある[在庫](/inventory)[を](/inventory)指す用語です。この在庫は長期間販売または使用されておらず、将来販売される予定はありません。このタイプの在庫は、評価減または評価減する必要があり、会社に大きな損失をもたらす可能性があります。
+
+廃止された在庫は、デッド在庫または超過在庫とも呼ばれます。
+
+##廃止された在庫を理解する
+
+在庫とは、販売の準備ができている会社が所有する商品や材料を指します。これは、販売会社の収益の大部分を占めるため、事業運営の最も重要な資産の1つです。
+
+以前は、在庫が長すぎると、商品の寿命が尽きて陳腐化した可能性があります。現在、テクノロジー、豊富な状態、および顧客の高い期待により、製品のライフサイクルは短くなり、在庫ははるかに早く陳腐化しています。
+
+廃止された在庫とは、会社が売却された後も手元にある在庫のことです。在庫が市場で販売できない場合、その価値は大幅に低下し、会社にとって役に立たないと見なされる可能性があります。価値の下落を認識するために、廃止された在庫は、[一般に公正妥当と認められた会計原則](/gaap)（GAAP）に従って、財務諸表に評価減または評価減されなければなりません。
+
+の市場価値が財務諸表に報告された原価を下回った場合、評価[減が発生します。](/writedown)[償却](/inventory-write-off)とは、価値がなく、したがって販売できないことが確認された場合に、在庫を帳簿から完全に削除することです。
+
+##廃止された在庫の会計
+
+GAAPは、企業が[貸借対照表に廃止された在庫の](/balancesheet)[在庫準備](/inventoryreserve)勘定を設定し、廃止された在庫を処分するときに費用をかけることを要求します。これにより、利益が減少したり、損失が発生したりします。企業は、経費勘定を借方に記入し、[反対資産勘定に貸方記入することによって、在庫の陳腐化を報告します](/contraaccount)。
+
+経費勘定が借方に記入されるとき、これは、現在廃止されている在庫に費やされたお金が経費であることを示します。コントラ資産勘定は、関連する資産勘定のすぐ下の貸借対照表に報告され、資産勘定の正味報告額が減少します。
+
+費用勘定の例には、売上[原価](/cogs)、在庫陳腐化勘定、および在庫評価減の損失が含まれます。コントラアセットアカウントには、廃止された在庫の引当金と廃止された在庫準備金が含まれる場合があります。在庫評価減が少ない場合、企業は通常、売上原価勘定に請求します。ただし、評価減が大きい場合は、別のアカウントに費用を請求することをお勧めします。
+
+##廃止された在庫の例
+
+たとえば、ある会社が8,000ドル相当の廃止された在庫を特定します。次に、在庫を市場で1,500ドルで販売できると推定し、在庫値の評価減に進みます。在庫の価値が8,000ドルから1,500ドルに下がったため、この差は、会計ジャーナルに報告する必要のある価値の減少を表します。つまり、8,000ドル-1,500ドル=6,500ドルです。
+
+<h5><a href="lvngQxs9XDnLxTV3P131ZXdwv0oGNPhppmzn0Jjf9gKrXcEz1Oz0zld1rEklhm3liTc68Y6eVUY1kh5NjHDYgOsNq7IPCjYmW4FHI1y80IHLss4sfDF4t0fHihrFaSaKtz2AJx1nEmG0EasgUtFLRbxL4aLuMF7hR8faxqpDRInUmstb8p7llYMuAYDkfB2mwTTYPz8xyqv6Rdngk1h35QtZRi2SmcxWvovAiVxMm0bxBAcibgkAoOJxgBSuQTYvdJ6VtEaQ7cAIPTjc1JyBdJUOffbtoIt2hNwjxV966xbgf1a0Y9QrsTk8Jpx6HdatI6jYXs7OJNyALKXJ1gA1TxbwsvtTEmPv3N5q9eqJD33T6WjxXVIhHzLEj8nsePKW7xQhLWSrFlnX3ir7rohgFrf7es0NT1EzNUBLYbZ7M5iUBdGN4HdkT43kEIzK08dHavequNMnDQhe2gFvsqHWpXhhqY">TTT</a></h5>
+
+廃止された在庫勘定の引当金は、在庫の元のコストを処分されるまで在庫勘定に保持できるように、対資産勘定として維持される準備金です。廃止された在庫が最終的に処分されると、在庫資産と廃止された在庫の引当金の両方がクリアされます。
+
+たとえば、会社が古い在庫を廃棄して処分した場合、1,500ドルの売上高を受け取ることはありません。したがって、在庫の償却に加えて、会社は1,500ドルの追加費用も認識する必要があります。廃止された在庫の引当金は、次の[ジャーナルエントリを作成することによって解放され](/adjusting-journal-entry)ます。
+
+<h5><a href="byNnJ9v65s9QzivZui7KShSsKTH19UoRLpRuINtpu5VZXmo4NrPEikY8WHZOmLxVGyUNxeh0Gqwjv483UmsnZnhS9fszYEKYJZ5cyhVrnrGukqD7jQgbfWgJXz9gMbx7uProhp89di7xHAuemRkmU9F1tol3Lcgwseui80SlZu7mrrATuVsvMOFj5j8KLeMP055smJ7QgFz7DSXV9XEp5rHJGszTzFjWCiuLEdMBwuqQ8Z4JhD1soEZjEKtu5Qe98n1HRtOGhJot1i3NJIEFJm0N35ykYqGujiPlGTQe3TmvnNlqNPqBLHTqNek0Q8eGrNJq3w4K6Ti7Kx2SbUuApabnVkbNztujblZzle5g3o4nz8Vb8IvLHD2l3Nej9e9EC9mizRfKl0iTbqzogMlF1U4yy5QUr3Ex94SvokQ">TTT</a></h5>
+
+仕訳入力により、廃止された在庫の値が、廃止された在庫勘定の引当金と在庫勘定自体の両方から削除されます。
+
+あるいは、会社は、たとえば800ドルのオークションを通じて、いくらかのお金で在庫を処分することもできます。この場合、オークションからの$ 800の収益は、[簿価](/bookvalue)の$1,500よりも$700少なくなります。 700ドルの金額が経費勘定に請求され、ジャーナルエントリは、在庫の処分とオークションからの収益で800ドルの受領を記録します。
+
+<h5><a href="4fgsBmsj4HpODuuzuhcniLZ678vdMyJojJ8XuNBVZKQmBaWDHzNtXFetLiqSHVxKgErgGAWcqDnD1OrxTyOGcE3NOZbms4tKYuHTKveoj1e2eYrv4lWcgSthxT2bJ2QchMS31AzDfQqVll1yj9BBUjeaRtcxE91G5UcLdw3TYK2ecedd886dfCERHOMowvcGaEyZ8zsjs8CwXCnusGV93fLxrankGefmaGGl3vIuYUYtAd0ny0OzXnJIMDqGYTB4x1WNkHln6c6Yfd3LoQHfgBLoBobr3MG92dKJWilvg61QLUG1m9wcvmnSvehXDFLqwa6JLWzpwsXFBOs4Y1H7sFaJwYHdoGSTMF23hZH8qz1CRn7wOMoEv1qBPcoprrGNYhNxrpr1zrYrK6xsDsFdddBuFrj82lsmMoqQ1gCI9aiM87kJcRPZQC5soYmwDDIrxc9QaVpe4MJkJflE9CKDV1nR50qDFvnTwqqkRDxu">TTT</a></h5>
+
+在庫の正味額$1,500から売却による$800の収益を差し引いたものにより、$ 700の処分による追加の損失が発生し、これは売上原価勘定に請求されます。
+
+大量の陳腐化した在庫は投資家への警告サインです。これは、不十分な製品、不十分な[需要の管理予測](/demand)、および/または不十分な在庫管理の兆候である可能性があります。会社が作成する廃止された在庫の量を見ると、投資家は製品がどれだけ売れているか、会社の在庫プロセスがどれほど効果的であるかを知ることができます。
+
+##ハイライト
+
+-廃止された在庫とは、製品ライフサイクルの最後にある在庫であり、会社の帳簿を書き留めるか、書き留める必要があります。
+
+-廃止された在庫は、費用を借方に記入し、廃止された在庫の引当金などの対資産勘定に貸方記入することによって評価減されます。
+
+-廃止された在庫が処分されると、在庫資産勘定の関連金額と反対資産勘定の両方が処分仕訳帳エントリから削除されます。
+
+-対資産勘定は、現在の市場価値または簿価に到達するために、全在庫資産勘定に対して相殺されます。
+
