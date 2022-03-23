@@ -1,0 +1,85 @@
+---
+keywords: Trading,Technical Analysis,Technical Analysis Basic Education
+title: Moyenne mobile simple (SMA)
+description: Une moyenne mobile simple (SMA) calcule la moyenne d&#39;une gamme sélectionnée de prix, généralement des prix de clôture, par le nombre de périodes dans cette gamme.
+---
+
+# Moyenne mobile simple (SMA)
+## Qu'est-ce qu'une moyenne mobile simple (SMA) ?
+
+Une moyenne mobile simple (SMA) calcule la moyenne d'une gamme sélectionnée de prix, généralement des prix de clôture, par le nombre de périodes dans cette gamme.
+
+## Comprendre la moyenne mobile simple (SMA)
+
+Une moyenne mobile simple (SMA) est une [moyenne mobile arithmétique](/movingaverage) calculée en ajoutant les prix récents, puis en divisant ce chiffre par le nombre de périodes dans la moyenne de calcul. Par exemple, on pourrait ajouter le cours de clôture d'un titre pour un certain nombre de périodes, puis diviser ce total par ce même nombre de périodes. Les moyennes à court terme réagissent rapidement aux variations du prix du titre sous-jacent, tandis que les moyennes à long terme sont plus lentes à réagir. Il existe d'autres types de moyennes mobiles, notamment la [moyenne mobile exponentielle](/ema) (EMA) et la moyenne mobile pondérée (WMA).
+
+<!--4CE61B64F8332EF6140956CD94338661-->
+
+La formule de SMA est :
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="droite gauche" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>SMA</mtext><mo>=</mo><mfrac><mrow><msub><mi >A</mi><mn>1</mn></msub><mo>+</mo><msub><mi>A</mi><mn>2</mn></msub>< mois>+</mo><mi mathvariant="normal">.</mi><mi mathvariant="normal">.</mi><mi mathvariant="normal">.</mi><mo>+ </mo><msub><mi>A</mi><mi>n</mi></msub></mrow><mi>n</mi></mfrac></mrow></mstyle ></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel= "0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">où :</mtext></mrow></mstyle></mtd></mtr>< mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displayty le="true"><mrow><mrow></mrow><msub><mi>A</mi><mi>n</mi></msub><mo>=</mo><mtext> le prix d'un actif à la période </mtext><mi>n</mi></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle= "true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>n< /mi><mo>=</mo><mtext>le nombre total de périodes</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/ x-tex">\begin{aligned} &amp;\text{SMA}=\dfrac{A_1 + A_2 + ... + A_n}{n} \\ &amp;\textbf{où :}\\ &amp;A_n= \text{le prix d'un actif à la période } n\\ &amp;n=\text{le nombre total de périodes}\\ \end{aligned}</annotation></semantics></math></span> <span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:6.846329999999999em;vertical-align:-3.1731649999999996em;"> </span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class=" vlist-r"><span class="vlist" style="heig ht:3.6731649999999996em;"><span style="top:-5.673165em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord">< /span></span><span style="top:-3.8471650000000004em ;"><span class="pstrut" style="height:3.3603300000000003em ;"></span><span class="mord">< /span></span><span style="top:-2.3471650000000004em ;"><span class="pstrut" style="height:3.3603300000000003em ;"></span><span class="mord">< /span></span><span style="top:-0.8471650000000008em ;"><span class="pstrut" style="height:3.3603300000000003em ;"></span><span class="mord">< /span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style=" hauteur : 3,1731649999999996em ;"><span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:3.6731649999999996em ;"><span style="top:-5.673165em;"><span class=" pstrut" style="height:3.3603300000000003em ;"></span><span class="mord"><span class=" mord"></span><span class="mord text"><span class="mord">SMA</span></span><span class="mspace" style="margin-right:0.2777777777777778em ; "></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mord"> <span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist " style="height:1.36033em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord "><span class="mord mathnormal">n</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em ;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;" ><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"><span class="mord mathnormal">A</span ><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em ; "><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span>< span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​< /span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span>< /span></span></span><span class="mspace" style="margin-right:0.2222222222222222em ;"></span><span class="mbin">+</span><span classe ="mspace" style="margin-right:0.2222222222222222em ;"></span><span class="mord"><span class="mord mathnormal">A</span><span class="msupsub"> <span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em ;"><span style="top:-2.5500000000000003em ;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"> <span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></s pan><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></ span></span><span class="mspace" style="margin-right:0.2222222222222222em ;"></span><span class="mbin">+</span><span class="mspace" style ="margin-right:0.2222222222222222em ;"></span><span class="mord">.</span><span class="mord">.</span><span class="mord">. </span><span class="mspace" style="margin-right:0.2222222222222222em ;"></span><span class="mbin">+</span><span class="mspace" style=" margin-right:0.2222222222222222em ;"></span><span class="mord"><span class="mord mathnormal">A</span><span class="msupsub"><span class="vlist- t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em ; margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span><span class="vlist-s">​</span></span><span cla ss="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></ span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span> </span></span> <span class="mord"></span><span class="mord text"><span class="mord textbf">où :</span></span></span></span><span style="top:-2.3471650000000004em ;"><span class="pstrut" style="height:3.3603300000000003em ;"></span><span class="mord"><span class="mord"></ span><span class="mord"><span class="mord mathnormal">A</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class=" vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style classe="pstrut" ="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span>< /span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;">< span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span>< span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mord text"><span class="mord ">le prix d'un actif à la période </span></span><span class="mord mathnormal">n</span></span></span><span style="top:-0.8471650000000008em ; "><span class="pstrut" style="height:3.3603300000000003em ;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal ">n</span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mord text"><span class="mord">le nombre total de périodes</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist- r"><span class="vlist" style="height:3.1731649999999996em ;"><span></span></span></span></span></span></span></span ></span></span></span>
+
+Par exemple, voici comment vous calculeriez la moyenne mobile simple d'un titre avec les cours de clôture suivants sur une période de 15 jours.
+
+Première semaine (5 jours) : 20, 22, 24, 25, 23
+
+Deuxième semaine (5 jours) : 26, 28, 26, 29, 27
+
+Semaine trois (5 jours) : 28, 30, 27, 29, 28
+
+Une moyenne mobile sur 10 jours ferait la moyenne des cours de [clôture](/closingprice) des 10 premiers jours comme premier point de données. Le point de données suivant supprimerait le prix le plus ancien, ajouterait le prix au jour 11, puis prendrait la moyenne, et ainsi de suite. De même, une moyenne mobile sur 50 jours accumulerait suffisamment de données pour faire la moyenne de 50 jours consécutifs de données sur une base continue.
+
+Une moyenne mobile simple est personnalisable car elle peut être calculée pour différents nombres de périodes. Cela se fait en ajoutant le cours de clôture du titre pour un certain nombre de périodes, puis en divisant ce total par le nombre de périodes, ce qui donne le prix moyen du titre sur la période.
+
+Une simple moyenne mobile atténue la volatilité et facilite la visualisation de la tendance des prix d'un titre. Si la moyenne mobile simple pointe vers le haut, cela signifie que le prix du titre augmente. S'il pointe vers le bas, cela signifie que le prix du titre est en baisse. Plus la durée de la moyenne mobile est longue, plus la moyenne mobile simple est lisse. Une moyenne mobile à court terme est plus volatile, mais sa lecture est plus proche des données sources.
+
+> L'une des moyennes mobiles simples les plus populaires est la SMA de 200 jours. Cependant, il y a un danger à suivre la foule. Comme l'explique **The Wall Street Journal**, puisque des milliers de traders fondent leurs stratégies sur le SMA de 200 jours, il est possible que ces prévisions deviennent auto-réalisatrices et limitent la croissance des prix.
+
+>
+
+## Considérations particulières
+
+### Signification analytique
+
+Les moyennes mobiles sont un outil analytique important utilisé pour identifier les tendances actuelles des prix et le potentiel de changement d'une tendance établie. L'utilisation la plus simple d'un SMA dans l'analyse technique consiste à l'utiliser pour déterminer rapidement si un actif est dans une tendance haussière ou baissière.
+
+Une autre utilisation analytique populaire, bien que légèrement plus complexe, consiste à comparer une paire de moyennes mobiles simples, chacune couvrant des périodes différentes. Si une moyenne mobile simple à court terme est supérieure à une moyenne à plus long terme, une tendance à la hausse est attendue. D'autre part, si la moyenne à long terme est supérieure à une moyenne à court terme, une tendance à la baisse pourrait être le résultat attendu.
+
+### Modèles de trading populaires
+
+Deux modèles de trading populaires qui utilisent des moyennes mobiles simples incluent la croix de la mort et une croix dorée. Une [croix de mort](/deathcross) se produit lorsque le SMA de 50 jours passe en dessous du SMA de 200 jours. Ceci est considéré comme un signal baissier, indiquant que de nouvelles pertes sont en magasin. La [croix dorée](/goldencross) se produit lorsqu'un SMA à court terme dépasse un SMA à long terme. Renforcé par des volumes de transactions élevés, cela peut signaler que de nouveaux gains sont en magasin.
+
+## Moyenne mobile simple vs moyenne mobile exponentielle
+
+La principale différence entre une moyenne mobile exponentielle (EMA) et une moyenne mobile simple est la sensibilité de chacune aux changements dans les données utilisées dans son calcul. Plus précisément, l'EMA accorde une pondération plus élevée aux prix récents, tandis que la SMA attribue une pondération égale à toutes les valeurs.
+
+Les deux moyennes sont similaires car elles sont interprétées de la même manière et sont toutes deux couramment utilisées par les traders techniques pour lisser les fluctuations de prix. Étant donné que les EMA accordent une pondération plus élevée aux données récentes qu'aux données plus anciennes, elles sont plus réactives aux dernières [variations de prix](/price-change) que les SMA, ce qui rend les résultats des EMA plus opportuns et explique pourquoi l'EMA est la moyenne préférée de nombreux commerçants.
+
+## Limites de la moyenne mobile simple
+
+Il n'est pas clair s'il faut ou non mettre davantage l'accent sur les jours les plus récents de la période ou sur des données plus éloignées. De nombreux traders pensent que les nouvelles données refléteront mieux la tendance actuelle avec laquelle le titre évolue. Dans le même temps, d'autres commerçants estiment que privilégier certaines dates par rapport à d'autres biaisera la tendance. Par conséquent, le SMA peut trop s'appuyer sur des données obsolètes, car il traite l'impact du 10e ou du 200e jour de la même manière que celui du premier ou du deuxième jour.
+
+De même, la SMA repose entièrement sur des données historiques. De nombreuses personnes (y compris des économistes) pensent que les marchés sont efficaces, c'est-à-dire que les prix actuels du marché reflètent déjà toutes les informations disponibles. Si les marchés sont effectivement efficaces, l'utilisation de données historiques ne devrait rien nous dire sur l'orientation future des prix des actifs.
+
+## Points forts
+
+- Une moyenne mobile simple peut être améliorée en tant que moyenne mobile exponentielle (EMA) qui est plus fortement pondérée sur l'évolution récente des prix.
+
+- Les moyennes mobiles simples calculent la moyenne d'une fourchette de prix par le nombre de périodes à l'intérieur de cette fourchette.
+
+- Une moyenne mobile simple est un indicateur technique qui peut aider à déterminer si le prix d'un actif continuera ou s'il inversera une tendance haussière ou baissière.
+
+## FAQ
+
+### Comment les moyennes mobiles simples sont-elles utilisées dans l'analyse technique ?
+
+Les traders utilisent des moyennes mobiles simples (SMA) pour tracer la trajectoire à long terme d'une action ou d'un autre titre, tout en ignorant le [bruit](/noise) des mouvements de prix au jour le jour. Cela permet aux traders de comparer les tendances à moyen et long terme sur un horizon temporel plus large. Par exemple, si le SMA sur 200 jours d'un titre tombe en dessous de son SMA sur 50 jours, cela est généralement interprété comme un motif croisé de mort baissier et un signal de baisses supplémentaires. Le motif opposé, la croix dorée, indique un potentiel de reprise du marché.
+
+### Comment calculer une moyenne mobile simple ?
+
+Pour calculer une moyenne mobile simple, le nombre de prix dans une période de temps est divisé par le nombre de périodes totales. Par exemple, considérez les actions de Tesla fermées à 10 $, 11 $, 12 $, 11 $, 14 $ sur une période de cinq jours. La moyenne mobile simple des actions de Tesla serait égale à 10 $ + 11 $ + 12 $ + 11 $ + 14 $ divisé par 5, soit 11,6 $.
+
+### Quelle est la différence entre une moyenne mobile simple et une moyenne mobile exponentielle ?
+
+Alors qu'une moyenne mobile simple donne un poids égal à chacune des valeurs dans une période de temps, une moyenne mobile exponentielle accorde plus de poids aux prix récents. Les moyennes mobiles exponentielles sont généralement considérées comme un indicateur plus opportun d'une tendance de prix, et pour cette raison, de nombreux commerçants préfèrent l'utiliser plutôt qu'une simple moyenne mobile. Les moyennes mobiles exponentielles courantes à court terme incluent les 12 jours et 26 jours. Les moyennes mobiles exponentielles sur 50 jours et 200 jours sont utilisées pour indiquer les tendances à long terme.
+
