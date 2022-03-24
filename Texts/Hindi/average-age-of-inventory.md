@@ -1,0 +1,45 @@
+---
+keywords: Business,Corporate Finance and Accounting,Accounting
+title: इन्वेंटरी की औसत आयु
+description: इन्वेंट्री की औसत आयु एक फर्म को इन्वेंट्री को बेचने में लगने वाले दिनों की औसत संख्या है।
+---
+
+# इन्वेंटरी की औसत आयु
+## वस्तु-सूची की औसत आयु क्या है?
+
+इन्वेंट्री की औसत आयु एक फर्म को इन्वेंट्री को बेचने में लगने वाले दिनों की औसत संख्या है। यह एक मीट्रिक है जिसका उपयोग विश्लेषक बिक्री की दक्षता निर्धारित करने के लिए करते हैं। इन्वेंट्री की औसत आयु को इन्वेंट्री (डीएसआई) [में दिनों की बिक्री के रूप में भी जाना जाता है।](/days-sales-inventory-dsi)
+
+## इन्वेंटरी की औसत आयु का फॉर्मूला और गणना
+
+इन्वेंट्री की औसत आयु की गणना करने का सूत्र है:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable Rowpacing="0.24999999999999992em " columnalign="right left" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>इन्वेंट्री की औसत आयु</mtext><mo>=</mo><mfrac><mi>C< /mi><mi>G</mi></mfrac><mo>×</mo><mn>365</mn></mrow></mstyle></mtd></mtr><mtr> <mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow> <mrow></mrow><mtext mathvariant="bold">कहाँ:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi> C</mi><mo>=</mo><mtext>इनवेंटरी की वर्तमान स्तर पर औसत लागत</mtext></mrow></mstyle></mtd></mtr><mtr><mtd ><mstyle scriptlevel="0" display ystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi> G</mi><mo>=</mo><mtext>बेचे गए माल की कीमत (COGS)</mtext></mrow></mstyle></mtd></mtr></mtable><एनोटेशन एन्कोडिंग = "एप्लिकेशन/एक्स-टेक्स"> \ start {गठबंधन} और amp; \ टेक्स्ट {इन्वेंट्री की औसत आयु} = \ frac {सी} {जी} \ बार 365 \\ और amp; \ टेक्स्टबीएफ {कहां:} \\ और amp ;C = \text{अपने वर्तमान स्तर पर इन्वेंट्री की औसत लागत} \\ &amp;G = \text{बेची गई वस्तुओं की लागत (COGS)} \\ \end{aligned}</annotation></semantics>< /math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:6.846329999999999em;vertical-align :-3.1731649999999996em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2 "><span class="vlist-r"><span class="vlist" style="height:3.67316499999999996em;"><span style="top:-5.673165em;"><span class="pstrut" style ="ऊंचाई:3.360330000000003em;"></span><span class="mord"></span></span>< स्पैन स्टाइल="टॉप:-3.8471650000000004em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span>< अवधि शैली = "शीर्ष: -2.3471650000000004em;"> <span वर्ग = "pstrut" शैली = "ऊंचाई: 3.360330000000003em;"> </span> <span वर्ग = "mord" ></span></span>< स्पैन स्टाइल="टॉप:-0.8471650000000008em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span>< /span><span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist" style="height:3.1731649999999996em;">< अवधि </span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class = "vlist-r"><span class="vlist" style="height:3.67316499999999996em;"><span style="top:-5.673165em;"><span class="pstrut" style="height:3.36033000000003 em; ;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">इन्वेंट्री की औसत आयु< / स्पैन></span><span class="mspace" style="margin-right:0.27777777777777778em; "></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord"> <span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist "शैली="ऊंचाई:1.36033em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord "><span class="mord mathnormal">G</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em ;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;" ><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07153em;">C </span></span></span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class=" vlist "शैली="ऊंचाई:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></ span ><span class="mspace" style="margin-right t:0.22222222222222222em;"></span><span class="mbin"></span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class = "mord">3</span><span class="mord">6</span><span class="mord">5</span></span></span><span style="top : -3.8471650000000004em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class ="mord text"><span class="mord textbf">कहाँ:</span></span></span></span><span style="top:-2.3471650000000004em;"><span class = "pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin - दाएं:0.07153em;">सी</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mrel">=</span>< अवधि class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">इनवेंट्री की वर्तमान स्तर पर औसत लागत</ स्पैन ></span></span></span><span style="top:-0.847165000 0000008em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class=" mord mathnormal">G</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mrel">=</span><span class=" mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">बेचे गए माल की कीमत (COGS)</span></span ></span></span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist" style = "ऊंचाई: 3.1731649999999996em;"><span></span></span></span></span></span></span></span></span></span></ span >
+
+
+
+## इन्वेंट्री की औसत आयु आपको क्या बता सकती है
+
+इन्वेंट्री की औसत आयु विश्लेषक को बताती है कि एक कंपनी में दूसरी की तुलना में [इन्वेंट्री कितनी तेजी से बदल रही है।](/inventory) एक कंपनी जितनी तेजी से लाभ के लिए इन्वेंट्री बेच सकती है, वह उतना ही अधिक लाभदायक होता है। हालांकि, एक कंपनी छूट या दीर्घकालिक योजना प्रयासों के लिए उच्च स्तर की सूची बनाए रखने की रणनीति को नियोजित कर सकती है। जबकि मीट्रिक का उपयोग दक्षता के माप के रूप में किया जा सकता है, इसकी पुष्टि किसी भी निष्कर्ष पर पहुंचने से पहले दक्षता के अन्य उपायों, जैसे [सकल लाभ मार्जिन के साथ की जानी चाहिए।](/gross_profit_margin)
+
+[उत्पाद चक्र](/product-life-cycle),. जैसे कि प्रौद्योगिकी उद्योग वाले उद्योगों में इन्वेंट्री की औसत आयु एक महत्वपूर्ण आंकड़ा है। इन्वेंट्री की एक उच्च औसत आयु यह संकेत दे सकती है कि एक फर्म अपनी इन्वेंट्री का ठीक से प्रबंधन नहीं कर रही है या उसके पास एक इन्वेंट्री है जिसे बेचना मुश्किल है।
+
+इन्वेंट्री की औसत आयु क्रय एजेंटों को खरीदारी के निर्णय लेने में मदद करती है और प्रबंधक मूल्य निर्धारण निर्णय लेने में मदद करते हैं, जैसे उत्पादों को स्थानांतरित करने और [नकदी प्रवाह को बढ़ाने के लिए मौजूदा इन्वेंट्री को छूट देना](/cashflow) । जैसे-जैसे एक फर्म की इन्वेंट्री की औसत आयु बढ़ती है, [अप्रचलन जोखिम के लिए इसका जोखिम](/obsolescencerisk) भी बढ़ता है। अप्रचलन जोखिम वह जोखिम है जो समय के साथ या [नरम बाजार में इन्वेंट्री का मूल्य अपना मूल्य खो देता है](/soft_market) । यदि कोई फर्म इन्वेंट्री को स्थानांतरित करने में असमर्थ है, तो वह फर्म की बैलेंस शीट पर बताए गए मूल्य से कुछ राशि के लिए [इन्वेंट्री राइट-ऑफ ले सकती है।](/inventory-write-off)
+
+## इन्वेंट्री की औसत आयु का उपयोग कैसे करें इसका उदाहरण
+
+एक निवेशक दो खुदरा कंपनियों की तुलना करने का फैसला करता है। कंपनी A के पास $100,000 मूल्य की इन्वेंट्री है और COGS $600,000 है। कंपनी ए की इन्वेंट्री की औसत आयु की गणना COGS द्वारा इन्वेंट्री की औसत लागत को विभाजित करके और फिर उत्पाद को 365 दिनों से गुणा करके की जाती है। गणना $ 100,000 को $600,000 से विभाजित करके, 365 दिनों से गुणा किया जाता है। कंपनी ए के लिए इन्वेंट्री की औसत आयु 60.8 दिन है। इसका मतलब है कि फर्म को अपनी इन्वेंट्री बेचने में लगभग दो महीने लगते हैं।
+
+इसके विपरीत, कंपनी B के पास $100,000 मूल्य की इन्वेंट्री भी है, लेकिन बेची गई इन्वेंट्री की लागत $1 मिलियन है, जो इन्वेंट्री की औसत आयु को 36.5 दिनों तक कम कर देता है। सतह पर, कंपनी बी कंपनी ए की तुलना में अधिक कुशल है।
+
+##हाइलाइट
+
+- एक कंपनी जितनी तेजी से अपनी इन्वेंट्री बेच सकती है, वह उतनी ही अधिक लाभदायक हो सकती है।
+
+- इन्वेंट्री की औसत आयु को इन्वेंट्री में दिनों की बिक्री के रूप में भी जाना जाता है.
+
+- इन्वेंट्री की औसत आयु बताती है कि किसी कंपनी को अपनी इन्वेंट्री बेचने में औसतन कितने दिन लगते हैं।
+
+- इस मीट्रिक की पुष्टि अन्य आंकड़ों से की जानी चाहिए, जैसे कि सकल लाभ मार्जिन।
+
+- एक बढ़ता हुआ आंकड़ा सुझाव दे सकता है कि कंपनी के पास इन्वेंट्री की समस्या है।
+
