@@ -1,0 +1,81 @@
+---
+keywords: Trading,Technical Analysis,Technical Analysis Basic Education
+title: Donchiske kanaler
+description: Donchian Channels er glidende gennemsnitsindikatorer udviklet af Richard Donchian. De plotter den højeste høje pris og laveste lave pris på et værdipapir over en given tidsperiode.
+---
+
+# Donchiske kanaler
+## Hvad er Donchian-kanaler?
+
+Donchian-kanaler er tre linjer genereret af glidende gennemsnitsberegninger, der omfatter en indikator dannet af øvre og nedre bånd omkring et mellem- eller medianbånd. Det øverste bånd markerer den højeste pris på et værdipapir over N perioder, mens det nederste bånd markerer den laveste pris på et værdipapir over N perioder. Området mellem det øvre og nedre bånd repræsenterer Donchian-kanalen.
+
+Karrierefutureshandler Richard Donchian udviklede indikatoren i midten af det 20. århundrede for at hjælpe ham med at identificere tendenser. Han ville senere få tilnavnet "The Father of Trend Following."
+
+<!--2BE71D89CDD8D134C2261267283D2929-->
+
+## Formlen for Donchian Channels er:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>UC = Højeste højeste i sidste </mtext><mi>N</mi><mtext> perioder</ mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></ mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Mellemkanal</mtext><mo>=</mo><mo stretchy=" false">(</mo><mo stretchy="false">(</mo><mi>U</mi><mi>C</mi><mo>+</mo><mi>L< /mi><mi>C</mi><mo stretchy="false">)</mo><mi mathvariant="normal">/</mi><mn>2</mn><mo stretchy=" false">)</mo></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow> </mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow> <mrow></mrow><mtext>LC = Laveste lav i sidste </mtext><mi>N</mi><mtext> perioder</mtext></mrow></mstyle></mtd></ mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true "><mrow><mrow></mrow><mtext mathvariant="bold">hvor:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></ mrow><mi>U</mi><mi>C</mi><mo>=</mo><mtext>Øvre kanal</mtext></mrow></mstyle></mtd></mtr ><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true" ><mrow><mrow></mrow><mtable rowspacing="0.24999999999999992em" columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"> <mrow><mi>N</mi><mo>=</mo></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow> <mrow></mrow><mtext> Antal minutter , timer, dage,</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow ></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext> uger, måneder</mtext></mrow>< /mstyle></mtd></mtr></mtable></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"> <mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtable rowspacing="0.24999999999999992em" columnalign ="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mtext>Periode</mtext><mo>=</mo>< /mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Minuter, timer, dage, uger,</ mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></ mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>måneder</mtext></mrow></mstyle></mtd></ mtr></mtable></mrow>< /mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>L</mi><mi>C</mi><mo>=</mo><mtext>Nedre kanal </mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned}&amp;\text{UC = Højest Høj i sidste }N\text{ Perioder}\\&amp;\text{Midterkanal} = ((UC+LC)/2)\\&amp;\text{LC = Laveste Lav i Sidste }N\tekst{ perioder}\ \&amp;\textbf{hvor:}\\&amp;UC=\text{Øvre kanal}\\&amp;\begin{aligned}N=&amp;\text{ Antal minutter, timer, dage,}\\&amp; \text{ uger, måneder}\end{aligned}\\&amp;\begin{aligned}\text{Period}=&amp;\text{Minutter, timer, dage, uger,}\\&amp;\text{måneder} \end{aligned}\\&amp;LC=\text{Nedre kanal}\end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden ="true"><span class="base"><span class="strut" style="height:15.6000000000000003em;vertical-align:-7.55000000000000025em;"></span><span class=" mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class= "vlist" style="height:8.05em;"><span style="top:-10.96em;"><span class="psrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-9.46em;"><span class="psrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-7.96em;"><span class="psrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-6.46em;"><span class="psrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-4.96em;"><span class="psrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-2.549999999999985em;"><span class="psrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:0.75000000000000022em;"><span class="psrut" style="height:3.75em;"></span><span class= "mord"></span></span><span style="top:3.14000000000000023em;"><span class="psrut" style="height:3.75em;"></span><span class="mord"></span></span></span><span class="vlist-s">​ </span></span><span class="vlist-r"><span class="vlist" style="height:7.55000000000000025em;"><span></span></span></span> </span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:8.05em;"><span style="top:-10.96em;"><span class="psrut" style="height:3.75em;"></span><span class="mord "><span class="mord"></span><span class="mord text"><span class="mord">UC = Højest høj i sidste </span></span><span class=" mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord text"><span class="mord"> Perioder</span></span></span> </span><span style="top:-9.46em;"><span class="psrut" style="height:3.75em;"></span><span class="mord"><span class= "mord"></span><span class="mord text"><span class="mord">Mellemkanal</span></span><span class="mspace" style="margin-right:0.2777777777777778 em;"></span><span class="mr el">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mopen">(</span><span class="mopen ">(</span><span class="mord mathnormal" style="margin-right:0.10903em;">U</span><span class="mord mathnormal" style="margin-right:0.07153em; ">C</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal">L</span><span class="mord mathnormal" style="margin-right:0.07153em;"> C</span><span class="mclose">)</span><span class="mord">/</span><span class="mord">2</span><span class="mclose ">)</span></span></span><span style="top:-7.96em;"><span class="psrut" style="height:3.75em;"></span>< span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">LC = Laveste lav i sidste </span></span> <span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord text"><span class="mord"> perioder</span></span></span></span><span style="top:-6.46em;"><span class="psrut" style="height:3.75em;"></span ><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">hvor:</span></span>< /span></span><span style="top:-4.96em;"><span class="psrut" style="height:3.75em;"></span><span class="mord">>< span class="mord"></span><span class="mord mathnormal" style="margin-right:0.10903em;">U</span><span class="mord mathnormal" style="margin-right :0.07153em;">C</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class ="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">Øvre kanal</span></span></span ></span><span style="top:-2.5499999999999985em;"><span class="psrut" style="height:3.75em;"></span><span class="mord"><span class ="mord"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"> <span cl ass="vlist-r"><span class="vlist" style="height:1.7500000000000002em;"><span style="top:-3.91em;"><span class="pstrut" style="height: 3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mspace" style= "margin-right:0.2777777777777778em;"></span><span class="mrel">=</span></span></span><span style="top:-2.41em;"><span class="psrut" style="height:3em;"></span><span class="mord"></span></span></span><span class="vlist-s">​< /span></span><span class="vlist-r"><span class="vlist" style="height:1.25000000000000002em;"><span></span></span></span>< /span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" stil ="height:1.7500000000000002em;"><span style="top:-3.91em;"><span class="psrut" style="height:3em;"></span><span class="mord"> <span class="mord"></span><span class="mord text"><span class="mord"> Antal minutter, timer, dage,</span></span></span>< /span><span style="top:-2.41 em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord"> uger, måneder</span></span></span></span></span><span class="vlist-s">​</span>< /span><span class="vlist-r"><span class="vlist" style="height:1.25000000000000002em;"><span></span></span></span></span>< /span></span></span></span></span><span style="top:0.7500000000000022em;"><span class="psrut" style="height:3.75em;"></span> span><span class="mord"><span class="mord"></span><span class="mord"><span class="mtable"><span class="col-align-r"> <span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.75000000000000002em;"><span style="top:-3.91em ;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">Periode< /span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span></span></span ><span style="top:-2.41em;"><span class="pstr ut" style="height:3em;"></span><span class="mord"></span></span></span><span class="vlist-s">​</span> </span><span class="vlist-r"><span class="vlist" style="height:1.25000000000000002em;"><span></span></span></span></span> </span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height :1.75000000000000002em;"><span style="top:-3.91em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class ="mord"></span><span class="mord text"><span class="mord">Minutter, timer, dage, uger,</span></span></span></span> <span style="top:-2.41em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord">< /span><span class="mord text"><span class="mord">måneder</span></span></span></span></span><span class="vlist-s" </span></span><span class="vlist-r"><span class="vlist" style="height:1.25000000000000002em;"><span></span></span></ span></span></span></span></span></span></span><span style="top:3.140000000 0000023em;"><span class="psrut" style="height:3.75em;"></span><span class="mord"><span class="mord"></span><span class="mord" mord mathnormal">L</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mspace" style="margin-right:0.27777777777777778em ;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text "><span class="mord">Nedre kanal</span></span></span></span></span><span class="vlist-s">​</span></span ><span class="vlist-r"><span class="vlist" style="height:7.55000000000000025em;"><span></span></span></span></span></span ></span></span></span></span></span>
+
+## Sådan beregnes Donchian-kanaler
+
+### Channel High
+
+1. Vælg tidsrummet (N minutter/timer/dage/uger/måneder).
+
+1. Sammenlign det høje print for hvert minut, time, dag, uge eller måned i den pågældende periode.
+
+1. Vælg det højeste tryk.
+
+1. Tegn resultatet.
+
+### Kanal lav
+
+1. Vælg tidsrummet (N minutter/timer/dage/uger/måneder).
+
+1. Sammenlign den lave udskrift for hvert minut, time, dag, uge eller måned i den pågældende periode.
+
+1. Vælg det laveste tryk.
+
+1. Tegn resultatet.
+
+### Centerkanal
+
+1. Vælg tidsrummet (N minutter/timer/dage/uger/måneder).
+
+1. Sammenlign høje og lave udskrifter for hvert minut, time, dag, uge eller måned i den pågældende periode.
+
+1. Tilføj det laveste lave print til det højeste høje print og divider med 2.
+
+1. Tegn resultatet.
+
+## Hvad fortæller Donchian-kanaler dig?
+
+Donchian-kanaler identificerer sammenlignende forhold mellem den aktuelle pris og handelsintervaller over forudbestemte perioder. Tre værdier bygger et visuelt kort over prisen over tid, svarende til Bollinger Bands, der angiver omfanget af bullishness og bearishness for den valgte periode. Den øverste linje identificerer omfanget af bullish energi og fremhæver den højeste pris, der er opnået for perioden gennem bull-bear konflikten.
+
+Midterlinjen identificerer median- eller middelpris for tilbagevenden for perioden, hvilket fremhæver den mellemting, der er opnået for perioden gennem bull-bear-konflikten. Bundlinjen identificerer omfanget af bearish energi og fremhæver den laveste pris, der er opnået for perioden gennem bull-bear konflikten.
+
+## Eksempel på hvordan man bruger Donchian-kanaler
+
+<!--A1779CDD9C61EDC888BA3471CFCECA78-->
+
+I dette eksempel er Donchian Channel det skraverede område afgrænset af den øvre grønne linje og den nederste røde linje, som begge bruger 20 dage som båndkonstruktionsperioder (N). Efterhånden som prisen bevæger sig op til sit højeste punkt i de sidste 20 dage eller mere, "skubber" prisbjælkerne den grønne linje højere, og da prisen falder til sit laveste punkt i 20 dage eller mere, "skubber" prisbjælkerne den røde linje lavere.
+
+Når prisen falder i 20 dage fra et højdepunkt, vil den grønne linje være vandret og derefter begynde at falde. Omvendt, når prisen stiger fra et lavpunkt i 20 dage, vil den røde linje være vandret i 20 dage og derefter begynde at stige.
+
+## Forskellen mellem Donchian Channels og Bollinger Bands
+
+Donchian Channels plotter den højeste høje og laveste lav over N perioder, mens Bollinger Bands plotter et simpelt glidende gennemsnit (SMA) for N perioder plus/minus standardafvigelsen af prisen for N perioder X 2. Dette resulterer i en mere afbalanceret beregning, der reducerer virkningen af store høje eller lave udskrifter.
+
+## Begrænsninger ved brug af Donchian-kanaler
+
+Markederne bevæger sig i overensstemmelse med mange aktivitetscyklusser. En vilkårlig eller almindeligt anvendt N-periodeværdi for Donchian-kanaler afspejler muligvis ikke de aktuelle markedsforhold, hvilket genererer falske signaler, der kan underminere handels- og investeringsresultater.
+
+## Højdepunkter
+
+- Donchian Channels er en teknisk indikator, der søger at identificere bullish og bearish ekstremer, der favoriserer reverseringer samt højere og lavere breakouts, sammenbrud og nye tendenser.
+
+- Disse punkter identificerer median- eller middelpris for tilbagevenden.
+
+- Mellembåndet beregner simpelthen gennemsnittet mellem den højeste høj over N perioder og den laveste lave over N perioder.
+
