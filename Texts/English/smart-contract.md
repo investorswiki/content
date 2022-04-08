@@ -1,0 +1,15 @@
+---
+keywords: Crypto
+title: Smart Contract
+description: Smart Contract. Automated contracts that trigger a certain action when foreordained conditions are met. They work like &#39;On the off chance that&#39; conditions.
+---
+
+# Smart Contract
+A smart contract is a piece of computer software that is planned as an automated self-implementing contract, and that means it triggers certain action after foreordained conditions are met. Smart contracts can be utilized, for example, as digital agreements that intermediate the exchange of cryptographic forms of money (or some other digital asset) between two gatherings. When the terms of the agreement have been set, the smart contract confirms their satisfaction and the assets are distributed in understanding.
+As such, smart contracts are fundamentally lines of code that execute a specific function once certain conditions are met. The code typically follows "if... then..." statements that trigger foreordained and unsurprising actions.
+For instance, an online shop might execute a smart contract that guarantees that "in the event that payment is received, products are conveyed" - which would make the whole cycle more efficient and less inclined to human blunder.
+Albeit smart contracts became famous with regards to blockchain and digital currencies, the concept was first portrayed by American cryptographer Nick Szabo in 1994, numerous years before the creation of Bitcoin.
+Smart contracts play an important job in the blockchain space and cryptocurrency markets, especially concerning ERC-20 tokens, which address a class of tokens made on the Ethereum network that follow the [ERC-20](/erc-20) standard. These tokens are in many cases distributed through Initial Coin Offering ([ICO](/initial-coin-offering-ico)) events, and the utilization of smart contracts empowers a trustless and savvy exchange of funds during the sales. Their utilization can likewise work with payment processing for decentralized applications ([DApps](/decentralized-applications-dapps)) or decentralized exchanges ([DEX](/decentralized-exchange)).
+One more area in which smart contracts are suitable is the financial services industry. For example, the technology might be utilized to robotize the clearing and settlement of trades, the payment of bond coupons, or even the calculation and payout of insurance claims.
+In spite of their undeniable applications in finance, smart contracts are sufficiently adaptable to apply to basically any industry in which funds, digital assets, or any sort of digital data should be moved between parties. The equipment leasing industry, for example, has made broad true utilization of these contracts to pursue lease agreements more efficient.
+In the healthcare sector, the technology is being investigated as a countermeasure against data manipulation in clinical trials. Smart contracts might in fact be utilized to implement intellectual property agreements by laying out a definitive record of shared ownership rights and distributing all eminences and earnings from bits of intellectual property likewise.
