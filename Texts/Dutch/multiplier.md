@@ -1,0 +1,59 @@
+---
+keywords: Economy,Economics
+title: Multiplikator
+description: En multiplikator refererer til et økonomisk input, der forstærker effekten af en anden variabel.
+---
+
+# Multiplikator
+## Hvad er en multiplikator?
+
+I økonomi refererer en multiplikator bredt til en økonomisk faktor, der, når den øges eller ændres, forårsager stigninger eller ændringer i mange andre relaterede økonomiske variabler. Med hensyn til [bruttonationalproduktet](/gdp) får [multiplikatoreffekten](/multipliereffect) gevinsterne i den samlede produktion til at være større end den ændring i udgifterne, der forårsagede det.
+
+Udtrykket multiplikator bruges normalt med henvisning til forholdet mellem offentlige udgifter og den samlede nationalindkomst. Multiplikatorer bruges også til at forklare fraktioneret reservebank, kendt som [indskudsmultiplikatoren](/deposit_multiplier).
+
+## Forklaring af multiplikatorer
+
+En multiplikator er simpelthen en faktor, der forstærker eller øger basisværdien af noget andet. En multiplikator på 2x, for eksempel, ville fordoble grundtallet. En multiplikator på 0,5x ville på den anden side faktisk reducere basistallet med det halve. Der findes mange forskellige multiplikatorer inden for finans og økonomi.
+
+### Den finanspolitiske multiplikator
+
+Den [skattemæssige multiplikator](/fiscal-multiplier) er forholdet mellem et lands yderligere nationalindkomst og det oprindelige løft i udgifter eller reduktion af skatter, der førte til den ekstra indkomst. Sig for eksempel, at en national regering vedtager en finanspolitisk stimulans på 1 milliard dollar, og at dens forbrugeres marginale forbrugstilbøjelighed (MPC) er 0,75. Forbrugere, der modtager den oprindelige 1 milliard dollars, vil spare 250 millioner dollars og bruge 750 millioner dollars, hvilket i realiteten starter en anden, mindre runde af stimulanser. Modtagerne af disse $750 millioner vil bruge $562,5 millioner, og så videre.
+
+### Investeringsmultiplikatoren
+
+En [investeringsmultiplikator](/investment-multiplier) henviser på samme måde til konceptet om, at enhver stigning i offentlige eller private investeringer har en mere end forholdsmæssig positiv indvirkning på den samlede indkomst og den generelle økonomi. Multiplikatoren forsøger at kvantificere de yderligere virkninger af en politik ud over dem, der umiddelbart kan måles. Jo større en investerings multiplikator er, jo mere effektiv er den til at skabe og fordele velstand i hele en økonomi.
+
+### Indtjeningsmultiplikatoren
+
+[Indtjeningsmultiplikatoren](/earningsmultiplier) rammer en virksomheds aktuelle aktiekurs i form af virksomhedens [indtjening pr. aktie](/eps) ( EPS) af aktien. Den præsenterer aktiens markedsværdi som en funktion af virksomhedens indtjening og beregnes som pris pr. aktie/indtjening pr. aktie (almindeligvis kaldet indtjeningsmultiplen).
+
+### Egenkapitalmultiplikatoren
+
+[Egenkapitalmultiplikatoren er et almindeligt anvendt finansielt nøgletal, der beregnes ved at dividere en virksomheds samlede aktivværdi med](/equitymultiplier) den samlede nettoegenkapital. Det er et mål for finansiel gearing. Virksomheder finansierer deres aktiviteter med egenkapital eller gæld, så en højere egenkapitalmultiplikator indikerer, at en større del af aktivfinansieringen henføres til gæld. Egenkapitalmultiplikatoren er således en variation af gældsgraden, hvor definitionen af gældsfinansiering omfatter alle forpligtelser.
+
+## Den keynesianske multiplikatorteori
+
+En populær multiplikatorteori og dens ligninger blev skabt af den britiske økonom [John Maynard Keynes](/john_maynard_keynes). Keynes mente, at enhver indsprøjtning af offentlige udgifter skabte en proportional stigning i den samlede indkomst for befolkningen, da de ekstra udgifter ville føre gennem økonomien. I sin bog fra 1936, "The General Theory of Employment, Interest and Money," skrev Keynes følgende ligning for at beskrive forholdet mellem indkomst (Y), forbrug (C) og investering (I):
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>Y</mi><mo>=</mo><mi>C</mi><mo> +</mo><mi>I</mi></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow ></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">hvor:< /mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle>< /mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>Y</mi><mo>=</mo><mtext>indkomst< /mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle>< /mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mr ow></mrow><mi>C</mi><mo>=</mo><mtext>forbrug</mtext></mrow></mstyle></mtd></mtr><mtr>< mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow>< mrow></mrow><mi>I</mi><mo>=</mo><mtext>investering</mtext></mrow></mstyle></mtd></mtr></mtable> <annotation encoding="application/x-tex">\begin{aligned} &amp;Y = C + I \\ &amp;\textbf{hvor:}\\ &amp;Y=\text{indkomst}\\ &amp;C =\text{forbrug}\\ &amp;I=\text{investering}\\ \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria -hidden="true"><span class="base"><span class="strut" style="height:7.5000000000000002em;vertical-align:-3.50000000000000018em;"></span><span class="mord "><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class=" vlist" style="height:4em;"><span style="top:-6em;"><span class="psrut" style="height:2.84em;"></span><span class="mord "></span></span><span style="top:-4.499999 999999999em;"><span class="psrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-2.9999999999999982 em;"><span class="psrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-1.4999999999999982 em;"><span class="psrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:1.7763568394002505e -15em;"><span class="psrut" style="height:2.84em;"></span><span class="mord"></span></span></span><span class= "vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:3.5000000000000018em;"><span></span>< /span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"> <span class="vlist" style="height:4em;"><span style="top:-6.16em;"><span class="psrut" style="height:3em;"></span>< span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.22222em;">Y</span><span class="mspace " style="margin-right:0.27777777 77777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin"> +</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.07847em;">I< /span></span></span><span style="top:-4.659999999999999em;"><span class="psrut" style="height:3em;"></span><span class="mord "><span class="mord"></span><span class="mord text"><span class="mord textbf">hvor:</span></span></span></span> <span style="top:-3.1599999999999984em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord">< /span><span class="mord mathnormal" style="margin-right:0.22222em;">Y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span ><span class="mrel">=</span><span class="mspace" style="margin-right :0.27777777777777778em;"></span><span class="mord text"><span class="mord">indkomst</span></span></span></span><span style="top :-1.6599999999999984em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class ="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class=" mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">forbrug< /span></span></span></span><span style="top:-0.15999999999999837em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></ span><span class="mord text"><span class="mord">investering</span></s pan></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:3.5000000000000018em;"><span></span></span></span></span></span></span></span></span></span>< /span>
+
+Ligningen siger, at for ethvert indkomstniveau bruger folk en brøkdel og sparer/investerer resten. Han definerede yderligere den marginale tilbøjelighed til at spare og den marginale tilbøjelighed til at forbruge (MPC), ved at bruge disse teorier til at bestemme størrelsen af en given indkomst, der investeres. Keynes viste også, at ethvert beløb brugt til investeringer ville blive forbrugt eller geninvesteret mange gange af forskellige medlemmer af samfundet.
+
+## Fraktionel reservepengemultiplikator
+
+Antag, at en opsparer investerer 100.000 $ på en opsparingskonto i hans eller hendes bank. Fordi banken kun er forpligtet til at holde en del af disse penge ved hånden for at dække indskud, kan den udlåne resten af indskuddet til en anden part. Antag, at banken låner $75.000 af det oprindelige indskud til et lille byggefirma, som bruger det til at bygge et lager. Over tid, hvis banken fortsætter med at udlåne op til dets påkrævede reserveforhold R=25 %, vil mængden af yderligere anfordringsindskud eller "penge" skabt af den indledende indbetaling være 1/R eller 1/.25 = 4 gange, hvilket kaldes typisk pengemultiplikatoren.
+
+De midler, som byggefirmaet bruger, går til at betale elektrikere, blikkenslagere, tagdækkere og forskellige andre parter for at bygge det. Disse partier fortsætter derefter med at bruge de midler, de modtager, efter deres egne interesser. De 100.000 dollars har givet et afkast til investoren, banken, byggefirmaet og entreprenørerne, der byggede lageret. Da Keynes' teori viste, at investeringer blev mangedoblet, hvilket øgede indkomsterne for mange parter, opfandt Keynes udtrykket "multiplikator" for at beskrive effekten.
+
+Indskudsmultiplikatoren forveksles ofte eller menes at være synonym med pengemultiplikatoren. Men selvom de to udtryk er tæt beslægtede, er de ikke udskiftelige. Hvis banker udlånte al tilgængelig kapital ud over deres nødvendige reserver, og hvis låntagere brugte hver dollar lånt fra banker, så ville indskudsmultiplikatoren og pengemultiplikatoren i det væsentlige være den samme.
+
+I praksis er pengemultiplikatoren, som betegner den faktiske multiplicerede ændring i en nations pengemængde skabt af lånekapital ud over bankens reserver, altid mindre end indskudsmultiplikatoren, hvilket kan ses som den maksimale potentielle pengeskabelse gennem den multiplicerede effekt af bankudlån.
+
+## Højdepunkter
+
+- Der findes mange eksempler på multiplikatorer, såsom brugen af margin i handel eller pengemultiplikatoren i fraktioneret reservebank.
+
+- En multiplikatorværdi på 2x ville derfor have det resultat at fordoble en vis effekt; 3x ville tredoble det.
+
+- En multiplikator refererer til en økonomisk faktor, der, når den anvendes, forstærker effekten af et andet resultat.
+
