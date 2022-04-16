@@ -1,0 +1,49 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Ratios
+title: Hlutfall nettó skulda og EBITDA
+description: Hlutfall hreinna skulda af EBITA er mælikvarði á skuldsetningu, reiknað sem vaxtaberandi skuldir fyrirtækis að frádregnum reiðufé, deilt með EBITDA.
+---
+
+# Hlutfall nettó skulda og EBITDA
+## Hvert er hlutfall nettó skulda og EBITDA?
+
+Hlutfall hreinna skulda af [EBITDA](/ebitda) (hagnaður fyrir afskriftir og afskriftir vaxta) er mælikvarði á skuldsetningu, reiknað sem vaxtaberandi skuldir fyrirtækis að frádregnum handbæru fé eða ígildi handbærs fjár, deilt með EBITDA þess. Hlutfall hreinna skulda af EBITDA er skuldahlutfall sem sýnir hversu mörg ár það tæki fyrir fyrirtæki að greiða til baka skuldir sínar ef hreinum skuldum og EBITDA er haldið stöðugum. Hins vegar, ef fyrirtæki á meira reiðufé en skuldir, getur hlutfallið verið neikvætt. Það er svipað og [skulda/EBITDA hlutfallið](/debt_edbitda),. en nettóskuldir draga frá handbæru fé og ígildi handbærs fjár á meðan staðlað hlutfall gerir það ekki.
+
+##﻿Formúlan fyrir nettóskuldir miðað við EBITDA er
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>N </mi><mi>e</mi><mi>t</mi><mtext> </mtext><mi>D</mi><mi>e</mi><mi>b</mi ><mi>t</mi><mtext> </mtext><mi>t</mi><mi>o</mi><mtext> </mtext><mi>E</mi><mi> B</mi><mi>I</mi><mi>T</mi><mi>D</mi><mi>A</mi><mo>=</mo><mfrac><mrow ><mi>T</mi><mi>o</mi><mi>t</mi><mi>a</mi><mi>l</mi><mtext> </mtext><mi >D</mi><mi>e</mi><mi>b</mi><mi>t</mi><mo>−</mo><mi>C</mi><mi>a </mi><mi>s</mi><mi>h</mi><mi mathvariant="normal">&amp;</mi><mi>E</mi><mi>q</mi> <mi>u</mi><mi>i</mi><mi>v</mi><mi>a</mi><mi>l</mi><mi>e</mi><mi >n</mi><mi>t</mi><mi>s</mi></mrow><mrow><mi>E</mi><mi>B</mi><mi>I< /mi><mi>T</mi><mi>D</mi><mi>A</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex" >Nettó \ skuldir \ til \ EBITDA = \frac{Heildar \ Skuldir - reiðufé \&amp; Jafngildir}{EBITDA}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class= "strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord mathnormal">e</span><span class="mord mathnormal">t</span><span class="mspace"> </span><span class="mord mathnormal" style="margin -right:0.02778em;">D</span><span class="mord mathnormal">e</span><span class="mord mathnormal">b</span><span class="mord mathnormal"> t</span><span class="mspace"> </span><span class="mord mathnormal">t</span><span class="mord mathnormal">o</span><span class=" mspace"> </span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mord mathnormal" style="margin-right:0.05017em; ">B</span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="mord mathnormal" style="margin-right:0.13889em; ">T</span><span class="mord mathnormal" sty le="margin-right:0.02778em;">D</span><span class="mord mathnormal">A</span><span class="mspace" style="margin-right:0.2777777777777778em;"> </span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base "><span class="strut" style="height:1.277216em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9322159999999999em;"> <span style="top:-2.6550000000000002em;"><span class="psrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class= "mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.05764em;">E</span><span class="mord mathnormal mtight" style="margin-right:0.05017em; ">B</span><span class="mord mathnormal mtight" style="margin-right:0.07847em;">I</span><span class="mord mathnormal mtight" style="margin-right:0.13889 em;">T </span><span class="mord mathnormal mtight" style="margin-right:0.02778em;">D</span><span class="mord mathnormal mtight">A</span></span>< /span></span><span style="top:-3.23em;"><span class="psrut" style="height:3em;"></span><span class="frac-line" stíll ="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108em;"><span class="psrut" style="height:3em;"> </span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.13889em;">T</span> span><span class="mord mathnormal mtight">o</span><span class="mord mathnormal mtight">t</span><span class="mord mathnormal mtight">a</span><span class ="mord mathnormal mtight" style="margin-right:0.01968em;">l</span><span class="mspace mtight"><span class="mtight"> </span></span><span class="mord mathnormal mtight" style="margin-right:0.02778em;">D</span><span class="mord mathnormal mtight">e</span><span class="mord mathnormal mtight">b </span><span class="mord mathnormal m tight">t</span><span class="mbin mtight">−</span><span class="mord mathnormal mtight" style="margin-right:0.07153em;">C</span><span class="mord mathnormal mtight">a</span><span class="mord mathnormal mtight">s</span><span class="mord mathnormal mtight">h</span><span class="mord mtight ">&amp;</span><span class="mord mathnormal mtight" style="margin-right:0.05764em;">E</span><span class="mord mathnormal mtight" style="margin-right: 0.03588em;">q</span><span class="mord mathnormal mtight">u</span><span class="mord mathnormal mtight">i</span><span class="mord mathnormal mtight" stíll ="margin-right:0.03588em;">v</span><span class="mord mathnormal mtight">a</span><span class="mord mathnormal mtight" style="margin-right:0.01968em; ">l</span><span class="mord mathnormal mtight">e</span><span class="mord mathnormal mtight">n</span><span class="mord mathnormal mtight">t</span> span><span class="mord mathnormal mtight">s</span></span></span></span></span><span class="vlist-s">​</span></ span><span class=" vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class=" mclose nulldelimiter"></span></span></span></span></span>
+
+
+
+## Hvað nettó skuldir á móti EBITDA getur sagt þér
+
+Hlutfall hreinna skulda á móti EBITDA er vinsælt meðal sérfræðinga vegna þess að það tekur mið af getu fyrirtækis til að lækka skuldir sínar. Hlutföll sem eru hærri en 4 eða 5 kalla venjulega á viðvörunarbjöllur vegna þess að það gefur til kynna að fyrirtæki sé ólíklegra til að takast á við skuldabyrði sína og því ólíklegra til að geta tekið á sig þær viðbótarskuldir sem þarf til að auka viðskiptin.
+
+Nettó skuldir af EBITDA hlutfalli ætti að bera saman við viðmið eða meðaltal iðnaðarins til að ákvarða lánstraust fyrirtækis. Að auki væri hægt að gera [lárétta greiningu](/horizontalanalysis) til að ákvarða hvort fyrirtæki hafi aukið eða lækkað skuldabyrði sína á tilteknu tímabili. Fyrir lárétta greiningu eru hlutföll eða liðir í ársreikningnum borin saman við fyrri tímabil til að ákvarða hvernig fyrirtækið hefur vaxið á tilgreindum tímaramma.
+
+## Dæmi um hvernig á að nota nettó skuldir á móti EBITDA
+
+Segjum sem svo að fjárfestir vilji framkvæma lárétta greiningu á fyrirtækinu ABC til að ákvarða getu þess til að greiða niður skuldir sínar. Fyrir fyrra reikningsár þess voru skammtímaskuldir ABC 6,31 milljarðar dala, langtímaskuldir 28,99 milljarðar dala og reiðufé 13,84 milljarðar dala.
+
+Þess vegna tilkynnti fyrirtækið ABC um nettóskuldir upp á 21,46 milljarða dala, eða 6,31 milljarða dollara plús 28,99 milljarða dala að frádregnum 13,84 milljörðum dala og EBITDA upp á 60,60 milljarða dala á reikningstímabilinu. Þar af leiðandi er nettó skuldahlutfall fyrirtækisins ABC á móti EBITDA 0,35 eða 21,46 milljörðum dala deilt með 60,60 milljörðum dala.
+
+Nú á síðasta reikningsári átti fyrirtækið ABC skammtímaskuldir upp á 8,50 milljarða dollara, langtímaskuldir upp á 53,46 milljarða dollara og 21,12 milljarða dollara í reiðufé. Hreinar skuldir félagsins jukust um 90,31% í 40,84 milljarða dala milli ára. Fyrirtækið ABC greindi frá EBITDA upp á 77,89 milljarða dala, sem er 28,53% aukning frá EBITDA árið áður.
+
+Fyrirtæki ABC var því með nettóskuld á móti EBITDA hlutfalli upp á 0,52 eða 40,84 milljarða dala deilt með 77,89 milljörðum dala. Hlutfall hreinnar skulda ABC af EBITDA jókst um 0,17, eða 49,81% á milli ára.
+
+## Takmarkanir á notkun nettóskulda á móti EBITDA
+
+Sérfræðingar líkar við hlutfall nettóskulda/EBITDA vegna þess að það er auðvelt að reikna það út. Skuldatölur má finna í efnahagsreikningi og EBITDA má reikna út frá rekstrarreikningi. Málið er hins vegar að það gefur kannski ekki nákvæmasta mælikvarða á tekjur. Meira en tekjur vilja sérfræðingar meta magn af reiðufé sem er tiltækt til endurgreiðslu skulda.
+
+Afskriftir og afskriftir eru kostnaður sem ekki er reiðufé sem hefur í raun ekki áhrif á sjóðstreymi, en vextir geta verið verulegur kostnaður fyrir sum fyrirtæki. Bankar og fjárfestar sem skoða núverandi skulda/EBITDA hlutfall til að fá innsýn í hversu vel fyrirtækið getur greitt fyrir skuldir sínar gætu viljað íhuga áhrif vaxta á skuldina, jafnvel þótt sú skuld verði tekin með í nýrri útgáfu. Þannig geta hreinar tekjur að frádregnum fjármagnsgjöldum ásamt afskriftum og afskriftum verið betri mælikvarði á reiðufé sem er tiltækt til endurgreiðslu skulda.
+
+## Hápunktar
+
+- Það er svipað og skulda/EBITDA hlutfallið, en hreinar skuldir draga frá handbæru fé og ígildi handbærs fjár á meðan staðlað hlutfall gerir það ekki.
+
+- Hlutfall hreinna skulda af EBITDA er skuldahlutfall sem sýnir hversu mörg ár það tæki fyrir fyrirtæki að greiða til baka skuldir sínar ef hreinum skuldum og EBITDA er haldið stöðugum.
+
+- Ef fyrirtæki á meira handbært fé en skuldir getur hlutfallið verið neikvætt.
+
+- Þegar sérfræðingar skoða nettó skuldir á móti EBITDA hlutfalli vilja þeir vita hversu vel fyrirtæki getur staðið undir skuldum sínum.
+
