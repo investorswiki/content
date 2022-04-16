@@ -1,0 +1,103 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Ratios
+title: Ratio de solvabilité
+description: Un ratio de solvabilité est une mesure clé utilisée pour mesurer la capacité d&#39;une entreprise à honorer sa dette et ses autres obligations.
+---
+
+# Ratio de solvabilité
+## Qu'est-ce qu'un ratio de solvabilité ?
+
+Un ratio de solvabilité est une mesure clé utilisée pour mesurer la capacité d'une entreprise à honorer ses dettes à long terme et est souvent utilisée par les prêteurs commerciaux potentiels. Un ratio de solvabilité indique si les flux de trésorerie d'une entreprise sont suffisants pour faire face à ses [dettes à long terme](/longtermliabilities) et est donc une mesure de sa santé financière. Un ratio défavorable peut indiquer une certaine probabilité qu'une entreprise manque à ses [obligations](/default2).
+
+## Comprendre les ratios de solvabilité
+
+Un ratio de solvabilité est l'une des nombreuses mesures utilisées pour déterminer si une entreprise peut rester solvable à long terme. Un ratio de solvabilité est une mesure complète de la solvabilité, car il mesure les flux de trésorerie réels d'une entreprise, plutôt que [le bénéfice net](/netincome),. en ajoutant l' [amortissement](/depreciation) et d'autres dépenses hors trésorerie pour évaluer la capacité d'une entreprise à rester à flot.
+
+Il mesure cette capacité de flux de trésorerie par rapport à tous les passifs, plutôt qu'à la seule [dette à court terme](/shorttermdebt). Ainsi, un ratio de solvabilité évalue la santé à long terme d'une entreprise en évaluant sa capacité de remboursement de sa dette à long terme et les [intérêts](/interest) sur cette dette.
+
+Les ratios de solvabilité varient d'un secteur à l'autre. Le ratio de solvabilité d'une entreprise doit donc être comparé à ses concurrents du même secteur plutôt qu'isolé.
+
+Une terminologie de ratio de solvabilité est également utilisée lors de l'évaluation des compagnies d'assurance, en comparant la taille de leur capital par rapport aux [primes souscrites](/insurance-premium),. et mesure le risque auquel un assureur est confronté sur les [sinistres](/insurance_claim) qu'il ne peut pas couvrir.
+
+> Les principaux ratios de solvabilité sont le ratio d'endettement, le ratio de couverture des intérêts, le ratio de fonds propres et le ratio d'endettement (D/E). Ces mesures peuvent être comparées aux [ratios de liquidité](/liquidityratios),. qui tiennent compte de la capacité d'une entreprise à honorer ses obligations à court terme plutôt qu'à moyen ou long terme.
+
+>
+
+## Types de ratios de solvabilité
+
+### Intérêt ratio de couverture
+
+Le [ratio de couverture des intérêts](/interestcoverageratio) est calculé comme suit :
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><sémantique><mrow><mtext>Intérêt Ratio de couverture</mtext><mo>=</mo><mfrac><mtext>EBIT</mtext><mtext>Dépenses d'intérêts</mtext></mfrac></mrow><annotation encoding="application/x -tex">\text{Ratio de couverture des intérêts}=\frac{\text{EBIT}}{\text{Dépenses d'intérêts}}</annotation></semantics></math></span><span class=" katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span>< span class="mord text"><span class="mord">Ratio de couverture des intérêts</span></span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span> <span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span></span><span class="base"><span class="strut" style="height:1.3534389999999998em;vertical-align:-0.481108em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class= "vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.872331em;"><span style="top:-2.6550000000000002em;">< span class="pstrut" style="height:3em ;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight" ><span class="mord mtight">Dépenses d'intérêt</span></span></span></span></span><span style="top:-3.23em;"><span class=" pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style= "top:-3.394em ;"><span class="pstrut" style="height:3em ;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight" ><span class="mord text mtight"><span class="mord mtight">EBIT</span></span></span></span></span></span><span class=" vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.481108em;"><span></span></ span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>
+
+où:
+
+- EBIT = Bénéfice avant intérêts et impôts
+
+Le ratio de couverture des intérêts mesure combien de fois une entreprise peut couvrir ses paiements d'intérêts courants avec ses [bénéfices disponibles](/earnings). En d'autres termes, il mesure la marge de sécurité dont dispose une entreprise pour payer les intérêts de sa dette pendant une période donnée.
+
+Plus le rapport est élevé, mieux c'est. Si le ratio tombe à 1,5 ou moins, cela peut indiquer qu'une entreprise aura du mal à payer les intérêts sur ses dettes.
+
+### Ratio d'endettement
+
+Le [ratio d'endettement](/totaldebttototalassets) est calculé comme suit :
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><sémantique><mrow><mtext>Dette Ratio -/Actifs</mtext><mo>=</mo><mfrac><mtext>Dette</mtext><mtext>Actifs</mtext></mfrac></mrow><annotation encoding="application /x-tex">\text{Ratio dette/actifs}=\frac{\text{Dette}}{\text{Actifs}}</annotation></semantics></math></span>< span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span ><span class="mord text"><span class="mord">Ratio dette/actifs</span></span><span class="mspace" style="margin-right:0.2777777777777778em ;" ></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span></span><span class=" base"><span class="strut" style="height:1.2251079999999999em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter">< /span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class ="vlist" style="height:0.8801079999999999em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class ="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord mtight">Actifs</span></span></span ></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line " style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em; "></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord mtight">Dette</ span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r" ><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"> </span></span></span></span></span>
+
+Le ratio dette/actif mesure la dette totale d'une entreprise par rapport à son [actif total](/asset). Il mesure l'endettement d'une entreprise et indique dans quelle mesure l'entreprise est financée par la dette par rapport aux actifs, et par conséquent, sa capacité à rembourser sa dette avec ses actifs disponibles. Un ratio plus élevé, en particulier supérieur à 1,0, indique qu'une entreprise est largement financée par la dette et peut avoir des difficultés à respecter ses obligations.
+
+### Ratio d'équité
+
+Le [ratio de fonds propres](/shareholderequityratio) est calculé comme suit :
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="droite gauche" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>SER</mtext><mo>=</mo><mfrac><mtext>TSE</mtext> <mtext>Total des actifs</mtext></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mtext mathvariant="bold">où :</mtext></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow> </mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>SER</mtext><mtext> ⁣</mtext> <mo>=</mo><mtext> ⁣</mtext><mtext>Ratio des capitaux propres</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></ mrow><mtext>TSE</mtext><mtext> ⁣</mtext><mo>=</mo><mtext> ⁣</mtext><mtext>Capitaux propres totaux</mtext></mrow></ mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned}&amp;\text{SER}=\frac{\text{TSE}}{\ text{Actif total}}\\\textbf{où :}\\&amp;\text{SER}\!=\!\text{Ratio des capitaux propres}\\&amp;\text{TSE}\!=\!\ text{Capitaux propres totaux}\end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base "><span class="strut" style="height:6.84633em;vertical-align:-3.173165em;"></span><span class="mord"><span class="mtable"><span class ="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:3.6731649999999996em ;">< span style="top:-5.673165em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span>< span style="top:-3.8471650000000004em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord" ><span class="mord text"><span class="mord textbf">où :</span></span></span></span><span style="top:-2.3471650000000004em ;"> <span class="pstrut" style="height:3.3603300000000003em ;"></span><span class="mord"></span></span><span style="top:-0.8471650000000008em ;"> <span class="pstrut" style="height:3.3603300000000003em ;"></span><span class="mord"></span></span></span><span class="vlist-s" >​</span></span><span class="vlist-r"><span class="vlist" style="height:3.1731649999999996em ;"><span></span></span></ span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class=" vlist" style="height:3.6731649999999996em;"><span style="top:-5.673165em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class= style "mord"><span class="mord"></span><span class="mord text"><span class="mord">SER</span></span><span class="mspace" ="margin-right:0.2777777777777778em ;"></span><span class="mrel">=</span><span class="mspace" style="margin-rig ht:0.277777777777778em ;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist- t2"><span class="vlist-r"><span class="vlist" style="height:1.36033em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em ;"></span><span class="mord"><span class="mord text"><span class="mord">Actifs totaux</span></span></ span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style= "border-bottom-width:0.04em ;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;">< /span><span class="mord"><span class="mord text"><span class="mord">EST</span></span></span></span></span>< span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></ span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="haut : -2.347165em ;"><span class="pstrut" style="hauteur :3.3603300000 000003em ;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">SER</span> </span><span class="mspace" style="margin-right:-0.16666666666666666em ;"></span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span ><span class="mrel">=</span><span class="mspace" style="margin-right:-0.1666666666666666em ;"></span><span class="mspace" style="margin- right:0.277777777777778em ;"></span><span class="mord text"><span class="mord">Ratio des capitaux propres</span></span></span></span><span style ="top:-0.8471650000000004em ;"><span class="pstrut" style="height:3.3603300000000003em ;"></span><span class="mord"><span class="mord"></span ><span class="mord text"><span class="mord">TSE</span></span><span class="mspace" style="margin-right:-0.16666666666666666em ;"></span ><span class="mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mrel">=</span><span class="mspace" style="margin-right :-0.16666666666666666em;"></span><span class= "mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mord text"><span class="mord">Capitaux propres totaux</span></span></span ></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="hauteur : 3.173165em ;"><span></span></span></span></span></span></span></span></span></span></span>
+
+Le ratio de fonds propres, ou capitaux propres sur actifs, montre dans quelle mesure une entreprise est financée par [des capitaux propres](/equity) par opposition à la dette. Plus le nombre est élevé, plus une entreprise est en bonne santé. Plus le nombre est bas, plus une entreprise a de dettes dans ses livres par rapport à ses capitaux propres.
+
+### Ratio d'endettement (D/E)
+
+Le [ratio d'endettement](/debtequityratio) (D/E) est calculé comme suit :
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><sémantique><mrow><mtext>Dette Ratio sur capitaux propres</mtext><mo>=</mo><mfrac><mtext>Encours de la dette</mtext><mtext>Fonds propres</mtext></mfrac></mrow><annotation encoding="application/ x-tex">\text{Ratio d'endettement}=\frac{\text{Encours de la dette}}{\text{Equity}}</annotation></semantics></math></span><span class ="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span ><span class="mord text"><span class="mord">Ratio d'endettement</span></span><span class="mspace" style="margin-right:0.2777777777777778em;">< /span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span></span><span class="base" ><span class="strut" style="height:1.4133239999999998em;vertical-align:-0.481108em;"></span><span class="mord"><span class="mopen nulldelimiter"></span ><span class="mfrac"><span class="vlist- t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.932159999999999em;"><span style="top:-2.6550000000000002em;"><span class= "pstrut" style="height:3em ;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord mtight">Équité</span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style= "hauteur : 3 em ;"></span><span class="frac-line" style="border-bottom-width : 0.04em ;"></span></span><span style="top :- 3.446108em ;"><span class="pstrut" style="height:3em ;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class ="mord text mtight"><span class="mord mtight">Encours de la dette</span></span></span></span></span></span><span class="vlist-s ">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.481108em;"><span></span></span>< /span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>
+
+Le ratio D/E est similaire au ratio dette/actif, en ce sens qu'il indique comment une entreprise est financée, dans ce cas, par la dette. Plus le ratio est élevé, plus une entreprise a de dettes dans ses livres, ce qui signifie que la probabilité de défaut est plus élevée. Le ratio examine la part de la dette pouvant être couverte par des fonds propres si l'entreprise devait être liquidée.
+
+## Ratios de solvabilité vs ratios de liquidité
+
+Les ratios de solvabilité et les ratios de liquidité sont similaires mais présentent des différences importantes. Ces deux catégories de ratios financiers indiqueront la santé d'une entreprise. La principale différence est que les ratios de solvabilité offrent une perspective à plus long terme sur une entreprise alors que les ratios de liquidité se concentrent sur le court terme.
+
+Les ratios de solvabilité examinent tous les actifs d'une entreprise, y compris les dettes à long terme telles que les obligations dont l'échéance est supérieure à un an. Les ratios de liquidité, quant à eux, examinent uniquement les [actifs les plus liquides](/liquidasset),. tels que les liquidités et [les titres négociables](/marketablesecurities),. et la manière dont ceux-ci peuvent être utilisés pour couvrir les obligations à venir à court terme.
+
+## Limites des ratios de solvabilité
+
+Une entreprise peut avoir un faible montant d'endettement, mais si ses pratiques [de gestion de trésorerie](/cash-management) sont médiocres et que les [comptes créditeurs](/accountspayable) augmentent en conséquence, sa position de solvabilité peut ne pas être aussi solide que l'indiqueraient des mesures qui n'incluent que la dette.
+
+Il est important d'examiner une variété de ratios pour comprendre la véritable [santé financière](/financial-health) d'une entreprise, ainsi que pour comprendre la raison pour laquelle un ratio est ce qu'il est. De plus, un nombre lui-même ne donnera pas beaucoup d'indication. Une entreprise doit être comparée à ses pairs, en particulier les entreprises solides de son secteur, pour déterminer si le ratio est acceptable ou non.
+
+Par exemple, une compagnie aérienne aura plus de dettes qu'une entreprise de technologie simplement en raison de la nature de ses activités. Une compagnie aérienne doit acheter des avions, payer l'espace du hangar et acheter du carburéacteur; des coûts bien supérieurs à ceux auxquels une entreprise technologique devra jamais faire face.
+
+## Points forts
+
+- Les principaux ratios de solvabilité comprennent le ratio d'endettement, le ratio de couverture des intérêts, le ratio de fonds propres et le ratio d'endettement (D/E).
+
+- Les ratios de solvabilité et les ratios de liquidité mesurent tous deux la santé financière d'une entreprise, mais les ratios de solvabilité ont une perspective à plus long terme que les ratios de liquidité.
+
+- Un ratio de solvabilité examine la capacité d'une entreprise à faire face à ses dettes et obligations à long terme.
+
+- Les ratios de solvabilité sont souvent utilisés par les prêteurs potentiels lors de l'évaluation de la solvabilité d'une entreprise ainsi que par les investisseurs potentiels en obligations.
+
+## FAQ
+
+### Comment calcule-t-on un ratio de solvabilité ?
+
+Les ratios de solvabilité mesurent les flux de trésorerie d'une entreprise, qui comprennent les dépenses hors trésorerie et l'amortissement, par rapport à tous les titres de créance. Par exemple, considérons le ratio dette/actif, une mesure populaire qui mesure le degré de financement des actifs d'une entreprise par la dette, où la dette/actif est égale à la dette totale divisée par l'actif total. Un autre ratio de solvabilité courant, le ratio d'endettement (D/E), montre à quel point une entreprise est financièrement endettée, où le ratio d'endettement est égal à la dette totale divisée par le total des capitaux propres.
+
+### Quelle est la différence entre un ratio de solvabilité et un ratio de liquidité ?
+
+Les ratios de solvabilité, également appelés ratios de levier, analysent l'impact sur les obligations à long terme et la capacité d'une entreprise à continuer à fonctionner sur un horizon plus long. En revanche, les ratios de liquidité examinent deux objectifs principaux : la capacité d'une entreprise à payer ses dettes à court terme à moins d'un an et sa capacité à vendre rapidement des actifs pour lever des fonds.
+
+### Que sont les ratios de solvabilité ?
+
+Un ratio de solvabilité mesure dans quelle mesure les flux de trésorerie d'une entreprise peuvent couvrir sa dette à long terme. Les ratios de solvabilité sont une mesure clé pour évaluer la santé financière d'une entreprise et peuvent être utilisés pour déterminer la probabilité qu'une entreprise fasse défaut sur sa dette. Les ratios de solvabilité diffèrent des ratios de liquidité, qui analysent la capacité d'une entreprise à faire face à ses obligations à court terme.
+
