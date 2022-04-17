@@ -1,0 +1,61 @@
+---
+keywords: Trading,Technical Analysis,Technical Analysis Basic Education
+title: Линия роста/падения (A/D)
+description: Линия подъема/падения (A/D) — это технический индикатор, который показывает количество акций роста за вычетом количества акций снижения. Это индикатор широты, используемый для отображения рыночных настроений.
+---
+
+# Линия роста/падения (A/D)
+## Что такое линия роста/падения (A/D)?
+
+Линия роста/падения (или линия A/D) — это [технический индикатор](/technicalindicator),. отображающий разницу между количеством акций, растущих и падающих на ежедневной основе. Индикатор является кумулятивным, при этом положительное число добавляется к предыдущему числу или, если число отрицательное, оно вычитается из предыдущего числа.
+
+Линия A/D используется для отображения рыночных [настроений](/marketsentiment),. поскольку она сообщает трейдерам, растет или падает больше акций. Он используется для подтверждения ценовых трендов основных индексов, а также может предупреждать о разворотах при возникновении [расхождений](/divergence).
+
+<!--A376FF64B328882A6DBADA60E802D676-->
+
+## Формула для линии роста/падения (A/D):
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>A/D</mtext><mo>=</mo><mtext>Чистые авансы</mtext> <mo>+</mo><mrow><mo забор="true">{</mo><mtable rowspacing="0.3599999999999999em" columnalign="left left" columnspacing="1em"><mtr><mtd> <mstyle scriptlevel="0" displaystyle="false"><mtext>PA, если существует значение PA</mtext></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0 " displaystyle="false"><mtext>0, если нет значения PA</mtext></mstyle></mtd></mtr></mtable></mrow></mrow></mstyle></ mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">где:</mtext></mrow></mstyle></mt d></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Чистая прибыль</mtext><mo>=</mo><mtext>Разница между количеством ежедневных</mtext></mrow>< /mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>акции по возрастанию и снижению</mtext></mrow></mstyle></mtd></mtr><mtr ><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow ><mrow></mrow><mtext>PA</mtext><mo>=</mo><mtext>Предыдущие достижения</mtext></mrow></mstyle></mtd></mtr>< mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true">< mrow><mrow></mrow><mtext>Предыдущие успехи</mtext><mo>=</mo><mtext>Предыдущее чтение индикатора</mtext></mrow></mstyle></mtd></ mtr></mtable>< annotation encoding="application/x-tex">\begin{aligned} &amp;\text{A/D} = \text{Net Advances} + \begin{cases} \text{PA, если значение PA существует} \\ \text{0, если нет значения PA} \\ \end{cases} \\ &amp;\textbf{где:} \\ &amp;\text{Чистые авансы} = \text{Разница между количеством ежедневных} \\ &amp ;\text{восходящие и падающие акции} \\ &amp;\text{PA} = \text{Предыдущие успехи} \\ &amp;\text{Предыдущие успехи} = \text{Предыдущие показания индикатора} \\ \end{align} </annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style= "height:10.800030000000001em;vertical-align:-5.150015000000001em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:5.650015000000001em;"><span style="top:-7.650015em;" ><span class="pstrut" style="height:3.75em;"></span><span class="mord"></span></span><span style="top:-5.259985em;" ><span class="pstrut" стиль e="height:3.75em;"></span><span class="mord"></span></span><span style="top:-3.7599850000000004em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"></span></span><span style="top:-2.2599850000000004em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"></span></span><span style="top:-0.7599849999999995em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"></span></span><span style="top:0.7400150000000005em;"><span class="pstrut" style ="height:3.75em;"></span><span class="mord"></span></span></span><span class="vlist-s"></span></ span><span class="vlist-r"><span class="vlist" style="height:5.150015000000001em;"><span></span></span></span></span></ span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:5.650015000000001 em;"><span style="top:-7.650015em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"><span class= "морд"></span><span class="морд text"><span class="mord">A/D</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class=" mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Net Advances </span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace " style="margin-right:0.2222222222222222em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size4" >{</span></span><span class="mord"><span class="mtable"><span class="col-align-l"><span class="vlist-t vlist-t2" ><span class="vlist-r"><span class="vlist" style="height:1.69em;"><span style="top:-3.69em;"><span class="pstrut" style= "height:3.008em;"></span><span class="mord"><span class="mord text"><span class="mord">PA, если существует значение PA</span></span ></span></span><span style="top:-2.25em;"><span class="pstrut" style="height:3.008em;"></span>< span class="mord"><span class="mord text"><span class="mord">0, если нет значения PA</span></span></span></span></span> <span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.19em;"><span>< /span></span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></ span><span style="top:-5.259985em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"><span class="mord "></span><span class="mord text"><span class="mord textbf">где:</span></span></span></span><span style="top:- 3.7599850000000004em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"><span class="mord"></span><span class= "mord text"><span class="mord">Сетевые достижения</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class= "mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Разница между количеством ежедневных</sp an></span></span></span><span style="top:-2.2599850000000004em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">растущие и убывающие акции</span></span></span ></span><span style="top:-0.7599849999999995em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"><span class ="mord"></span><span class="mord text"><span class="mord">PA</span></span><span class="mspace" style="margin-right:0.2777777777777778 em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Предыдущие достижения</span></span></span></span><span style="top:0.7400150000000005em;"><span class="pstrut" style= "height:3.75em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Предыдущий Достижения</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><spa n class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord ">Предварительное чтение индикатора</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist -r"><span class="vlist" style="height:5.150015000000001em;"><span></span></span></span></span></span></span></ диапазон></промежуток></промежуток></промежуток>
+
+
+
+## Как рассчитать линию A/D
+
+1. Вычтите количество акций, которые в тот же день закрылись ниже, из числа акций, которые в тот же день закрылись выше. Это даст вам чистые авансы.
+
+1. Если это первое вычисление среднего значения, значение Net Advances будет первым значением, используемым для индикатора.
+
+1. На следующий день рассчитайте чистые авансы за этот день. Добавьте к сумме за предыдущий день, если она положительна, или вычтите, если она отрицательная.
+
+1. Повторяйте первый и третий шаги ежедневно.
+
+## О чем говорит линия A/D?
+
+Линия A/D используется для подтверждения силы текущего тренда и вероятности его разворота. Индикатор показывает, движется ли большинство акций в направлении рынка.
+
+Если индексы движутся вверх, а линия A/D наклонена вниз, что называется медвежьей [дивергенцией](/divergence),. это признак того, что рынки теряют свою широту и могут вот-вот изменить направление. Если наклон линии A/D направлен вверх и рынок имеет восходящий тренд, говорят, что рынок здоров.
+
+И наоборот, если индексы продолжают двигаться вниз, а линия A/D развернулась вверх, что называется бычьей дивергенцией, это может указывать на то, что продавцы теряют свою убежденность. Если линия A/D и рынки одновременно имеют тенденцию к снижению, существует большая вероятность того, что снижение цен продолжится.
+
+## Разница между линией A/D и индексом оружия (TRIN)
+
+Линия A/D обычно используется в качестве долгосрочного индикатора, показывающего, сколько акций растет и падает с течением времени. Индекс [вооружений](/arms) (TRIN), с другой стороны, обычно является краткосрочным индикатором, который измеряет отношение растущих акций к соотношению растущих объемов. Поскольку расчеты и временные рамки, на которые они ориентированы, различаются, оба этих индикатора сообщают трейдерам разную информацию.
+
+## Ограничения использования линии A/D
+
+Линия A/D не всегда дает точные показания в отношении акций [NASDAQ .](/nasdaq) Это связано с тем, что NASDAQ часто перечисляет небольшие спекулятивные компании, многие из которых в конечном итоге терпят неудачу или [исключаются из листинга](/delisting). В то время как акции исключаются из листинга на бирже, они остаются в ранее рассчитанных значениях линии A/D. Затем это влияет на будущие расчеты, которые добавляются к совокупному предыдущему значению. Из-за этого линия A/D иногда будет падать в течение длительных периодов времени, даже когда индексы, связанные с NASDAQ, растут.
+
+Еще одна вещь, о которой следует помнить, это то, что некоторые индексы [взвешиваются по рыночной капитализации](/wamc). Это означает, что чем крупнее компания, тем большее влияние она оказывает на движение индекса. Линия A/D дает одинаковый вес всем акциям. Таким образом, это лучший показатель средних акций с малой и [средней капитализацией](/midcapstock),. а не меньшее количество акций крупных или [мега-](/megacap) капиталов.
+
+## Особенности
+
+- Если основные индексы снижаются, а линия A/D растет, со временем снижается меньшее количество акций, что означает, что индекс может быть ближе к концу своего снижения.
+
+- Когда [основные индексы](/marketindex) растут, растущая линия A/D подтверждает восходящий тренд, демонстрируя сильное участие.
+
+- Линия роста/падения (A/D) — это [индикатор ширины ,](/breadthindicator) используемый для того, чтобы показать, сколько акций участвует в ралли или спаде фондового рынка.
+
+- Если основные индексы растут, а линия A/D падает, это показывает, что в росте участвует меньше акций, что означает, что индекс может приближаться к концу своего роста.
+
+- Когда основные индексы снижаются, падающая линия роста/падения подтверждает нисходящий тренд.
+
