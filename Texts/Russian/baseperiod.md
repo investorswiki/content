@@ -1,0 +1,53 @@
+---
+keywords: Economy,Economics,Macroeconomics
+title: Базовый период
+description: Базовый период — это момент времени, используемый в качестве точки отсчета для измерения изменений переменных с течением времени.
+---
+
+# Базовый период
+## Что такое базовый период?
+
+Базовый период — это момент времени, для которого данные собираются и используются в качестве ориентира по сравнению с экономическими данными за другие периоды для их интерпретации на общей основе. Базисные периоды часто используются в финансовых и экономических приложениях, например, для измерения инфляции или других переменных, которые могут изменяться с течением времени.
+
+Базовый период также может называться «базисным периодом», «базисным периодом» или «индексным периодом».
+
+## Базовые периоды
+
+Базовый период можно рассматривать как общий критерий для экономических данных. Вместо того, чтобы указывать каждую точку данных в ряду в виде необработанного числа, ее можно указать в виде доли или процента от значения данных за базовый период. Значение для базового периода обычно устанавливается как единица измерения, обычно 1 или 100, а все остальные точки данных пересчитываются как десятичные, дробные или процентные значения значения данных за этот период.
+
+Сравнение каждой точки данных с базовым периодом может быть удобным способом обработки рядов данных, состоящих из больших или комплексных чисел. Затем каждую точку данных в проиндексированном ряду можно легко интерпретировать как долю, процентное изменение или скорость роста базового ряда данных с течением времени по отношению к базовому периоду.
+
+## Пример
+
+Например, если [базовым годом](/base-year-analysis) [индекса цен](/consumerpriceindex) является 1990 год, и текущие цены сравниваются с ценами за этот период времени для построения индекса временного ряда, то уровень цен во все другие годы будет указан в процентах от уровня 1990-х годов. ценовой уровень. Индексу цен за 1990 г. может быть присвоено значение 100, а уровни цен за другие годы будут иметь значения, пропорционально большие (или меньшие) 100 пропорционально отношению фактических уровней цен за эти годы.
+
+Расчет уровня цен на 1995 год можно рассчитать, взяв пропорцию:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac>< mrow><mn>1990</mn><mtext> уровень цен</mtext></mrow><mn>100</mn></mfrac><mo>=</mo><mfrac><mrow>< mn>1995</mn><mtext> уровень цен</mtext></mrow><mi>x</mi></mfrac></mrow><annotation encoding="application/x-tex">\frac {1990 \text{ уровень цен}}{100}=\frac{1995 \text{ уровень цен}}{x}</annotation></semantics></math></span><span class="katex- html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.277216em;vertical-align:-0.345em;"></span><span class ="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r">< span class="vlist" style="height:0.9322159999999999em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span>< span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span><span class="mord mtight">0</span>< span class="mord mtight">0</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height: 3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108em; "><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span><span class="mord mtight">9</span><span class="mord mtight">9</span><span class="mord mtight">0</span> <span class="mord text mtight"><span class="mord mtight"> уровень цен</span></span></span></span></span></span><span class=" vlist-s"></span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></ span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"> </span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base "><span класс ="strut" style="height:1.277216em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class ="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9322159999999999em;"><span style=" top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"> <span class="mord mathnormal mtight">x</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style=" height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108 em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class= "mord mtight">1</span><span class="mord mtight">9</span><span class="mord mtight">9</span><span class="mord mtight">5</ span><span class="mord text mtight"><span class="mord mtight"> уровень цен</span></sp an></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class ="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span> </span></span></span></span>
+
+и решение для **x:**
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac>< mrow><mn>1990</mn><mtext> уровень цен</mtext></mrow><mrow><mn>100</mn><mo>×</mo><mn>1995</mn> <mtext> уровень цен</mtext></mrow></mfrac><mo>=</mo><mi>x</mi></mrow><annotation encoding="application/x-tex">\ frac{1990\text{ уровень цен}}{100\times1995 \text{ уровень цен}}={x}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.4133239999999998em;vertical-align:-0.481108em;"></span><span class=" mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class ="vlist" style="height:0.9322159999999999em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class ="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span><span class="mord mtight">0</ span><span class="mord mtight">0</span><span class="mbin mtight">×</span><span class="mord mtight">1</span><span class="mord mtight">9</span><span class="mord mtight">9</span><span class="mord mtight">5</span><span class="mord text mtight"><span class= "mord mtight"> уровень цен</span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style=" height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108 em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class= "mord mtight">1</span><span class="mord mtight">9</span><span class="mord mtight">9</span><span class="mord mtight">0</ span><span class="mord text mtight"><span class="mord mtight"> ценовой уровень</span></span></span></span></span></span><span класс ="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.481108em;"><span></span> </span></span></span> </span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel ">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style ="height:0.43056em;vertical-align:0em;"></span><span class="mord"><span class="mord mathnormal">x</span></span></span>< /промежуток></промежуток>
+
+В качестве альтернативы, хотя и реже, базовый период может относиться к сравнению каждой точки данных с прошлым значением данных с использованием постоянного интервала времени, а не постоянного базового периода. Этот метод не обеспечивает согласованного сравнения индексов во времени, но может помочь устранить влияние сезонных или краткосрочных колебаний данных. Сравнение [по годам](/year-over-year) или по месяцам — это примеры использования прошлых данных с постоянным интервалом в качестве основы для сравнения с текущими данными.
+
+> Использование базовых периодов для индексации данных не ограничивается финансовыми приложениями. Многие естественные науки также регулярно используют базовый период как часть своих аналитических процессов. Например, для измерения изменений в глобальных климатических моделях необходимо установить базовые годы.
+
+>
+
+## Базовый период и базовый эффект
+
+При построении индекса выбор основы для сравнения может повлиять на интерпретацию данных, и его следует выбирать тщательно, чтобы осветить желаемую цель, для которой используются данные. Нетипичные значения или ненормальные условия в базовом периоде могут привести к сравнениям, которые искажают тенденции в ряде данных. Это искажение иногда называют [базовым эффектом](/base-effect).
+
+Например, предположим, что город Нью-Йорк вводит новые строительные нормы и правила, которые вступают в силу 1 июня данного года. В мае строители изо всех сил пытаются инициировать новые строительные проекты, чтобы избежать расходов на соблюдение новых норм. Это может привести к ситуации, когда данные о начале строительства показывают аномально высокое значение за май и аномально низкое значение за июнь, поскольку строители сдвигают свои графики строительства, что не отражает какой-либо основной тенденции в данных, а только одно: от изменения регулирования.
+
+В этом случае выбор точки данных за май или июнь в качестве базового года для сравнения или для построения индекса временных рядов приведет к сильно искаженным результатам в результирующих данных преобразования, поскольку каждая точка данных в индексе будет сравнивать текущие данные с аномально высокое (или низкое) значение в знаменателе. Аналитику рекомендуется выбрать более типичное значение в качестве базового периода для сравнения более поздних точек данных.
+
+## Особенности
+
+- Сравнение других точек данных с постоянным базовым периодом позволяет аналитикам выявлять изменения и отличать долгосрочные тенденции от краткосрочных колебаний.
+
+- Базовый период относится к эталону, относительно которого оцениваются экономические данные за другие периоды.
+
+- Выбор базового периода может повлиять на точку зрения наблюдателя на данные, что известно как базовый эффект.
+
