@@ -1,0 +1,53 @@
+---
+keywords: Trading,Fixed Income Trading,Fixed Income Trading Strategy and Education,Strategy and Education
+title: Taux équivalent coupon (CER)
+description: Le taux d&#39;équivalent coupon (CER) est un calcul alternatif du taux de coupon utilisé pour comparer les titres à revenu fixe à coupon zéro et à coupon.
+---
+
+# Taux équivalent coupon (CER)
+## Qu'est-ce que le taux d'équivalent coupon (CER) ?
+
+Le taux d'équivalent coupon (CER) est un calcul alternatif du [taux de coupon](/coupon-rate) utilisé pour comparer les titres à revenu fixe à coupon zéro et à coupon. Il s'agit du rendement annualisé d'une obligation à coupon zéro lorsqu'il est calculé comme s'il payait un coupon. Il est également connu sous le nom de [rendement](/bey) [équivalent obligataire](/bey) (BEY) ou de [rendement équivalent coupon](/couponequivalentrate) (CEY)
+
+## Comprendre le taux équivalent du coupon (CER)
+
+Le taux d'équivalent coupon (CER) permet à un investisseur de comparer une obligation à coupon zéro à une obligation payant un coupon. Alors que la plupart des obligations paient aux investisseurs des paiements d'intérêts annuels ou semestriels, certaines obligations, appelées [obligations à coupon zéro](/zero-couponbond),. ne paient pas du tout d'intérêts mais sont plutôt émises avec une forte décote par rapport au pair.
+
+L'investisseur réalise un rendement sur ces obligations à escompte lorsque l'obligation arrive à échéance. Pour comparer le rendement des titres à coupon avec celui des zéro-coupons en termes relatifs, les analystes utilisent la formule du taux d'équivalent coupon. Le taux d'équivalent coupon (CER) indique le rendement annualisé d'un titre de créance à court terme qui est généralement coté sur la [base d'un escompte bancaire, de](/bankdiscountbasis) sorte que le rendement peut être comparable aux cotations des titres portant coupon.
+
+En effet, il indique ce que serait le taux du coupon sur un instrument à escompte (tel qu'un coupon zéro, un bon du Trésor ou un papier commercial) si l'instrument portait un coupon et avait été vendu à sa valeur nominale.
+
+Étant donné que le taux coté des obligations est calculé sur la base de la [valeur nominale](/facevalue),. ce taux pour les obligations émises avec une décote est inexact pour les comparer à d'autres obligations à coupon. Les obligations à escompte ou à coupon zéro ne sont pas vendues à leur valeur nominale. Ils sont vendus à prix réduit et l'investisseur reçoit généralement plus que ce qu'il a investi à l'échéance. Ainsi, il est plus précis d'utiliser le CER car il utilise l'investissement initial de l'investisseur comme base de rendement.
+
+La formule du taux d'équivalent coupon est la suivante :
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="droite gauche" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>CR</mtext><mo>=</mo><mfrac><mrow><mtext>Valeur nominale </mtext><mo>−</mo><mtext>Prix du marché</mtext></mrow><mtext>Prix du marché</mtext></mfrac><mo>×</mo><mfrac>< mn>360</mn><mtext>Jours jusqu'à l'échéance</mtext></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant ="bold">où :</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow>< /mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>CR</mtext><mo>=< /mo><mtext>Coupon equ taux ivalent</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned}&amp;\text{CR} =\frac{\text{Valeur nominale}-\text{Prix du marché}}{\text{Prix du marché}}\times\frac{360}{\text{Jours jusqu'à l'échéance}}\\ &amp;\textbf{où :}\\ &amp;\text{CR}=\text{Taux équivalent coupon} \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria -hidden="true"><span class="base"><span class="strut" style="height:5.551880000000001em;vertical-align:-2.5259400000000003em;"></span><span class="mord "><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class=" vlist" style="height:3.0259400000000003em;"><span style="top:-5.02594em;"><span class="pstrut" style="height:3.37143999999999998em;"></span><span class= "mord"></span></span><span style="top:-3.0054999999999996em ;"><span class="pstrut" style="height:3.3714399999999998em ;"></span><span class= "mord"></span></span><span style="top:-1.50549999999999 96em ;"><span class="pstrut" style="height:3.3714399999999998em ;"></span><span class="mord"></span></span></span><span class=" vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:2.5259400000000003em ;"><span></span></ span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r">< span class="vlist" style="height:3.0259400000000003em ;"><span style="top:-5.02594em;"><span class="pstrut" style="height:3.3714399999999998em ;"></span> <span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">CR</span></span><span class= "mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em ;" ></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class ="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em ;"></span><span class="mord"><span class="mord text"><span class="mord">Prix du marché</span></span></ span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style= "border-bottom-width:0.04em ;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;">< /span><span class="mord"><span class="mord text"><span class="mord">Valeur faciale</span></span><span class="mspace" style="margin- right:0.222222222222222em ;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em ;"></span><span class ="mord text"><span class="mord">Prix du marché</span></span></span></span></span><span class="vlist-s">​</span ></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span ></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2222222222222222em ;"></span><span class=" mbin">×</span><span cla ss="mspace" style="margin-right:0.2222222222222222em ;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"> <span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em ;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">Jours jusqu'à Maturité</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span> <span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut " style="height:3em;"></span><span class="mord"><span class="mord">3</span><span class="mord">6</span><span class="mord">0</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r "><span class="vlist" style="height:0.8804400000000001em ;"><span></span></span></span></span></span><span class="mclose nulldelimiter" ></span></span></span></span><span st yle="top:-3.0054999999999996em ;"><span class="pstrut" style="height:3.3714399999999998em ;"></span><span class="mord"><span class="mord"></ span><span class="mord text"><span class="mord textbf">où :</span></span></span></span><span style="top:-1.5054999999999996em ;" ><span class="pstrut" style="height:3.3714399999999998em ;"></span><span class="mord"><span class="mord"></span><span class="mord text" ><span class="mord">CR</span></span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mrel">= </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Taux équivalent du coupon</span ></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class= "vlist" style="height:2.5259400000000003em ;"><span></span></span></span></span></span></span></span></span></ span></span>
+
+Le taux d'équivalent coupon (CER) est calculé comme suit :
+
+1. Trouvez la décote à laquelle l'obligation se négocie, c'est-à-dire la valeur nominale moins la valeur marchande.
+
+1. Divisez ensuite la remise par le prix du marché.
+
+1. Divisez 360 par le nombre de jours jusqu'à l'échéance.
+
+1. Ce nombre (du no. 3) est ensuite multiplié par le nombre trouvé au no. 2.
+
+Le taux d'équivalent coupon est une autre façon de calculer le rendement d'une obligation et permet de comparer une obligation à coupon zéro à une obligation d'une durée différente. Cependant, il s'agit d'un rendement nominal et ne tient pas compte de la capitalisation.
+
+Le rendement à l'échéance (YTM) est le rendement théorique qu'un investisseur recevrait s'il détenait l'obligation jusqu'à l'échéance. Mais contrairement au rendement équivalent du coupon (CER), le [rendement à l'échéance](/yieldtomaturity) tient compte de la capitalisation. Les deux sont exprimés en taux annualisés.
+
+## Exemple de CER
+
+Par exemple, un bon du Trésor américain de 10 000 $ qui arrive à échéance dans 91 jours se vend 9 800 $. Son taux équivalent de coupon serait de 8,08 %, soit ((10 000 $ - 9 800 $) / (9 800 $)) * (360 / 91), soit 0,0204 * 3,96. Par rapport à une obligation payant un coupon annuel de 8 %, nous choisirons l'obligation à coupon zéro car elle a le taux le plus élevé {8,08 % > 8 %].
+
+[Trésor STRIP](/treasurystrips) à coupon zéro actuel qui vient à échéance le 15 mars 2022. La valeur nominale est de 100 $ et le prix du marché est de 98,63 $ au 14 septembre 2021. Le taux équivalent du coupon (CER) est de 2,75 %, ou ((100 $ - 98,63 $) / (98,63 $) * (360 / 182 ).
+
+## Points forts
+
+- Le taux d'équivalent coupon (CER) est le rendement annualisé d'une obligation à coupon zéro lorsqu'elle est calculée comme si elle payait un coupon
+
+- Le CER est un rendement nominal et ne tient pas compte de la capitalisation.
+
+- Le CER permet de comparer les obligations à coupon zéro et les autres titres à revenu fixe.
+
