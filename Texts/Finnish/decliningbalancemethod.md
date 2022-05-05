@@ -1,0 +1,43 @@
+---
+keywords: Business,Corporate Finance and Accounting,Accounting
+title: Laskevan saldon menetelmä
+description: Laskevan taseen menetelmää käytettäessä yritys kirjaa suurempia poistoja hyödykkeen taloudellisen vaikutusajan aikaisempina vuosina.
+---
+
+# Laskevan saldon menetelmä
+## Mikä on laskevan saldon menetelmä?
+
+Laskevan taseen menetelmä on [nopeutettu poistojärjestelmä](/accelerateddepreciation),. jossa kirjataan suuremmat poistokulut hyödykkeen aikaisempina käyttövuosina ja pienemmät poistokulut hyödykkeen myöhempien vuosien aikana.
+
+## Alenevan taseen poiston laskeminen
+
+Alenevan tasemenetelmän mukaiset poistot lasketaan seuraavalla kaavalla:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantiikka><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Alenevan saldon poisto</mtext><mo>=</mo><mi>C</mi>< mi>B</mi><mi>V</mi><mo>×</mo><mi>D</mi><mi>R</mi></mrow></mstyle></mtd ></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle ="true"><mrow><mrow></mrow><mtext mathvariant="bold">missä:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd ><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow ></mrow><mi>C</mi><mi>B</mi><mi>V</mi><mo>=</mo><mtext>nykyinen kirjanpitoarvo</mtext></mrow ></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displayst yle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi> D</mi><mi>R</mi><mo>=</mo><mtext>poistoprosentti (%)</mtext></mrow></mstyle></mtd></mtr>< /mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{Halveneva saldon poisto} = CBV \times DR\\ &amp;\textbf{where:}\\ &amp;CBV= \text{nykyinen kirjanpitoarvo}\\ &amp;DR=\text{poistoprosentti (\%)}\\ \end{aligned}</annotation></semantics></math></span><span class= "katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:6em;vertical-align:-2.7500000000000004em;"></span>< span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"> <span class="vlist" style="height:3.25em;"><span style="top:-5.25em;"><span class="pstrut" style="height:2.84em;"></span ><span class="mord"></span></span><span style="top:-3.75em;"><span class="pstrut" style="height:2.84em;"></span ><span class="mord"></s pan></span><span style="top:-2.249999999999999em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span> span></span><span style="top:-0.7499999999999996em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span> span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height :2.7500000000000004em;"><span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist -t2"><span class="vlist-r"><span class="vlist" style="height:3.25em;"><span style="top:-5.41em;"><span class="pstrut " style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord" >Palennuspoistot</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span cl ass="mord mathnormal" style="margin-right:0.05017em;">B</span><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.22222222222222222em ;"></span><span class="mord mathnormal" style="margin-right:0.02778em;">D</span><span class="mord mathnormal" style="margin-right:0.00773em; ">R</span></span></span><span style="top:-3.91em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">missä:</span></span></span> </span><span style="top:-2.4099999999999993em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class=" mord"></span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mord mathnormal" style="margin-right:0.05017em; ">B</span><span class="mord mathnormal" style="margin-right:0.22222em;">V</sp an><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin- right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">nykyinen kirjanpitoarvo</span></span></span></span><span style ="top:-0.9099999999999997em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span> <span class="mord mathnormal" style="margin-right:0.02778em;">D</span><span class="mord mathnormal" style="margin-right:0.00773em;">R</span> <span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0,27777777777777778em;"></span><span class="mord text"><span class="mord">poistoprosentti (%)</span></span></span></span></span ><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:2.7500000000000004em;"><span> </span></span></span></span></span></span></span></span></span></span>
+
+
+
+Käypä kirjanpitoarvo on omaisuuserän nettoarvo tilikauden alussa, joka lasketaan vähentämällä käyttöomaisuuden hankintamenosta [kertyneet poistot](/accumulated-depreciation). [Jäännösarvo](/residual-value) on arvioitu pelastusarvo hyödykkeen taloudellisen vaikutusajan lopussa. Ja poistoprosentti määritellään hyödykkeen arvioidun käyttötavan mukaan sen taloudellisen käyttöiän aikana. Esimerkiksi, jos omaisuus maksaa 1 000 dollaria ja jonka pelastusarvo on 100 dollaria ja jonka käyttöikä on 10 vuotta, arvo on 30 % joka vuosi, kulut ovat 270 dollaria ensimmäisenä vuonna, 189 dollaria toisena vuonna ja 132 dollaria kolmantena vuonna, ja niin edelleen.
+
+## Mitä laskevan saldon menetelmä kertoo?
+
+Laskevan saldon menetelmä, joka tunnetaan myös nimellä vähentävä saldomenetelmä, sopii erinomaisesti omaisuuserille, jotka menettävät nopeasti arvonsa tai vanhenevat väistämättä. Tämä pätee perinteisesti tietokonelaitteisiin, matkapuhelimiin ja muihin korkean teknologian tuotteisiin, jotka ovat yleensä hyödyllisiä aikaisemmin, mutta ne vähenevät, kun uusia malleja tuodaan markkinoille. Nopeutettu poistomenetelmä vaikuttaa viime kädessä näiden omaisuuserien asteittaiseen käytöstä poistamiseen.
+
+Laskevan taseen tekniikka on päinvastainen tasapoistomenetelmälle, joka soveltuu paremmin omaisuuserille, joiden kirjanpitoarvo laskee tasaisesti koko taloudellisen vaikutusajan. Tämä menetelmä yksinkertaisesti vähentää hyödykkeen hankintamenosta pelastusarvon, joka jaetaan sitten hyödykkeen taloudellisella vaikutusajalla. Joten jos yritys maksaa 15 000 dollaria kuorma-autosta, jonka pelastusarvo on 5 000 dollaria ja käyttöikä viisi vuotta, vuosittaiset tasapoistot ovat 2 000 dollaria (15 000 dollaria miinus 5 000 dollaria jaettuna viidellä).
+
+## Laskeva poisto vs. kaksoislaskumenetelmä
+
+Jos yritys kirjaa usein suuria myyntivoittoja omaisuuseriensä myynnistä, tämä voi olla merkki siitä, että se käyttää nopeutettuja poistomenetelmiä, kuten kaksinkertaisen laskevan taseen poistomenetelmää. Nettotulos jää useiden vuosien ajan alhaisemmaksi, mutta koska kirjanpitoarvo jää markkina-arvoa pienemmäksi, tämä johtaa lopulta suurempaan voittoon, kun omaisuus myydään. Jos tämä omaisuus on edelleen arvokasta, sen myynti voi antaa harhaanjohtavan kuvan yrityksen taustalla olevasta terveydestä.
+
+> Nopeutetun poistotekniikan käyttö tarkoittaa, että omaisuuden aikaisempina vuosina verotettava tulo on pienempi.
+
+>
+
+## Kohokohdat
+
+- Kirjanpidossa alenevan taseen menetelmä on nopeutettu poistojärjestelmä, jossa hyödykkeen taloudellisen vaikutusajan aikaisempien vuosien aikana kirjataan suurempia poistoja ja vähennetään myöhempien vuosien poistoja.
+
+- Laskevan taseen tekniikka on päinvastainen tasapoistomenetelmälle, joka sopii paremmin omaisuuserille, joiden kirjanpitoarvo laskee tasaisesti ajan myötä.
+
+- Tämä tekniikka on hyödyllinen tietokoneiden, matkapuhelimien ja muiden nopeasti vanhentuvien korkean teknologian tuotteiden alenemisen kirjaamiseen.
+
