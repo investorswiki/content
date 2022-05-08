@@ -1,0 +1,59 @@
+---
+keywords: Economy,Economics
+title: multiplicador
+description: Um multiplicador refere-se a um insumo econômico que amplifica o efeito de alguma outra variável.
+---
+
+# multiplicador
+## O que é um multiplicador?
+
+Em economia, um multiplicador refere-se amplamente a um fator econômico que, quando aumentado ou alterado, causa aumentos ou mudanças em muitas outras variáveis econômicas relacionadas. Em termos de [produto interno bruto](/gdp),. o [efeito multiplicador](/multipliereffect) faz com que os ganhos na produção total sejam maiores do que a variação nos gastos que os causaram.
+
+O termo multiplicador geralmente é usado em referência à relação entre os gastos do governo e a renda nacional total. Os multiplicadores também são usados para explicar o sistema bancário de reservas fracionárias, conhecido como [multiplicador de depósitos](/deposit_multiplier).
+
+## Explicando os multiplicadores
+
+Um multiplicador é simplesmente um fator que amplifica ou aumenta o valor base de outra coisa. Um multiplicador de 2x, por exemplo, duplicaria o valor base. Um multiplicador de 0,5x, por outro lado, reduziria o valor base pela metade. Muitos multiplicadores diferentes existem em finanças e economia.
+
+### O Multiplicador Fiscal
+
+O [multiplicador fiscal](/fiscal-multiplier) é a razão entre a renda nacional adicional de um país e o impulso inicial nos gastos ou redução de impostos que levou a essa renda extra. Por exemplo, digamos que um governo nacional promulgue um estímulo fiscal de US$ 1 bilhão e que a propensão marginal a consumir (MPC) de seus consumidores seja de 0,75. Os consumidores que receberem o US$ 1 bilhão inicial economizarão US$ 250 milhões e gastarão US$ 750 milhões, iniciando efetivamente outra rodada menor de estímulo. Os destinatários desses US$ 750 milhões gastarão US$ 562,5 milhões e assim por diante.
+
+### O Multiplicador de Investimento
+
+Um [multiplicador de investimento](/investment-multiplier) também se refere ao conceito de que qualquer aumento no investimento público ou privado tem um impacto positivo mais do que proporcional na renda agregada e na economia em geral. O multiplicador tenta quantificar os efeitos adicionais de uma política além daqueles imediatamente mensuráveis. Quanto maior o multiplicador de um investimento, mais eficiente ele é na criação e distribuição de riqueza por toda a economia.
+
+### Multiplicador de ganhos
+
+O [multiplicador de ganhos](/earningsmultiplier) enquadra o preço atual das ações de uma empresa em termos do [lucro por ação](/eps) (EPS) da empresa. Apresenta o valor de mercado da ação em função do lucro da empresa e é calculado como preço por ação/lucro por ação (comumente chamado de múltiplo do lucro).
+
+### Multiplicador de patrimônio
+
+O [multiplicador de patrimônio](/equitymultiplier) é um índice financeiro comumente usado, calculado dividindo-se o valor do ativo total de uma empresa pelo patrimônio líquido total. É uma medida de alavancagem financeira. As empresas financiam suas operações com patrimônio ou dívida, portanto, um multiplicador de patrimônio maior indica que uma parcela maior do financiamento de ativos é atribuída à dívida. O multiplicador de capital é, portanto, uma variação do índice de endividamento, em que a definição de financiamento da dívida inclui todos os passivos.
+
+## A Teoria do Multiplicador Keynesiano
+
+Uma teoria multiplicadora popular e suas equações foram criadas pelo economista britânico [John Maynard Keynes](/john_maynard_keynes). Os Keynes acreditavam que qualquer injeção de gastos do governo criava um aumento proporcional na renda geral da população, uma vez que os gastos extras levariam à economia. Em seu livro de 1936, "The General Theory of Employment, Interest, and Money", Keynes escreveu a seguinte equação para descrever a relação entre renda (Y), consumo (C) e investimento (I):
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>Y</mi><mo>=</mo><mi>C</mi><mo> +</mo><mi>Eu</mi></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow ></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">onde:< /mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle>< /mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>Y</mi><mo>=</mo><mtext>renda< /mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle>< /mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mr ow></mrow><mi>C</mi><mo>=</mo><mtext>consumo</mtext></mrow></mstyle></mtd></mtr><mtr>< mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow>< mrow></mrow><mi>I</mi><mo>=</mo><mtext>investimento</mtext></mrow></mstyle></mtd></mtr></mtable> <annotation encoding="application/x-tex">\begin{aligned} &amp;Y = C + I \\ &amp;\textbf{onde:}\\ &amp;Y=\text{income}\\ &amp;C =\text{consumo}\\ &amp;I=\text{investimento}\\ \end{aligned}</annotation></semantics></math></span><span class="katex-html" ária -hidden="true"><span class="base"><span class="strut" style="height:7.500000000000002em;vertical-align:-3.5000000000000018em;"></span><span class="mord "><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class=" vlist" style="height:4em;"><span style="top:-6em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord "></span></span><span style="top:-4.499999 999999999em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-2.9999999999999982 em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-1.4999999999999982 em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:1.7763568394002505e -15em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span></span><span class= "vlist-s"></span></span><span class="vlist-r"><span class="vlist" style="height:3.5000000000000018em;"><span></span></ span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"> < span class="vlist" style="height:4em;"><span style="top:-6.16em;"><span class="pstrut" style="height:3em;"></span>< span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.22222em;">Y</span><span class="mspace " style="margin-right:0.27777777 77777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin"> +</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.07847em;">Eu< /span></span></span><span style="top:-4.659999999999999em;"><span class="pstrut" style="height:3em;"></span><span class="mord "><span class="mord"></span><span class="mord text"><span class="mord textbf">onde:</span></span></span></span> <span style="top:-3.1599999999999984em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">< /span><span class="mord mathnormal" style="margin-right:0.22222em;">Y</span><span class="mspace" style="margin-right:0.277777777777778em;"></span ><span class="mrel">=</span><span class="mspace" style="margin-right :0.2777777777777778em;"></span><span class="mord text"><span class="mord">renda</span></span></span></span><span style="top :-1.6599999999999984em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class ="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class=" mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">consumo< /span></span></span></span><span style="top:-0.15999999999999837em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.07847em;">eu</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.277777777777778em;"></ span><span class="mord text"><span class="mord">investimento</span></s estilo pan></span></span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist" ="height:3.5000000000000018em;"><span></span></span></span></span></span></span></span></span></span>< / extensão>
+
+A equação afirma que, para qualquer nível de renda, as pessoas gastam uma fração e poupam/investem o restante. Ele definiu ainda a propensão marginal a poupar e a propensão marginal a consumir (MPC), usando essas teorias para determinar a quantidade de uma determinada renda que é investida. Keynes também mostrou que qualquer quantia usada para investimento seria consumida ou reinvestida muitas vezes por diferentes membros da sociedade.
+
+## O multiplicador monetário de reserva fracionária
+
+Suponha que um poupador invista $ 100.000 em uma conta poupança em seu banco. Como o banco só precisa manter uma parte desse dinheiro disponível para cobrir os depósitos, ele pode emprestar o restante do depósito para outra parte. Suponha que o banco empreste $ 75.000 do depósito inicial para uma pequena construtora, que o usa para construir um armazém. Ao longo do tempo, se o banco continuar a emprestar até o seu índice de reserva obrigatória R=25%, o valor dos depósitos à vista adicionais ou “dinheiro” criado pelo depósito inicial será de 1/R ou 1/,25 = 4 vezes, o que é normalmente chamado de Multiplicador de Dinheiro.
+
+Os fundos gastos pela construtora vão para pagar eletricistas, encanadores, carpinteiros e várias outras partes para construí-lo. Esses partidos passam então a gastar os fundos que recebem de acordo com seus próprios interesses. Os $ 100.000 renderam um retorno para o investidor, o banco, a construtora e os empreiteiros que construíram o armazém. Como a teoria de Keynes mostrava que o investimento era multiplicado, aumentando a renda de muitas partes, Keynes cunhou o termo "multiplicador" para descrever o efeito.
+
+O multiplicador de depósito é frequentemente confundido ou considerado sinônimo de multiplicador de dinheiro. No entanto, embora os dois termos estejam intimamente relacionados, eles não são intercambiáveis. Se os bancos emprestassem todo o capital disponível além de suas reservas exigidas, e se os tomadores gastassem cada dólar emprestado dos bancos, então o multiplicador de depósitos e o multiplicador de dinheiro seriam essencialmente os mesmos.
+
+Na prática real, o multiplicador de dinheiro, que designa a mudança real multiplicada na oferta monetária de uma nação criada pelo capital de empréstimo além das reservas do banco, é sempre menor que o multiplicador de depósito, que pode ser visto como o máximo potencial de criação de dinheiro através do efeito multiplicado de empréstimos bancários.
+
+##Destaques
+
+- Existem muitos exemplos de multiplicadores, como o uso de margem na negociação ou o multiplicador de dinheiro no banco de reservas fracionárias.
+
+- Um valor multiplicador de 2x teria, portanto, o resultado de dobrar algum efeito; 3x triplicaria.
+
+- Um multiplicador refere-se a um fator econômico que, quando aplicado, amplifica o efeito de algum outro resultado.
+
