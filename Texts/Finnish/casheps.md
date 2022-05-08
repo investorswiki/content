@@ -1,0 +1,37 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Ratios
+title: Käteinen osakekohtainen tulos (käteinen EPS)
+description: Osakekohtainen kassatulos on konservatiivisempi vaihtoehto osakekohtaiselle tulokselle, jota käytetään osakekohtaisen tuloksen arvioinnissa.
+---
+
+# Käteinen osakekohtainen tulos (käteinen EPS)
+## Mitä osakekohtaiset käteistulot merkitsevät?
+
+Osakekohtainen kassatulos (käteinen EPS), tai yleisemmin nimeltään [liiketoiminnan kassavirta](/operatingcashflow),. on taloudellisen suorituskyvyn mitta, jolla verrataan kassavirtaa ulkona olevien osakkeiden lukumäärään. Käteinen EPS eroaa suosituimmasta nettotulosmittarista, osakekohtaisesta tuloksesta ( [EPS](/eps) ), joka vertaa nettotulosta osakekohtaisesti.
+
+Ilman muita kuin käteiskomponentteja, kuten [poistoja ,](/depreciation) jotka sisältyvät voittoon perustuviin EPS-mittauksiin, Cash EPS voi osoittautua luotettavammaksi taloudellisen ja toiminnallisen terveyden mittariksi.
+
+Mitä korkeampi yrityksen kassa-EPS, sitä paremmin sen katsotaan menestyneen tietyn ajanjakson aikana. Yrityksen kassa-EPS:llä voidaan tehdä vertailuja muihin yrityksiin tai yrityksen liiketoiminnan trendeihin.
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantiikka><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Käteinen EPS </mtext><mo>=</mo><mtext> </mtext><mfrac> <mtext>Liiketoiminnan kassavirta</mtext><mtext>Osakkeet laimennettuina</mtext></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel= "0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow> <mtext mathvariant="bold">missä:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true">< mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>EPS </mtext><mo >=</mo><mtext> osakekohtainen tulos</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encodin g="application/x-tex">\begin{aligned}&amp;\text{Cash EPS}\ =\ \frac{\text{Operating Cash Flow}}{\text{Laimennettu osuudet jäljellä}}\\&amp; \textbf{where:}\\&amp;\text{EPS}\ =\ \text{osakekohtainen tulos}\end{aligned}</annotation></semantics></math></span><span class= "katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:5.55188em;vertical-align:-2.5259400000000003em;"></span> <span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r" ><span class="vlist" style="height:3.0259399999999994em;"><span style="top:-5.02593999999999em;"><span class="pstrut" style="height:3.3714399999999998em;"></ span><span class="mord"></span></span><span style="top:-3.005499999999996em;"><span class="pstrut" style="height:3.3714399999999998em;"></ span><span class="mord"></span></span><span style="top:-1.505499999999996em;"><span class="pstrut" style="height:3.3714399999999998em;"></ span><span class="mord"></span></span></sp an><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:2.5259400000000003em;"><span ></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class= "vlist-r"><span class="vlist" style="height:3.0259399999999994em;"><span style="top:-5.025939999999999em;"><span class="pstrut" style="height:3.371439999999998em ;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Käteinen EPS</span> </span><span class="mspace"> </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</ span><span class="mspace"> </span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mord"><span class=" mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height :1.3714399999999998em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></s pan><span class="mord"><span class="mord text"><span class="mord">Laimentuneet osakkeet ulkona</span></span></span></span><span style= "top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em; "></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord" ><span class="mord text"><span class="mord">Liiketoiminnan kassavirta</span></span></span></span></span><span class="vlist-s" "></span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></ span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:-3.0054999999999996em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">jos:</span></span></span></span><span style="top:-1.505499999999996em;"><span class="pstrut" style="height: 3,371439 9999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">EPS</span> </span><span class="mspace"> </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</ span><span class="mspace"> </span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mord text"><span class= "mord">osakekohtainen tulos</span></span></span></span></span><span class="vlist-s">​</span></span><span class= "vlist-r"><span class="vlist" style="height:2.5259400000000003em;"><span></span></span></span></span></span></span> </span></span></span></span>
+
+
+
+## Cash EPS:n ymmärtäminen
+
+Yritystä analysoitaessa tavallinen talousanalyysitekniikka vertaa liiketoiminnan kassavirtaa (CEPS) raportoituun nettotulokseen. Yleinen varoitusmerkki aggressiivisesta tuottojen kirjaamisesta tulee usein esiin, kun liiketoiminnan kassavirta alkaa olennaisesti jäädä raportoidun nettotulon jälkeen. Kun näin tapahtuu, se voi olla punainen lippu tulojen tunnustamisesta liian aikaisin.
+
+Koska EPS on melko altis kirjanpidon manipuloinnille, se voi olla epäluotettava suorituskyvyn mittari. Sellaisenaan potentiaalista sijoitusta arvioidessaan sijoittajat, kuten Warren Buffet, suosivat kassapohjaisia toimenpiteitä analyysinsä ohjaamiseksi.
+
+Viime aikoina osakkeiden takaisinostot osakkeiden osinkojen sijaan ovat olleet ylivoimaisesti suosittu tapa palauttaa voittoja osakkeenomistajille. Voidaan väittää, että tämä auttaa nostamaan osakekohtaista voittoa alentamalla liikkeessä olevia osakkeita, mikä auttaa yritysjohtajia pelien osakekohtaisen tuloksen kasvussa mehutulokseen [perustuviin palkitsemissuunnitelmiin](/performancecompensation).
+
+Koska se on konservatiivisempi suorituskyvyn mitta, käteis-EPS voi poistaa joitain näistä ongelmista, jotka ovat yhteisiä rahoitussuunnittelun laajemmalle käytölle.
+
+## Cash EPS:n käytön edut
+
+- CEPS on vähemmän altis kirjanpidon manipuloinnille, mikä tarjoaa selkeämmän kuvan kassavirrasta ja reaalituloista. Lisääntynyt läpinäkyvyys on merkki hyvästä hallintotavasta.
+
+- CEPS näyttää sijoittajille osakekohtaisesti, kuinka paljon voittoa kukin osake tuottaa. Tämä auttaa tunnistamaan lisäarvon.
+
+- CEPS ei ole saman lyhyen aikavälin markkinafokustuksen alainen kuin EPS:n kanssa.
+
