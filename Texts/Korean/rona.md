@@ -1,0 +1,59 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Analysis
+title: 순자산수익률(RONA)
+description: 순자산 수익률(RONA)은 기업이 자산을 얼마나 효율적으로 활용하여 순이익을 창출하는지 측정합니다.
+---
+
+# 순자산수익률(RONA)
+## 순자산수익률(RONA)이란 무엇입니까?
+
+[고정 자산](/fixedasset) 과 순 운전 자본 의 합으로 나눈 재무 성과 측정값입니다 . [순이익 은](/netincome) [순수익](/netincome) 이라고도 합니다.
+
+RONA 비율은 회사와 경영진이 경제적으로 가치 있는 방식으로 자산을 얼마나 잘 배치하고 있는지 보여줍니다. 높은 비율 결과는 경영진이 자산에 투자한 1달러에서 더 많은 수익을 짜내고 있음을 나타냅니다. RONA는 또한 회사가 해당 업계의 다른 회사와 비교하여 얼마나 잘 수행하고 있는지 평가하는 데 사용됩니다.
+
+## 순자산 수익률 공식은 다음과 같습니다.
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><의미론><mtable rowspacing="0.2499999999999992em " columnalign="오른쪽 왼쪽" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>R</mi><mi>O</mi><mi>N</mi><mi> A</mi><mo>=</mo><mfrac><mtext>순이익</mtext><mrow><mtext>(고정 자산</mtext><mo>+</mo><mi>N </mi><mi>W</mi><mi>C</mi><mo stretchy="false">)</mo></mrow></mfrac></mrow></mstyle>< /mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0 " displaystyle="true"><mrow><mrow></mrow><mi>N</mi><mi>W</mi><mi>C</mi><mo>=</mo>< mtext>유동 자산 </mtext><mo>−</mo><mtext>유동 부채</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle 스크립트 수준 ="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow> <mrow></mrow><mtext mathvariant="bold">여기서:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi> R</mi><mi>O</mi><mi>N</mi><mi>A</mi><mo>=</mo><mtext>순자산 수익률</mtext></ mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd ><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>N</mi><mi>W</mi><mi>C</mi><mo >=</mo><mtext>순 운전 자본</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin {정렬}&amp;RONA=\frac{\text{순이익}}{\text{(고정 자산}+NWC)}\\&amp;NWC=\text{유동 자산 }-\text{유동 부채}\\ &amp;\textbf{여기서:}\\&amp;RONA=\text{순 자산 수익률}\\&amp;NWC=\text{순 운전 자본}\end{정렬}</annotation></semantics></ 수학></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:8.60744em;vertical-align:-4.053719999999999em;"></span><span class="mord"><span class="mtable"><span class="col- align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" 스타일="높이:4.55372em;"><스팬 스타일=" 상단:-6.55372em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style=" 상단:-4.47772em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style=" 상단:-2.9777199999999997em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style=" 상단:-1.4777200000000001em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style=" 상단:0.02227999999999941em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class= "vlist" style="height:4.053719999999999em;"><span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:4.55372em;"><span style="top:-6.55372em;" ><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord 수학 일반" style="margin-right:0.00773em;">R</span><span class="mord mathnormal" style="margin-right:0.02778em;">O</span><span class="mord Mathnormal" style="margin-right:0.10903em;">N</span><span class="mord mathnormal">A</span><span class="mspace" style="margin-right:0.27777777777777778em;"> </span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" 스타일 ="높이:1.3714399999999998em;"><span style="top:-2.314em;"><span class="ps trut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">(고정 자산</span></span ><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right :0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord Mathnormal" style="margin-right: 0.13889em;">W</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mclose">)</span></ 스팬></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" 스타일= "테두리 바닥 너비:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;">< /span><span class="mord"><span class="mord text"><span class="mord">순이익</span></span></span></span></span> <span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.936em;"><span>< /스팬></span>< /span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:-4.47772em;">< 스팬 class="pstrut" 스타일="높이:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord 수학 노멀" 스타일= "margin-right:0.10903em;">N</span><span class="mord mathnormal" style="margin-right:0.13889em;">W</span><span class="mord mathnormal" 스타일= "margin-right:0.07153em;">C</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span ><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">현재 자산 </span></span ><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right :0.2222222222222222em;"></span><span class="mord text"><span class="mord">유동 부채</span></span></span></span><span style=" 상단:-2.9777199999999997em;"><span class="pstrut" 스타일 ="높이:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord 텍스트"><span class="mord textbf" >위치:</span></span></span></span><span style="top:-1.4777200000000001em;"><span class="pstrut" style="height:3.3714399999999998em;">< /span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.00773em;">R</span><span class="mord mathnormal" style="margin-right:0.02778em;">O</span><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord mathnormal"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">순 자산 수익률</span></span> </span></span><span style="top:0.02227999999999941em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord">< span class="mord"></span><span class="mord 수학 normal" style="margin-right:0.10903em;">N</span><span class="mord mathnormal" style="margin-right:0.13889em;">W</span><span class="mord 수학 일반" style="margin-right:0.07153em;">C</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel"> =</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">순 운전 자본</span> 스팬></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span 클래스 ="vlist" 스타일="높이:4.053719999999999em;"><span></span></span></span></span></span></span></span></span>< /스팬></span>
+
+
+
+## 로나 계산 방법
+
+RONA의 세 가지 구성 요소는 순이익, 고정 자산 및 [순 운전 자본](/workingcapital) 입니다. 순이익은 손익 계산서에 표시되며 수익에서 회사 제품의 제조 또는 판매와 관련된 비용, 관리 급여 및 유틸리티와 같은 운영 비용, 부채와 관련된 이자 비용 및 기타 모든 비용을 뺀 값으로 계산됩니다.
+
+고정 자산은 부동산 및 기계와 같이 생산에 사용되는 유형 자산이며 대차 대조표에 표시되는 [영업권](/goodwill) 또는 기타 [무형 자산 은 포함하지 않습니다.](/intangibleasset) 순 운전자본은 유동 자산에서 회사의 유동 부채를 빼서 계산합니다. 장기 부채는 운전자본의 일부가 아니며 순자산 수익률에 대한 운전자본을 계산할 때 분모에서 차감되지 않는다는 점에 유의하는 것이 중요합니다.
+
+때때로 분석가는 특히 다른 회사와 비교할 때 결과를 매끄럽게 하거나 정규화하기 위해 비율 공식 입력을 약간 조정합니다. 예를 들어, 고정 자산 잔액이 특정 유형의 가속 감가상각의 영향을 받을 수 있다고 가정해 보겠습니다. 이 경우 자산 가치의 최대 40%가 배포 첫 해에 제거될 수 있습니다.
+
+또한, 큰 손실이나 비정상적인 수입을 초래한 중요한 사건은 특히 일회성 사건인 경우 순이익에서 조정해야 합니다. 영업권과 같은 무형 자산은 분석가가 때때로 계산에서 제외하는 또 다른 항목입니다. 이는 새로운 장비와 같은 제품 생산에 사용하기 위해 구매한 자산이 아니라 단순히 인수에서 파생되는 경우가 많기 때문입니다.
+
+## 로나는 무엇을 말합니까?
+
+순자산 수익률(RONA) 비율은 회사의 [순이익](/netincome) 을 자산과 비교하고 투자자가 회사가 자산에서 얼마나 잘 수익을 창출하고 있는지 판단하는 데 도움이 됩니다. 자산에 비해 기업의 수입이 높을수록 기업은 자산을 더 효과적으로 배치하고 있습니다. RONA는 [고정 자산](/fixedasset) 을 주요 자산 구성 요소로 하는 자본 집약적 기업에 특히 중요한 지표입니다.
+
+자본 집약적 제조 부문에서 RONA는 다음과 같이 계산할 수도 있습니다.
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><의미론><mrow><mtext>반환 순 자산</mtext><mo>=</mo><mfrac><mrow><mtext>공장 수익</mtext><mo>−</mo><mtext>비용</mtext></mrow> <mtext>순 자산</mtext></mfrac></mrow><annotation encoding="application/x-tex">\text{순 자산 수익}=\frac{\text{공장 수익}-\text {비용}}{\text{순 자산}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class=" base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord text"><span class="mord">순수익 자산</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class=" mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.2251079999999999em;vertical-align:- 0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><s pan class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8801079999999999em;"><스팬 스타일 ="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight "><span class="mord text mtight"><span class="mord mtight">순 자산</span></span></span></span></span><span style="top: -3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;">< /span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="크기 재설정-size6 size3" mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord mtight">공장 수익</span></span><span class="mbin mtight"> −</span><span class="mord text mtight"><span class="mord mtight">비용</span></span></span></span></span></span>< span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="heig ht:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span ></span></span>
+
+
+
+### 순자산 수익률 해석
+
+순자산 수익률이 높을수록 회사의 이익 성과가 더 좋습니다. RONA가 높을수록 회사가 자산과 운전자본을 효율적이고 효과적으로 사용하고 있음을 의미합니다. 단, 단일 계산으로 회사 성과의 전체를 알 수는 없습니다. 순자산 수익률은 회사의 [재무 건전성 을 평가하는 데 사용되는 많은 비율 중 하나일 뿐입니다](/financial-health).
+
+계산을 수행하는 목적이 회사의 가치 창출 능력에 대한 장기적인 관점을 생성하는 것이라면 [특별 비용](/extraordinaryitem) 이 순이익 수치에 다시 추가될 수 있습니다. 예를 들어, 회사의 순이익이 1000만 달러인데 100만 달러의 특별 비용이 발생한 경우 순이익 수치는 1100만 달러로 상향 조정할 수 있습니다. 이 조정은 회사가 추가로 특별한 비용을 지출할 필요가 없는 경우 다음 해에 기대할 수 있는 순자산 수익률을 나타냅니다.
+
+## 로나의 예
+
+회사의 수익이 10억 달러이고 세금을 포함한 총 비용이 8억 달러이고 순이익이 2억 달러라고 가정합니다. 회사의 유동 자산은 4억 달러, 유동 부채는 2억 달러로 순 운전 자본은 2억 달러입니다.
+
+또한 회사의 고정 자산은 8억 달러에 달합니다. 순 운전 자본에 고정 자산을 더하면 RONA를 계산할 때 분모로 10억 달러를 얻을 수 있습니다. 2억 달러의 순이익을 10억 달러로 나누면 회사의 순자산 수익률은 20%가 됩니다.
+
+## 하이라이트
+
+- 순자산수익률(RONA)은 기업의 순자산과 순자산을 비교하여 수익을 창출하기 위해 해당 자산을 얼마나 잘 활용하고 있는지 보여줍니다.
+
+- 순이익 및 고정 자산은 비정상적이거나 비반복적인 항목에 대해 조정되어 정규화된 비율 결과를 얻을 수 있습니다.
+
+- 높은 RONA 비율은 경영진이 회사 자산의 사용을 극대화하고 있음을 나타냅니다.
+
