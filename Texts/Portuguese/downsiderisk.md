@@ -1,0 +1,79 @@
+---
+keywords: Trading,Trading Skills and Essentials,Risk Management,Trading Skills
+title: Risco negativo
+description: O risco de queda é uma estimativa da perda potencial de valor de um título se as condições de mercado provocarem um declínio no preço desse título.
+---
+
+# Risco negativo
+## O que é risco de queda?
+
+risco de downside é uma estimativa da perda potencial de valor de um [título](/security) se as condições de mercado provocarem um declínio no preço desse título. Dependendo da medida utilizada, o risco de queda explica o pior cenário para um investimento e indica quanto o investidor pode perder. As medidas de risco de downside são consideradas testes [unilaterais](/one-tailed-test),. uma vez que o potencial de lucro não é considerado.
+
+##Compreendendo o risco negativo
+
+Alguns investimentos têm uma quantidade finita de risco de queda, enquanto outros têm risco infinito. A compra de uma ação, por exemplo, tem uma quantidade finita de risco de queda limitada por zero. O investidor pode perder todo o seu investimento, mas não mais. Uma posição curta em uma ação, no entanto, realizada por meio de uma [venda a](/shortsale) descoberto, acarreta um risco de queda ilimitado, pois o preço do título pode continuar subindo indefinidamente.
+
+Da mesma forma, ser uma [opção comprada](/optionscontract) - uma compra ou uma venda - tem um risco de queda limitado ao preço do prêmio da opção, enquanto uma posição de opção de [compra "nu"](/short-call) tem um risco de queda potencial ilimitado porque teoricamente não há limite para como longe um estoque pode subir.
+
+Uma opção de compra nua é considerada a estratégia de opção mais arriscada, pois o vendedor da opção não possui o título e teria que comprá-lo no mercado aberto para cumprir o contrato. Por exemplo, se você vender uma opção de compra com preço de exercício de $ 1 e a ação subir para $ 1.000 no vencimento do contrato, você teria que comprar a ação por $ 1.000 e vendê-la por $ 1; não é um bom retorno sobre o investimento
+
+Investidores, traders e analistas usam uma variedade de [métricas técnicas e fundamentais](/metrics) para estimar a probabilidade de queda do valor de um investimento, incluindo desempenho histórico e cálculos [de desvio padrão .](/standarddeviation) Em geral, muitos investimentos que têm um maior potencial de risco negativo também têm um maior potencial de recompensas positivas.
+
+Os investidores geralmente comparam os riscos potenciais associados a um determinado investimento com possíveis recompensas. O risco de queda contrasta com o [potencial de alta](/upside),. que é a probabilidade de que o valor de um título aumente.
+
+## Exemplo de risco de queda: semi-desvio
+
+Com investimentos e portfólios, uma medida de risco de queda muito comum é o desvio de baixa, que também é conhecido como [semi-desvio](/semideviation). Esta medida é uma variação do desvio padrão na medida em que mede apenas o desvio da [volatilidade ruim](/volatility). Ele mede o quão grande é o desvio nas perdas.
+
+Como o desvio de alta também é usado no cálculo do desvio padrão, os gerentes de investimento podem ser penalizados por terem grandes oscilações nos lucros. O desvio para baixo aborda esse problema concentrando-se apenas em [retornos negativos](/negative-return).
+
+O desvio padrão (σ), que mede a dispersão dos dados a partir de sua média, é calculado da seguinte forma:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>σ</mi><mo>=</mo><msqrt><mfrac><mrow><munderover ><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>N</mi></ munderover><mo stretchy="false">(</mo><msub><mi>x</mi><mi>i</mi></msub><mo>−</mo><mi>μ </mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup></mrow><mi>N</mi></mfrac></ msqrt></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></ mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">onde:</mtext></mrow></mstyle> </mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel=" 0" visor style="true"><mrow><mrow></mrow><mi>x</mi><mo>=</mo><mtext>Ponto de dados ou observação</mtext></mrow></mstyle ></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel= "0" displaystyle="true"><mrow><mrow></mrow><mi>μ</mi><mo>=</mo><mtext>Média do conjunto de dados</mtext></mrow>< /mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>N</mi><mo>=</mo><mtext>Número de pontos de dados</mtext></ mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\sigma = \sqrt{ \frac{ \sum_{i =1}^{N} (x_i - \mu)^2 }{ N } } \\ &amp;\textbf{onde:} \\ &amp;x = \text{Ponto de dados ou observação} \\ &amp;\mu = \text{média do conjunto de dados} \\ &amp;N = \text{Número de pontos de dados} \\ \end{aligned}</annotation></semantics></math></span>< span class="katex-html" aria-hidden="true"><span class="base"><span clas s="strut" style="height:9.34em;vertical-align:-4.419999999999999em;"></span><span class="mord"><span class="mtable"><span class="col- align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:4.92em;"><span style=" top:-6.92em;"><span class="pstrut" style="height:4.1263455em;"></span><span class="mord"></span></span><span style=" top:-4.8663455em;"><span class="pstrut" style="height:4.1263455em;"></span><span class="mord"></span></span><span style=" top:-3.3663455000000004em;"><span class="pstrut" style="height:4.1263455em;"></span><span class="mord"></span></span><span style=" top:-1.8663455000000009em;"><span class="pstrut" style="height:4.1263455em;"></span><span class="mord"></span></span><span style=" top:-0.3663455000000013em;"><span class="pstrut" style="height:4.1263455em;"></span><span class="mord"></span></span></span>< span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist" style="height:4.419999999999999em;"><span></ span > </span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r" ><span class="vlist" style="height:4.92em;"><span style="top:-6.92em;"><span class="pstrut" style="height:4.1263455em;"></ span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.03588em;">σ</span><span class ="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.277777777777778em; "></span><span class="mord sqrt"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 2.1263455em;"><span class="svg-align" style="top:-5em;"><span class="pstrut" style="height:5em;"></span><span class="mord " style="padding-left:1em;"><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist -t2"><span class="vlist-r"><span class="vlist" style="height:1.670941em;"><span style="top:-2.314em;"><span class="ps trut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.10903em;">N</span></ span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style= "border-bottom-width:0.04em;"></span></span><span style="top:-3.6897100000000003em;"><span class="pstrut" style="height:3em;">< /span><span class="mord"><span class="mop"><span class="mop op-symbol small-op" style="position:relative;top:-0.0000050000000000050004em;">∑</ span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.981231em;"> <span style="top:-2.40029em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class ="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">i</span><span class="mrel mtight">=</span><span class="mord mtight">1</span></span></span></span><span style="top:-3.2029em;margin-right:0 .05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.10903em;">N</span></span></span></span></span><span class="vlist-s"> ​</span></span><span class="vlist-r"><span class="vlist" style="height:0.29971000000000003em;"><span></span></span></span ></span></span></span><span class="mopen">(</span><span class="mord"><span class="mord mathnormal">x</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31166399999999994em;"><span style= "top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset -size6 size3 mtight"><span class="mord mathnormal mtight">i</span></span></span></span><span class="vlist-s"><​</span>< / span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span>< / intervalo> </span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style=" margin-right:0.2222222222222222em;"></span><span class="mord mathnormal">μ</span><span class="mclose"><span class="mclose">)</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.740108em;"><span style="top: -2.9890000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class ="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span ><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span> </span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style=" top:-4.0863455em;"><span class="pstrut" style="height:5em;"></span><span class="hide-tail" style="min-width:1.02em;height:3.08 em;"><svg largura= '400em' height='3.08em' viewBox='0 0 400000 3240' preserveAspectRatio='xMinYMin slice'><path d='M473,2793
+
+c339.3,-1799.3.509.3,-2700.510,-2702 10 -0
+
+c3.3,-7.3,9.3,-11,18,-11 H400000v40H1017.7
+
+s-90,5,478,-276,2,1466c-185,7,988,-279,5,1483,-281,5,1485c-2,6,-10,9,-24,9
+
+c-8,0,-12,-0,7,-12,-2c0,-1,3,-5,3,-32,-16,-92c-50,7,-293,3,-119,7,-693,3,-207,-1200
+
+c0,-1.3,-5.3,8.7,-16,30c-10.7,21.3,-21.3,42.7,-32.64s-16.33,-16.33s-26,-26,-26,-26
+
+s76,-153,76,-153s77,-151,77,-151c0,7,0,7,35,7,202,105,604c67,3,400,7,102,602,7,104,
+
+606zM1001 80h400000v40H1017.7z'/></svg></span></span></span><span class="vlist-s"></span></span><span class="vlist-r " ><span class="vlist" style="height:0.9136544999999998em;"><span></span></span></span></span></span></span></span> < span style="top:-4.8663455em;"><span class="pstrut" style="height:4.1263455em;"></span><span class="mord"><span class="mord"> < /span><span class="mord text"><span class="mord textbf">onde:</span></span></span></span><span style="top:-3.3663455000000004em ; "><span class="pstrut" style="height:4.1263455em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal ">x</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace " style="margin-right:0.277777777777778em;"></span><span class="mord text"><span class="mord">Ponto de dados ou observação</span></span></span> < /span><span style="top:-1.8663455000000009em;"><span class="pstrut" style="height:4.1263455em;"></span><span class s="mord"><span class="mord"></span><span class="mord mathnormal">μ</span><span class="mspace" style="margin-right:0.277777777777778em;" ></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"> <span class="mord">Média do conjunto de dados</span></span></span></span><span style="top:-0.3663455000000013em;"><span class="pstrut" style=" height:4.1263455em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.10903em;" >N</span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mrel">=</span><span class="mspace" style ="margin-right:0.277777777777778em;"></span><span class="mord text"><span class="mord">Número de pontos de dados</span></span></span></ span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist" style="height:4.419999999999999em; " ><span></span></span></span></span></span></span></span></span></span></spa n>
+
+A fórmula para o desvio negativo usa essa mesma fórmula, mas em vez de usar a média, usa algum limite de retorno – a taxa livre de risco é frequentemente usada.
+
+Suponha os seguintes 10 retornos anuais para um investimento: 10%, 6%, -12%, 1%, -8%, -3%, 8%, 7%, -9%, -7%. No exemplo acima, quaisquer retornos inferiores a 0% foram usados no cálculo do desvio negativo.
+
+O desvio padrão para este conjunto de dados é de 7,69% e o desvio negativo deste conjunto de dados é de 3,27%. Isso mostra que cerca de 40% da volatilidade total vem de retornos negativos e implica que 60% da volatilidade vem de retornos positivos. Desta forma, fica claro que a maior parte da volatilidade desse investimento é uma volatilidade "boa".
+
+## Outras Medidas de Risco de Desvantagem
+
+### O SFRatio
+
+Outras medidas de risco de downside às vezes também são empregadas por investidores e analistas. Um deles é conhecido como [Roy's Safety-First Criterion](/roys-safety-first-criterion) (SFRatio), que permite que as carteiras sejam avaliadas com base na probabilidade de que seus retornos caiam abaixo de um limite mínimo desejado. Aqui, a [carteira ótima](/efficientfrontier) será aquela que minimiza a probabilidade de que o retorno da carteira caia abaixo de um nível limite.
+
+> Os investidores podem usar o SFRatio para escolher o investimento com maior probabilidade de obter o retorno mínimo exigido.
+
+>
+
+### VaR
+
+Em nível empresarial, a medida de risco de downside mais comum é provavelmente [o Value-at-Risk](/var) (VaR). O VaR estima quanto uma empresa e seu portfólio de investimentos podem perder com uma determinada probabilidade, dadas as condições típicas de mercado, durante um determinado período de tempo, como um dia, uma semana ou um ano.
+
+O VaR é empregado regularmente por analistas e empresas, bem como por reguladores do setor financeiro, para estimar a quantidade total de ativos necessários para cobrir perdas potenciais previstas com uma certa probabilidade – digamos que algo provavelmente ocorra 5% das vezes. Para uma determinada carteira, horizonte de tempo e probabilidade estabelecida **p**, o **p**-VaR pode ser descrito como a perda máxima estimada durante o período se excluirmos os piores resultados cuja probabilidade é menor que **p* *.
+
+##Destaques
+
+- Alguns investimentos têm uma quantidade infinita de risco de queda, enquanto outros têm risco de queda limitado.
+
+- Exemplos de cálculos de risco de queda incluem semi-desvio, valor em risco (VaR) e índice de segurança em primeiro lugar de Roy.
+
+- O risco de downside é um termo geral para o risco de perda em um investimento, em oposição à probabilidade simétrica de uma perda ou ganho.
+
+- O risco de downside é uma estimativa da perda potencial de valor de um título se as condições de mercado provocarem um declínio no preço desse título.
+
