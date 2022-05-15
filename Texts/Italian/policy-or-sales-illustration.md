@@ -1,0 +1,19 @@
+---
+keywords: Personal Finance,Insurance
+title: Politica o illustrazione di vendita
+description: Una polizza o un&#39;illustrazione di vendita è uno strumento educativo che mostra a un potenziale o nuovo contraente di assicurazione come funziona l&#39;assicurazione sulla vita o sull&#39;invalidità.
+---
+
+# Politica o illustrazione di vendita
+Una polizza o un'illustrazione di vendita è uno strumento educativo che mostra a un potenziale o nuovo contraente di assicurazione come funziona una polizza assicurativa sulla vita o sull'invalidità. Una polizza o un'illustrazione di vendita tiene conto di tutti i dettagli chiave di una polizza, inclusi l'età, il sesso e la classe di sottoscrizione del richiedente o dell'assicurato (il livello di rischio utilizzato per determinare i premi).
+
+## Abbattere la politica o l'illustrazione di vendita
+
+Un'illustrazione della polizza o delle vendite mostra anche il nome del prodotto assicurativo, la durata, l'importo del vantaggio, il [premio](/premium) [,](/premium) i valori in contanti (se la polizza ha una componente di valore in contanti) e i [dividendi previsti](/dividend) (se la polizza è emessa da una mutua assicurazione). L'illustrazione descriverà anche eventuali criteri o opzioni. Un'illustrazione della politica mostra come ci si aspetta che il valore della politica cambi nel tempo e su quali ipotesi si basano tali valori. Un'illustrazione della polizza di invalidità mostrerà anche il periodo di attesa prima che i benefici diventino pagabili e descriverà le condizioni che devono essere soddisfatte per il pagamento della polizza.
+
+Una polizza o un'illustrazione di vendita non è un contratto vincolante e non garantisce quanto varrà una polizza in un dato anno, a meno che i valori siano esplicitamente dichiarati come "garantiti". L'illustrazione è in gran parte un'ipotesi plausibile determinata da un programma per computer basato sulle informazioni disponibili nel momento in cui viene generata l'illustrazione. Le effettive garanzie legali associate alla polizza sono contenute nel contratto della polizza.
+
+Gli agenti assicurativi forniscono un'illustrazione della polizza ai candidati che stanno valutando l'acquisto di una polizza assicurativa sulla vita o sull'invalidità. L'illustrazione illustra le caratteristiche ei vantaggi della polizza. Dopo l'emissione della polizza, l'agente emetterà una nuova illustrazione basata sulla polizza effettivamente emessa, poiché può contenere ipotesi diverse rispetto all'illustrazione utilizzata in fase di domanda. Ad esempio, l'esame medico del richiedente potrebbe aver collocato il cliente in una categoria a rischio più elevato rispetto a quanto ipotizzato nell'illustrazione di vendita iniziale, oppure il richiedente potrebbe aver cambiato idea sull'importo della copertura che desidera acquistare.
+
+La [National Association of Insurance Commissioners](/nainsurancec) (NAIC) ha sviluppato un'illustrazione modello di polizza che molti assicuratori utilizzano come base per le loro polizze o illustrazioni di vendita, perché è facile da capire e contiene tutte le informazioni che i consumatori devono sapere.﻿Mostra l'attuale prodotto valori garantiti e non garantiti in base al modo in cui i sottoconti sottostanti della polizza influiscono sul valore in contanti e sul beneficio in caso di morte della polizza, presupponendo un tasso di rendimento ragionevole, data la tolleranza al rischio del cliente e le condizioni di mercato. L'illustrazione della polizza dovrebbe anche mostrare tutte le commissioni associate alla polizza. Le illustrazioni di vendita o di polizza vengono utilizzate con prodotti come l'assicurazione sulla vita intera, l'assicurazione sulla vita universale, l'assicurazione sulla vita universale variabile e l'assicurazione sull'invalidità a lungo termine.
+
