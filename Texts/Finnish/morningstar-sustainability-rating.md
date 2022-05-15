@@ -1,0 +1,27 @@
+---
+keywords: Investing,Sustainable Investing,Socially Responsible Investing
+title: Morningstarin kestävän kehityksen luokitus
+description: Morningstar Sustainability Rating on maailmanlaajuinen standardi sijoitusrahastojen ja ETF:ien arvioinnissa&amp;#39; ympäristö-, sosiaali- ja yrityshallinto.
+---
+
+# Morningstarin kestävän kehityksen luokitus
+## Mikä on Morningstar Sustainability -luokitus?
+
+Morningstar Sustainability Rating on luotettava ja objektiivinen tapa sijoittajille nähdä, kuinka noin 20 000 sijoitusrahastoa ja [pörssinoteerattua](/etf) [rahastoa](/etf) (ETF) vastaa [ympäristöön, yhteiskuntaan ja yrityshallinnon](/environmental-social-and-governance-esg-criteria) (ESG) haasteisiin.
+
+Elokuussa 2016 käyttöön otetut Morningstarin kestävän kehityksen luokitukset ilmaistaan viiden maapallon järjestelmällä, joka osoittaa, onko investointi sen toimialaryhmän luokituksen alaosassa (yksi maapallo), keskiarvon alapuolella (kaksi maapalloa), keskiarvo (kolme maapalloa), keskimääräistä korkeampi (neljä maapalloa) tai huippuluokkaa (viisi maapalloa) toimialaryhmänsä luokituksessa. Sijoittajat voivat löytää Morningstarin kestävyysluokitukset morningstar.comin rahastojen tarjoussivujen oikealta puolelta. Morningstar Portfolio Sustainability Ratings -luokitukset julkaistaan kuukausittain.
+
+## Morningstarin kestävän kehityksen luokituksen ymmärtäminen
+
+Morningstarin tämän luokitusjärjestelmän kehittäminen kuvastaa [kestävän](/sustainability) sijoittamisen dramaattista kasvua ja merkitystä. Kestävän kehityksen luokitukset perustuvat kahteen osaan: Sustainalyticsin kehittämiin yritystason ESG-pisteisiin ja ESG-kiistoihin. Kunkin rahaston ESG-pisteet perustuvat sen taustalla olevien yritysten valmiuksiin, julkisuuteen ja tulokseen. Jokainen salkun yritys on arvosteltu asteikolla 0-100 suhteessa muihin yrityksiin sen globaalissa alan vertailuryhmässä. Tämän seurauksena kahdella yrityksellä, joilla on samat pisteet, mutta jotka kuuluvat eri vertaisryhmiin, ei välttämättä ole vastaavia ympäristö-, sosiaali- ja yritysjohtamisen (ESG) tasoja. Pistemäärä 50 tarkoittaa, että yritystä pidetään keskimääräisenä suhteessa vertailuryhmään; pistemäärä 70 tai sitä korkeampi tarkoittaa, että yritys on saanut vertailuryhmässään vähintään kaksi keskihajonnan keskiarvoa korkeammalle tasolle. Arvosana 30 tai sitä pienempi tarkoittaa, että yritys saa vertaisryhmässään vähintään kaksi keskihajonnan alapuolella.
+
+Vähintään puolella salkun hallinnoitavista [varoista](/aum) (AUM) on oltava yrityksen ESG-pisteet, jotta salkku voi saada kestävän kehityksen pisteen. Morningstar Sustainability Rating ottaa sitten salkun pisteet ja vähentää pisteet kiistanalaisista ESG-ongelmista, joita salkun yrityksillä voi olla. Kiistat sisältävät ympäristöön ja yhteiskuntaan vaikuttavia tapauksia, kuten öljyvuotoja, syrjintäjuttuja tai yritykseen vaikuttavia tapahtumia.
+
+Morningstarin mukaan rahastoilla, joilla on korkeampi kestävyysluokitus, on yleensä laadukkaampi omistus. Korkeammalla laadulla Morningstar viittaa rahastoihin, joilla on viiden maapallon kestävyysluokitukset ja joilla on todennäköisemmin korkeat tähtiluokitusten [riskikorjatut tuotot](/riskadjustedreturn),. Morningstarin analyytikot suosivat niitä todennäköisemmin, jotka ovat vähemmän epävakaita ja joilla on enemmän riskiä. taloudellisesti terveet yritykset, joilla on [taloudellinen vallihauta](/economicmoat).
+
+Rahastolla voi kuitenkin olla korkea tähtiluokitus ja alhainen kestävyysluokitus. Esimerkiksi Fidelityn Total Market Index Premium -rahastolla (FSTVX) on neljän tähden Morningstar-luokitus viidestä riskisopeutetuista tuotoistaan. Morningstarin premium-analyytikkoraportti kutsuu tätä rahastoa "hyväksi valinnaksi hajautetuille sijoituksille kaikenkokoisille yhdysvaltalaisille osakkeille" alhaisten kustannustensa ( [ei kuormitusta](/no-loadfund) ja kulusuhde 0,05 %, selvästi alle ryhmän mediaanin 0,90 %) ja "leveän" ansiosta. , [markkina-arvolla painotettu](/capitalizationweightedindex) kattavuus Yhdysvaltain markkinoilla." Sillä on myös kultainen luokitus, mikä osoittaa, että analyytikot odottavat rahaston tuottavan paremmin koko vähintään viiden vuoden markkinasyklin aikana. Sen kestävyysluokitus on kuitenkin vain kaksi maapalloa viidestä (keskiarvon alapuolella), joka perustuu 80 %:n sijoitukseen luokassaan ja kestävyyspistemäärään 45.
+
+Morningstarin Sustainability Ratings -luokitukset antavat sijoittajille mahdollisuuden kallistaa salkkunsa kohti kestävää sijoitusfilosofiaa ilman, että heidän tarvitsee ostaa kestäviä, vastuullisia ja vaikuttavia (SRI, aiemmin [sosiaalisesti vastuullinen sijoittaminen](/sri) ) rahastoja. SRI-rahastoissa on useita mahdollisia puutteita: ne edustavat pientä prosenttiosuutta rahastouniversumista (noin 2 % Morningstarin arvioiden mukaan), ja tutkimukset ovat sekä osoittaneet että kiistäneet niiden kyvyn tarjota korkeampaa tuottoa verrattuna niiden ei-SRI-vastineisiin. Tämän seurauksena monet sijoittajat epäröivät sijoittaa SRI-rahastoihin. Lisäksi SRI-rahastoihin sijoittaminen voi johtaa yli- ja alialtistumiseen joillakin aloilla.
+
+Sijoittajat voivat olla taipuvaisempia valitsemaan yhden perinteisen rahaston toisen sijaan suhteellisten Morningstar Sustainability Ratings -luokitusten perusteella. Jos sijoittaja valitsee kahden suuren [pääoman kasvurahaston välillä](/growthfund),. joilla on samanlainen pitkän aikavälin tuotto ja sijoitusstrategia, ja toisella on kahden maapallon luokitus ja toisella neljän maapallon luokitus, maapallon luokitus voi olla ratkaiseva tekijä.
+
