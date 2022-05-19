@@ -1,0 +1,81 @@
+---
+keywords: Trading,Technical Analysis,Technical Analysis Basic Education
+title: Donchian-kanaler
+description: Donchian Channels är glidande medelvärde som utvecklats av Richard Donchian. De ritar ut det högsta och lägsta priset för ett värdepapper under en given tidsperiod.
+---
+
+# Donchian-kanaler
+## Vad är Donchian-kanaler?
+
+Donchian-kanaler är tre linjer som genereras av glidande medelvärdesberäkningar som omfattar en indikator som bildas av övre och nedre band runt ett mellanregister eller medianband. Det övre bandet markerar det högsta priset på ett värdepapper under N perioder medan det nedre bandet markerar det lägsta priset på ett värdepapper över N perioder. Området mellan de övre och nedre banden representerar Donchian-kanalen.
+
+Karriärterminshandlaren Richard Donchian utvecklade indikatorn i mitten av 1900-talet för att hjälpa honom att identifiera trender. Han skulle senare få smeknamnet "The Father of Trend Following".
+
+<!--2BE71D89CDD8D134C2261267283D2929-->
+
+## Formeln för Donchian Channels är:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>UC = Högsta högsta under senaste </mtext><mi>N</mi><mtext> perioder</ mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></ mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Mellankanalen</mtext><mo>=</mo><mo stretchy=" false">(</mo><mo stretchy="false">(</mo><mi>U</mi><mi>C</mi><mo>+</mo><mi>L< /mi><mi>C</mi><mo stretchy="false">)</mo><mi mathvariant="normal">/</mi><mn>2</mn><mo stretchy=" false">)</mo></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow> </mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow> <mrow></mrow><mtext>LC = Lägsta låg under senaste </mtext><mi>N</mi><mtext> perioder</mtext></mrow></mstyle></mtd></ mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true "><mrow><mrow></mrow><mtext mathvariant="bold">där:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></ mrow><mi>U</mi><mi>C</mi><mo>=</mo><mtext>Övre kanal</mtext></mrow></mstyle></mtd></mtr <mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true" > <mrow><mrow></mrow><mtable rowspacing="0.24999999999999992em" columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"> < mrow><mi>N</mi><mo>=</mo></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow> < mrow></mrow><mtext> Antal minuter , timmar, dagar,</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow ></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext> veckor, månader</mtext></mrow>< /mstyle></mtd></mtr></mtable></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"> <mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtable rowspacing="0.24999999999999992em" columnalign ="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mtext>Period</mtext><mo>=</mo>< /mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Minuter, timmar, dagar, veckor,</ mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></ mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>månader</mtext></mrow></mstyle></mtd></ mtr></mtable></mrow>< /mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>L</mi><mi>C</mi><mo>=</mo><mtext>Lägre kanal </mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned}&amp;\text{UC = Högsta Hög i Senaste }N\text{ Perioder}\\&amp;\text{Mellankanal} = ((UC+LC)/2)\\&amp;\text{LC = Lägsta Låg under Senaste }N\text{ perioder}\ \&amp;\textbf{där:}\\&amp;UC=\text{Övre kanal}\\&amp;\begin{aligned}N=&amp;\text{ Antal minuter, timmar, dagar,}\\&amp; \text{ veckor, månader}\end{aligned}\\&amp;\begin{aligned}\text{Period}=&amp;\text{Minuter, timmar, dagar, veckor,}\\&amp;\text{månader} \end{aligned}\\&amp;LC=\text{Nedre kanal}\end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden ="true"><span class="base"><span class="strut" style="height:15.6000000000000003em;vertical-align:-7.55000000000000025em;"></span><span class=" mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class= "vlist" style="height:8.05em;"><span style="top:-10.96em;"><span class="psrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-9.46em;"><span class="psrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-7.96em;"><span class="psrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-6.46em;"><span class="psrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-4.96em;"><span class="psrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-2.549999999999985em;"><span class="psrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:0.75000000000000022em;"><span class="psrut" style="height:3.75em;"></span><span class= "mord"></span></span><span style="top:3.14000000000000023em;"><span class="psrut" style="height:3.75em;"></span><span class="mord"></span></span></span><span class="vlist-s">​ </span></span><span class="vlist-r"><span class="vlist" style="height:7.5500000000000025em;"><span></span></span></span> </span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:8.05em;"><span style="top:-10.96em;"><span class="psrut" style="height:3.75em;"></span><span class="mord "><span class="mord"></span><span class="mord text"><span class="mord">UC = Högsta högsta i Senaste </span></span><span class=" mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord text"><span class="mord"> Perioder</span></span></span> </span><span style="top:-9.46em;"><span class="psrut" style="height:3.75em;"></span><span class="mord"><span class= "mord"></span><span class="mord text"><span class="mord">Mellankanalen</span></span><span class="mspace" style="margin-right:0.2777777777777778 em;"></span><span class="mr el">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mopen">(</span><span class="mopen ">(</span><span class="mord mathnormal" style="margin-right:0.10903em;">U</span><span class="mord mathnormal" style="margin-right:0.07153em; ">C</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal">L</span><span class="mord mathnormal" style="margin-right:0.07153em;"> C</span><span class="mclose">)</span><span class="mord">/</span><span class="mord">2</span><span class="mclose ">)</span></span></span><span style="top:-7.96em;"><span class="psrut" style="height:3.75em;"></span>< span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">LC = Lägsta låg i senaste </span></span> <span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord text"><span class="mord"> perioder</span></span></span></span><span style="top:-6.46em;"><span class="psrut" style="height:3.75em;"></span ><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">där:</span></span>< /span></span><span style="top:-4.96em;"><span class="psrut" style="height:3.75em;"></span><span class="mord">>< span class="mord"></span><span class="mord mathnormal" style="margin-right:0.10903em;">U</span><span class="mord mathnormal" style="margin-right :0.07153em;">C</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class ="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">Övre kanal</span></span></span ></span><span style="top:-2.5499999999999985em;"><span class="psrut" style="height:3.75em;"></span><span class="mord"><span class ="mord"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"> <spancl ass="vlist-r"><span class="vlist" style="height:1.7500000000000002em;"><span style="top:-3.91em;"><span class="pstrut" style="height: 3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mspace" style= "margin-right:0.2777777777777778em;"></span><span class="mrel">=</span></span></span><span style="top:-2.41em;"><span class="psrut" style="height:3em;"></span><span class="mord"></span></span></span><span class="vlist-s">​< /span></span><span class="vlist-r"><span class="vlist" style="height:1.25000000000000002em;"><span></span></span></span>< /span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style ="height:1.7500000000000002em;"><span style="top:-3.91em;"><span class="psrut" style="height:3em;"></span><span class="mord"> <span class="mord"></span><span class="mord text"><span class="mord"> Antal minuter, timmar, dagar,</span></span></span>< /span><spanstyle="top:-2.41 em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord"> veckor, månader</span></span></span></span></span><span class="vlist-s"></span>< / span><span class="vlist-r"><span class="vlist" style="height:1.25000000000000002em;"><span></span></span></span></span>< / span></span></span></span></span><span style="top:0.7500000000000022em;"><span class="psrut" style="height:3.75em;"></ span ><span class="mord"><span class="mord"></span><span class="mord"><span class="mtable"><span class="col-align-r"> < span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.75000000000000002em;"><span style="top:-3.91em ; "><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">Period< / span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span></span></span > <span style="top:-2.41em;"><span class="pstr ut" style="height:3em;"></span><span class="mord"></span></span></span><span class="vlist-s"><​</span > </span><span class="vlist-r"><span class="vlist" style="height:1.25000000000000002em;"><span></span></span></span></span > </span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style=" höjd :1.75000000000000002em;"><span style="top:-3.91em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class ="mord"></span><span class="mord text"><span class="mord">Minuter, timmar, dagar, veckor,</span></span></span></span > <span style="top:-2.41em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord"> < /span><span class="mord text"><span class="mord">månader</span></span></span></span></span><span class="vlist-s " ></span></span><span class="vlist-r"><span class="vlist" style="height:1.2500000000000002em;"><span></span></span></ span></span></span></span></span></span></span><span style="top:3.140000000 0000023em;"><span class="psrut" style="height:3.75em;"></span><span class="mord"><span class="mord"></span><span class="mord" mord mathnormal">L</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mspace" style="margin-right:0.27777777777777778em ;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text "><span class="mord">Lägre kanal</span></span></span></span></span><span class="vlist-s">​</span></span ><span class="vlist-r"><span class="vlist" style="height:7.55000000000000025em;"><span></span></span></span></span></span ></span></span></span></span></span>
+
+## Hur man beräknar Donchian-kanaler
+
+### Channel High
+
+1. Välj tidsperiod (N minuter/timmar/dagar/veckor/månader).
+
+1. Jämför det höga trycket för varje minut, timme, dag, vecka eller månad under den perioden.
+
+1. Välj det högsta trycket.
+
+1. Rita in resultatet.
+
+### Kanal låg
+
+1. Välj tidsperiod (N minuter/timmar/dagar/veckor/månader).
+
+1. Jämför den låga utskriften för varje minut, timme, dag, vecka eller månad under den perioden.
+
+1. Välj den lägsta utskriften.
+
+1. Rita in resultatet.
+
+### Centerkanal
+
+1. Välj tidsperiod (N minuter/timmar/dagar/veckor/månader).
+
+1. Jämför höga och låga utskrifter för varje minut, timme, dag, vecka eller månad under den perioden.
+
+1. Lägg till det lägsta låga trycket till det högsta höga trycket och dividera med 2.
+
+1. Rita in resultatet.
+
+## Vad berättar Donchian-kanaler för dig?
+
+Donchian Channels identifierar jämförande relationer mellan aktuellt pris och handelsintervall över förutbestämda perioder. Tre värden skapar en visuell karta över pris över tid, på samma sätt som Bollinger Bands, som indikerar omfattningen av hausseartad och baisseartad period för den valda perioden. Den översta raden identifierar omfattningen av hausseartad energi, och framhäver det högsta priset som uppnåtts för perioden genom bull-bear-konflikten.
+
+Mittlinjen identifierar median- eller medelåtergångspriset för perioden, och belyser den medelväg som uppnåtts för perioden genom bull-bear-konflikten. Summan av kardemumman identifierar omfattningen av baisseartad energi, och belyser det lägsta priset som uppnåtts för perioden genom bull-bear-konflikten.
+
+## Exempel på hur man använder Donchian-kanaler
+
+<!--A1779CDD9C61EDC888BA3471CFCECA78-->
+
+I det här exemplet är Donchian Channel det skuggade området som begränsas av den övre gröna linjen och den nedre röda linjen, som båda använder 20 dagar som bandkonstruktionsperioder (N). När priset går upp till sin högsta punkt under de senaste 20 dagarna eller mer, "trycker" prisstaplarna den gröna linjen högre, och när priset går ner till sin lägsta punkt på 20 dagar eller mer, "trycker" prisstaplarna den röda linje lägre.
+
+När priset sjunker i 20 dagar från en topp kommer den gröna linjen att vara horisontell och sedan börja sjunka. Omvänt, när priset stiger från en lägsta nivå i 20 dagar, kommer den röda linjen att vara horisontell i 20 dagar och sedan börja stiga.
+
+## Skillnaden mellan Donchian-kanaler och Bollinger-band
+
+Donchian Channels plottar den högsta högsta och lägsta låga över N perioder medan Bollinger Bands plottar ett enkelt glidande medelvärde (SMA) för N perioder plus/minus standardavvikelsen för priset för N perioder X 2. Detta resulterar i en mer balanserad beräkning som minskar påverkan av stora höga eller låga utskrifter.
+
+## Begränsningar för att använda Donchian-kanaler
+
+Marknader rör sig enligt många aktivitetscykler. Ett godtyckligt eller ofta använt N-periodvärde för Donchian-kanaler kanske inte återspeglar aktuella marknadsförhållanden, vilket genererar falska signaler som kan undergräva handel och investeringsresultat.
+
+##Höjdpunkter
+
+- Donchian Channels är en teknisk indikator som försöker identifiera hausseartade och baisseartade extremer som gynnar reverseringar såväl som högre och lägre breakouts, sammanbrott och framväxande trender.
+
+- Dessa punkter identifierar median- eller medelpriset för återgång.
+
+- Mellanbandet beräknar helt enkelt medelvärdet mellan den högsta höga över N perioder och den lägsta låga över N perioder.
+
