@@ -1,0 +1,53 @@
+---
+keywords: Investing,Bonds,Municipal Bonds
+title: معادلة العائد
+description: معادلة العائد هي سعر الفائدة على ورقة مالية خاضعة للضريبة والتي من شأنها أن تنتج عائدًا مساويًا لعائد ورقة مالية معفاة من الضرائب ، والعكس صحيح.
+---
+
+# معادلة العائد
+## ما هو معادلة العائد؟
+
+معادلة العائد هو [سعر الفائدة](/interestrate) على ورقة مالية خاضعة للضريبة والتي من شأنها أن تولد عائدًا يعادل إرجاع ورقة مالية [معفاة من الضرائب](/tax_exempt_security) ، والعكس صحيح.
+
+## فهم معادلة العائد
+
+معادلة العائد مهم لمستثمري [المكافآت البلدية](/municipalbond) ، الذين يرغبون في معرفة ما إذا كانت المدخرات الضريبية لسنداتهم ستعوض عن العوائد المنخفضة [مقارنة](/municipalbond) [بالأوراق](/yield) المالية الخاضعة للضريبة ذات المدة المماثلة. معادلة العائد هي مقارنة غالبًا ما يستخدمها المستثمرون عندما يحاولون معرفة ما إذا كانوا سيحصلون على عائد أفضل من استثمار معفى من الضرائب أو معفى من الضرائب مما سيحصلون عليه من بديل خاضع للضريبة.
+
+يمكن حساب معادلة العائد باستخدام المعادلات التالية:
+
+<span class = "katex"> <span class = "katex-mathml"> <math xmlns = "http://www.w3.org/1998/Math/MathML"> <semantics> <mtable rowspacing = "0.24999999999999992em "columnalign =" right left "columnspacing =" 0em "> <mtr> <mtd> <mstyle scriptlevel =" 0 "displaystyle =" true "> <mrow> </mrow> </mstyle> </mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </mrow> <mtext> معادلة العائد الخاضع للضريبة </ mtext> <mo> = </mo> <mfrac> <mtext> معفى من الضرائب العائد </ mtext> <mrow> <mn> 1 </mn> <mo> - </mo> <mtext> معدل الضريبة </ mtext> </mrow> </mfrac> </mrow> </mstyle> < / mtd> </mtr> </mtable> <annotation encoding = "application / x-tex"> \ begin {align} & amp؛ \ text {Taxable Yield Equivalence} = \ frac {\ text {Tax-Exempt Yield}} {1 - \ text {Tax Rate}} \\ \ end {align} </annotation> </semantics> </math> </span> <span class = "katex-html" aria-hidden = "true"> <span class = "base"> <span class = "strut" style = "height: 2.4407699999999997em؛ vertical-align: -0.970385em؛"> </span> <span class = "mord"> <span class = " mtable "> <span class =" col-align-r "> <span class =" vlist-t vlist-t2 "> <span class = "vlist-r"> <span class = "vlist" style = "height: 1.4703849999999996em؛"> <span style = "top: -3.4703849999999994em؛"> <span class = "pstrut" style = "height: 3.3714399999999998em؛ "> </span> <span class =" mord "> </span> </span> </span> <span class =" vlist-s "> </span> </span> <span class = "vlist-r"> <span class = "vlist" style = "height: 0.970385em؛"> <span> </span> </span> </span> </span> <span> class = "col-align-l"> <span class = "vlist-t vlist-t2"> <span class = "vlist-r"> <span class = "vlist" style = "height: 1.4703849999999996em؛"> <span style = "top: -3.4703849999999994em؛"> <span class = "pstrut" style = "height: 3.3714399999999998em؛"> </span> <span class = "mord"> <span class = "mord"> </span> <span class = "mord text"> <span class = "mord"> معادلة العائد الخاضع للضريبة </ span> </span> <span class = "mspace" style = "margin-right: 0.2777777777777778em؛" > </span> <span class = "mrel"> = </span> <span class = "mspace" style = "margin-right: 0.2777777777777778em؛"> </span> <span class = "mord"> < span class = "mopen nulldelimiter"> </span> <span class = "mfrac"> <span class = "vli st-t vlist-t2 "> <span class =" vlist-r "> <span class =" vlist "style =" height: 1.3714399999999998em؛ "> <span style =" top: -2.314em؛ "> <span class = "pstrut" style = "height: 3em؛"> </span> <span class = "mord"> <span class = "mord"> 1 </span> <span class = "mspace" style = "margin -right: 0.2222222222222222em؛ "> </span> <span class =" mbin "> - </span> <span class =" mspace "style =" margin-right: 0.22222222222222em؛ "> </span> <span class = "mord text"> <span class = "mord"> معدل الضريبة </ span> </span> </span> </span> <span style = "top: -3.23em؛"> <span class = "pstrut" style = "height: 3em؛"> </span> <span class = "frac-line" style = "border-bottom-width: 0.04em؛"> </span> </span> <span style = "top: -3.677em؛"> <span class = "pstrut" style = "height: 3em؛"> </span> <span class = "mord"> <span class = "mord text"> <span class = "mord"> عائد معفى من الضرائب </ span> </span> </span> </span> </span> <span class = "vlist-s"> </span> </span> <span class = "vlist-r"> <span class = "vlist" style = "height: 0.7693300000000001em؛"> <span> </span> </span> </span> </span> <span> class = "mclose nulldelimiter"> </ span > </span> </span> </span> </span> <span class = "vlist-s"> </span> </span> <span class = "vlist-r"> <span class = "vlist" style = "height: 0.970385em؛"> <span> </span> </span> </span> </span> </span> </span> </span> </ span> </span>
+
+﻿﻿﻿
+
+و
+
+<span class = "katex"> <span class = "katex-mathml"> <math xmlns = "http://www.w3.org/1998/Math/MathML"> <semantics> <mtable rowspacing = "0.24999999999999992em "columnalign =" right left "columnspacing =" 0em "> <mtr> <mtd> <mstyle scriptlevel =" 0 "displaystyle =" true "> <mrow> <mtext> معادلة عائد الإعفاء الضريبي </ mtext> <mo> = </mo> </mrow> </mstyle> </mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </mrow> <mtext> العائد الخاضع للضريبة </ mtext> <mo> × </mo> </mrow> </mstyle> </mtd> </mtr> <mtr> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> </ mrow> </mstyle> </mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </mrow> <mo stretchy = "false"> (</mo> < mn> 1 </mn> <mo> - </mo> <mtext> معدل الضريبة </ mtext> <mo stretchy = "false">) </mo> </mrow> </mstyle> </mtd> < / mtr> </mtable> <annotation encoding = "application / x-tex"> \ begin {align} \ text {Tax-Exempt Yield Equivalence} = & amp؛ \ \ text {Taxable Yield} \ \ times \\ & amp؛ (1 - \ text {Tax Rate}) \\ \ end {align} </annotation> </semantics> </math> </span> <span class = "katex-html" aria-hidden = "true"> <span class = "base"> <span class = "strut" style = "height: 3.0000000000000004em؛ vertical-align: -1.2500000000000002em؛"> </ span > <span class = "mord"> <span class = "mtable"> <span class = "col-align-r"> <span class = "vlist-t vlist-t2"> <span class = "vlist-r "> <span class =" vlist "style =" height: 1.7500000000000002em؛ "> <span style =" top: -3.91em؛ "> <span class =" pstrut "style =" height: 3em؛ "> </ span> <span class = "mord"> <span class = "mord text"> <span class = "mord"> معادلة عائد الإعفاء من الضرائب </ span> </span> <span class = "mspace" style = " margin-right: 0.2777777777777778em؛ "> </span> <span class =" mrel "> = </span> </span> </span> <span style =" top: -2.41em؛ "> <span class = "pstrut" style = "height: 3em؛"> </span> <span class = "mord"> </span> </span> </span> <span class = "vlist-s"> </ span> </span> <span class = "vlist-r"> <span class = "vlist" style = "height: 1.2500000000000002em؛"> <span> </span> </ span > </span> </span> </span> <span class = "col-align-l"> <span class = "vlist-t vlist-t2"> <span class = "vlist-r"> <span class = "vlist" style = "height: 1.7500000000000002em؛"> <span style = "top: -3.91em؛"> <span class = "pstrut" style = "height: 3em؛"> </span> <span class = "mord"> <span class = "mord"> </span> <span class = "mspace"> </span> <span class = "mord text"> <span class = "mord"> العائد الخاضع للضريبة < / span> </span> <span class = "mspace"> </span> <span class = "mord"> × </span> </span> </span> <span style = "top: -2.41em ؛ "> <span class =" pstrut "style =" height: 3em؛ "> </span> <span class =" mord "> <span class =" mord "> </span> <span class =" mopen " > (</span> <span class = "mord"> 1 </span> <span class = "mspace" style = "margin-right: 0.22222222222222em؛"> </span> <span class = "mbin"> - </span> <span class = "mspace" style = "margin-right: 0.22222222222222em؛"> </span> <span class = "mord text"> <span class = "mord"> معدل الضريبة </ span > </span> <span class = "mclose">) </span> </span> </span> </span> <span class = "vlist-s"> </span> </span> < span class = "vlist-r"> <span class = "vlist" style = "height: 1 .2500000000000002em؛ "> <span> </span> </span> </span> </span> </span> </span> </span> </span>
+
+﻿﻿﻿
+
+لحساب معادلة العائد بين الأوراق المالية المعفاة من الضرائب والأوراق المالية الخاضعة للضريبة ، ابدأ بقسمة عائد السند المعفي من الضرائب على 1 مطروحًا منه [معدل ضريبة المستثمر](/taxrate). على سبيل المثال ، افترض أنك كنت تفكر في استثمار في سندات بلدية معفاة من الضرائب بنسبة 6٪ ، لكنك أردت أن تعرف سعر الفائدة على [سند شركة خاضع للضريبة ليمنحك](/corporatebond) نفس العائد. إذا كان لديك معدل ضرائب يبلغ 24٪ ، فسوف تطرح 0.24 ناقص واحد ، والذي يساوي 0.76. بعد ذلك ، ستقسم 6 ، عائد الإعفاء من الضرائب ، على 0.76 ، وهو ما يساوي 7.9.
+
+يخبرك هذا الحساب أنك ستحتاج إلى [عائد](/return) بنسبة 7.9٪ على استثمارك الخاضع للضريبة لمطابقة عائد 6٪ على الاستثمار المعفى من الضرائب. من ناحية أخرى ، إذا كنت ضمن فئة الضرائب البالغة 35٪ ، فستحتاج إلى عائد بنسبة 9.2٪ على سندات شركتك لمطابقة عائد 6٪ على استثمارك المالي.
+
+على العكس من ذلك ، إذا كنت تعرف معدل العائد الخاضع للضريبة ، فيمكنك حساب المعدل المكافئ لاستثمار معفى من الضرائب. يتم ذلك بضرب المعدل الخاضع للضريبة بمقدار 1 مطروحًا منه معدل الضريبة الخاص بك. لذلك ، إذا كان إقرارك الخاضع للضريبة هو 6٪ ومعدل الضريبة الخاص بك هو 24٪ ، فأنت بحاجة إلى عائد 4.6٪ على سند معفى من الضرائب لمطابقة الإقرار بعد الضريبة على سند خاضع للضريبة.
+
+## معدلات الضرائب الهامشية الجديدة
+
+أدى إقرار قانون التخفيضات الضريبية والوظائف في أواخر عام 2017 إلى عدد من التغييرات في [معدلات الضرائب الهامشية وشرائح](/marginaltaxrate) الدخل بدءًا من عام 2018. معدل الضريبة الهامشي هو معدل الدخل الضريبي الذي يتكبده أصحاب الدخل على كل دولار إضافي من [الدخل](/income). مع زيادة معدل الضريبة الهامشية ، ينتهي الأمر بدافعي الضرائب بأموال أقل لكل دولار مكتسب مما كانوا قد احتفظوا به على الدولارات التي حصلوا عليها سابقًا.
+
+تطبق الأنظمة الضريبية التي تستخدم معدلات ضريبية هامشية معدلات ضريبية مختلفة على مستويات مختلفة من الدخل ؛ مع ارتفاع الدخل ، يتم فرض ضرائب عليه بمعدل أعلى. من المهم أن نلاحظ ، مع ذلك ، أن الدخل لا يخضع للضريبة بمعدل واحد ولكن بمعدلات عديدة حيث يتحرك عبر [جدول معدل الضريبة الهامشي](/taxschedule).
+
+عند حساب معادلة العائد بين الاستثمارات المعفاة من الضرائب والخاضعة للضريبة ، يجب أن يكون المستثمرون على دراية بمعدلات الضرائب الجديدة هذه ودمجها وفقًا لذلك في معادلات معادلة العائد.
+
+** فئات ضريبة الدخل 2021 **
+
+<h5> <a href=""> TTT </a> </h5>
+
+## يسلط الضوء
+
+- معادلة العائد مهم لمستثمري السندات البلدية ، الذين يرغبون في معرفة ما إذا كانت المدخرات الضريبية لسنداتهم ستعوض عن العوائد المنخفضة مقارنة بالأوراق المالية الخاضعة للضريبة ذات المدة المماثلة.
+
+- معادلة العائد هو سعر الفائدة على ورقة مالية خاضعة للضريبة والتي من شأنها أن تولد عائدًا مكافئًا لعائد ورقة مالية معفاة من الضرائب ، والعكس صحيح.
+
+- عند حساب معادلة العائد بين الاستثمارات المعفاة من الضرائب والخاضعة للضريبة ، يجب أن يكون المستثمرون على دراية بمعدلات الضرائب الحالية.
+
