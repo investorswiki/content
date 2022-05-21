@@ -1,0 +1,79 @@
+---
+keywords: Business,Business Leaders,Math and Statistics
+title: Chi-Square (χ2) Statistik
+description: En chi-kvadratstatistik (χ2) är ett test som mäter hur förväntningar jämförs med faktiska observerade data (eller modellresultat).
+---
+
+# Chi-Square (χ2) Statistik
+## Vad är en chi-kvadratstatistik?
+
+En chi-kvadrat (**χ**^2^) ^^statistik är ett test som mäter hur en modell jämförs med faktiska observerade data. Datan som används för att beräkna en chi-kvadratstatistik [måste](/statistics) vara slumpmässig, rå, [ömsesidigt uteslutande](/mutuallyexclusive),. hämtad från oberoende variabler och hämtad från ett tillräckligt stort urval. Till exempel uppfyller resultaten av att kasta ett rättvist mynt dessa kriterier.
+
+Chi-kvadrattest används ofta i [hypotestestning](/hypothesistesting). Chi-kvadratstatistiken jämför storleken på eventuella avvikelser mellan de förväntade resultaten och de faktiska resultaten, givet storleken på urvalet och antalet variabler i sambandet.
+
+För dessa tester används [frihetsgrader](/degrees-of-freedom) för att avgöra om en viss [nollhypotes](/null_hypothesis) kan förkastas baserat på det totala antalet variabler och prover inom experimentet. Som med all statistik, ju större urvalsstorlek, desto mer tillförlitliga resultat.
+
+## Formeln för Chi-Square är
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><msubsup><mi>χ</mi><mi>c</mi><mn>2</mn> </msubsup><mo>=</mo><mo>∑</mo><mfrac><mrow><mo stretchy="false">(</mo><msub><mi>O</mi> <mi>i</mi></msub><mo>−</mo><msub><mi>E</mi><mi>i</mi></msub><msup><mo stretchy= "false">)</mo><mn>2</mn></msup></mrow><msub><mi>E</mi><mi>i</mi></msub></ mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></ mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">där:</mtext></mrow></mstyle> </mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel=" 0" displaystyle="t rue"><mrow><mrow></mrow><mi>c</mi><mo>=</mo><mtext>Frihetsgrader</mtext></mrow></mstyle></mtd ></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle ="true"><mrow><mrow></mrow><mi>O</mi><mo>=</mo><mtext>Observerade värden</mtext></mrow></mstyle ></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel= "0" displaystyle="true"><mrow><mrow></mrow><mi>E</mi><mo>=</mo><mtext>Förväntade värden</mtext></mrow ></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned}&amp;\chi^2_c = \sum \frac{(O_i - E_i )^2}{E_i} \\&amp;\textbf{där:}\\&amp;c=\text{Frihetsgrader}\\&amp;O=\text{Observerat värde(n)}\\&amp;E =\text{Förväntat värde(n)}\end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:8.627108em;vertical-align:-4.063554em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r">>< span class="vlist" style="height:4.563554em;"><span style="top:-6.563554em;"><span class="pstrut" style="height:3.491108em;"></span> <span class="mord"></span></span><span style="top:-4.587553999999999em;"><span class="psrut" style="height:3.491108em;"></span> <span class="mord"></span></span><span style="top:-3.087554em;"><span class="psrut" style="height:3.491108em;"></span> <span class="mord"></span></span><span style="top:-1.587554em;"><span class="psrut" style="height:3.491108em;"></span> <span class="mord"></span></span><span style="top:-0.08755400000000035em;"><span class="psrut" style="height:3.491108em;"></span> <span class="mord"></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r">​ span class="vlist" style="height:4.063554em;"><span></span></span></span></span></span><span class="col-align-l" ><span class="vlist-t vlist-t2"><span class=" vlist-r"><span class="vlist" style="height:4.563554em;"><span style="top:-6.563554em;"><span class="pstrut" style="height:3.491108em; "></span><span class="mord"><span class="mord"></span><span class="mord"><span class="mord mathnormal">χ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8641079999999999em;"><span style= "top:-2.4530000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset -size6 size3 mtight"><span class="mord mathnormal mtight">c</span></span></span><span style="top:-3.113em;margin-right:0.05em;">< span class="psrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span ></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.247em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0 .27777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class=" mopp op-symbol large-op" style="position:relative;top:-0.0000049999999999977245em;">∑</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span ><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist- r"><span class="vlist" style="height:1.491108em;"><span style="top:-2.3139999999999996em;"><span class="pstrut" style="height:3em;">< /span><span class="mord"><span class="mord"><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="msupsub "><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31166399999999994em;"><span style="top:- 2.55000000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span class="psrut" style="height:2.7em;"></span><span class="sizing reset-size6 storlek3 mtight"><span cl ass="mord mathnormal mtight">i</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist -r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></ span></span><span style="top:-3.23em;"><span class="psrut" style="height:3em;"></span><span class="frac-line" style= "border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="psrut" style="height:3em;">< /span><span class="mord"><span class="mopen">(</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em; ">O</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.31166399999999994em;"><span style="top:-2.55000000000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span class="psrut" style="height:2.7em;"> </span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">i</span></span></span></span><span class="vlist -s"></span></span>< span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span>< /span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin -right:0.22222222222222222em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class=" msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31166399999999994em;"><span style="top: -2.55000000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span class="psrut" style="height:2.7em;"></span><span class="sizing reset- size6 size3 mtight"><span class="mord mathnormal mtight">i</span></span></span></span><span class="vlist-s">​</span></span ><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span ></span><span class="mclose"><span class="mclose">)</span><span class="msupsub"><span class="vlist-t"><span c lass="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class=" pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span ></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></ span><span class="vlist-r"><span class="vlist" style="height:0.83600000000000001em;"><span></span></span></span></span></ span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:-4.587553999999999em;"><span class="psrut" style=" height:3.491108em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">där :</span></span></span></span><span style="top:-3.087554em;"><span class="psrut" style="height:3.491108em;"></span ><span class="mord"><span class="mord"></span><span class="mord mathnormal">c</span><span class="mspace" style="margin-right:0.2777777777777778 em;"></s pan><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class ="mord">Frihetsgrader</span></span></span></span><span style="top:-1.587554em;"><span class="psrut" style="height:3.491108 em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.02778em;">O< /span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin -right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">Iakttagna värden</span></span></span></span> <span style="top:-0.08755400000000035em;"><span class="psrut" style="height:3.491108em;"></span><span class="mord"><span class="mord"> </span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mspace" style="margin-right:0.2777777777777778em;"></ span><span class="mrel">=</span><span class="mspace" style="margin-right: 0,27777777777777778em;"></span><span class="mord text"><span class="mord">Förväntade värden</span></span></span></span></span ><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:4.063554em;"><span> </span></span></span></span></span></span></span></span></span></span>
+
+
+
+## Vad säger en Chi-Square-statistik dig?
+
+Det finns två huvudsakliga typer av chi-kvadrattest: testet av oberoende, som ställer en fråga om relation, till exempel "Finns det ett samband mellan studentkön och kursval?"; och [godhet-of-fit-testet](/goodness-of-fit),. som frågar något i stil med "Hur väl matchar myntet i min hand ett teoretiskt rättvist mynt?"
+
+> Chi-kvadratanalys tillämpas på kategoriska variabler och är särskilt användbar när dessa variabler är nominella (där ordningen inte spelar någon roll, som civilstånd eller kön).
+
+>
+
+### Oberoende
+
+När man överväger elevkön och kursval kan ett **χ**^2^-test för oberoende användas. För att göra detta test skulle forskaren samla in data om de två valda variablerna (kön och valda kurser) och sedan jämföra frekvenserna vid vilka manliga och kvinnliga studenter väljer bland de erbjudna klasserna med hjälp av formeln ovan och en **χ**^ 2^ statistisk tabell.
+
+Om det inte finns något samband mellan kön och kursurval (det vill säga om de är oberoende), bör den faktiska frekvensen vid vilken manliga och kvinnliga studenter väljer varje erbjuden kurs förväntas vara ungefär lika, eller omvänt, andelen manliga och kvinnliga studenter i valfri vald kurs bör vara ungefär lika med andelen manliga och kvinnliga studenter i urvalet.
+
+Ett **χ**^2^-test för oberoende kan berätta hur troligt det är att slumpmässig slump kan förklara eventuella observerade skillnader mellan de faktiska frekvenserna i datan och dessa teoretiska förväntningar.
+
+### Goodness-of-Fit
+
+**χ**^2^ ger ett sätt att testa hur väl ett urval av data matchar de (kända eller antagna) egenskaperna hos den större populationen som urvalet är avsett att representera. Detta är känt som god passform. Om urvalsdata inte stämmer överens med de förväntade egenskaperna hos populationen som vi är intresserade av, skulle vi inte vilja använda detta urval för att dra slutsatser om den större populationen.
+
+## Exempel
+
+Tänk till exempel på ett imaginärt mynt med exakt 50/50 chans att landa huvuden eller svansar och ett riktigt mynt som du kastar 100 gånger. Om detta mynt är rättvist, kommer det också att ha lika stor sannolikhet att landa på båda sidor, och det förväntade resultatet av att kasta myntet 100 gånger är att huvuden kommer upp 50 gånger och svansar kommer upp 50 gånger.
+
+I det här fallet kan **χ**^2^ berätta för oss hur väl de faktiska resultaten av 100 myntvändningar kan jämföras med den teoretiska modellen att ett rättvist mynt ger 50/50 resultat. Den faktiska kastningen kan komma upp 50/50, eller 60/40, eller till och med 90/10. Ju längre bort det faktiska resultatet av de 100 kasten är från 50/50, desto mindre bra passar denna uppsättning kast till den teoretiska förväntningen på 50/50, och desto mer sannolikt kan vi dra slutsatsen att detta mynt faktiskt inte är en rättvist mynt.
+
+## När ska man använda ett chi-kvadrattest
+
+Ett chi-kvadrattest används för att avgöra om observerade resultat är i linje med förväntade resultat, och för att utesluta att observationer beror på slumpen. Ett chi-kvadrattest är lämpligt för detta när data som analyseras är från ett [slumpmässigt urval](/simple-random-sample) och när variabeln i fråga är en kategorisk variabel. En kategorisk variabel är en som består av urval som typ av bil, ras, utbildningsnivå, manlig vs. kvinna, hur mycket någon gillar en politisk kandidat (från väldigt mycket till väldigt lite) etc.
+
+Dessa typer av data samlas ofta in via enkätsvar eller enkäter. Därför är chi-kvadratanalys ofta mest användbar för att analysera denna typ av data.
+
+## Höjdpunkter
+
+- **χ**^2^ beror på storleken på skillnaden mellan faktiska och observerade värden, frihetsgraderna och urvalsstorleken.
+
+- En chi-kvadrat (**χ**^2^) ^^statistik är ett mått på skillnaden mellan de observerade och förväntade frekvenserna av utfallen av en uppsättning händelser eller variabler.
+
+- Chi-kvadrat är användbart för att analysera sådana skillnader i kategoriska variabler, särskilt de som är nominella.
+
+- Den kan också användas för att testa godheten av passformen mellan en observerad fördelning och en teoretisk fördelning av frekvenser.
+
+- **χ**^2^ kan användas för att testa om två variabler är relaterade eller oberoende av varandra.
+
+## Vanliga frågor
+
+### Används chi-kvadratanalys när den oberoende variabeln är nominell eller ordinal?
+
+En nominell variabel är en kategorisk variabel som skiljer sig åt efter kvalitet, men vars numeriska ordning kan vara irrelevant. Att till exempel fråga någon om sin favoritfärg skulle ge en nominell variabel. Att fråga någons ålder skulle å andra sidan producera en ordinarie uppsättning data. Chi-kvadrat kan bäst appliceras på nominella data.
+
+### Vem använder chi-kvadratanalys?
+
+Eftersom chi-kvadrat gäller kategoriska variabler, används det mest av forskare som studerar enkätsvarsdata. Denna typ av forskning kan sträcka sig från demografi till konsument- och marknadsundersökningar till statsvetenskap och ekonomi.
+
+### Vad används ett chi-kvadrattest till?
+
+Chi-square är ett statistiskt test som används för att undersöka skillnaderna mellan kategoriska variabler från ett slumpmässigt urval för att bedöma god passform mellan förväntade och observerade resultat.
+
