@@ -1,0 +1,123 @@
+---
+keywords: Economy,Economics
+title: 적합도
+description: 적합도 검정을 사용하면 표본 데이터가 정확한지 또는 어느 정도 왜곡되었는지 확인할 수 있습니다. 인기 있는 카이-제곱 적합도 검정이 어떻게 작동하는지 알아보십시오.
+---
+
+# 적합도
+## 적합도란 무엇입니까?
+
+적합도라는 용어는 표본 데이터가 [정규 분포 를 가진 모집단의 분포에 얼마나 잘 맞는지 결정하는 통계적 검정을 나타냅니다](/normaldistribution). 간단히 말해서 표본이 치우쳐 있는지 아니면 실제 모집단에서 찾을 것으로 예상되는 데이터를 나타내는지 가정합니다.
+
+적합도는 관측된 값과 정규 분포의 경우 모델에 기대되는 값 사이의 불일치를 설정합니다. 카이제곱을 포함하여 적합도를 결정하는 여러 방법이 있습니다.
+
+## 적합도 이해
+
+적합도 검정은 관찰된 값을 추론하는 통계적 방법입니다. 예를 들어, 표본 그룹이 전체 [모집단 을 대표하는지 여부를 결정할 수 있습니다](/population). 따라서 실제 값이 모델의 예측 값과 어떻게 관련되는지 결정합니다. 의사 결정에 사용될 때 적합도 테스트를 사용 하면 미래의 [추세](/trend) 와 패턴을 더 쉽게 예측할 수 있습니다.
+
+위에서 언급했듯이 여러 유형의 적합도 테스트가 있습니다. 여기에는 가장 일반적인 카이제곱 검정과 Kolmogorov-Smirnov 검정, Shipiro-Wilk 검정이 포함됩니다. 테스트는 일반적으로 컴퓨터 소프트웨어를 사용하여 수행됩니다. 그러나 통계학자는 특정 유형의 테스트에 맞게 조정된 공식을 사용하여 이러한 테스트를 수행할 수 있습니다.
+
+테스트를 수행하려면 분포 방식에 대한 가정과 함께 특정 변수가 필요합니다. 또한 다음과 같이 명확하고 명시적인 값이 포함된 데이터 세트가 필요합니다.
+
+- 실제 데이터 세트에서 파생된 관찰된 값
+
+- 가정에서 가져온 기대값
+
+- 세트의 총 카테고리 수
+
+> 적합도 검정은 일반적으로 잔차의 정규성을 검정하거나 두 표본이 동일한 분포에서 수집되는지 여부를 확인하는 데 사용됩니다.
+
+>
+
+## 특별 고려 사항
+
+적합도 검정을 해석하려면 통계학자가 카이-제곱 검정에 대한 [p-값 과 같은 알파 수준을 설정하는 것이 중요합니다.](/p-value) p-값은 관찰된 결과의 극단에 가까운 결과를 얻을 확률을 나타냅니다. 이것은 [귀무 가설](/null_hypothesis) 이 맞다고 가정합니다. 귀무 가설은 변수 사이에 관계가 존재하지 않는다고 주장하고 대립 가설은 관계가 존재한다고 가정합니다.
+
+대신, 관찰된 값의 빈도가 측정되고 이후에 예상 값 및 [자유도와 함께 사용되어](/degrees-of-freedom) 카이제곱을 계산합니다. 결과가 알파보다 낮으면 귀무 가설이 유효하지 않으며 변수 간에 관계가 있음을 나타냅니다.
+
+## 적합도 테스트의 유형
+
+### 카이제곱 검정
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><의미론><mrow><msup>< mi>χ</mi><mn>2</mn></msup><mo>=</mo><msubsup><mo>∑</mo><mrow><mi>i</mi>< mo>=</mo><mn>1</mn></mrow><mi>k</mi></msubsup><mo stretchy="false">(</mo><msub><mi> 오</mi><mi>나는</mi></msub><mo>−</mo><msub><mi>E</mi><mi>나는</mi></msub><msup ><mo stretchy="false">)</mo><mn>2</mn></msup><mi mathvariant="normal">/</mi><msub><mi>E</mi> <mi>i</mi></msub></mrow><annotation encoding="application/x-tex">\chi^2=\sum\limits^k_{i=1}(O_i-E_i)^ 2/E_i</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut " style="height:1.008548em;vertical-align:-0.19444em;"></span><span class="mord"><span class="mord mathnormal">χ</span><span class=" msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em ;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></s 팬><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span>< /span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:2.513782em;vertical-align:-0.9776689999999999em ;"></span><span class="mop op-limits"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" 스타일= "높이:1.5361130000000003em;"><span style="top:-2.122331em;margin-left:0em;"><span class="pstrut" style="height:3em;"></span><스팬 클래스 ="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">i</span><span class="mrel mtight">=</span><span class="mord mtight">1</span></span></span></span><span style="top:-3.0000050000000003em;"><span class="pstrut" style="height:3em ;"></span><span><span class="mop op-symbol small-op">∑</span></ 스팬></span><span style="top:-3.950005em;margin-left:0em;"><span class="pstrut" style="height:3em;"></span><span class=" 사이징 reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.03148em;">k</span></span></span></span><span class= "vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.9776689999999999em;"><span></span>< /span></span></span></span><span class="mopen">(</span><span class="mord"><span class="mord mathnormal" style="margin-right :0.02778em;">O</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" 스타일 ="높이:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span class="pstrut" 스타일="높이:2.7 em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">i</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" 스타일="높이:0.1 5em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"> </span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base "><span class="strut" style="height:1.064108em;vertical-align:-0.25em;"></span><span class="mord"><span class="mord Mathnormal" 스타일=" margin-right:0.05764em;">E</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class=" vlist" style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span class="pstrut" style=" 높이:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">i</span></span></span></span ><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span> </span></span></span></span></span></span><span class="mclose"><span class="mclose">)</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span 스타일="상단: -3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><스팬 클래스 ="mord mtight">2</span></span></span></span></span></span></span></span><span class="mord">/</ span><span class="mord"><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="msupsub"><span class="vlist- t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764 em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class=" mord mathnormal mtight">i</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r" ><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span>< /sp ></span>
+
+대한 카이-제곱 [검정](/chi-square-statistic) 이라고도 하는 카이-제곱 검정은 무작위 표본을 기반으로 모집단에 대한 주장의 유효성을 테스트하는 추론 통계 방법입니다.
+
+클래스(빈)로 분리된 데이터에만 사용되며 정확한 결과를 생성하려면 충분한 샘플 크기가 필요합니다. 그러나 그것은 관계의 유형이나 강도를 나타내지 않습니다. 예를 들어, 관계가 긍정적인지 부정적인지 결론을 내리지 않습니다.
+
+카이제곱 적합도를 계산하려면 원하는 알파 수준의 유의성을 설정하십시오. 따라서 신뢰 수준이 95%(또는 0.95)이면 알파는 0.05입니다. 다음으로, 테스트할 범주형 변수를 식별한 다음 이들 간의 관계에 대한 가설을 정의합니다.
+
+> 독립성에 대한 카이-제곱 검정에 적합하려면 변수가 상호 배타적이어야 합니다. 그리고 연속적인 데이터에는 카이 적합도 검정을 사용해서는 안 됩니다.
+
+>
+
+### 콜모고로프-스미르노프 테스트
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><의미론><mrow><mi>D </mi><mo>=</mo><munder><mo><mi>최대</mi><mo>⁡</mo></mo><mrow><mn>1</mn>< mo>≤</mo><mi>i</mi><mo>≤</mo><mi>N</mi></mrow></munder><mo fence="false">(</ mo><mi>F</mi><mo stretchy="false">(</mo><msub><mi>Y</mi><mi>i</mi></msub><mo stretchy= "false">)</mo><mo>−</mo><mfrac><mrow><mi>i</mi><mo>−</mo><mn>1</mn></mrow ><mi>N</mi></mfrac><mo separator="true">,</mo><mfrac><mi>i</mi><mi>N</mi></mfrac>< mo>−</mo><mi>F</mi><mo stretchy="false">(</mo><msub><mi>Y</mi><mi>i</mi></msub ><mo stretchy="false">)</mo><mo fence="false">)</mo></mrow><annotation encoding="application/x-tex">D=\max\limits_{ 1\leq i\leq N}\bigg(F(Y_i)-\frac{i-1}{N},\frac{i}{N}-F(Y_i)\bigg)</annotation></semantics ></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;수직 -align:0em;"></span><span class="mord mathnormal" style="margin-right:0.02778em;"> D</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" 스타일= "마진 오른쪽:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:2.40003em;vertical-align:-0.95003em;" ></span><span class="mop op-limits"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" 스타일="높이 :0.43055999999999994em;"><span style="top:-2.355669em;margin-left:0em;"><span class="pstrut" style="height:3em;"></span><span class=" 크기 재설정-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span><span class="mrel mtight">≤</span><span class=" mord mathnormal mtight">i</span><span class="mrel mtight">≤</span><span class="mord mathnormal mtight" style="margin-right:0.10903em;">N</span> </span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span><span 클래스 ="mop">최대</span></span></span></span><span class="vlist-s">​</span></span><sp class="vlist-r"><span class="vlist" style="height:0.83951em;"><span></span></span></span></span></span>< span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord"><span class="delimsizing size3">(</span></span><span class="mord mathnormal" style="margin-right:0.13889em;">F</span><span class="mopen">(</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.22222em;">Y</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"> <span class="vlist" style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.22222em;margin-right:0.05em;"><span class=" pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">i</span></span></ 스팬></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em; "><span></span></span></span></span></span></span><span class="mclose">)</span><span 클래스 ="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.22222222222222222em; "></span></span><span class="base"><span class="strut" style="height:1.200664em;vertical-align:-0.345em;"></span><span 클래스 ="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r">< 스팬 클래스="vlist" 스타일="높이:0.855664em;"><span 스타일="top:-2.6550000000000002em;"><span class="pstrut" 스타일="높이:3em;"></span>< span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.10903em;">N</span></span ></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line " style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" 스타일="높이:3em; "></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><s pan class="mord mathnormal mtight">나는</span><span class="mbin mtight">−</span><span class="mord mtight">1</span></span></span> </span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="높이:0.345 em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mpunct ">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord"><span class="mopen nulldelimiter"></span ><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" 스타일="높이:0.855664em;">< 스팬 style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class=" mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.10903em;">N</span></span></span></span><span style="top:- 3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0. 04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class=" 크기 재설정-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">i</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span ></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2222222222222222em ;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><스팬 클래스 ="base"><span class="strut" style="height:2.40003em;vertical-align:-0.95003em;"></span><span class="mord mathnormal" style="margin-right:0.13889 em;">F</span><span class="mopen">(</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.22222em;"> Y</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="he 오른쪽:0.3116639999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.22222em;margin-right:0.05em;"><span class="pstrut" 스타일="높이:2.7em; "></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">i</span></span></span></span><span class= "vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span>< /span></span></span></span></span><span class="mclose">)</span><span class="mord"><span class="delimsizing size3">) </span></span></span></span></span>
+
+러시아 수학자 Andrey Kolmogorov와 Nikolai Smirnov의 이름을 따서 명명된 Kolmogorov-Smirnov 검정(KS 검정이라고도 함)은 표본이 모집단 내의 특정 분포에서 유래했는지 여부를 결정하는 통계적 방법입니다.
+
+[샘플 (예: 2000개 이상)](/sample) 에 권장되는 이 테스트는 비모수적입니다. 즉, 유효한 배포판에 의존하지 않습니다. 목표는 정규 분포의 표본인 귀무 가설을 증명하는 것입니다.
+
+카이제곱과 마찬가지로 귀무가설과 대립가설과 알파 수준의 유의성을 사용합니다. Null은 데이터가 모집단 내 특정 분포를 따른다는 것을 나타내고, Alternative는 데이터가 모집단 내 특정 분포를 따르지 않음을 나타냅니다. 알파는 테스트에 사용된 임계값을 결정하는 데 사용됩니다. 그러나 카이제곱 검정과 달리 Kolmogorov-Smirnov 검정은 계량형 분포에 적용됩니다.
+
+계산된 검정 통계량은 종종 D로 표시됩니다. 이는 귀무 가설의 채택 여부를 결정합니다. D가 [alpha](/alpha) 에서의 임계값보다 크면 귀무 가설이 기각됩니다. D가 임계값보다 작으면 귀무 가설이 채택됩니다.
+
+### Shipiro-Wilk 테스트
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><의미론><mrow><mi>W </mi><mo>=</mo><mfrac><mrow><mo fence="false">(</mo><msubsup><mo>∑</mo><mrow><mi>i< /mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></msubsup><msub><mi>a</mi><mi>i </mi></msub><mo stretchy="false">(</mo><msub><mi>x</mi><mrow><mo stretchy="false">(</mo><mi >i</mi><mo stretchy="false">)</mo></mrow></msub><msup><mo fence="false">)</mo><mn>2</mn ></msup></mrow><mrow><msubsup><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn> </mrow><mi>n</mi></msubsup><mo stretchy="false">(</mo><msub><mi>x</mi><mi>i</mi></ msub><mo>−</mo><mover access="true"><mi>x</mi><mo>ˉ</mo></mover><msup><mo stretchy="false">) </mo><mn>2</mn></msup></mrow></mfrac><mo separator="true">,</mo></mrow><annotation encoding="application/x- tex">W=\frac{\big(\sum^n_{i=1}a_i(x_{(i)}\big)^2}{\sum^n_{i=1}(x_i-\bar{ x})^2},</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span 수업 ="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">W</span>< span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778 em;"></span></span><span class="base"><span class="strut" style="height:2.155236999999996em;vertical-align:-0.5700069999999999em;"></span>< span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r" ><span class="vlist" style="height:1.58523em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" 스타일="높이:3em;"></span ><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mop mtight"><span class="mop op-symbol small-op mtight" style="position :상대적;상단:-0.0000050000000000050004em;">∑</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class ="vlist" st yle="높이:0.7046857142857144em;"><span style="top:-2.1785614285714283em;margin-left:0em;margin-right:0.07142857142857144em;">"style class="pstrut ;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">i</span><span class="mrel mtight">=</span><span class="mord mtight">1</span></span></span></span><span style="top:-2.8971428571428572em;margin-right:0.07142857142857144 em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mathnormal mtight">n< /span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist " style="height:0.32143857142857146em;"><span></span></span></span></span></span></span><span class="mopen mtight">(</ 스팬><span class="mord mtight"><span class="mord mathnormal mtight">x</span><span class="msupsub"><span class="vlist-t vlist-t2"><스팬 클래스 ="vlist-r"><span class="vlist" 스타일="높이 :0.3280857142857143em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;">< /span><span class="sizing reset-size3 size1 mtight"><span class="mord mathnormal mtight">i</span></span></span></span><span class="vlist- s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.143em;"><span></span></span> </span></span></span></span><span class="mbin mtight">−</span><span class="mord 액센트 mtight"><span class="vlist-t"> <span class="vlist-r"><span class="vlist" style="height:0.56778em;"><span style="top:-2.7em;"><span class="pstrut" 스타일=" 높이:2.7em;"></span><span class="mord mtight"><span class="mord mathnormal mtight">x</span></span></span><span style="top: -2.7em;"><span class="pstrut" style="height:2.7em;"></span><span class="accent-body" style="left:-0.22222em;"><스팬 클래스 ="mord mtight">ˉ</span></span></span></span></span></span></span><span class="mclose mtight"><span class="mclose mtight">)</span ><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7463142857142857em;"><span 스타일= "상단:-2.786em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"> <span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span> </span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="테두리 -bottom-width:0.04em;"></span></span><span style="top:-3.66001em;"><span class="pstrut" style="height:3em;"></span ><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord sizing reset-size3 size6 mtight"><span class="delimsizing size1 mtight"><스팬 클래스 ="mtight">(</span></span></span><span class="mspace mtight" style="margin-right:0.19516666666666668em;"></span><span class="mop mtight" ><span class="mop op-symbol small-op mtight" style="position:relative;top:-0.0 00005000000000050004em;">∑</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" 스타일=" 높이:0.7385428571428572em;"><span style="top:-2.1785614285714283em;margin-left:0em;margin-right:0.07142857142857144em;"><span class="pstrut" style=";ight" </span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">i</span><span class="mrel mtight"> =</span><span class="mord mtight">1</span></span></span></span><span style="top:-2.931em;margin-right:0.07142857142857144em;" ><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mathnormal mtight">n</span> </span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" 스타일= "높이:0.32143857142857146em;"><span></span></span></span></span></span></span><span class="mspace mtight" style="margin-right: 0.19516666666666668em;"></span><span class="mord mtight"><span class="mord mathnormal mtight">a</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r">< span class="vlist" style="height:0.3280857142857143em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span class="pstrut" 스타일 ="높이:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mathnormal mtight">i</span></span></span>< /span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.143em;">< span></span></span></span></span></span></span><span class="mopen mtight">(</span><span class="mord mtight">< span class="mord mathnormal mtight">x</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class=" vlist" style="height:0.3448em;"><span style="top:-2.3447999999999998em;margin-left:0em;margin-right:0.07142857142857144em;"><span class="pstrut" 스타일="높이: 2.5357142857142856em;"></span><span class="sizing reset-size3 size1 m tight"><span class="mord mtight"><span class="mopen mtight">(</span><span class="mord mathnormal mtight">i</span><span class="mclose mtight"> )</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"> <span class="vlist" style="height:0.3694857142857143em;"><span></span></span></span></span></span></span><span class="mord mtight"><span class="mord sizing reset-size3 size6 mtight"><span class="delimsizing size1 mtight"><span class="mtight">)</span></span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" 스타일="높이:1.321742857142857em;"><스팬 스타일="상단: -3.361428571428571em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><스팬 클래스 ="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span ></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" 스타일="높이:0.5 700069999999999em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mpunct ">,</span></span></span></span>
+
+Shipiro-Wilk 검정은 표본이 정규 분포를 따르는지 확인합니다. 이 검정은 연속 데이터의 변수가 하나인 표본을 사용할 때만 정규성을 확인하며 최대 2000개의 작은 표본 크기에 권장됩니다.
+
+Shipiro-Wilk 테스트는 QQ 플롯이라는 확률 플롯을 사용합니다. 이 플롯은 가장 작은 것부터 가장 큰 것까지 정렬된 두 개의 분위수 세트를 y축에 표시합니다. 각 분위수가 동일한 분포에서 나온 경우 일련의 그림은 선형입니다.
+
+QQ 플롯은 분산을 추정하는 데 사용됩니다. 모집단의 추정된 분산과 함께 QQ 플롯 분산을 사용하면 표본이 정규 분포에 속하는지 확인할 수 있습니다. 두 분산의 몫이 1과 같거나 1에 가까우면 귀무 가설이 채택될 수 있습니다. 1보다 현저히 낮으면 거부할 수 있다.
+
+위에서 언급한 테스트와 마찬가지로 이 테스트는 알파를 사용하고 null과 Alternative의 두 가지 가설을 형성합니다. 귀무가설은 표본이 정규분포에서 나온다는 것이고 대립가설은 표본이 정규분포에서 나오지 않는다는 것이다.
+
+## 적합도 예
+
+다음은 적합도 테스트가 작동하는 방식을 보여주는 가상의 예입니다.
+
+소규모 커뮤니티 체육관이 월요일, 화요일, 토요일에 가장 높은 출석률, 수요일과 목요일에 평균 출석률, 금요일과 일요일에 가장 낮은 출석률을 가정하고 운영한다고 가정합니다. 이러한 가정을 바탕으로 체육관은 매일 일정한 수의 직원을 고용하여 회원 체크인, 시설 청소, 교육 서비스 제공 및 수업을 가르칩니다.
+
+그러나 체육관은 재정적으로 잘 작동하지 않으며 소유자는 이러한 출석 가정과 직원 수준이 정확한지 알고 싶어합니다. 소유자는 6주 동안 매일 체육관 참석자 수를 계산하기로 결정합니다. 그런 다음 예를 들어 카이제곱 적합도 테스트를 사용하여 체육관의 예상 출석률과 관찰된 출석률을 비교할 수 있습니다.
+
+이제 새 데이터가 있으므로 체육관을 가장 잘 관리하고 수익성을 개선하는 방법을 결정할 수 있습니다.
+
+## 결론
+
+적합도 검정은 표본 데이터가 모집단의 기대치에 얼마나 잘 맞는지를 결정합니다. 샘플 데이터에서 관찰된 값을 수집하고 불일치 측정을 사용하여 계산된 기대값과 비교합니다. 원하는 결과에 따라 다양한 적합도 가설 검정을 사용할 수 있습니다.
+
+올바른 적합도 검정을 선택하는 것은 표본에 대해 알고자 하는 내용과 표본의 크기에 따라 크게 달라집니다. 예를 들어 범주형 데이터의 관측값이 범주형 데이터의 기대값과 일치하는지 알고 싶다면 카이제곱을 사용하십시오. 작은 표본이 정규 분포를 따르는지 알고 싶다면 Shipiro-Wilk 검정이 유리할 수 있습니다. 적합도를 결정하기 위해 사용할 수 있는 많은 테스트가 있습니다.
+
+## 하이라이트
+
+- 적합도는 일련의 관찰된 값이 해당 모델에서 예상되는 값과 일치하는지 여부를 결정하기 위한 통계적 테스트입니다.
+
+- 표본 데이터가 정규 분포를 따르는 모집단의 예상 데이터 집합에 맞는지 여부를 표시할 수 있습니다.
+
+- 카이제곱 검정은 범주형 데이터 간에 관계가 있는지 여부를 결정합니다.
+
+- 적합도 검정에는 여러 유형이 있지만 가장 일반적인 것은 카이제곱 검정입니다.
+
+- Kolmogorov-Smirnov 테스트는 표본이 모집단의 특정 분포에서 나오는지 여부를 결정합니다.
+
+## 자주하는 질문
+
+### 카이제곱 검정에서 적합도란 무엇입니까?
+
+카이제곱 검정은 범주형 변수 간에 관계가 있는지 여부와 표본이 전체를 나타내는지 여부를 검정합니다. 관찰된 데이터가 예상 데이터를 얼마나 가깝게 미러링하는지 또는 얼마나 잘 맞는지를 추정합니다.
+
+### 적합도는 무엇을 의미합니까?
+
+적합도는 관찰된 데이터가 예상 데이터를 얼마나 가깝게 반영하는지 확인하는 데 사용되는 통계적 가설 테스트입니다. 적합도 검정은 표본이 정규 분포를 따르는지, 범주형 변수가 관련되어 있는지 또는 무작위 표본이 동일한 분포에서 나온 것인지 확인하는 데 도움이 될 수 있습니다.
+
+### 적합도 테스트는 어떻게 합니까?
+
+적합도 테스트는 다양한 테스트 방법으로 구성됩니다. 테스트의 목표는 사용할 방법을 결정하는 데 도움이 됩니다. 예를 들어, 목표가 비교적 작은 표본에서 정규성을 테스트하는 것이라면 Shipiro-Wilk 테스트가 적합할 수 있습니다. 표본이 모집단 내의 특정 분포에서 유래했는지 여부를 확인하려면 Kolmogorov-Smirnov 검정이 사용됩니다. 각 테스트는 고유한 공식을 사용합니다. 그러나 귀무가설, 유의수준 등의 공통점이 있습니다.
+
+### 적합도가 왜 중요한가요?
+
+적합도 테스트는 관찰된 데이터가 예상과 일치하는지 확인하는 데 도움이 됩니다. 수행된 가설 테스트의 결과에 따라 결정이 내려질 수 있습니다. 예를 들어, 한 소매업체에서 제공하는 제품이 젊은이들에게 어필하는 것이 무엇인지 알고 싶어합니다. 소매업체는 어떤 제품이 선호되는지 확인하기 위해 무작위로 노인과 젊은이를 대상으로 설문조사를 실시합니다. 그들은 카이제곱을 사용하여 95% 신뢰로 제품 A와 젊은 사람들 사이에 관계가 있음을 식별합니다. 이러한 결과를 바탕으로 이 표본은 젊은 성인 인구를 대표한다고 결정할 수 있습니다. 소매 마케터는 이를 사용하여 캠페인을 개혁할 수 있습니다.
+
