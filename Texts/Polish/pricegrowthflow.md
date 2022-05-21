@@ -1,0 +1,39 @@
+---
+keywords: Investing,Fundamental Analysis,Tools for Fundamental Analysis,Tools
+title: Przepływ wzrostu cen
+description: Przepływ cen i wzrostu jest miarą siły zysków firmy oraz wydatków na badania i rozwój w porównaniu z jej obecną wartością rynkową.
+---
+
+# Przepływ wzrostu cen
+## Co to jest przepływ wzrostu cen?
+
+Przepływ wzrostu cen to [wskaźnik finansowy,](/ratioanalysis) który identyfikuje firmy, które generują solidne zyski, a jednocześnie inwestują w [badania i rozwój](/randd) (B+R). Wysoki wskaźnik przepływu cen i wzrostu wskazuje, że firma jest w stanie czerpać zyski z innowacji i wynalazków.
+
+## Formuła przepływu wzrostu cen
+
+Jest mierzony według następującego wzoru:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="prawy lewy" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Przepływ ceny do wzrostu</mtext><mo>=</mo><mfrac><mrow><mtext >EPS</mtext><mo>+</mo><mtext>R &amp; D za akcję</mtext></mrow><mtext>Cena za akcję</mtext></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel ="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow ><mtext mathvariant="bold">gdzie:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"> <mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>EPS</mtext>< mo>=</mo><mtext>zarobki na akcję</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\ begin{aligned} &amp;\text{Przepływ ceny-wzrostu} = \frac{ \text{EPS} + \text{R \&amp; D na akcję} }{ \text{Cena na akcję} } \\ &amp;\textbf{gdzie:} \\ &amp;\text{EPS} = \text{zysk na akcję} \\ \end{wyrównany}</ adnotacja></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="rozpórka" style="height :5.35744em;vertical-align:-2.42872em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class= "vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.92872em;"><span style="top:-4.92872em;">< span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:-3.1027199999999997em;">< span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:-1.6027199999999997em;">< span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span></span><span class="vlist-s"> ​</span></span><span class="vlist-r"><span class="vlist" style="height:2.42872em;"><span></ span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist- r"><span class="vlist" style="height:2.92872em;"><span style="top:-4.92872em;"><span class="pstrut" style="height:3.3714399999999998em;"> </span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Przepływ ceny do wzrostu</span>< /span><span class="mspace" style="margin-right:0.277777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margines -right:0.277777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist -t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut " style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">Cena za udział</span></span> </span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;" ></span><span class="mord"><span class="mord text"><span class="mord">EPS</span></span><span class="mspace" style="margines -right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord text"><span class="mord">R &amp; D Na udział</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r "><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter" ></span></span></span></span><span style="top:-3.1027199999999997em;"><span class="pstrut" style="height:3.3714399999999998em;"></span ><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">gdzie:</span></span>< /span></span><span style="top:-1.6027199999999997em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord">< span class="mord"></span><span class="mord text"><span class="mord">EPS</span></span><span class="mspace" style="margin-right :0.277777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class= "mord text"><span class="mord">zarobki na akcję</span></span></span></span></span><span class="vlist-s"><​</ rozpiętość ></rozpiętość ><span class="vlist-r"><span class="vlist" style="height:2.42872em;"><span></span></span></span></span></span ></span></span></span></span></span>
+
+
+
+## Zrozumienie przepływu ceny do wzrostu
+
+Przepływ cenowy jest wyrazem siły [zysków](/earnings-power) i potencjalnego wzrostu w stosunku do aktualnej ceny za akcję. Jak pokazuje powyższy wzór, współczynnik dzieli zysk na akcję (EPS) plus [wydatki na badania i rozwój](/research-and-development-expenses) na akcję przez cenę akcji.
+
+Analitycy patrzą na metrykę, aby uzyskać wgląd w strukturę alokacji kapitału firmy. Na przykład kierownictwo może wydać więcej na rozwój nowych produktów i usług niż na obecne centra zysku. Uważa się, że niskie zarobki można zrekompensować większymi wydatkami na badania i rozwój i odwrotnie. Jeśli firma zdecyduje się wydać na dziś i zaniedbać przyszłość, obecny zysk na akcję może przekroczyć wydatki na badania i rozwój. Oba przypadki skutkują wysokim odczytem wskaźnika, co oznacza solidny zysk na akcję lub wydatki na badania i rozwój. W ten sposób inwestorzy mogą ocenić potencjalny wzrost zysków teraz iw przyszłości.
+
+## Wzrost cen i możliwości badawczo-rozwojowe
+
+Jednak przepływ wzrostu cen nie mówi o tym, jak efektywnie kierownictwo alokuje [kapitał](/capital). Na przykład duży rachunek R&D nie gwarantuje, że wprowadzenie nowych produktów lub wdrożenia rynkowe będą generować zyski w przyszłych kwartałach. Tymczasem silny wzrost zysków nie daje inwestorom wglądu w przyszłe perspektywy ani możliwości wzrostu. Optymalny stosunek to taki, który zapewnia równowagę między zarobkami a badaniami i rozwojem bez przechylania się całkowicie na jedną metrykę.
+
+W przypadku, gdy przepływ wzrostu cen odnotowuje niski odczyt, mówi to inwestorom, że cena akcji odbiegła znacznie poza wartości fundamentalne. Krótko mówiąc, aktywność rynkowa jest napędzana przez coś innego niż obecny wzrost dochodów lub potencjalne innowacje. Może to być kwestia polityczna, ekonomiczna lub coś zupełnie niezwiązanego z codziennym ruchem. W takim przypadku inwestorzy powinni monitorować cykl wiadomości, dane ekonomiczne lub inne wskaźniki finansowe, takie jak cena do sprzedaży i cena do księgowania.
+
+##Przegląd najważniejszych wydarzeń
+
+- Przepływ wzrostu cen to popularna metoda pomiaru obecnych i przyszłych zysków, ponieważ wskazuje, które firmy mogą z powodzeniem wykorzystać badania i rozwój do zysków.
+
+- Niski wskaźnik może oznaczać, że firma albo nie wydaje dużo na B+R, albo jeśli tak, to cena akcji nie odzwierciedla przyszłych zysków z takich nakładów.
+
+- Przepływ cenowy dzieli sumę zysku na akcję (EPS) i nakłady na badania i rozwój na akcję przez cenę akcji.
+
