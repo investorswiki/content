@@ -1,0 +1,85 @@
+---
+keywords: Trading,Technical Analysis,Technical Analysis Basic Education
+title: Индекс положительного объема (PVI)
+description: PVI — это индикатор, используемый в техническом анализе, который дает сигналы об изменении цены на основе положительного увеличения объема торгов.
+---
+
+# Индекс положительного объема (PVI)
+## Что такое индекс положительного объема (PVI)?
+
+Индекс положительного объема (PVI) — это индикатор, используемый в [техническом анализе](/technicalanalysis),. который дает сигналы об изменении цены на основе положительного увеличения объема торгов. PVI помогает оценить силу [тренда](/trend) и потенциально подтвердить [развороты цен](/reversal) и может быть рассчитан для популярных рыночных индексов, а также использоваться для анализа движения отдельных ценных бумаг.
+
+<!--211AF18ACC535B52E3128079C7430E5C-->
+
+## Формула индекса положительного объема (PVI)
+
+Если сегодняшний объем больше вчерашнего, то:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>PVI</mtext><mo>=</mo><mi>P</mi><mi> P</mi><mi>V</mi><mi>I</mi><mo>+</mo><mfrac><mrow><mo stretchy="false">(</mo><mi >T</mi><mi>C</mi><mi>P</mi><mo>−</mo><mi>Y</mi><mi>C</mi><mi>P </mi><mo stretchy="false">)</mo></mrow><mrow><mi>Y</mi><mi>C</mi><mi>P</mi></ mrow></mfrac><mo>×</mo><mi>P</mi><mi>P</mi><mi>V</mi><mi>I</mi></mrow> </mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd>< mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">где:</mtext></mrow></mstyle></mtd></ mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd ><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>P</mi><mi>V</mi><mi>I</mi><mo >=</mo><mtext>положительный индекс объема</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true" ><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>P</mi> <mi>P</mi><mi>V</mi><mi>I</mi><mo>=</mo><mtext>предыдущий положительный индекс объема</mtext></mrow></mstyle ></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel= "0" displaystyle="true"><mrow><mrow></mrow><mi>T</mi><mi>C</mi><mi>P</mi><mo>=</mo ><mtext>сегодняшняя цена закрытия</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow>< /mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>Y</mi><mi>C< /mi><mi>P</mi><mo>=</mo><mtext>вчерашняя цена закрытия</mtext></mrow></mstyle></mtd></mtr></mtable>< кодировка аннотации = "приложение/x-te x">\begin{aligned} &amp;\text{PVI} = PPVI + \frac{(TCP - YCP)}{YCP}\times PPVI \\ &amp;\textbf{где:}\\ &amp;PVI=\ text{индекс положительного объема}\\ &amp;PPVI=\text{предыдущий индекс положительного объема}\\ &amp;TCP=\text{сегодняшняя цена закрытия}\\ &amp;YCP=\text{вчера&#x27; цена закрытия}\\ \end{выровнено}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base "><span class="strut" style="height:9.913em;vertical-align:-4.706499999999999em;"></span><span class="mord"><span class="mtable"><span class ="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:5.2065em;">< span style="top:-7.206499999999999em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"></span></span>< span style="top:-5.3805em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"></span></span>< span style="top:-3.8805em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"></span ></span><span style="top:-2.3805000000000005em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"></span ></span><span style="top:-0.8805000000000005em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"></span ></span><span style="top:0.619499999999999em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"></span> </span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:4.706499999999999 em;"><span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2 "><span class="vlist-r"><span class="vlist" style="height:5.2065em;"><span style="top:-7.206499999999999em;"><span class="pstrut" style ="высота:3.427em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord"> PVI</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class=" mspace" стиль = "маржа -right:0.2777777777777778em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin- right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="mord mathnormal" style="margin- right:0.07847em;">I</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"> <span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.427em;"><span style="top:-2.314em ;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.22222em;" >Y</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mord mathnormal" style="margin-right:0.13889em;" >P</span></span></span><span style="top:- 3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></ span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class ="mopen">(</span><span class="mord mathnormal" style="margin-right:0.13889em;">T</span><span class="mord mathnormal" style="margin-right: 0.07153em;">C</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mspace" style="margin-right:0.2222222222222222 em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.22222em;">Y</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mclose">)</span></span></span></span><span class="vlist -s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><spa n></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin -right:0.2222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span></ span></span><span style="top:-5.3805em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">где:</span></span></span></span><span style= "top:-3.8805em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"><span class="mord"></span> <span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-r ight:0.22222em;">V</span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="mspace" style="margin-right :0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class= "mord text"><span class="mord">положительный индекс объема</span></span></span></span><span style="top:-2.3805000000000005em;"><span class=" pstrut" style="height:3.427em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right :0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right :0.22222em;">V</span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="mspace" style="margin-right: 0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class=" mord text"><span class="mord">предыдущая позиция индекс объема</span></span></span></span><span style="top:-0.8805000000000005em;"><span class="pstrut" style="height:3.427em;">< /span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.13889em;">T</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778em ;"></span><span class="mord text"><span class="mord">сегодняшняя цена закрытия</span></span></span></span><span style="top: 0.619499999999999em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"><span class="mord"></span><span class= "mord mathnormal" style="margin-right:0.22222em;">Y</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class= "mord mathnormal" style="margin-right:0.13889em;">P</span>< span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778 em;"></span><span class="mord text"><span class="mord">вчерашняя цена закрытия</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:4.706499999999999em;"><span></span ></span></span></span></span></span></span></span></span></span>
+
+Если [объем](/volume) сегодня меньше или равен объему вчера:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>P </mi><mi>V</mi><mi>I</mi><mo>=</mo><mtext>Предыдущий PVI</mtext></mrow><annotation encoding="application/x- tex">PVI = \text{Предыдущий PVI}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base "><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P </span><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="mord mathnormal" style="margin-right:0.07847em;">I </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style=" margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></ span><span class="mord text"><span class="mord">Предыдущий PVI</span></span></span></span></span>
+
+### Как рассчитать индекс положительного объема (PVI)
+
+1. Если объем сегодня больше объема вчера, то используйте формулу PVI.
+
+1. Введите ценовые данные за сегодня и вчера вместе с предыдущим расчетом PVI.
+
+1. Если нет предыдущего расчета PVI, используйте расчет цены с сегодняшнего дня в качестве предыдущего PVI.
+
+1. Если объем сегодня не больше объема вчера, то PVI остается прежним для этого дня.
+
+## Понимание положительного индекса объема (PVI)
+
+PVI обычно используется в сочетании с расчетом [отрицательного индекса объема](/nvi) (NVI). Вместе они известны как индикаторы объема накопления цен.
+
+PVI и NVI были впервые разработаны в 1930-х годах Полом Дайзартом с использованием [индикаторов широты рынка](/breadthindicator),. таких как линия роста-падения. Индикаторы PVI и NVI приобрели популярность после их включения в книгу 1976 года под названием **Логика фондового рынка** Нормана Фосбака, который расширил их применение на отдельные [ценные бумаги](/security).
+
+Исследование Фосбака, которое охватило период с 1941 по 1975 год, показало, что, когда PVI ниже своего среднего годового значения, вероятность [медвежьего рынка составляет 67%](/bearmarket). Если PVI выше среднего годового значения, вероятность медвежьего рынка падает до 21%.
+
+Как правило, трейдеры будут следить за индикаторами PVI и NVI, чтобы понять рыночную тенденцию с точки зрения объема. PVI будет более волатильным, когда объем растет, а NVI будет более волатильным, когда объем уменьшается.
+
+> Поскольку основным фактором PVI является цена, трейдеры увидят увеличение PVI, когда объем высок, а цены растут. PVI будет уменьшаться, когда объем высок, но цены снижаются. Следовательно, PVI может быть сигналом для бычьего и медвежьего трендов.
+
+>
+
+## Особые соображения
+
+Общее мнение состоит в том, что дни большого объема связаны с толпой. Когда PVI выше годовой [скользящей средней](/movingaverage) (около 255 торговых дней), это показывает, что толпа настроена оптимистично, что способствует дальнейшему росту цен. Если PVI падает ниже среднего годового значения, это сигнализирует о том, что толпа настроена пессимистично, и снижение цены ожидается или уже происходит.
+
+Трейдеры часто строят девятипериодную скользящую среднюю (MA) PVI и сравнивают ее с 255-периодной MA PVI. Затем они будут следить за отношениями, как описано выше. [Пересечения](/crossover) сигнализируют о возможных изменениях тренда в цене. Например, если PVI поднимается выше 255-периодной MA снизу вверх, это может сигнализировать о начале нового [восходящего тренда](/uptrend). Этот восходящий тренд сохраняется до тех пор, пока PVI остается выше годового среднего значения.
+
+Имейте в виду вероятности, упомянутые выше. Сигналы PVI не являются точными на 100%. Как правило, PVI по сравнению с годовой скользящей средней помогает подтвердить тренды и развороты, но не всегда будет правильным.
+
+Некоторые трейдеры предпочитают NVI, а не PVI, или используют их вместе, чтобы подтвердить друг друга. NVI рассматривает дни с меньшим объемом, которые связаны с активностью профессиональных трейдеров, а не с толпой. Таким образом, NVI показывает, что делают «умные деньги».
+
+## Индекс положительного объема (PVI) и балансовый объем (OBV)
+
+Положительный объем — это расчет цены, основанный на том, вырос ли объем в текущей сессии по сравнению с предыдущей. [Балансовый объем](/onbalancevolume) (OBV) — это промежуточная сумма положительного и отрицательного объема, основанная на том, была ли цена сегодня выше или ниже цены вчера, соответственно.
+
+Другими словами, оба индикатора учитывают объем и цену, но делают это совершенно по-разному. Из-за разных расчетов PVI и OBV будут предоставлять трейдерам разные торговые сигналы и информацию.
+
+## Ограничения использования индекса положительного объема (PVI)
+
+PVI отслеживает толпу, активность которой обычно связана с днями с большим объемом торгов. Толпа обычно теряет деньги или ярмарки хуже, чем профессиональные трейдеры. Поэтому PVI отслеживает «неумные деньги». Для более качественных сигналов и для лучшего понимания того, что делает конкретный рынок или акция, PVI используется в сочетании с NVI.
+
+В исторических тестах PVI неплохо справился с выделением бычьего и медвежьего рынков в цене. Хотя это не на 100% точно... ничего.
+
+Индикатор может быть склонен к [разворотам](/whipsaw),. когда несколько пересечений происходят в быстрой последовательности, что затрудняет определение истинного направления тренда на основе одного только индикатора. PVI также подвержен некоторым аномалиям. Например, он может постоянно двигаться вниз, даже если цена агрессивно растет.
+
+По этим причинам трейдерам рекомендуется использовать PVI вместе с анализом [ценового действия](/price-action),. другими техническими индикаторами и [фундаментальным анализом](/fundamentalanalysis),. если они ищут долгосрочные торговые возможности.
+
+## Особенности
+
+- Индекс положительного объема (PVI) основан на движении цены в зависимости от того, выше ли текущий объем по сравнению с предыдущим периодом.
+
+- Когда PVI выше среднего за год, это помогает подтвердить рост цен. Когда PVI падает ниже среднего за год, это помогает подтвердить падение цены.
+
+- Трейдеры наблюдают за отношением скользящей средней PVI с девятью периодами (или другой длины MA) к скользящей средней PVI с 255 периодами.
+
+- PVI часто изображается как скользящая средняя (чтобы сгладить ее движения) и сравнивается со средней за год (255 дней).
+
+- Если объем не увеличивается от одного периода к другому, PVI остается прежним.
+
