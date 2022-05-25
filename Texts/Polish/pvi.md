@@ -1,0 +1,85 @@
+---
+keywords: Trading,Technical Analysis,Technical Analysis Basic Education
+title: Dodatni wskaźnik wolumenu (PVI)
+description: PVI to wskaźnik używany w analizie technicznej, który dostarcza sygnały do zmian cen w oparciu o dodatnie wzrosty wolumenu obrotu.
+---
+
+# Dodatni wskaźnik wolumenu (PVI)
+## Co to jest dodatni indeks wolumenu (PVI)?
+
+Dodatni indeks wolumenu (PVI) to wskaźnik używany w [analizie technicznej,](/technicalanalysis) który dostarcza sygnały do zmian cen w oparciu o dodatnie wzrosty wolumenu obrotu. PVI pomaga w ocenie siły [trendu](/trend) i potencjalnie potwierdza [odwrócenie cen](/reversal) i może być obliczany dla popularnych indeksów rynkowych, a także używany do analizy ruchów poszczególnych papierów wartościowych.
+
+<!--211AF18ACC535B52E3128079C7430E5C-->
+
+## Wzór na dodatni wskaźnik wolumenu (PVI)
+
+Jeśli dzisiejsza objętość jest większa niż wczorajsza, to:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="prawy lewy" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>PVI</mtext><mo>=</mo><mi>P</mi><mi> P</mi><mi>V</mi><mi>I</mi><mo>+</mo><mfrac><mrow><mo stretchy="false">(</mo><mi >T</mi><mi>C</mi><mi>P</mi><mo>−</mo><mi>Y</mi><mi>C</mi><mi>P </mi><mo stretchy="false">)</mo></mrow><mrow><mi>Y</mi><mi>C</mi><mi>P</mi></ mrow></mfrac><mo>×</mo><mi>P</mi><mi>P</mi><mi>V</mi><mi>I</mi></mrow> </mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd>< mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">gdzie:</mtext></mrow></mstyle></mtd></ mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd ><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>P</mi><mi>V</mi><mi>I</mi><mo >=</mo><mtext>dodatni indeks objętości</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true" ><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>P</mi> <mi>P</mi><mi>V</mi><mi>I</mi><mo>=</mo><mtext>poprzedni dodatni indeks objętości</mtext></mrow></mstyle ></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel= "0" displaystyle="true"><mrow><mrow></mrow><mi>T</mi><mi>C</mi><mi>P</mi><mo>=</mo ><mtext>dzisiejsza cena zamknięcia</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow>< /mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>Y</mi><mi>C< /mi><mi>P</mi><mo>=</mo><mtext>wczorajsza cena zamknięcia</mtext></mrow></mstyle></mtd></mtr></mtable>< kodowanie adnotacji="aplikacja/x-te x">\begin{wyrównany} &amp;\text{PVI} = PPVI + \frac{(TCP - YCP)}{YCP}\times PPVI \\ &amp;\textbf{gdzie:}\\ &amp;PVI=\ text{dodatni indeks wolumenu}\\ &amp;PPVI=\text{poprzedni dodatni indeks wolumenu}\\ &amp;TCP=\text{dzisiejsza cena zamknięcia}\\ &amp;YCP=\text{wczoraj&#x27; s cena zamknięcia}\\ \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base "><span class="strut" style="height:9.913em;vertical-align:-4.706499999999999em;"></span><span class="mord"><span class="mtable"><span class ="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:5.2065em;">< span style="top:-7.206499999999999em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"></span></span>< span style="top:-5.3805em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"></span></span>< span style="top:-3.8805em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"></span ></span><span style="top:-2.3805000000000005em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"></span ></span><span style="top:-0.8805000000000005em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"></span ></span><span style="top:0.619499999999999em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"></span> </span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:4.7064999999999999 em;"><span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2 "><span class="vlist-r"><span class="vlist" style="height:5.2065em;"><span style="top:-7.2064999999999999em;"><span class="pstrut" style ="height:3.427em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord"> PVI</span></span><span class="mspace" style="margin-right:0.277777777777777778em;"></span><span class="mrel">=</span><span class=" mspace" style="margines -right:0.277777777777778em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin- right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="mord mathnormal" style="margin- right:0.07847em;">I</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"> <span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.427em;"><span style="top:-2.314em ;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.22222em;" >Y</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mord mathnormal" style="margin-right:0.13889em;" >P</span></span></span><span style="top:- 3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></ span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class ="mopen">(</span><span class="mord mathnormal" style="margin-right:0.13889em;">T</span><span class="mord mathnormal" style="margin-right: 0.07153em;">C</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mspace" style="margin-right:0.2222222222222222 em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.22222em;">Y</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mclose">)</span></span></span></span><span class="vlist -s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><spa n></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margines -right:0.2222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span></ span></span><span style="top:-5.3805em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">gdzie:</span></span></span></span><span style= "top:-3.8805em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"><span class="mord"></span> <span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-r ight:0.22222em;">V</span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="mspace" style="margin-right :0.277777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class= "mord text"><span class="mord">dodatni indeks objętości</span></span></span></span><span style="top:-2.3805000000000005em;"><span class=" pstrut" style="height:3.427em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right :0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right :0.22222em;">V</span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="mspace" style="margin-right: 0.27777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class=" tekst mord"><span class="mord">poprzednia pozycja ive volume index</span></span></span></span><span style="top:-0.88050000000000005em;"><span class="pstrut" style="height:3.427em;">< /span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.13889em;">T</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778em ;"></span><span class="mord text"><span class="mord">dzisiejsza cena zamknięcia</span></span></span></span><span style="góra: 0.6194999999999999em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"><span class="mord"></span><span class= "mord mathnormal" style="margin-right:0.22222em;">Y</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class= "mord mathnormal" style="margin-right:0.13889em;">P</span>< span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778 em;"></span><span class="mord text"><span class="mord">wczorajsza cena zamknięcia</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:4.7064999999999999em;"><span></span ></span></span></span></span></span></span></span></span></span>
+
+Jeśli dzisiejszy [wolumen](/volume) jest mniejszy lub równy wolumenowi wczoraj:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantyka><mrow><mi>P </mi><mi>V</mi><mi>I</mi><mo>=</mo><mtext>Poprzedni PVI</mtext></mrow><annotation encoding="aplikacja/x- tex">PVI = \text{Poprzedni punkt PVI}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base "><span class="rozpórka" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P </span><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="mord mathnormal" style="margin-right:0.07847em;">I </span><span class="mspace" style="margin-right:0.277777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style=" margin-right:0.27777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></ span><span class="mord text"><span class="mord">Poprzedni punkt PVI</span></span></span></span></span>
+
+### Jak obliczyć dodatni wskaźnik wolumenu (PVI)
+
+1. Jeśli wolumen dzisiaj jest większy niż wolumen wczoraj, użyj wzoru PVI.
+
+1. Wprowadź dane cenowe na dziś i wczoraj, wraz z poprzednią kalkulacją PVI.
+
+1. Jeśli nie ma poprzedniej kalkulacji PVI, użyj kalkulacji ceny z dnia dzisiejszego jako poprzedniego PVI.
+
+1. Jeśli wolumen dzisiaj nie jest większy niż wolumen wczoraj, PVI pozostaje taki sam dla tego dnia.
+
+## Zrozumienie dodatniego wskaźnika wolumenu (PVI)
+
+PVI jest zwykle śledzony w połączeniu z obliczeniem [ujemnego wskaźnika wolumenu](/nvi) (NVI). Razem są one znane jako wskaźniki wolumenu akumulacji cen.
+
+PVI i NVI zostały po raz pierwszy opracowane w latach 30. XX wieku przez Paula Dysarta przy użyciu [wskaźników szerokości rynku,](/breadthindicator) takich jak linia zniżkowa. Wskaźniki PVI i NVI zyskały popularność po umieszczeniu ich w książce z 1976 roku zatytułowanej **Logika rynku akcji** autorstwa Normana Fosbacka, który rozszerzył ich zastosowanie na poszczególne [papiery wartościowe](/security).
+
+Badania Fosbacka, które obejmowały okres od 1941 do 1975 roku, sugerowały, że gdy PIW znajduje się poniżej swojej rocznej średniej, istnieje 67% szans na [bessę](/bearmarket). Jeśli PVI znajdzie się powyżej swojej rocznej średniej, szansa na bessę spada do 21%.
+
+Ogólnie rzecz biorąc, handlowcy będą obserwować zarówno wskaźniki PVI, jak i NVI, aby zorientować się w trendach rynkowych pod względem wolumenu. PVI będzie bardziej niestabilny, gdy głośność rośnie, a NVI będzie bardziej niestabilny, gdy głośność maleje.
+
+> Ponieważ głównym czynnikiem PVI jest cena, handlowcy zobaczą wzrost PVI, gdy wolumen jest wysoki, a ceny rosną. PVI zmniejszy się, gdy wolumen jest wysoki, ale ceny spadają. Dlatego PVI może być sygnałem dla trendów byczych i niedźwiedzich.
+
+>
+
+## Uwagi specjalne
+
+Powszechnie uważa się, że dni o dużej objętości kojarzą się z tłumem. Kiedy PVI znajduje się powyżej swojej rocznej [średniej ruchomej](/movingaverage) (około 255 dni handlowych), pokazuje to, że tłum jest optymistyczny, co pomaga napędzać dalsze wzrosty cen. Jeśli PVI spadnie poniżej średniej rocznej, oznacza to, że tłum staje się pesymistyczny i zbliża się lub już trwa spadek cen.
+
+Handlowcy często wykreślają dziewięciookresową średnią kroczącą (MA) PVI i porównują ją z 255-okresową MA PVI. Następnie będą obserwować relacje opisane powyżej. [Zwrotnice](/crossover) sygnalizują potencjalne zmiany trendów cenowych. Na przykład, jeśli PVI wzrośnie powyżej MA z okresu 255 od dołu, może to sygnalizować, że trwa nowy [trend wzrostowy .](/uptrend) Ten trend wzrostowy jest potwierdzony, dopóki PVI pozostaje powyżej średniej rocznej.
+
+Pamiętaj o prawdopodobieństwach wymienionych powyżej. Sygnały PVI nie są w 100% dokładne. Ogólnie rzecz biorąc, PVI w porównaniu z jednorocznym MA pomaga potwierdzić trendy i odwrócenia, ale nie zawsze będzie poprawny.
+
+Niektórzy handlowcy wolą NVI od PVI lub używają ich razem, aby pomóc sobie nawzajem się potwierdzić. NVI przygląda się dniom o niższym wolumenie, które kojarzą się z profesjonalną działalnością tradera, a nie tłumem. Dlatego NVI pokazuje, co robi „smart money”.
+
+## Dodatni wskaźnik wolumenu (PVI) w porównaniu z wolumenem bilansowym (OBV)
+
+Dodatni wolumen to kalkulacja ceny na podstawie tego, czy wolumen w bieżącej sesji wzrósł w stosunku do poprzedniej. [Wolumen bilansowy](/onbalancevolume) (OBV) to bieżąca suma dodatniego i ujemnego wolumenu w oparciu o to, czy dzisiejsza cena była odpowiednio wyższa czy niższa niż wczoraj.
+
+Innymi słowy, oba wskaźniki uwzględniają wielkość i cenę, ale robią to na bardzo różne sposoby. Ze względu na różne obliczenia, PVI i OBV zapewnią handlowcom różne sygnały handlowe i informacje.
+
+## Ograniczenia korzystania z dodatniego wskaźnika wolumenu (PVI)
+
+PVI śledzi tłum, którego aktywność zazwyczaj wiąże się z większą liczbą dni. Tłum zazwyczaj traci pieniądze lub targi gorzej niż profesjonalni handlowcy. Dlatego PVI śledzi „nie-inteligentne pieniądze”. W celu uzyskania lepszej jakości sygnałów i lepszego kontekstu tego, co robi dany rynek lub akcje, PVI jest używany w połączeniu z NVI.
+
+W testach historycznych PVI wykonał przyzwoitą robotę, podkreślając ceny hossy i bessy. Chociaż nie jest to w 100% dokładne... nic nie jest.
+
+Wskaźnik może być podatny na [uderzenia piły](/whipsaw),. co oznacza, że wielokrotne zwroty występują szybko po sobie, co utrudnia określenie prawdziwego kierunku trendu na podstawie samego wskaźnika. PVI jest również podatny na pewne anomalie. Na przykład może stale spadać, nawet jeśli cena agresywnie rośnie.
+
+Z tych powodów zaleca się, aby inwestorzy korzystali z PVI wraz z analizą [price action](/price-action),. innymi wskaźnikami technicznymi i [analizą fundamentalną,](/fundamentalanalysis) jeśli patrzą na długoterminowe możliwości handlowe.
+
+## Przegląd najważniejszych wydarzeń
+
+- Dodatni indeks wolumenu (PVI) opiera się na ruchach cen w zależności od tego, czy bieżący wolumen jest wyższy niż w poprzednim okresie.
+
+- Gdy PVI jest powyżej średniej rocznej, pomaga to potwierdzić wzrost cen. Gdy PVI spada poniżej średniej rocznej, pomaga to potwierdzić spadek ceny.
+
+- Traderzy obserwują relację dziewięciookresowej średniej ruchomej PVI (lub innej długości MA) w stosunku do 255-okresowej średniej ruchomej PVI.
+
+- PVI jest często pokazywany jako średnia ruchoma (aby pomóc wygładzić jego ruchy) i porównywany do średniej rocznej (255 dni).
+
+- Jeśli głośność nie zwiększa się z jednego okresu do następnego, PVI pozostaje bez zmian.
+
