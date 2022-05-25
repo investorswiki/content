@@ -1,0 +1,35 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Ratios
+title: Effektivitetsforhold
+description: Effektivitetsforholdet bruges til at analysere, hvor godt en virksomhed udnytter sine aktiver og passiver internt.
+---
+
+# Effektivitetsforhold
+## Hvad er et effektivitetsforhold?
+
+Effektivitetsforholdet bruges typisk til at analysere, hvor godt en virksomhed bruger sine aktiver og passiver internt. Et [effektivitetsforhold](/efficiency) kan beregne omsætningen af fordringer, tilbagebetalingen af forpligtelser, mængden og anvendelsen af egenkapitalen og den generelle brug af inventar og maskiner. Dette forhold kan også bruges til at spore og analysere resultaterne af kommercielle banker og investeringsbanker.
+
+## Hvad fortæller et effektivitetsforhold dig?
+
+Effektivitetsforhold, også kendt som aktivitetsforhold, bruges af analytikere til at måle præstationen af en virksomheds kortsigtede eller nuværende præstationer. Alle disse nøgletal bruger tal i en virksomheds omsætningsaktiver eller kortfristede forpligtelser, der kvantificerer virksomhedens drift.
+
+Et effektivitetsforhold måler en virksomheds evne til at bruge sine aktiver til at generere indkomst. For eksempel ser et effektivitetsforhold ofte på forskellige aspekter af virksomheden, såsom den tid det tager at indsamle kontanter fra kunder eller den tid, det tager at konvertere lager til kontanter. Dette gør effektivitetsforhold vigtige, fordi en forbedring i effektivitetsforhold normalt oversættes til forbedret rentabilitet.
+
+Disse forhold kan sammenlignes med ligestillede i samme branche og kan identificere virksomheder, der er bedre styret i forhold til de andre. Nogle almindelige effektivitetsforhold er [debitoromsætning, omsætning](/receivableturnoverratio) af [anlægsaktiver](/fixed-asset-turnover),. salg til lager, salg til nettoarbejdskapital, kreditorer til salg og lageromsætningsforhold.
+
+## Effektivitetsforhold for banker
+
+I bankbranchen har et effektivitetsforhold en specifik betydning. For banker er effektivitetsgraden ikke-renteudgifter/indtægter. Dette viser, hvor godt bankens ledere kontrollerer deres overhead (eller "backoffice") udgifter. Ligesom effektivitetsforholdene ovenfor giver dette analytikere mulighed for at vurdere resultaterne af kommercielle banker og investeringsbanker.
+
+## Effektivitetsforholdet for banker er:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Effektivitetsforhold</mtext><mo>=</mo><mfrac><msup><mtext>Udgifter </mtext><mo lspace="0em" rspace="0em">†</mo></msup><mtext>Omsætning</mtext></mfrac></mrow></mstyle></mtd> </mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle= "true"><mrow><mrow></mrow><mo>†</mo><mtext>ikke inklusiv renter</mtext></mrow></mstyle></mtd></mtr></ mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{Efficiency Ratio} = \frac{\text{Udgifter}^{\dolk}}{\text{Omsætning}} \ \ &amp;\dolk \text{ikke inklusive renter}\\ \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:4.085338em;vertical-align:-1.792669em;"></ span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist- r"><span class="vlist" style="height:2.292669em;"><span style="top:-4.292669em;"><span class="psrut" style="height:3.599338em;"> </span><span class="mord"></span></span><span style="top:-2.466669em;"><span class="psrut" style="height:3.599338em;"> </span><span class="mord"></span></span></span><span class="vlist-s">​</span></span><span class="vlist- r"><span class="vlist" style="height:1.792669em;"><span></span></span></span></span></span><span class="col- align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.292669em;"><span style=" top:-4.292669em;"><span class="psrut" style="height:3.599338em;"></span><span class="mord"><span class="mord"></span>< span class="mord text"><span class="mord">Effi ciency Ratio</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class= "mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.599338em;"><span style="top:-2.314em;" ><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">Omsætning</span ></span></span></span><span style="top:-3.23em;"><span class="psrut" style="height:3em;"></span><span class= "frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="psrut" style=" height:3em;"></span><span class="mord"><span class="mord"><span class="mord text"><span class="mord">Udgifter</span></ span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9223379999999999em;">< span style="top:-3.1362300000000003em;margin-right:0.05em;"><span class="psrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">†</span></span></span></span></span></span></span> </span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r">​ span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></ span></span></span></span><span style="top:-2.466669em;"><span class="psrut" style="height:3.599338em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin">† </span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mord text"><span class="mord">ikke inklusiv renter</span ></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class= "vlist" style="højde:1,79266 9em;"><span></span></span></span></span></span></span></span></span></span></span>
+
+
+
+Da en banks driftsudgifter er i tælleren, og dens indtægter er i nævneren, betyder en lavere effektivitetsgrad, at en bank fungerer bedre.
+
+Et effektivitetsforhold på 50 % eller derunder anses for at være optimalt. Hvis effektivitetsgraden stiger, betyder det, at en banks udgifter stiger, eller at dens indtægter falder.
+
+For eksempel rapporterede Bank X kvartalsindtjening, og den havde en effektivitetsgrad på 57,1 %, hvilket var lavere end forholdet på 63,2 %, den rapporterede for samme kvartal sidste år. Det betyder, at virksomhedens drift blev mere effektiv og øgede dens aktiver med $80 millioner for kvartalet.
+
