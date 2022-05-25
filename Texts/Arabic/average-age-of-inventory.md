@@ -1,0 +1,45 @@
+---
+keywords: Business,Corporate Finance and Accounting,Accounting
+title: متوسط عمر المخزون
+description: متوسط عمر المخزون هو متوسط عدد الأيام التي تستغرقها الشركة لبيع المخزون.
+---
+
+# متوسط عمر المخزون
+## ما هو متوسط عمر المخزون؟
+
+متوسط عمر المخزون هو متوسط عدد الأيام التي تستغرقها الشركة لبيع المخزون. إنه مقياس يستخدمه المحللون لتحديد كفاءة المبيعات. يُشار أيضًا إلى متوسط عمر المخزون [بمبيعات الأيام في المخزون](/days-sales-inventory-dsi) (DSI).
+
+## صيغة وحساب متوسط عمر المخزون
+
+الصيغة لحساب متوسط عمر المخزون هي:
+
+<span class = "katex"> <span class = "katex-mathml"> <math xmlns = "http://www.w3.org/1998/Math/MathML"> <semantics> <mtable rowspacing = "0.24999999999999992em "columnalign =" right left "columnspacing =" 0em "> <mtr> <mtd> <mstyle scriptlevel =" 0 "displaystyle =" true "> <mrow> </mrow> </mstyle> </mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </mrow> <mtext> متوسط ​​عمر المخزون </ mtext> <mo> = </mo> <mfrac> <mi> C < / mi> <mi> G </mi> </mfrac> <mo> × </mo> <mn> 365 </mn> </mrow> </mstyle> </mtd> </mtr> <mtr> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> </mrow> </mstyle> </mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </mrow> <mtext mathvariant = "bold"> حيث: </mtext> </mrow> </mstyle> </mtd> </mtr> <mtr> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> </mrow> </mstyle> </mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </mrow> <mi> C </mi> <mo> = </mo> <mtext> متوسط ​​تكلفة المخزون عند مستواه الحالي </ mtext> </mrow> </mstyle> </mtd> </mtr> <mtr> <mtd > <mstyle scriptlevel = "0" إزاحة ystyle = "true"> <mrow> </mrow> </mstyle> </mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </mrow> <mi> G </mi> <mo> = </mo> <mtext> تكلفة البضائع المباعة (COGS) </mtext> </mrow> </mstyle> </mtd> </mtr> </mtable> <تعليق توضيحي encoding = "application / x-tex"> \ start {align} & amp؛ \ text {متوسط ​​عمر المخزون} = \ frac {C} {G} \ times 365 \\ & amp؛ \ textbf {where:} \\ & amp ؛ C = \ text {متوسط ​​تكلفة المخزون عند مستواه الحالي} \\ & amp؛ G = \ text {تكلفة البضائع المباعة (COGS)} \\ \ end {align} </annotation> </semantics> < / math> </span> <span class = "katex-html" aria-hidden = "true"> <span class = "base"> <span class = "strut" style = "height: 6.846329999999999em؛ محاذاة عمودية : -3.1731649999999996em؛ "> </span> <span class =" mord "> <span class =" mtable "> <span class =" col-align-r "> <span class =" vlist-t vlist-t2 "> <span class =" vlist-r "> <span class =" vlist "style =" height: 3.6731649999999996em؛ "> <span style =" top: -5.673165em؛ "> <span class =" pstrut "style = "height: 3.3603300000000003em؛"> </span> <span class = "mord"> </span> </span> < span style = "top: -3.8471650000000004em؛"> <span class = "pstrut" style = "height: 3.3603300000000003em؛"> </span> <span class = "mord"> </span> </span> < span style = "top: -2.3471650000000004em؛"> <span class = "pstrut" style = "height: 3.3603300000000003em؛"> </span> <span class = "mord"> </span> </span> < span style = "top: -0.8471650000000008em؛"> <span class = "pstrut" style = "height: 3.3603300000000003em؛"> </span> <span class = "mord"> </span> </span> < / span> <span class = "vlist-s"> </span> </span> <span class = "vlist-r"> <span class = "vlist" style = "height: 3.1731649999999996em؛"> < span> </span> </span> </span> </span> </span> <span class = "col-align-l"> <span class = "vlist-t vlist-t2"> <span class = "vlist-r"> <span class = "vlist" style = "height: 3.6731649999999996em؛"> <span style = "top: -5.673165em؛"> <span class = "pstrut" style = "height: 3.3603300000000003 em؛ "> </span> <span class =" mord "> <span class =" mord "> </span> <span class =" mord text "> <span class =" mord "> متوسط ​​عمر المخزون < / span> </span> <span class = "mspace" style = "margin-right: 0.2777777777777778em؛ "> </span> <span class =" mrel "> = </span> <span class =" mspace "style =" margin-right: 0.2777777777777778em؛ "> </span> <span class =" mord "> <span class = "mopen nulldelimiter"> </span> <span class = "mfrac"> <span class = "vlist-t vlist-t2"> <span class = "vlist-r"> <span class = "vlist "style =" height: 1.36033em؛ "> <span style =" top: -2.314em؛ "> <span class =" pstrut "style =" height: 3em؛ "> </span> <span class =" mord "> <span class =" mord mathnormal "> G </span> </span> </span> <span style =" top: -3.23em؛ "> <span class =" pstrut "style =" height: 3em ؛ "> </span> <span class =" frac-line "style =" border-bottom-width: 0.04em؛ "> </span> </span> <span style =" top: -3.677em؛ " > <span class = "pstrut" style = "height: 3em؛"> </span> <span class = "mord"> <span class = "mord mathnormal" style = "margin-right: 0.07153em؛"> ج </span> </span> </span> </span> <span class = "vlist-s"> </span> </span> <span class = "vlist-r"> <span class = " vlist "style =" height: 0.686em؛ "> <span> </span> </span> </span> </span> </span> <span class =" mclose nulldelimiter "> </span> </ span> <span class = "mspace" style = "margin-righ t: 0.2222222222222222em؛ "> </span> <span class =" mbin "> × </span> <span class =" mspace "style =" margin-right: 0.22222222222222em؛ "> </span> <span class = "mord"> 3 </span> <span class = "mord"> 6 </span> <span class = "mord"> 5 </span> </span> </span> <span style = "top : -3.8471650000000004em؛ "> <span class =" pstrut "style =" height: 3.3603300000000003em؛ "> </span> <span class =" mord "> <span class =" mord "> </span> <span class = "mord text"> <span class = "mord textbf"> حيث: </ span> </span> </span> </span> <span style = "top: -2.3471650000000004em؛"> <span class = "pstrut" style = "height: 3.3603300000000003em؛"> </span> <span class = "mord"> <span class = "mord"> </span> <span class = "mord mathnormal" style = "margin -right: 0.07153em؛ "> C </span> <span class =" mspace "style =" margin-right: 0.2777777777777778em؛ "> </span> <span class =" mrel "> = </span> < span class = "mspace" style = "margin-right: 0.2777777777777778em؛"> </span> <span class = "mord text"> <span class = "mord"> متوسط ​​تكلفة المخزون عند مستواه الحالي </ span> </span> </span> </span> <span style = "top: -0.847165000 0000008em؛ "> <span class =" pstrut "style =" height: 3.3603300000000003em؛ "> </span> <span class =" mord "> <span class =" mord "> </span> <span class =" mord mathnormal "> G </span> <span class =" mspace "style =" margin-right: 0.2777777777777778em؛ "> </span> <span class =" mrel "> = </span> <span class =" mspace "style =" margin-right: 0.2777777777777778em؛ "> </span> <span class =" mord text "> <span class =" mord "> تكلفة البضائع المباعة (COGS) </span> </ span > </span> </span> </span> <span class = "vlist-s"> </span> </span> <span class = "vlist-r"> <span class = "vlist" style = "height: 3.1731649999999996em؛"> <span> </span> </span> </span> </span> </span> </span> </span> </span> </ span> </ تمتد>
+
+
+
+## ما يمكن أن يخبرك به متوسط عمر المخزون
+
+يخبر متوسط عمر المخزون المحلل بمدى سرعة دوران [المخزون](/inventory) في شركة مقارنة بشركة أخرى. كلما تمكنت الشركة من بيع المخزون بشكل أسرع لتحقيق ربح ، زادت ربحية ذلك. ومع ذلك ، يمكن للشركة أن تستخدم استراتيجية للحفاظ على مستويات أعلى من المخزون للخصومات أو جهود التخطيط طويلة الأجل. بينما يمكن استخدام المقياس كمقياس للكفاءة ، يجب تأكيده بمقاييس أخرى للكفاءة ، مثل [هامش الربح الإجمالي](/gross_profit_margin) ، قبل إجراء أي استنتاجات.
+
+متوسط عمر المخزون هو رقم حاسم في الصناعات ذات المبيعات السريعة ودورات [المنتجات](/product-life-cycle) ، مثل صناعة التكنولوجيا. يمكن أن يشير متوسط عمر المخزون المرتفع إلى أن الشركة لا تدير مخزونها بشكل صحيح أو أن لديها مخزونًا يصعب بيعه.
+
+يساعد متوسط عمر المخزون وكلاء الشراء على اتخاذ قرارات الشراء ويتخذ المديرون قرارات التسعير ، مثل خصم المخزون الحالي لنقل المنتجات وزيادة [التدفق النقدي](/cashflow). مع زيادة متوسط عمر مخزون الشركة ، يزداد أيضًا تعرضها لمخاطر [التقادم](/obsolescencerisk). مخاطر التقادم هي مخاطر فقدان قيمة المخزون لقيمتها بمرور الوقت أو في [سوق ضعيف](/soft_market). إذا كانت الشركة غير قادرة على نقل المخزون ، فيمكنها أن تأخذ [شطب مخزون](/inventory-write-off) بمبلغ أقل من القيمة المعلنة في الميزانية العمومية للشركة.
+
+## مثال على كيفية استخدام متوسط عمر المخزون
+
+يقرر مستثمر المقارنة بين شركتين للبيع بالتجزئة. تمتلك الشركة "أ" مخزونًا قيمته 100000 دولار أمريكي و COGS هو 600000 دولار أمريكي. يتم حساب متوسط عمر مخزون الشركة "أ" بقسمة متوسط تكلفة المخزون على تكلفة البضائع المباعة ثم ضرب المنتج في 365 يومًا. الحساب هو 100،000 دولار أمريكي مقسومًا على 600،000 دولار أمريكي ، مضروبًا في 365 يومًا. يبلغ متوسط عمر المخزون للشركة "أ" 60.8 يومًا. هذا يعني أن الشركة تستغرق ما يقرب من شهرين لبيع مخزونها.
+
+على العكس من ذلك ، تمتلك الشركة B أيضًا مخزونًا قيمته 100000 دولار ، لكن تكلفة المخزون المباع تبلغ مليون دولار ، مما يقلل من متوسط عمر المخزون إلى 36.5 يومًا. ظاهريًا ، تعتبر الشركة B أكثر كفاءة من الشركة A.
+
+## يسلط الضوء
+
+- كلما تمكنت الشركة من بيع مخزونها بشكل أسرع ، زادت أرباحها.
+
+- يُعرف متوسط عمر المخزون أيضًا باسم مبيعات الأيام في المخزون.
+
+- يوضح متوسط عمر المخزون عدد الأيام التي تستغرقها الشركة في المتوسط لبيع مخزونها.
+
+- يجب تأكيد هذا المقياس مع أرقام أخرى ، مثل هامش الربح الإجمالي.
+
+- قد يشير الرقم المتزايد إلى أن الشركة لديها مشاكل في المخزون.
+
