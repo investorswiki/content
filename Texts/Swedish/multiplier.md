@@ -1,0 +1,59 @@
+---
+keywords: Economy,Economics
+title: Multiplikator
+description: En multiplikator hänvisar till en ekonomisk ingång som förstärker effekten av någon annan variabel.
+---
+
+# Multiplikator
+## Vad är en multiplikator?
+
+Inom ekonomi hänvisar en multiplikator i stort sett till en ekonomisk faktor som, när den ökas eller ändras, orsakar ökningar eller förändringar i många andra relaterade ekonomiska variabler. När det gäller [bruttonationalprodukten](/gdp) gör [multiplikatoreffekten att](/multipliereffect) vinsterna i den totala produktionen blir större än förändringen i utgifterna som orsakade den.
+
+Termen multiplikator används vanligtvis med hänvisning till förhållandet mellan offentliga utgifter och total nationalinkomst. Multiplikatorer används också för att förklara fraktionerad reservbank, känd som [insättningsmultiplikatorn](/deposit_multiplier).
+
+## Förklara multiplikatorer
+
+En multiplikator är helt enkelt en faktor som förstärker eller ökar basvärdet på något annat. En multiplikator på 2x, till exempel, skulle fördubbla bastalet. En multiplikator på 0,5x skulle å andra sidan faktiskt minska bastalet med hälften. Många olika multiplikatorer finns inom finans och ekonomi.
+
+### Den skattemässiga multiplikatorn
+
+Den [skattemässiga multiplikatorn](/fiscal-multiplier) är förhållandet mellan ett lands ytterligare nationalinkomst och den initiala ökningen av utgifterna eller sänkningen av skatter som ledde till den extra inkomsten. Säg till exempel att en nationell regering inför en finanspolitisk stimulans på 1 miljard dollar och att dess konsumenters marginella konsumtionsbenägenhet (MPC) är 0,75. Konsumenter som får den initiala 1 miljarden dollar kommer att spara 250 miljoner dollar och spendera 750 miljoner dollar, vilket i praktiken initierar en annan, mindre omgång av stimulanser. Mottagarna av dessa $750 miljoner kommer att spendera $562,5 miljoner, och så vidare.
+
+### Investeringsmultiplikatorn
+
+En [investeringsmultiplikator](/investment-multiplier) hänvisar på liknande sätt till konceptet att varje ökning av offentliga eller privata investeringar har en mer än proportionell positiv inverkan på den sammanlagda inkomsten och den allmänna ekonomin. Multiplikatorn försöker kvantifiera de ytterligare effekterna av en policy utöver de omedelbart mätbara. Ju större en investerings multiplikator är, desto effektivare är den när det gäller att skapa och fördela välstånd i en ekonomi.
+
+### Intäktsmultiplikatorn
+
+Vinstmultiplikatorn [ramar](/earningsmultiplier) in ett företags aktuella aktiekurs i termer av företagets [vinst per aktie](/eps) (EPS) av aktien. Den presenterar aktiens marknadsvärde som en funktion av företagets vinst och beräknas som pris per aktie/vinst per aktie (vanligen kallad vinstmultipel).
+
+### Aktiemultiplikatorn
+
+Egetkapitalmultiplikatorn är ett vanligt förekommande finansiellt förhållande som beräknas genom att dividera ett företags totala tillgångsvärde med totalt nettoeget kapital [.](/equitymultiplier) Det är ett mått på finansiell hävstång. Företag finansierar sin verksamhet med eget kapital eller lån, så en högre aktiemultiplikator indikerar att en större del av tillgångsfinansieringen hänförs till skuld. Egetkapitalmultiplikatorn är alltså en variation av skuldkvoten, där definitionen av skuldfinansiering omfattar alla skulder.
+
+## Keynesiansk multiplikatorteorin
+
+En populär multiplikatorteori och dess ekvationer skapades av den brittiske ekonomen [John Maynard Keynes](/john_maynard_keynes). Keynes trodde att varje tillskott av statliga utgifter skapade en proportionell ökning av den totala inkomsten för befolkningen, eftersom de extra utgifterna skulle bära igenom ekonomin. I sin bok från 1936, "The General Theory of Employment, Interest and Money," skrev Keynes följande ekvation för att beskriva förhållandet mellan inkomst (Y), konsumtion (C) och investeringar (I):
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>Y</mi><mo>=</mo><mi>C</mi><mo> +</mo><mi>I</mi></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow ></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">där:< /mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle>< /mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>Y</mi><mo>=</mo><mtext>inkomst< /mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle>< /mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mr ow></mrow><mi>C</mi><mo>=</mo><mtext>konsumtion</mtext></mrow></mstyle></mtd></mtr><mtr>< mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow>< mrow></mrow><mi>I</mi><mo>=</mo><mtext>investering</mtext></mrow></mstyle></mtd></mtr></mtable> <annotation encoding="application/x-tex">\begin{aligned} &amp;Y = C + I \\ &amp;\textbf{där:}\\ &amp;Y=\text{income}\\ &amp;C =\text{konsumtion}\\ &amp;I=\text{investering}\\ \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria -hidden="true"><span class="base"><span class="strut" style="height:7.5000000000000002em;vertical-align:-3.50000000000000018em;"></span><span class="mord "><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class=" vlist" style="height:4em;"><span style="top:-6em;"><span class="psrut" style="height:2.84em;"></span><span class="mord "></span></span><span style="top:-4.499999 999999999em;"><span class="psrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-2.9999999999999982 em;"><span class="psrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-1.4999999999999982 em;"><span class="psrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:1.7763568394002505e -15em;"><span class="psrut" style="height:2.84em;"></span><span class="mord"></span></span></span><span class= "vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:3.50000000000000018em;"><span></span>< /span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"> <span class="vlist" style="height:4em;"><span style="top:-6.16em;"><span class="psrut" style="height:3em;"></span>< span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.22222em;">Y</span><span class="mspace " style="margin-right:0.27777777 77777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin"> +</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.07847em;">I< /span></span></span><span style="top:-4.659999999999999em;"><span class="psrut" style="height:3em;"></span><span class="mord "><span class="mord"></span><span class="mord text"><span class="mord textbf">där:</span></span></span></span> <span style="top:-3.1599999999999984em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord">< /span><span class="mord mathnormal" style="margin-right:0.22222em;">Y</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span ><span class="mrel">=</span><span class="mspace" style="margin-right :0.27777777777777778em;"></span><span class="mord text"><span class="mord">inkomst</span></span></span></span><span style="top :-1.6599999999999984em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class ="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class=" mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">förbrukning< /span></span></span></span><span style="top:-0.15999999999999837em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></ span><span class="mord text"><span class="mord">investering</span></s pan></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:3.5000000000000018em;"><span></span></span></span></span></span></span></span></span></span>< /span>
+
+Ekvationen säger att för alla inkomstnivåer spenderar människor en bråkdel och sparar/investerar resten. Han definierade vidare den marginella benägenheten att spara och den marginella benägenheten att konsumera (MPC), med hjälp av dessa teorier för att bestämma mängden av en given inkomst som investeras. Keynes visade också att alla belopp som används för investeringar skulle konsumeras eller återinvesteras många gånger om av olika samhällsmedlemmar.
+
+## Multiplikatorn för fraktionerad reservpengar
+
+Antag att en sparare investerar 100 000 USD på ett sparkonto hos sin bank. Eftersom banken bara måste ha en del av pengarna till hands för att täcka insättningar, kan den låna ut resten av insättningen till en annan part. Antag att banken lånar ut 75 000 USD av den ursprungliga insättningen till ett litet byggföretag, som använder det för att bygga ett lager. Med tiden, om banken fortsätter att låna ut upp till dess erforderliga kassakravskvot R=25 %, kommer mängden extra insättningar eller "pengar" som skapas av den initiala insättningen att vara 1/R eller 1/.25 = 4 gånger, vilket kallas vanligtvis Pengamultiplikatorn.
+
+Medlen som byggföretaget spenderar går till att betala elektriker, rörmokare, takläggare och olika andra parter för att bygga den. Dessa partier fortsätter sedan att spendera de medel de får i enlighet med sina egna intressen. De 100 000 $ har tjänat in en avkastning för investeraren, banken, byggföretaget och entreprenörerna som byggde lagret. Eftersom Keynes teori visade att investeringar multiplicerades, vilket ökade inkomsterna för många parter, myntade Keynes termen "multiplikator" för att beskriva effekten.
+
+Insättningsmultiplikatorn förväxlas ofta eller anses vara synonym med pengamultiplikatorn. Men även om de två termerna är nära besläktade, är de inte utbytbara. Om bankerna lånade ut allt tillgängligt kapital utöver deras nödvändiga reserver, och om låntagarna spenderade varje dollar som lånats från banker, så skulle insättningsmultiplikatorn och penningmultiplikatorn vara i stort sett densamma.
+
+I praktiken är penningmultiplikatorn, som betecknar den faktiska multiplicerade förändringen i en nations penningmängd skapad av lånekapital utöver bankens reserver, alltid mindre än insättningsmultiplikatorn, vilket kan ses som den maximala potentiella penningmängden genom den multiplicerade effekten av bankutlåning.
+
+## Höjdpunkter
+
+– Det finns många exempel på multiplikatorer, som användningen av marginal i handeln eller penningmultiplikatorn i fraktionerad reservbank.
+
+- Ett multiplikatorvärde på 2x skulle därför få till följd att en viss effekt fördubblas; 3x skulle tredubbla det.
+
+- En multiplikator avser en ekonomisk faktor som, när den tillämpas, förstärker effekten av något annat utfall.
+
