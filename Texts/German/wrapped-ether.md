@@ -1,0 +1,11 @@
+---
+keywords: Crypto
+title: Verpackter Äther (WETH)
+description: Eingewickelter Äther (WETH). ERC-20-Token, das Ether im Verhältnis 1:1 darstellt. Es ermöglicht Benutzern, ETH gegen ERC-20-Token auf dezentralen Plattformen zu handeln.
+---
+
+# Verpackter Äther (WETH)
+Wrapped Ether (WETH) bezieht sich auf die [ERC-20-](/erc-20) kompatible Version von Ether (das Wrapping von Ether mit anderen ERC-Standards ist ebenfalls möglich). WETH kann erstellt werden, indem Ether an einen Smart Contract gesendet wird, wo der Ether auf Eis gelegt wird und im Gegenzug das WETH ERC-20-Token im Verhältnis 1:1 erhält. Dieses WETH kann anschließend in denselben Smart Contract zurückgeschickt werden, um „ausgepackt“ oder im Verhältnis 1:1 gegen den ursprünglichen Ether zurückgetauscht zu werden.
+
+Ether, die einheimische Währung in der Ethereum-Blockchain, wurde geschaffen, bevor der ERC-20-Standard und andere Standards implementiert wurden; Daher ist Ether selbst nicht ERC-20-kompatibel und kann nicht dezentral ohne die Vermittlung eines vertrauenswürdigen Dritten oder das Hinzufügen komplexer technischer Implementierungen direkt gegen andere ERC-20-Token ausgetauscht werden. Anstatt zwei Schnittstellen (eine für Ether und eine für ERC-20-Token) innerhalb desselben Smart Contracts zu implementieren, was zu unnötiger Komplexität führt, entschieden sich die Entwickler, Ether zu „verpacken“, um es auf den ERC-20-Standard zu aktualisieren, um WETH und bequem handhaben zu können andere ERC-20 innerhalb desselben Vertrags. Das Wrapping von Ether ermöglicht den direkten, nahtlosen Austausch zwischen Ether und ERC-20-Token, ohne dass ein vertrauenswürdiger Dritter erforderlich ist und ohne unnötige Risiken wie unerwartete Fehler während Transaktionen aufgrund komplexer Implementierungen einzugehen. Viele Ethereum-basierte [dezentrale Anwendungen (dApps)](/decentralized-applications-dapps) wie [dezentrale Börsenplattformen](/decentralized-exchange) verwenden WETH anstelle von Ether, um den direkten und dezentralen Peer-to-Peer-Handel zwischen Ether in „verpackter Form“ und ERC-20-Token unter demselben technischen Standard zu erleichtern. Jüngste Entwicklungen versuchen, einen kanonischen WETH-Standard zu haben, der von allen Ethereum-basierten dApps verwendet werden könnte.
+
