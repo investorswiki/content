@@ -1,0 +1,49 @@
+---
+keywords: Business,Corporate Finance and Accounting,Corporate Finance
+title: Valor agregado para el accionista (SVA)
+description: El valor agregado para los accionistas (SVA) es una medida de las ganancias operativas que una empresa ha producido por encima de sus costos de financiamiento o costo de capital.
+---
+
+# Valor agregado para el accionista (SVA)
+## ¿Qué es el valor agregado para los accionistas (SVA)?
+
+El valor agregado para los accionistas (SVA) es una medida de las ganancias operativas que una empresa ha producido por encima de sus costos de financiamiento o costo de capital. El cálculo básico es [la utilidad operativa neta después de impuestos](/nopat) (NOPAT) menos el costo de capital, que se basa en el costo de capital promedio ponderado de la empresa.
+
+## Cómo funciona el valor agregado para los accionistas (SVA)
+
+Algunos inversores de valor utilizan SVA como herramienta para juzgar la rentabilidad y la eficacia de la gestión de la corporación. Esta línea de pensamiento es congruente con la gestión basada en el valor, que asume que la principal consideración de una corporación debe ser maximizar [el valor económico](/economic-value) para sus accionistas.
+
+El valor para los accionistas se crea cuando los beneficios de una empresa superan sus costes. Pero hay más de una manera de calcular esto. El beneficio neto es una medida aproximada del valor añadido para los accionistas, pero no tiene en cuenta los costes de financiación ni el coste del capital. El valor agregado para los accionistas (SVA) muestra los ingresos que una empresa ha obtenido por encima de sus costos de financiación.
+
+El valor agregado para el accionista tiene una serie de ventajas. La fórmula SVA utiliza NOPAT, que se basa en las ganancias operativas y excluye los ahorros fiscales que resultan del uso de la deuda. Esto elimina el efecto de las decisiones de financiación sobre los beneficios y permite una comparación de empresas de manzanas con manzanas, independientemente de su método de financiación.
+
+NOPAT también excluye [elementos extraordinarios](/extraordinaryitem) y, por lo tanto, es una medida más precisa que la utilidad neta de la capacidad de una empresa para generar utilidades a partir de sus operaciones normales. Las partidas extraordinarias incluyen costos de reestructuración y otros gastos únicos que pueden afectar temporalmente las ganancias de una empresa.
+
+## Fórmula para el valor agregado de los accionistas (SVA)
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semántica><mtable rowspacing="0.24999999999999992em " columnalign="derecha izquierda" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>SVA</mtext><mo>=</mo><mtext>NOPAT</mtext><mo> −</mo><mtext>CC</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow ></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="negrita">donde:< /mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle>< /mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>NOPAT</mtext><mo>=</mo><mtext>Red operativa beneficio después de impuestos</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow>< /mstyle></mtd ><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>CC</mtext><mo>=</mo><mtext>Coste de capital< /mtext></mrow></mstyle></mtd></mtr></mtable><anotación codificación="aplicación/x-tex">\begin{alineado} &amp;\text{SVA} = \text {NOPAT} - \text{CC} \\ &amp;\textbf{donde:} \\ &amp;\text{NOPAT} = \text{Beneficio operativo neto después de impuestos} \\ &amp;\text{CC} = \text {Coste de capital} \\ \end{alineado}</anotación></semántica></matemáticas></span><span class="katex-html" aria-hidden="true"><span class=" base"><span class="strut" style="height:6em;vertical-align:-2.75000000000000004em;"></span><span class="mord"><span class="mtable"><span class ="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:3.25em;">< span style="top:-5.25em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span>< span style="top:-3.75em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span>< estilo de intervalo = "superior: -2.249 999999999999em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-0.7499999999999996 em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span></span><span class=" vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:2.7500000000000004em;"><span></span></ span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r">< span class="vlist" style="height:3.25em;"><span style="top:-5.41em;"><span class="pstrut" style="height:3em;"></span>< span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">SVA</span></span><span class=" mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"> </span><span class="mord text"><span class="mord">NOPAT</span></span><span class="mspace" style="margin-right:0.2222222222222222em;">< /span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord text"><span class="mord" >CC</span></span></span></span><span style="top:-3.91em;"><span class="pstrut" style="height:3em;"></span ><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">donde:</span></span>< /span></span><span style="top:-2.4099999999999993em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">NOPAT</span></span><span class="mspace" style="margin-right: 0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class=" mord text"><span class="mord">Beneficio operativo neto después de impuestos</span></span></span></span><span style="top:-0.9099999999999997em;"><span class= "pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span c lass="mord">CC</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span ><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Coste de capital</span></ span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" estilo="altura:2.7500000000000004em;"><span></span></span></span></span></span></span></span></span></span>< /lapso>
+
+## Valor agregado para el accionista en la inversión en valor
+
+La popularidad de SVA alcanzó su punto máximo durante la década de 1980 cuando los gerentes corporativos y las juntas directivas fueron objeto de escrutinio por centrarse en las ganancias personales o de la empresa en lugar de centrarse en los accionistas. La comunidad inversora ya no tiene en tan alta estima a SVA.
+
+[inversores de valor](/valueinvesting) que se centran en SVA están más preocupados por generar rendimientos a corto plazo por encima del promedio del mercado que con rendimientos a más largo plazo. Esta compensación está implícita en el modelo SVA, que castiga a las empresas por [incurrir en costos de capital](/capital-investment) [en](/capital-investment) un intento de expandir las operaciones comerciales. Los críticos responden que estos inversores de valor están impulsando a las empresas a tomar decisiones miopes en lugar de centrarse en satisfacer a sus clientes.
+
+En cierto sentido, los inversores que se enfocan en SVA a menudo buscan [valor agregado en efectivo](/cva) (CVA). Las empresas que generan mucho efectivo a través de sus operaciones pueden pagar dividendos más altos o mostrar mayores ganancias a corto plazo. Sin embargo, esto es solo un efecto próximo de la productividad real o la creación de riqueza.
+
+Las inversiones reales a menudo requieren intensos gastos de capital y pérdidas a corto plazo. Esto es especialmente cierto en la era digital actual impulsada por la innovación y la fuerte inversión en tecnología y experimentación. Un nuevo concepto llamado blitz-scaling podría verse como lo opuesto a SVA en el sentido de que no presta atención a las pérdidas a corto plazo y toda la atención a la creación de valor a largo plazo.
+
+Los accionistas siempre quieren que sus corporaciones maximicen los rendimientos, paguen [dividendos](/dividend) y muestren ganancias. Los inversores de valor pueden correr el riesgo de volverse miopes si se centran únicamente en SVA y no consideran las implicaciones a largo plazo de una reinversión demasiado pequeña.
+
+## Limitaciones del valor agregado de los accionistas
+
+Una de las principales desventajas del valor agregado para los accionistas es que es difícil de calcular para las empresas privadas. SVA requiere calcular el costo de capital, incluido el costo de capital. Esto es difícil para las empresas que son de propiedad privada.
+
+## Reflejos
+
+- La fórmula SVA utiliza NOPAT, que se basa en las ganancias operativas y excluye los ahorros fiscales que resultan del uso de la deuda.
+
+- Una de las principales desventajas del valor agregado para los accionistas es que es difícil de calcular para las empresas privadas.
+
+- El valor agregado para los accionistas (SVA) es una medida de las ganancias operativas que una empresa ha producido por encima de sus costos de financiamiento o costo de capital.
+
