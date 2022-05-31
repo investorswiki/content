@@ -1,0 +1,43 @@
+---
+keywords: Business,Corporate Finance and Accounting,Accounting
+title: Declining Balance Method
+description: Ved å bruke degressive saldo-metoden rapporterer et selskap større avskrivningskostnader i løpet av de tidligere årene av eiendelens brukstid.
+---
+
+# Declining Balance Method
+## Hva er den fallende saldometoden?
+
+Den fallende saldo-metoden er et [akselerert avskrivningssystem](/accelerateddepreciation) for å registrere større avskrivningsutgifter i løpet av de tidligere årene av en eiendels utnyttbare levetid og bokføring av mindre avskrivningskostnader i løpet av eiendelens senere år.
+
+## Hvordan beregne fallende saldoavskrivninger
+
+Avskrivninger etter degressive saldometoden beregnes med følgende formel:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Degressiv saldoavskrivning</mtext><mo>=</mo><mi>C</mi>< mi>B</mi><mi>V</mi><mo>×</mo><mi>D</mi><mi>R</mi></mrow></mstyle></mtd ></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle ="true"><mrow><mrow></mrow><mtext mathvariant="bold">hvor:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd ><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow ></mrow><mi>C</mi><mi>B</mi><mi>V</mi><mo>=</mo><mtext>nåværende bokført verdi</mtext></mrow ></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displayst yle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi> D</mi><mi>R</mi><mo>=</mo><mtext>avskrivningsgrad (%)</mtext></mrow></mstyle></mtd></mtr>< /mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{Declining Balance Depreciation} = CBV \times DR\\ &amp;\textbf{hvor:}\\ &amp;CBV= \text{nåværende bokført verdi}\\ &amp;DR=\text{avskrivningssats (\%)}\\ \end{aligned}</annotation></semantics></math></span><span class= "katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:6em;vertical-align:-2.7500000000000004em;"></span>< span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"> <span class="vlist" style="height:3.25em;"><span style="top:-5.25em;"><span class="psrut" style="height:2.84em;"></span ><span class="mord"></span></span><span style="top:-3.75em;"><span class="psrut" style="height:2.84em;"></span ><span class="mord"></s pan></span><span style="top:-2.249999999999999em;"><span class="psrut" style="height:2.84em;"></span><span class="mord"></ span></span><span style="top:-0.7499999999999996em;"><span class="psrut" style="height:2.84em;"></span><span class="mord"></ span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height :2.7500000000000004em;"><span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist -t2"><span class="vlist-r"><span class="vlist" style="height:3.25em;"><span style="top:-5.41em;"><span class="pstrut " style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord" >Degressiv saldoavskrivning</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span cl ass="mord mathnormal" style="margin-right:0.05017em;">B</span><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.22222222222222222em ;"></span><span class="mord mathnormal" style="margin-right:0.02778em;">D</span><span class="mord mathnormal" style="margin-right:0.00773em; ">R</span></span></span><span style="top:-3.91em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">hvor:</span></span></span> </span><span style="top:-2.4099999999999993em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class=" mord"></span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mord mathnormal" style="margin-right:0.05017em; ">B</span><span class="mord mathnormal" style="margin-right:0.22222em;">V</sp an><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin- right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">nåværende bokført verdi</span></span></span></span><span style ="top:-0.9099999999999997em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord"></span> <span class="mord mathnormal" style="margin-right:0.02778em;">D</span><span class="mord mathnormal" style="margin-right:0.00773em;">R</span> <span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0,27777777777777778em;"></span><span class="mord text"><span class="mord">avskrivningssats (%)</span></span></span></span></span ><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:2.75000000000000004em;"><span> </span></span></span></span></span></span></span></span></span></span>
+
+
+
+Dagens bokførte verdi er eiendelens nettoverdi ved starten av en regnskapsperiode, beregnet ved å trekke [akkumulerte avskrivninger](/accumulated-depreciation) fra anleggsmiddelets kostpris. [Restverdi](/residual-value) er estimert bergingsverdi ved slutten av eiendelens utnyttbare levetid. Og avskrivningsraten er definert i henhold til det estimerte mønsteret for en eiendels bruk over dens levetid. For eksempel, hvis en eiendel som koster 1000 dollar, med en gjenvinningsverdi på 100 dollar og en 10-årig levetid faller med 30 % hvert år, er utgiften 270 dollar det første året, 189 dollar det andre året, 132 dollar det tredje året, og så videre.
+
+## Hva forteller metoden med fallende saldo deg?
+
+Den fallende saldo-metoden, også kjent som den reduserende saldo-metoden, er ideell for eiendeler som raskt mister sine verdier eller uunngåelig blir foreldet. Dette er klassisk sant med datautstyr, mobiltelefoner og andre høyteknologiske gjenstander, som vanligvis er nyttige tidligere, men blir mindre etter hvert som nyere modeller kommer på markedet. En akselerert metode for avskrivning medvirker til slutt i utfasingen av disse eiendelene.
+
+Teknikken med fallende saldo representerer det motsatte av den lineære avskrivningsmetoden, som er mer egnet for eiendeler hvis bokførte verdi faller jevnt gjennom hele levetiden. Denne metoden trekker ganske enkelt bergingsverdien fra kostnaden for eiendelen, som deretter deles på eiendelens brukstid. Så hvis et selskap betaler ut $15.000 for en lastebil med en verdi på $5.000 og en brukstid på fem år, tilsvarer den årlige lineære avskrivningskostnaden $2.000 ($15.000 minus $5.000 delt på fem).
+
+## Fallende avskrivning vs. dobbeltnedsettelsesmetoden
+
+Hvis et selskap ofte gjenkjenner store gevinster ved salg av eiendelene sine, kan dette signalisere at det bruker akselererte avskrivningsmetoder, for eksempel avskrivningsmetoden med dobbel saldo. Nettoinntekten vil være lavere i mange år, men fordi bokført verdi ender opp med å være lavere enn markedsverdi, fører dette til syvende og sist til en større gevinst når eiendelen selges. Hvis denne eiendelen fortsatt er verdifull, kan salget av den gi et misvisende bilde av selskapets underliggende helse.
+
+> Bruk av akselerert avskrivningsteknikk betyr at det vil være mindre skattepliktig inntekt i de tidligere årene av eiendelens levetid.
+
+>
+
+## Høydepunkter
+
+- I regnskap er den degressive saldo-metoden et akselerert avskrivningssystem for å registrere større avskrivningskostnader i løpet av de tidligere årene av en eiendels utnyttbare levetid, mens den registrerer mindre avskrivninger i de senere årene.
+
+– Degressiv saldoteknikk representerer det motsatte av den lineære avskrivningsmetoden, som er mer egnet for eiendeler hvis bokførte verdi stadig synker over tid.
+
+- Denne teknikken er nyttig for å registrere verdifall på datamaskiner, mobiltelefoner og andre høyteknologiske produkter som raskt blir foreldet.
+
