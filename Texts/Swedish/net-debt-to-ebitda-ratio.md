@@ -1,0 +1,49 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Ratios
+title: Nettoskuld i förhållande till EBITDA
+description: Nettoskuld i förhållande till EBITA är ett mått på hävstångseffekt, beräknat som ett företags räntebärande skulder minus kontanter, dividerat med EBITDA.
+---
+
+# Nettoskuld i förhållande till EBITDA
+## Vad är nettoskuld-till-EBITDA-förhållandet?
+
+Nettoskulden i förhållande till [EBITDA](/ebitda) (vinst före ränteavskrivningar och amorteringar) är ett mått på hävstångseffekten, beräknat som ett företags räntebärande skulder minus likvida medel, dividerat med dess EBITDA. Nettoskuld i förhållande till EBITDA är en skuldkvot som visar hur många år det skulle ta för ett företag att betala tillbaka sin skuld om nettoskuld och EBITDA hålls konstant. Men om ett företag har mer kontanter än skulder kan förhållandet vara negativt. Det liknar [skuld/EBITDA-förhållandet](/debt_edbitda),. men nettoskulden subtraherar kontanter och likvida medel medan standardkvoten inte gör det.
+
+##﻿Formeln för nettoskuld till EBITDA är
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>N </mi><mi>e</mi><mi>t</mi><mtext> </mtext><mi>D</mi><mi>e</mi><mi>b</mi ><mi>t</mi><mtext> </mtext><mi>t</mi><mi>o</mi><mtext> </mtext><mi>E</mi><mi> B</mi><mi>I</mi><mi>T</mi><mi>D</mi><mi>A</mi><mo>=</mo><mfrac><mrow ><mi>T</mi><mi>o</mi><mi>t</mi><mi>a</mi><mi>l</mi><mtext> </mtext><mi >D</mi><mi>e</mi><mi>b</mi><mi>t</mi><mo>−</mo><mi>C</mi><mi>a </mi><mi>s</mi><mi>h</mi><mi mathvariant="normal">&amp;</mi><mi>E</mi><mi>q</mi> <mi>u</mi><mi>i</mi><mi>v</mi><mi>a</mi><mi>l</mi><mi>e</mi><mi >n</mi><mi>t</mi><mi>s</mi></mrow><mrow><mi>E</mi><mi>B</mi><mi>I< /mi><mi>T</mi><mi>D</mi><mi>A</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex" >Netto \ Skuld \ till \ EBITDA = \frac{Totalt \ Skuld - Kontanter \&amp; Ekvivalenter}{EBITDA}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class= "strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord mathnormal">e</span><span class="mord mathnormal">t</span><span class="mspace"> </span><span class="mord mathnormal" style="margin -right:0.02778em;">D</span><span class="mord mathnormal">e</span><span class="mord mathnormal">b</span><span class="mord mathnormal"> t</span><span class="mspace"> </span><span class="mord mathnormal">t</span><span class="mord mathnormal">o</span><span class=" mspace"> </span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mord mathnormal" style="margin-right:0.05017em; ">B</span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="mord mathnormal" style="margin-right:0.13889em; ">T</span><span class="mord mathnormal" sty le="margin-right:0.02778em;">D</span><span class="mord mathnormal">A</span><span class="mspace" style="margin-right:0.2777777777777778em;"> </span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base "><span class="strut" style="height:1.277216em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9322159999999999em;"> <span style="top:-2.6550000000000002em;"><span class="psrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class= "mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.05764em;">E</span><span class="mord mathnormal mtight" style="margin-right:0.05017em; ">B</span><span class="mord mathnormal mtight" style="margin-right:0.07847em;">I</span><span class="mord mathnormal mtight" style="margin-right:0.13889 em;">T </span><span class="mord mathnormal mtight" style="margin-right:0.02778em;">D</span><span class="mord mathnormal mtight">A</span></span>< /span></span><span style="top:-3.23em;"><span class="psrut" style="height:3em;"></span><span class="frac-line" stil ="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108em;"><span class="psrut" style="height:3em;"> </span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.13889em;">T</span> span><span class="mord mathnormal mtight">o</span><span class="mord mathnormal mtight">t</span><span class="mord mathnormal mtight">a</span><span class ="mord mathnormal mtight" style="margin-right:0.01968em;">l</span><span class="mspace mtight"><span class="mtight"> </span></span><span class="mord mathnormal mtight" style="margin-right:0.02778em;">D</span><span class="mord mathnormal mtight">e</span><span class="mord mathnormal mtight">b </span><span class="mord mathnormal m tight">t</span><span class="mbin mtight">−</span><span class="mord mathnormal mtight" style="margin-right:0.07153em;">C</span><span class="mord mathnormal mtight">a</span><span class="mord mathnormal mtight">s</span><span class="mord mathnormal mtight">h</span><span class="mord mtight ">&amp;</span><span class="mord mathnormal mtight" style="margin-right:0.05764em;">E</span><span class="mord mathnormal mtight" style="margin-right: 0.03588em;">q</span><span class="mord mathnormal mtight">u</span><span class="mord mathnormal mtight">i</span><span class="mord mathnormal mtight" stil ="margin-right:0.03588em;">v</span><span class="mord mathnormal mtight">a</span><span class="mord mathnormal mtight" style="margin-right:0.01968em; ">l</span><span class="mord mathnormal mtight">e</span><span class="mord mathnormal mtight">n</span><span class="mord mathnormal mtight">t</span> span><span class="mord mathnormal mtight">s</span></span></span></span></span><span class="vlist-s">​</span></ span><span class=" vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class=" mclose nulldelimiter"></span></span></span></span></span>
+
+
+
+## Vad nettoskuld-till-EBITDA kan berätta för dig
+
+Nettoskuld-till-EBITDA-förhållandet är populärt bland analytiker eftersom det tar hänsyn till ett företags förmåga att minska sin skuld. Förhållanden högre än 4 eller 5 ringer vanligtvis varningsklockorna eftersom detta indikerar att ett företag är mindre sannolikt att kunna hantera sin skuldbörda och därmed är mindre sannolikt att kunna ta på sig den ytterligare skuld som krävs för att växa verksamheten.
+
+Nettoskulden i förhållande till EBITDA bör jämföras med ett jämförelseindex eller branschgenomsnittet för att fastställa ett företags kreditvärdighet. Dessutom skulle en [horisontell analys](/horizontalanalysis) kunna göras för att avgöra om ett företag har ökat eller minskat sin skuldbörda under en viss period. För horisontell analys jämförs nyckeltal eller poster i bokslutet med tidigare perioder för att fastställa hur företaget har vuxit över den angivna tidsramen.
+
+## Exempel på hur man använder nettoskuld till EBITDA
+
+Antag att en investerare vill göra en horisontell analys av företaget ABC för att fastställa dess förmåga att betala av sin skuld. För dess föregående räkenskapsår var företaget ABC:s kortfristiga skulder 6,31 miljarder dollar, långfristiga skulder var 28,99 miljarder dollar och kassainnehav var 13,84 miljarder dollar.
+
+Därför rapporterade Company ABC en nettoskuld på 21,46 miljarder USD, eller 6,31 miljarder USD plus 28,99 miljarder USD minus 13,84 miljarder USD, och en EBITDA på 60,60 miljarder USD under räkenskapsperioden. Följaktligen är Company ABC:s nettoskuld i förhållande till EBITDA 0,35 eller 21,46 miljarder USD dividerat med 60,60 miljarder USD.
+
+Nu, för det senaste räkenskapsåret, hade företaget ABC kortfristiga skulder på 8,50 miljarder dollar, långfristiga skulder på 53,46 miljarder dollar och 21,12 miljarder dollar i kontanter. Bolagets nettoskuld ökade med 90,31% till 40,84 miljarder USD jämfört med samma period föregående år. Företaget ABC rapporterade en EBITDA på 77,89 miljarder dollar, en ökning med 28,53% från dess EBITDA föregående år.
+
+Därför hade företaget ABC en nettoskuld i förhållande till EBITDA på 0,52 eller 40,84 miljarder dollar dividerat med 77,89 miljarder dollar. Bolaget ABC:s nettoskuld i förhållande till EBITDA ökade med 0,17, eller 49,81 % jämfört med föregående år.
+
+## Begränsningar för att använda nettoskuld till EBITDA
+
+Analytiker gillar nettoskuld/EBITDA-förhållandet eftersom det är lätt att beräkna. Skuldsiffror finns i balansräkningen och EBITDA kan beräknas från resultaträkningen. Problemet är dock att det kanske inte ger det mest exakta måttet på inkomster. Mer än intäkter vill analytiker bedöma mängden kontanter som är tillgängliga för återbetalning av skulder.
+
+Avskrivningar och amorteringar är icke-kontanta utgifter som egentligen inte påverkar kassaflödena, men ränta kan vara en betydande kostnad för vissa företag. Banker och investerare som tittar på det aktuella skuld/EBITDA-förhållandet för att få insikt om hur väl företaget kan betala för sin skuld kanske vill överväga effekten av ränta på skulden, även om den skulden kommer att inkluderas i en ny emission. På detta sätt kan nettoinkomst minus investeringar, plus avskrivningar och amorteringar vara det bättre måttet på tillgängliga kontanter för återbetalning av skulden.
+
+## Höjdpunkter
+
+– Det liknar skuld/EBITDA-kvoten, men nettoskulden drar likvida medel och likvida medel medan standardkvoten inte gör det.
+
+– Nettoskuld-till-EBITDA-kvoten är en skuldkvot som visar hur många år det skulle ta för ett företag att betala tillbaka sin skuld om nettoskuld och EBITDA hålls konstant.
+
+– Om ett företag har mer kontanter än skulder kan förhållandet vara negativt.
+
+– När analytiker tittar på nettoskulden i förhållande till EBITDA vill de veta hur väl ett företag kan täcka sina skulder.
+
