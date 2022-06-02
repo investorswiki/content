@@ -1,0 +1,85 @@
+---
+keywords: Trading,Technical Analysis,Technical Analysis Basic Education
+title: Promedio móvil simple (SMA)
+description: Un promedio móvil simple (SMA) calcula el promedio de un rango seleccionado de precios, generalmente precios de cierre, por el número de períodos en ese rango.
+---
+
+# Promedio móvil simple (SMA)
+## ¿Qué es una media móvil simple (SMA)?
+
+Un promedio móvil simple (SMA) calcula el promedio de un rango seleccionado de precios, generalmente precios de cierre, por el número de períodos en ese rango.
+
+## Comprender la media móvil simple (SMA)
+
+[promedio móvil](/movingaverage) aritmético que se calcula sumando precios recientes y luego dividiendo esa cifra por la cantidad de períodos de tiempo en el cálculo promedio. Por ejemplo, se podría sumar el precio de cierre de un valor por una cantidad de períodos de tiempo y luego dividir este total por esa misma cantidad de períodos. Los promedios a corto plazo responden rápidamente a los cambios en el precio del valor subyacente, mientras que los promedios a largo plazo reaccionan más lentamente. Hay otros tipos de medias móviles, incluida la [media móvil exponencial](/ema) (EMA) y la media móvil ponderada (WMA).
+
+<!--4CE61B64F8332EF6140956CD94338661-->
+
+La fórmula para SMA es:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semántica><mtable rowspacing="0.24999999999999992em " columnalign="derecha izquierda" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>SMA</mtext><mo>=</mo><mfrac><mrow><msub><mi >A</mi><mn>1</mn></msub><mo>+</mo><msub><mi>A</mi><mn>2</mn></msub>< mo>+</mo><mi variante matemática="normal">.</mi><mi variante matemática="normal">.</mi><mi variante matemática="normal">.</mi><mo>+ </mo><msub><mi>A</mi><mi>n</mi></msub></mrow><mi>n</mi></mfrac></mrow></mstyle ></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel= "0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="negrita">donde:</mtext></mrow></mstyle></mtd></mtr>< mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displayty le="true"><mrow><mrow></mrow><msub><mi>A</mi><mi>n</mi></msub><mo>=</mo><mtext> el precio de un activo en el período </mtext><mi>n</mi></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle= "verdadero"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>n< /mi><mo>=</mo><mtext>el número de períodos totales</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/ x-tex">\begin{alineado} &amp;\text{SMA}=\dfrac{A_1 + A_2 + ... + A_n}{n} \\ &amp;\textbf{donde:}\\ &amp;A_n= \text{el precio de un activo en el período } n\\ &amp;n=\text{el número total de períodos}\\ \end{aligned}</annotation></semantics></math></span> <span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:6.846329999999999em;vertical-align:-3.1731649999999996em;"> </span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class=" vlist-r"><span class="vlist" style="heig ht:3.6731649999999996em;"><span style="top:-5.673165em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord">< /span></span><span style="top:-3.8471650000000004em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord">< /span></span><span style="top:-2.34716500000000004em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord">< /span></span><span style="top:-0.84716500000000008em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord">< /span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style=" altura:3.1731649999999996em;"><span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="altura:3.6731649999999996em;"><span style="top:-5.673165em;"><span class=" pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class=" mord"></span><span class="mord text"><span class="mord">SMA</span></span><span class="mspace" style="margin-right:0.2777777777777778em; "></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"> <span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist " estilo="altura:1.36033em;"><span estilo="superior:-2.314em;"><span clase="pstrut" style="altura:3em;"></span><span clase="mord "><span class="mord mathnormal">n</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em ;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;" ><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"><span class="mord mathnormal">A</span ><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em; "><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span>< span class="restablecimiento de tamaño-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​< /span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span>< /span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span clase ="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord"><span class="mord mathnormal">A</span><span class="msupsub"> <span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.301107999999999993em;"><span style="top:-2.5500000000000003em ;margen-izquierdo:0em;margen-derecho:0.05em;"><span class="pstrut" style="altura:2.7em;"></span><span class="restablecimiento de tamaño-size6 size3 mtight"> <span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></s pan><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></ span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style ="margin-right:0.2222222222222222em;"></span><span class="mord">.</span><span class="mord">.</span><span class="mord">. </span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style=" margen derecho:0.2222222222222222em;"></span><span class="mord"><span class="mord mathnormal">A</span><span class="msupsub"><span class="vlist- t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em; margen derecho: 0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="restablecimiento de tamaño-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span><span class="vlist-s">​</span></span><span cla ss="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></ span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" estilo="altura:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span> </span></span><span style="top:-3.84716500000000004em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"> <span class="mord"></span><span class="mord text"><span class="mord textbf">donde:</span></span></span></span><span style="top:-2.3471650000000004em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></ span><span class="mord"><span class="mord mathnormal">A</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class=" vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margen-left:0em;margin-right:0.05em;"><span estilo de clase = "pstrut" ="altura:2.7em;"></span><span class="restablecer tamaño-tamaño6 tamaño3 mtight"><span class="mord mathnormal mtight">n</span></span></span>< /span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;">< span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span>< abarcan clase="mrel">=</span><span clase="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord ">el precio de un activo en el período </span></span><span class="mord mathnormal">n</span></span></span><span style="top:-0.8471650000000008em; "><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal ">n</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">el número de períodos totales</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist- r"><span class="vlist" style="height:3.1731649999999996em;"><span></span></span></span></span></span></span></span ></span></span></span>
+
+Por ejemplo, así es como calcularía el promedio móvil simple de un valor con los siguientes precios de cierre durante un período de 15 días.
+
+Semana uno (5 días): 20, 22, 24, 25, 23
+
+Segunda semana (5 días): 26, 28, 26, 29, 27
+
+Semana tres (5 días): 28, 30, 27, 29, 28
+
+Un promedio móvil de 10 días promediaría los [precios de cierre](/closingprice) de los primeros 10 días como el primer punto de datos. El siguiente punto de datos reduciría el precio más temprano, agregaría el precio el día 11, luego tomaría el promedio, y así sucesivamente. Del mismo modo, un promedio móvil de 50 días acumularía suficientes datos para promediar 50 días consecutivos de datos de forma continua.
+
+Un promedio móvil simple es personalizable porque se puede calcular para diferentes números de períodos de tiempo. Esto se hace sumando el precio de cierre del valor durante varios períodos de tiempo y luego dividiendo este total por el número de períodos de tiempo, lo que da el precio promedio del valor durante el período de tiempo.
+
+Un promedio móvil simple suaviza la volatilidad y facilita ver la tendencia del precio de un valor. Si la media móvil simple apunta hacia arriba, significa que el precio del valor está aumentando. Si apunta hacia abajo, significa que el precio del valor está disminuyendo. Cuanto más largo sea el marco de tiempo para el promedio móvil, más suave será el promedio móvil simple. Un promedio móvil a más corto plazo es más volátil, pero su lectura está más cerca de los datos de origen.
+
+> Uno de los promedios móviles simples más populares es el SMA de 200 días. Sin embargo, existe el peligro de seguir a la multitud. Como explica **The Wall Street Journal**, dado que miles de comerciantes basan sus estrategias en la SMA de 200 días, existe la posibilidad de que estas predicciones se vuelvan autocumplidas y limiten el crecimiento de los precios.
+
+>
+
+## Consideraciones Especiales
+
+### Importancia analítica
+
+Los promedios móviles son una herramienta analítica importante que se utiliza para identificar las tendencias de precios actuales y el potencial de cambio en una tendencia establecida. El uso más simple de un SMA en el análisis técnico es usarlo para determinar rápidamente si un activo tiene una tendencia alcista o bajista.
+
+Otro uso analítico popular, aunque un poco más complejo, es comparar un par de promedios móviles simples, cada uno de los cuales cubre diferentes marcos de tiempo. Si un promedio móvil simple a corto plazo está por encima de un promedio a largo plazo, se espera una tendencia alcista. Por otro lado, si el promedio a largo plazo está por encima del promedio a corto plazo, el resultado esperado podría ser una tendencia a la baja.
+
+### Patrones comerciales populares
+
+Dos patrones comerciales populares que usan promedios móviles simples incluyen la cruz de la muerte y la cruz dorada. Un [cruce de muerte](/deathcross) ocurre cuando la SMA de 50 días cruza por debajo de la SMA de 200 días. Esto se considera una señal bajista, lo que indica que se avecinan más pérdidas. La [cruz dorada](/goldencross) ocurre cuando una SMA a corto plazo se rompe por encima de una SMA a largo plazo. Reforzado por los altos volúmenes de negociación, esto puede indicar que se esperan más ganancias.
+
+## Media móvil simple frente a media móvil exponencial
+
+La principal diferencia entre un promedio móvil exponencial (EMA) y un promedio móvil simple es la sensibilidad que cada uno muestra a los cambios en los datos utilizados en su cálculo. Más específicamente, la EMA otorga una mayor ponderación a los precios recientes, mientras que la SMA asigna la misma ponderación a todos los valores.
+
+Los dos promedios son similares porque se interpretan de la misma manera y los operadores técnicos los usan comúnmente para suavizar las fluctuaciones de precios. Dado que las EMA otorgan una mayor ponderación a los datos recientes que a los datos más antiguos, son más reactivas a los últimos [cambios de precios](/price-change) que las SMA, lo que hace que los resultados de las EMA sean más oportunos y explica por qué la EMA es el promedio preferido entre muchos comerciantes.
+
+## Limitaciones de la media móvil simple
+
+No está claro si se debe poner más énfasis en los días más recientes del período de tiempo o en datos más distantes. Muchos comerciantes creen que los nuevos datos reflejarán mejor la tendencia actual con la que se mueve la seguridad. Al mismo tiempo, otros comerciantes sienten que privilegiar ciertas fechas sobre otras sesgará la tendencia. Por lo tanto, la SMA puede basarse demasiado en datos desactualizados, ya que trata el impacto del día 10 o 200 de la misma manera que el del primer o segundo día.
+
+De manera similar, la SMA se basa completamente en datos históricos. Muchas personas (incluidos los economistas) creen que los mercados son eficientes, es decir, que los precios actuales del mercado ya reflejan toda la información disponible. Si los mercados son realmente eficientes, el uso de datos históricos no debería decirnos nada sobre la dirección futura de los precios de los activos.
+
+## Reflejos
+
+- Un promedio móvil simple se puede mejorar como un promedio móvil exponencial (EMA) que está más ponderado en la acción reciente del precio.
+
+- Los promedios móviles simples calculan el promedio de un rango de precios por el número de períodos dentro de ese rango.
+
+- Un promedio móvil simple es un indicador técnico que puede ayudar a determinar si el precio de un activo continuará o si revertirá una tendencia alcista o bajista.
+
+## PREGUNTAS MÁS FRECUENTES
+
+### ¿Cómo se utilizan las medias móviles simples en el análisis técnico?
+
+Los comerciantes usan promedios móviles simples (SMA) para trazar la trayectoria a largo plazo de una acción u otro valor, mientras ignoran el [ruido](/noise) de los movimientos de precios del día a día. Esto permite a los comerciantes comparar tendencias a mediano y largo plazo en un horizonte de tiempo más amplio. Por ejemplo, si la SMA de 200 días de un valor cae por debajo de su SMA de 50 días, esto generalmente se interpreta como un patrón cruzado de muerte bajista y una señal de caídas adicionales. El patrón opuesto, la cruz dorada, indica potencial para un repunte del mercado.
+
+### ¿Cómo se calcula una media móvil simple?
+
+Para calcular un promedio móvil simple, la cantidad de precios dentro de un período de tiempo se divide por la cantidad de períodos totales. Por ejemplo, considere que las acciones de Tesla cerraron a $10, $11, $12, $11, $14 durante un período de cinco días. El promedio móvil simple de las acciones de Tesla sería igual a $10 + $11 + $12 + $11 + $14 dividido por 5, lo que equivale a $11,6.
+
+### ¿Cuál es la diferencia entre una media móvil simple y una media móvil exponencial?
+
+Mientras que un promedio móvil simple otorga el mismo peso a cada uno de los valores dentro de un período de tiempo, un promedio móvil exponencial otorga mayor peso a los precios recientes. Los promedios móviles exponenciales generalmente se consideran un indicador más oportuno de una tendencia de precios y, debido a esto, muchos comerciantes prefieren usar esto en lugar de un promedio móvil simple. Los promedios móviles exponenciales a corto plazo comunes incluyen los de 12 y 26 días. Los promedios móviles exponenciales de 50 y 200 días se utilizan para indicar tendencias a largo plazo.
+
