@@ -1,0 +1,37 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Ratios
+title: Kontantinntekt per aksje (kontant-EPS)
+description: Kontantinntjening per aksje er et mer konservativt alternativ til basisfortjeneste per aksje som brukes til å vurdere økonomiske resultater per aksje.
+---
+
+# Kontantinntekt per aksje (kontant-EPS)
+## Hva betyr kontantinntekter per aksje?
+
+Kontantinntjening per aksje (kontant EPS), eller mer ofte kalt [operasjonell kontantstrøm](/operatingcashflow),. er et økonomisk resultatmål som sammenligner kontantstrøm med antall utestående aksjer. Kontant EPS skiller seg fra det mer populære målet for netto fortjeneste, resultat per aksje ( [EPS](/eps) ), som sammenligner nettoinntekt per aksje.
+
+Fri for ikke-kontante komponenter, for eksempel [avskrivninger](/depreciation) som er inkludert i resultatbaserte EPS-mål, kan Cash EPS vise seg å være en mer pålitelig måler for finansiell og operasjonell helse.
+
+Jo høyere et selskaps kontante EPS, jo bedre anses det å ha prestert over en periode. Et selskaps kontante EPS kan brukes til å sammenligne med andre selskaper eller trender i et selskaps virksomhet.
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Kontanter EPS </mtext><mo>=</mo><mtext> </mtext><mfrac> <mtext>Kontantstrøm fra drift</mtext><mtext>Utvannede aksjer utestående</mtext></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel= "0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow> <mtext mathvariant="bold">hvor:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true">< mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>EPS </mtext><mo >=</mo><mtext> inntjening per aksje</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encodin g="application/x-tex">\begin{aligned}&amp;\text{Cash EPS}\ =\ \frac{\text{Driftskontantstrøm}}{\text{Utvannede aksjer utestående}}\\&amp; \textbf{hvor:}\\&amp;\text{EPS}\ =\ \text{inntekt per aksje}\end{aligned}</annotation></semantics></math></span><span class= "katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:5.55188em;vertical-align:-2.5259400000000003em;"></span> <span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r" ><span class="vlist" style="height:3.0259399999999994em;"><span style="top:-5.025939999999999em;"><span class="psrut" style="height:3.3714399999999998em;"></span> span><span class="mord"></span></span><span style="top:-3.0054999999999996em;"><span class="psrut" style="height:3.3714399999999998em;"></ span><span class="mord"></span></span><span style="top:-1.5054999999999996em;"><span class="psrut" style="height:3.3714399999999998em;"></ span><span class="mord"></span></span></sp an><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:2.5259400000000003em;"><span ></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"></span class= "vlist-r"><span class="vlist" style="height:3.0259399999999994em;"><span style="top:-5.025939999999999em;"><span class="pstrut" style="height:3.3714399999999988 ;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Kontant EPS</span> </span><span class="mspace"> </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</ span><span class="mspace"> </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class=" mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height :1.3714399999999998em;"><span style="top:-2.314em;"><span class="psrut" style="height:3em;"></s pan><span class="mord"><span class="mord text"><span class="mord">Utestående utvannede aksjer</span></span></span></span><span style= "top:-3.23em;"><span class="psrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em; "></span></span><span style="top:-3.677em;"><span class="psrut" style="height:3em;"></span><span class="mord" ><span class="mord text"><span class="mord">Kontantstrøm fra drift</span></span></span></span></span><span class="vlist-s" </span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></ span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:-3.0054999999999996em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">hvor:</span></span></span></span><span style="top:-1.505499999999996em;"><span class="psrut" style="height: 3,371439 9999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">EPS</span> </span><span class="mspace"> </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</ span><span class="mspace"> </span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class= "mord">inntjening per aksje</span></span></span></span></span><span class="vlist-s">​</span></span><span class= "vlist-r"><span class="vlist" style="height:2.5259400000000003em;"><span></span></span></span></span></span></span> </span></span></span></span>
+
+
+
+## Forstå kontanter EPS
+
+Når du analyserer et selskap, sammenligner en standard finansiell analyseteknikk kontantstrøm fra drift (CEPS) med rapportert nettoinntekt. Et vanlig advarselstegn for aggressiv inntektsføring dukker ofte opp når kontantstrømmen fra driften begynner å sakke vesentlig etter rapportert nettoinntekt. Når dette skjer, kan det være et rødt flagg for inntektsføring for tidlig.
+
+Grunnleggende EPS er ganske utsatt for regnskapsmanipulasjon, og kan være et upålitelig mål på ytelse. Som sådan, når de vurderer en potensiell investering, foretrekker investorer som Warren Buffet kontantbaserte tiltak for å veilede analysen deres.
+
+Nylig har tilbakekjøp av aksjer, i stedet for aksjeutbytte, vært en overveldende populær metode for å returnere fortjeneste til aksjonærene. Det kan argumenteres for at dette bidrar til å øke EPS, ved å redusere utestående aksjer, og dermed hjelpe bedriftsledere med å spille inntjening per aksje [-vekst til å forbedre ytelsesbaserte kompensasjonsplaner](/performancecompensation).
+
+Som et mer konservativt mål på ytelse, kan kontant EPS eliminere noen av disse problemene som er felles for større bruk av finansiell teknikk.
+
+## Fordeler med å bruke kontanter EPS
+
+– CEPS er mindre utsatt for regnskapsmanipulasjon, noe som gir et klarere bilde av kontantstrøm og reell inntjening. Økt åpenhet er et tegn på god eierstyring og selskapsledelse.
+
+– CEPS viser investorer på per aksje-basis hvor mye profitt hver aksje genererer. Dette hjelper til med å identifisere inkrementell verdi.
+
+– CEPS er ikke underlagt det samme kortsiktige markedsfokuset som man ser med EPS.
+
