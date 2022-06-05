@@ -1,0 +1,39 @@
+---
+keywords: Personal Finance,Taxes
+title: Fjármagnshagnaðaráhætta (CGE)
+description: Gengishagnaðaráhætta er mat á því að hve miklu leyti hlutabréfasjóður eða eignir annarra svipaðra fjárfestingarsjóða hafa hækkað eða rýrnað.
+---
+
+# Fjármagnshagnaðaráhætta (CGE)
+## Hvað er áhættuskuldbinding?
+
+Gengishagnaðaráhætta er mat á því að hve miklu leyti hlutabréfasjóður eða önnur sambærileg fjárfestingarsjóður hafa hækkað eða rýrnað. Áhætta söluhagnaðar getur haft skattaleg áhrif fyrir fjárfesta.
+
+## Skilningur á áhættufjármagni (CGE)
+
+Jákvæð söluhagnaðaráhætta myndi þýða að eignir í sjóðnum hafi hækkað og að hluthafar þurfi að greiða skatta af öllum [innleystum hagnaði](/realizedprofit) af hækkuðum eignum. Neikvæð áhættuskuldbinding þýðir að sjóðurinn hefur yfirfært tap sem getur dregið úr hluta af söluhagnaðinum.
+
+Reiknað sem:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Fjármagnshagnaður</mtext><mo>=</mo><mfrac><mrow><mtext> CGA</mtext><mo>−</mo><mtext>Framfærsla taps</mtext></mrow><mtext>Núvirði eigna</mtext></mfrac></mrow></mstyle>< /mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0 " displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">þar sem:</mtext></mrow></mstyle></mtd></mtr><mtr> <mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow> <mrow></mrow><mtext>CGA</mtext><mo>=</mo><mtext>Eignahagnaður af eignum</mtext></mrow></mstyle></mtd ></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{Capital Gains Exposure} = \frac { \text{CGA} - \text{Loss Carryforward } }{ \text{Núverðmæti eigna} } \\ &amp;\textbf{þar:} \\ &amp;\text{CGA} = \text{Eignahagnaður eigna} \\ \end{jöfnuð</skýring ></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 5.35744em;vertical-align:-2.42872em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class=" vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.92872em;"><span style="top:-4.92872em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:-3.1027199999999997em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:-1.6027199999999997em;"><span class="psrut" style="height:3.3714399999999998em;"></spa n><span class="mord"></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r" ><span class="vlist" style="height:2.42872em;"><span></span></span></span></span></span><span class="col-align- l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.92872em;"><span style="top: -4.92872em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class ="mord text"><span class="mord">Fjármagnshagnaður</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter" ></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3714399999999998em ;"><span style="top:-2.314em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="m ord text"><span class="mord">Núvirði eigna</span></span></span></span><span style="top:-3.23em;"><span class=" pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style= "top:-3.677em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class= "mord">CGA</span></span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin">−</span>< span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mord text"><span class="mord">Tapsflutningur</span></span>< /span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style=" height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span ></span><span style="top:-3.1027199999999997em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class ="mord">>< /span><span class="mord text"><span class="mord textbf">þar sem:</span></span></span></span><span style="top:-1.6027199999999997em; "><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord text "><span class="mord">CGA</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel"> =</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">Eignahagnaður af eignum< /span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:2.42872em;"><span></span></span></span></span></span></span></span></span> </span></span>
+
+
+
+Til dæmis, hlutabréfasjóður með milljón hluti á nú eignir sem eru samtals virði 100 milljónir Bandaríkjadala. Fyrir sex mánuðum voru eignirnar aðeins 50 milljóna dala virði og sjóðurinn hefur enn 10 milljóna dala tap sem hægt er að flytja yfir. Í þessu tilviki er söluhagnaðaráhættan 40% eða með öðrum orðum, ef sjóðsstjóri gerir sér grein fyrir hagnaðinum, mun hver fjárfestir þurfa að greiða skatta af $40 söluhagnaði.
+
+## Söluhagnaður
+
+Söluhagnaður er hækkun á virði [eignar](/capitalasset) (fjárfestingar eða fasteignar) sem gefur henni hærra virði en kaupverðið. Hagnaðurinn er ekki innleystur fyrr en eignin er seld. Söluhagnaður getur verið til skamms tíma (eitt ár eða skemur) eða langtíma (meira en eitt ár) og verður að krefjast þess á tekjuskatti .
+
+Þó söluhagnaður sé almennt tengdur hlutabréfum og sjóðum vegna eðlislægra verðsveiflna þeirra, getur söluhagnaður átt sér stað á hvaða verðbréfi sem er selt fyrir hærra verð en [kaupverðið](/purchaseprice) sem var greitt fyrir það. Innleystur söluhagnaður og tap á sér stað þegar eign er seld, sem kallar fram skattskyldan atburð. Óinnleystur hagnaður og tap, stundum nefnt pappírshagnaður og -tap, endurspeglar aukningu eða lækkun á virði fjárfestingar en hefur ekki enn kallað fram skattskyldan atburð .
+
+Eignatap verður til þegar verðmæti [eiginfjár](/capitalloss) lækkar miðað við kaupverð eignar .
+
+## Fjármagnstekjuskattur
+
+[Fjármagnstekjuskattur](/capitalgain) er skattur á hagnað sem innleystur er við sölu eignar sem ekki er á birgðum sem var hærri en sú upphæð sem innleyst var við söluna . og eign. Ekki eru öll lönd með fjármagnstekjuskatt og flest eru með mismunandi skatthlutföll fyrir einstaklinga og fyrirtæki.
+
+Skattar leggja ríkið á viðskiptin, arð og söluhagnað á hlutabréfamarkaði. Hins vegar geta þessar ríkisfjármálaskuldbindingar verið breytilegar frá lögsögu til lögsagnarumdæma.
+
+Í Bandaríkjunum, með ákveðnum undantekningum, greiða einstaklingar og fyrirtæki tekjuskatt af hreinum heildarhagnaði sínum. Skammtímafjármagnshagnaður er skattlagður með hærra hlutfalli: venjulegu tekjuskattshlutfalli. Skatthlutfall einstaklinga af „langtíma söluhagnaði“, sem er hagnaður af eignum sem hafa verið í vörslu í meira en eitt ár áður en þær eru seldar, er lægra en venjulegt tekjuskattshlutfall og í sumum skattþrepum er engin skattur af slíkum hagnaði
+
