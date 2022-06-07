@@ -1,0 +1,13 @@
+---
+keywords: Crypto
+title: Whitelist
+description: Whitelist. A rundown of permitted or believed people, computer programs, or cryptocurrency addresses comparable to a service or event.
+---
+
+# Whitelist
+The term whitelist alludes to a rundown of permitted and recognized people, institutions, computer programs, or even cryptocurrency addresses. By and large, whitelists are connected with a specific service, event, or snippet of data. In that capacity, whitelists can introduce distinct implications relying upon the setting they are utilized.
+For example, when users sign for the mailing rundown of a company, they are frequently mentioned to add the company's email to their whitelist, so the messages don't go straightforwardly into users spam organizers. Now and again, companies may likewise pay fees to be whitelisted by Internet service suppliers, with the goal that their emails don't get naturally set apart as spam. So by whitelisting an email address, users can guarantee that future emails will come to their inbox.
+Whitelists can likewise be utilized with regards to network security. For instance, neighborhood (LAN) can set up a rundown of believed MAC addresses so an outcast will not have the option to go along with it. Essentially, remote internet switches can utilize whitelists to permit just recognized users to benefit from the Internet association.
+Other than that, the concept of whitelisting might be connected with a rundown of computer programs that are viewed as safe to utilize. Numerous antivirus software have a predefined rundown of believed applications that will not be targeted during system checks, yet users can make whitelists physically too.
+At long last, in the blockchain and cryptocurrency environment, whitelists are either connected with Initial Coin Offering (ICO) events, or to withdrawal addresses. In the principal case, cryptocurrency undertakings might offer a whitelisting phase for investors that will partake in the public sale of their tokens. So any investor that needs to take part in the ICO would have to give their personal data before being whitelisted (this is generally finished through a KYC strategy).
+Concerning withdrawal addresses, whitelist alludes to a rundown of cryptocurrency addresses that users characterize as reliable. In that case, they would simply have the option to pull out funds from their exchange account to the addresses that were already whitelisted. On Binance, this is otherwise called address management or withdrawal address whitelist, and it's an efficient way for users to shield their funds from programmers.
