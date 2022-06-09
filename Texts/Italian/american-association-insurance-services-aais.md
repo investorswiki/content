@@ -1,0 +1,21 @@
+---
+keywords: Personal Finance,Insurance
+title: Associazione americana dei servizi assicurativi (AAIS)
+description: L&#39;American Association of Insurance Services è un&#39;organizzazione di consulenza che sviluppa moduli di polizza assicurativa e informazioni sulla valutazione dell&#39;esperienza di perdita.
+---
+
+# Associazione americana dei servizi assicurativi (AAIS)
+## Che cos'è l'Associazione americana dei servizi assicurativi (AAIS)
+
+L'American Association of Insurance Services (AAIS) è stata fondata nel 1936 e sviluppa moduli di polizza assicurativa e informazioni sulla valutazione dell'esperienza di [sinistro](/casualtyinsurance) utilizzate dalle compagnie di assicurazione sulla proprietà e sui danni. AAIS fornisce informazioni a più di 700 compagnie assicurative di tutte le dimensioni che le aiutano nello sviluppo di polizze, [analisi attuariali](/actuarialanalysis),. automazione, scartoffie normative e formazione professionale. AAIS non è una compagnia di assicurazioni .
+
+## ABBANDONARE Associazione americana dei servizi assicurativi (AAIS)
+
+Per decenni, l'American Association of Insurance Services (AAIS) è stata autorizzata come agente statistico in 51 giurisdizioni per tutti i tipi di proprietà e linee di sinistro.﻿Raccolgono dati che aiutano i suoi membri a soddisfare le responsabilità di rendicontazione statistica normativa, fungendo da intermediario tra vettori e regolatori assicurativi. I dati delle transazioni supportano anche lo sviluppo del costo delle perdite e le attività di determinazione dei tassi. I prodotti e servizi AAIS sono integrati da offerte a valore aggiunto rese disponibili attraverso relazioni speciali con partner, società di dati e tecnologia, società di gestione dei sinistri e del rischio, riassicurazione e altri servizi che supportano il miglioramento dello sviluppo del prodotto, la sottoscrizione, l'amministrazione delle polizze e la velocità di immissione sul mercato .
+
+## Come vengono utilizzati i dati dell'American Association of Insurance Services
+
+L'AAIS fornisce informazioni agli assicuratori personali, commerciali, agricoli e marittimi. Ad esempio, fornisce alle compagnie assicurative dei proprietari di case moduli modello che descrivono ciò che la polizza dei proprietari di case copre, cosa esclude e se fornisce [il valore in contanti effettivo , il costo di sostituzione, il costo di](/actual-cash-value) [sostituzione](/replacementcost) modificato o la sostituzione funzionale dopo una perdita. AAIS aggiorna i suoi moduli modello man mano che si verificano cambiamenti nel mercato, come cambiamenti nell'esposizione, reclami e azioni legali, per aiutare gli assicuratori a proteggersi continuamente. Sulla scia dell'aumento delle richieste di risarcimento per muffa nell'ambito delle polizze assicurative dei proprietari di case, ad esempio, AAIS ha sviluppato un linguaggio di polizza modificato per aiutare gli assicuratori a limitare la loro esposizione alle perdite di muffa. Allo stesso modo, l'AAIS lavora per identificare nuove fonti di rischio per le compagnie assicurative prima che si verifichino richieste di risarcimento diffuse, in modo che gli assicuratori possano scegliere di non coprire questi rischi o di addebitare di più per coprirli. Gli assicuratori possono utilizzare questi moduli forniti dall'AAIS o personalizzarli quando emettono polizze per i consumatori.
+
+L'AAIS raccoglie anche dati dalle compagnie di assicurazione partecipanti per fornire alle compagnie di assicurazione informazioni sui sinistri che gli assicuratori hanno pagato in passato (storie di perdite) per aiutarli a decidere quanto addebitare ai consumatori i [premi](/premium) e quali tipi di rischi coprire. Gli assicuratori devono sapere che i premi che stanno addebitando sono sufficientemente alti da riflettere i rischi che stanno coprendo e sufficientemente alti da consentire loro di pagare i reclami dei loro clienti. L'AAIS fornisce inoltre alle compagnie di assicurazione informazioni statistiche su proprietà, responsabilità civile e assicurazioni automobilistiche che le aiutano a decidere quali nuovi prodotti assicurativi offrire e in quali stati offrire l'assicurazione. Queste informazioni possono aiutare le compagnie assicurative a rimanere competitive nel mercato assicurativo.
+
