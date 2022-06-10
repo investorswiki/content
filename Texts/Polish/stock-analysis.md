@@ -1,0 +1,33 @@
+---
+keywords: Investing,Fundamental Analysis,Tools for Fundamental Analysis,Tools
+title: analiza zapasów
+description: Analiza giełdowa to ocena konkretnego instrumentu handlowego, sektora inwestycyjnego lub rynku jako całości. Analitycy giełdowi próbują określić przyszłą aktywność instrumentu, sektora lub rynku.
+---
+
+# analiza zapasów
+## Co to jest analiza giełdowa?
+
+Analiza giełdowa to ocena konkretnego instrumentu handlowego, sektora inwestycyjnego lub rynku jako całości. Analitycy giełdowi próbują określić przyszłą aktywność instrumentu, sektora lub rynku.
+
+## Zrozumienie analizy akcji
+
+Analiza giełdowa to metoda dla inwestorów i traderów na podejmowanie decyzji kupna i sprzedaży. Badając i oceniając przeszłe i bieżące dane, inwestorzy i handlowcy próbują zdobyć przewagę na rynkach, podejmując świadome decyzje.
+
+## Analiza fundamentalna
+
+Istnieją dwa podstawowe rodzaje analizy akcji: analiza [fundamentalna](/fundamentalanalysis) i analiza [techniczna](/technicalanalysis). Analiza fundamentalna koncentruje się na danych ze źródeł, w tym danych finansowych, raportów ekonomicznych, aktywów firmy i udziału w rynku. Aby przeprowadzić analizę fundamentalną spółki lub sektora publicznego, inwestorzy i analitycy zazwyczaj analizują dane zawarte w [sprawozdaniach finansowych spółki](/financial-statements) – [bilans](/balancesheet),. [rachunek zysków i strat](/incomestatement),. [rachunek przepływów pieniężnych](/cashflowstatement) i [przypisy](/footnote). Oświadczenia te są podawane do wiadomości publicznej w formie raportu [10-Q](/10q) lub [10-K](/10-k) za pośrednictwem systemu baz danych [EDGAR](/edgar),. administrowanego przez amerykańską [Komisję Papierów Wartościowych i Giełd](/sec) (SEC). Ponadto raport o zarobkach opublikowany przez firmę podczas kwartalnego komunikatu prasowego o zarobkach jest analizowany przez inwestorów, którzy starają się ustalić, ile przychodów, wydatków i zysków osiągnęła firma.
+
+Przeprowadzając analizę akcji na sprawozdaniach finansowych firmy, analityk zazwyczaj sprawdza pomiar rentowności firmy, jej [płynności](/liquidity),. [wypłacalności](/solvency),. wydajności, trajektorii wzrostu i [dźwigni finansowej](/leverage). Aby określić, jak zdrowa jest firma, można użyć różnych wskaźników. Na przykład wskaźnik płynności [bieżącej](/currentratio) i [wskaźnik płynności](/currentratio) [szybkiej](/quickratio) służą do oszacowania, czy firma będzie w stanie spłacać swoje [krótkoterminowe zobowiązania](/shorttermdebt) dostępnymi [aktywami obrotowymi](/currentassets). Wzór na wskaźnik płynności oblicza się dzieląc aktywa obrotowe przez [zobowiązania bieżące](/currentliabilities),. które można uzyskać z bilansu. Chociaż nie ma czegoś takiego jak idealny wskaźnik bieżącej płynności, wskaźnik poniżej 1 może wskazywać analitykowi giełdowemu, że spółka jest w złej kondycji finansowej i może nie być w stanie pokryć swoich krótkoterminowych zobowiązań dłużnych w terminie ich spłaty.
+
+Patrząc nadal na bilans, analityk giełdowy może chcieć poznać aktualne poziomy zadłużenia zaciągniętego przez firmę. W takim przypadku analityk giełdowy może posłużyć się [wskaźnikiem zadłużenia](/debtratio),. który oblicza się dzieląc [sumę zobowiązań](/total-liabilities) przez sumę aktywów. Wskaźnik zadłużenia powyżej 1 oznacza zazwyczaj, że firma ma więcej zadłużenia niż aktywów. W takim przypadku, jeśli firma ma wysoki [stopień lewarowania](/dcl),. analityk giełdowy może stwierdzić, że wzrost stóp procentowych może zwiększyć prawdopodobieństwo bankructwa firmy.
+
+Analiza giełdowa polega na porównaniu bieżącego sprawozdania finansowego firmy z jej sprawozdaniami finansowymi z poprzednich lat, aby dać inwestorowi poczucie, czy firma rośnie, stabilnie, czy też się pogarsza. Sprawozdanie finansowe firmy można również porównać ze sprawozdaniem jednej lub kilku innych firm z tej samej branży. Analityk giełdowy może chcieć porównać [marżę zysku operacyjnego](/operatingmargin) dwóch konkurencyjnych firm, patrząc na ich rachunki zysków i strat. Marża zysku operacyjnego jest miarą, która pokazuje, ile przychodów pozostało po opłaceniu [kosztów operacyjnych](/operating_expense) i jaka część przychodów pozostała na pokrycie kosztów [nieoperacyjnych](/non-operating-expense) i jest obliczana jako dochód operacyjny podzielony przez przychody. Spółka z marżą operacyjną 0,30 będzie postrzegana korzystniej niż ta z marżą 0,03. Marża operacyjna 0,30 oznacza, że na każdego dolara przychodu firmie pozostaje 30 centów po pokryciu kosztów operacyjnych. Innymi słowy, firma wykorzystuje 70 centów z każdego dolara sprzedaży netto na pokrycie kosztów zmiennych lub operacyjnych.
+
+## Analiza techniczna
+
+Drugą metodą analizy zapasów jest analiza techniczna. Analiza techniczna skupia się na badaniu przeszłych i obecnych działań cenowych w celu przewidzenia prawdopodobieństwa przyszłych ruchów cen. Analitycy techniczni analizują rynek finansowy jako całość i zajmują się głównie ceną i wolumenem, a także czynnikami popytu i podaży, które wpływają na rynek. Wykresy są kluczowym narzędziem dla analityków technicznych, ponieważ pokazują graficzną ilustrację [trendu giełdowego](/trend) w określonym przedziale czasu. Na przykład, korzystając z wykresu, analityk techniczny może oznaczyć pewne obszary jako poziom [wsparcia](/support) lub [oporu](/resistance). Poziomy wsparcia są oznaczone poprzednimi minimami poniżej [bieżącej ceny handlowej](/currentprice),. a znaczniki oporu są umieszczone na poprzednich maksimach powyżej bieżącej [ceny rynkowej](/market-price) akcji. Przebicie poniżej poziomu wsparcia oznaczałoby dla analityka giełdowego [trend spadkowy](/bearmarket),. podczas gdy wybicie powyżej poziomu oporu przyjęłoby zwyżkową [perspektywę](/bullmarket).
+
+Analiza techniczna zapasów jest skuteczna tylko wtedy, gdy siły podaży i popytu wpływają na analizowany trend cenowy. Gdy w ruch cenowy biorą udział czynniki zewnętrzne, analiza akcji za pomocą analizy technicznej może się nie powieść. Przykłady czynników innych niż podaż i popyt, które mogą mieć wpływ na cenę akcji, to [podziały akcji](/stocksplit),. fuzje, [ogłoszenia o dywidendzie](/announcment-effect),. [pozew](/classaction) zbiorowy, śmierć prezesa firmy, atak terrorystyczny, [skandale księgowe](/financial-shenanigans),. zmiana kierownictwa, zmiany [polityki pieniężnej](/monetarypolicy) itp.
+
+Zarówno analizę fundamentalną, jak i techniczną można przeprowadzić niezależnie lub razem. Niektórzy analitycy stosują obie metody analizy, podczas gdy inni trzymają się jednej. Tak czy inaczej, wykorzystanie analizy giełdowej do [sprawdzenia akcji](/vetting),. sektorów i rynku jest ważną metodą tworzenia najlepszej strategii inwestycyjnej dla swojego portfela.
+
