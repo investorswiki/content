@@ -1,0 +1,55 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Analysis
+title: Fehlerbegriff
+description: Ein Fehlerterm ist eine Variable in einem statistischen Modell, wenn das Modell nicht die tatsächliche Beziehung zwischen den unabhängigen und abhängigen Variablen darstellt.
+---
+
+# Fehlerbegriff
+## Was ist ein Fehlerbegriff?
+
+Ein Fehlerterm ist eine von einem statistischen oder mathematischen Modell erzeugte Restvariable, die entsteht, wenn das Modell die tatsächliche Beziehung zwischen den unabhängigen Variablen und den abhängigen Variablen nicht vollständig darstellt. Als Ergebnis dieser unvollständigen Beziehung ist der Fehlerterm der Betrag, um den die Gleichung während der empirischen Analyse abweichen kann.
+
+Der Fehlerterm ist auch als Rest-, Störungs- oder Restterm bekannt und wird in Modellen unterschiedlich durch die Buchstaben **e,** ε oder u dargestellt.
+
+## Einen Fehlerbegriff verstehen
+
+Ein Fehlerterm stellt die Fehlerspanne innerhalb eines statistischen Modells dar; er bezieht sich auf die [Summe der Abweichungen](/sum-of-squares) innerhalb der [Regressionsgerade](/regression),. die eine Erklärung für die Differenz zwischen dem theoretischen Wert des Modells und den tatsächlich beobachteten Ergebnissen liefert. Die Regressionslinie wird als Analysepunkt verwendet, wenn versucht wird, die Korrelation zwischen einer unabhängigen Variablen und einer abhängigen Variablen zu bestimmen.
+
+## Fehlerbegriff Verwendung in einer Formel
+
+Ein Fehlerterm bedeutet im Wesentlichen, dass das Modell nicht vollständig genau ist und bei realen Anwendungen zu unterschiedlichen Ergebnissen führt. Angenommen, es gibt eine [multiple lineare Regressionsfunktion](/mlr),. die die folgende Form annimmt:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>Y</mi><mo>=</mo><mi>α</mi><mi> X</mi><mo>+</mo><mi>β</mi><mi>ρ</mi><mo>+</mo><mi>ϵ</mi></mrow>< /mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">wobei:</mtext></mrow></mstyle></mtd></mtr ><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true" ><mrow><mrow></mrow><mi>α</mi><mo separator="true">,</mo><mi>β</mi><mo>=</mo><mtext >Konstante Parameter</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="tr ue"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>X</ mi><mo separator="true">,</mo><mi>ρ</mi><mo>=</mo><mtext>Unabhängige Variablen</mtext></mrow></mstyle></ mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>ϵ</mi><mo>=</mo><mtext>Fehlerbegriff</mtext></mrow></mstyle>< /mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;Y = \alpha X + \beta \rho + \epsilon \\ &amp;\textbf{ wobei:} \\ &amp;\alpha, \beta = \text{Konstante Parameter} \\ &amp;X, \rho = \text{Unabhängige Variablen} \\ &amp;\epsilon = \text{Fehlerterm} \\ \ end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class=" strut" style="height:7.500000000000002em;vertical-align:-3.5000000000000018em;"></span><span class="mord"><span class="mtable"><span class="col-align-r ">< span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:4em;"><span style="top:-6em;">< span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-4.499999999999999em;">< span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-2.9999999999999982em;">< span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-1.4999999999999982em;">< span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:1.7763568394002505e-15em;"> <span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span></span><span class="vlist-s" ></span></span><span class="vlist-r"><span class="vlist" style="height:3.5000000000000018em;"><span></span></span></ span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class=" vlist" style="height:4em;"><span style="top:-6 .16em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class=" mord mathnormal" style="margin-right:0.22222em;">Y</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mrel" >=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α </span><span class="mord mathnormal" style="margin-right:0.07847em;">X</span><span class="mspace" style="margin-right:0.2222222222222222em;"></ span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin -right:0.05278em;">β</span><span class="mord mathnormal">ρ</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span> <span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal">ϵ</span> </span></span><span style="top:-4.659 999999999999em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">wobei:</span></span></span></span><span style="top:-3.1599999999999984em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.0037em ;">α</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathnormal" style="margin-right:0.05278em;">β</span><span class="mspace" style="margin-right:0.277777777777777778em;"></span><span class="mrel"> =</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">Konstante Parameter</span ></span></span></span><span style="top:-1.6599999999999984em;"><span class="pstrut" style="height:3em;"></span><span class= "mord"><span class="mord"></span><span class="mord mathnormal" style="ma rgin-right:0.07847em;">X</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span> <span class="mord mathnormal">ρ</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mrel">=</span> <span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">Unabhängige Variablen</span></span> </span></span><span style="top:-0.15999999999999837em;"><span class="pstrut" style="height:3em;"></span><span class="mord">< span class="mord"></span><span class="mord mathnormal">ϵ</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord text"><span class="mord" >Fehlerbegriff</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r "><span class="vlist" style="height:3.500000000000018em;"><span></span></span></s pan></span></span></span></span></span></span></span>
+
+
+
+Wenn das tatsächliche Y während eines empirischen Tests vom erwarteten oder vorhergesagten Y im Modell abweicht, ist der Fehlerterm ungleich 0, was bedeutet, dass andere Faktoren Y beeinflussen.
+
+## Was sagen uns Fehlerbegriffe?
+
+In einem linearen Regressionsmodell, das den Kurs einer Aktie im Laufe der Zeit verfolgt, ist der Fehlerterm die Differenz zwischen dem erwarteten Kurs zu einem bestimmten Zeitpunkt und dem tatsächlich beobachteten Kurs. In Fällen, in denen der Preis genau dem entspricht, was zu einem bestimmten Zeitpunkt erwartet wurde, fällt der Preis auf die Trendlinie und der Fehlerterm ist null.
+
+Punkte, die nicht direkt auf die Trendlinie fallen, zeigen, dass die abhängige Variable, in diesem Fall der Preis, von mehr als nur der unabhängigen Variable beeinflusst wird, die den Zeitablauf darstellt. Der Fehlerterm steht für jeden Einfluss, der auf die Preisvariable ausgeübt wird, wie z. B. Änderungen der [Marktstimmung](/marketsentiment).
+
+Die beiden Datenpunkte mit dem größten Abstand von der Trendlinie sollten gleich weit von der Trendlinie entfernt sein und die größte Fehlerspanne darstellen.
+
+Wenn ein Modell [heteroskedastisch ist](/heteroskedastic),. ein häufiges Problem bei der korrekten Interpretation statistischer Modelle, bezieht es sich auf eine Bedingung, in der die [Varianz](/variance) des Fehlerterms in einem Regressionsmodell stark variiert.
+
+## Lineare Regression, Fehlerterm und Aktienanalyse
+
+Die lineare Regression ist eine Form der Analyse, die sich auf aktuelle Trends eines bestimmten Wertpapiers oder Index bezieht, indem eine Beziehung zwischen abhängigen und unabhängigen Variablen wie dem Preis eines Wertpapiers und dem Zeitablauf bereitgestellt wird, was zu einer Trendlinie führen kann als [Vorhersagemodell verwendet werden](/predictive-modeling).
+
+Eine lineare Regression weist eine geringere Verzögerung auf als bei einem [gleitenden](/movingaverage) [Durchschnitt](/movingaverage),. da die Linie an die Datenpunkte angepasst wird und nicht auf den Durchschnittswerten innerhalb der Daten basiert. Dadurch kann sich die Linie schneller und dramatischer ändern als eine Linie, die auf der numerischen Mittelung der verfügbaren Datenpunkte basiert.
+
+## Der Unterschied zwischen Fehlertermen und Residuen
+
+Obwohl der Fehlerbegriff und das Residuum oft synonym verwendet werden, gibt es einen wichtigen formalen Unterschied. Ein Fehlerterm ist im Allgemeinen nicht beobachtbar und ein Residuum ist beobachtbar und berechenbar, wodurch es viel einfacher zu quantifizieren und zu visualisieren ist. Während ein Fehlerterm die Art und Weise darstellt, wie sich beobachtete Daten von der tatsächlichen [Grundgesamtheit unterscheiden](/population),. stellt ein Residuum die Art und Weise dar, wie sich beobachtete Daten von [Stichprobengrundgesamtheitsdaten unterscheiden](/sample).
+
+## Höhepunkte
+
+- Heteroskedastisch bezieht sich auf eine Bedingung, in der die Varianz des Restterms oder Fehlerterms in einem Regressionsmodell stark variiert.
+
+- Der Fehlerterm ist eine Restvariable, die einen Mangel an perfekter Anpassungsgüte erklärt.
+
+- Ein Fehlerterm erscheint in einem statistischen Modell, wie einem Regressionsmodell, um die Unsicherheit im Modell anzugeben.
+
