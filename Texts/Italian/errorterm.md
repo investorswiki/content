@@ -1,0 +1,55 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Analysis
+title: Termine di errore
+description: Un termine di errore è una variabile in un modello statistico quando il modello non rappresenta la relazione effettiva tra le variabili indipendenti e dipendenti.
+---
+
+# Termine di errore
+## Che cos'è un termine di errore?
+
+Un termine di errore è una variabile residua prodotta da un modello statistico o matematico, che viene creata quando il modello non rappresenta completamente la relazione effettiva tra le variabili indipendenti e le variabili dipendenti. Come risultato di questa relazione incompleta, il termine di errore è l'importo al quale l'equazione può differire durante l'analisi empirica.
+
+Il termine di errore è anche noto come termine residuo, disturbo o resto ed è variamente rappresentato nei modelli dalle lettere **e,** ε o u.
+
+## Comprendere un termine di errore
+
+Un termine di errore rappresenta il margine di errore all'interno di un modello statistico; si riferisce alla [somma delle deviazioni](/sum-of-squares) all'interno della [retta di regressione](/regression),. che fornisce una spiegazione della differenza tra il valore teorico del modello ei risultati effettivi osservati. La retta di regressione viene utilizzata come punto di analisi quando si tenta di determinare la correlazione tra una variabile indipendente e una variabile dipendente.
+
+## Termine di errore Utilizzo in una formula
+
+Un termine di errore significa essenzialmente che il modello non è completamente accurato e produce risultati diversi durante le applicazioni del mondo reale. Si supponga, ad esempio, che esista una funzione di [regressione lineare multipla](/mlr) che assume la forma seguente:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.249999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>Y</mi><mo>=</mo><mi>α</mi><mi> X</mi><mo>+</mo><mi>β</mi><mi>ρ</mi><mo>+</mo><mi>ϵ</mi></mrow>< /mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">dove:</mtext></mrow></mstyle></mtd></mtr ><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true" ><mrow><mrow></mrow><mi>α</mi><mo separator="true">,</mo><mi>β</mi><mo>=</mo><mtext >Parametri costanti</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="tr ue"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>X</ mi><mo separator="true">,</mo><mi>ρ</mi><mo>=</mo><mtext>Variabili indipendenti</mtext></mrow></mstyle></ mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>ϵ</mi><mo>=</mo><mtext>Termine di errore</mtext></mrow></mstyle>< /mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;Y = \alpha X + \beta \rho + \epsilon \\ &amp;\textbf{ dove:} \\ &amp;\alpha, \beta = \text{Parametri costanti} \\ &amp;X, \rho = \text{Variabili indipendenti} \\ &amp;\epsilon = \text{Termine errore} \\ \ end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class=" strut" style="height:7.500000000000002em;vertical-align:-3.5000000000000018em;"></span><span class="mord"><span class="mtable"><span class="col-align-r "><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:4em;"><span style="top:-6em;">< span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-4.499999999999999em;">< span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-2.9999999999999982em;">< span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-1.4999999999999982em;">< span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:1.7763568394002505e-15em;"> <span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span></span><span class="vlist-s" >></span></span><span class="vlist-r"><span class="vlist" style="height:3.50000000000000018em;"><span></span></span></ span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class=" vlist" style="height:4em;"><span style="top:-6 .16em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class=" mord mathnormal" style="margin-right:0.22222em;">Y</span><span class="mspace" style="margin-right:0.277777777777777778em;"></span><span class="mrel" >=</span><span class="mspace" style="margin-right:0.2777777777777777777778em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α </span><span class="mord mathnormal" style="margin-right:0.07847em;">X</span><span class="mspace" style="margin-right:0.2222222222222222em;"></ span><span class="mbin">+</span><span class="mspace" style="margin-right:0.222222222222222222em;"></span><span class="mord mathnormal" style="margin -right:0.05278em;">β</span><span class="mord mathnormal">ρ</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span> <span class="mbin">+</span><span class="mspace" style="margin-right:0.222222222222222222em;"></span><span class="mord mathnormal">ϵ</span> </span></span><span style="top:-4.659 999999999999em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">dove:</span></span></span></span><span style="top:-3.15999999999999984em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.0037em ;">α</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.166666666666666666em;"></span><span class="mord mathnormal" style="margin-right:0.05278em;">β</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mrel"> =</span><span class="mspace" style="margin-right:0.2777777777777777777778em;"></span><span class="mord text"><span class="mord">Parametri costanti</span ></span></span></span><span style="top:-1.659999999999999984em;"><span class="pstrut" style="height:3em;"></span><span class= "mord"><span class="mord"></span><span class="mord mathnormal" style="ma rgin-right:0.07847em;">X</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.166666666666666666em;"></span> <span class="mord mathnormal">ρ</span><span class="mspace" style="margin-right:0.27777777777777777778em;"></span><span class="mrel">=</span> <span class="mspace" style="margin-right:0.277777777777777778em;"></span><span class="mord text"><span class="mord">Variabili indipendenti</span></span> </span></span><span style="top:-0.159999999999999837em;"><span class="pstrut" style="height:3em;"></span><span class="mord">< span class="mord"></span><span class="mord mathnormal">ϵ</span><span class="mspace" style="margin-right:0.2777777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777777778em;"></span><span class="mord text"><span class="mord" >Termine di errore</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r "><span class="vlist" style="altezza:3.50000000000000018em;"><span></span></span></s pan></span></span></span></span></span></span></span>
+
+
+
+Quando la Y effettiva differisce dalla Y prevista o prevista nel modello durante un test empirico, il termine di errore non è uguale a 0, il che significa che ci sono altri fattori che influenzano Y.
+
+## Cosa ci dicono i termini di errore?
+
+All'interno di un modello di regressione lineare che tiene traccia del prezzo di un'azione nel tempo, il termine di errore è la differenza tra il prezzo atteso in un determinato momento e il prezzo effettivamente osservato. Nei casi in cui il prezzo è esattamente quello previsto in un determinato momento, il prezzo scenderà sulla linea di tendenza e il termine di errore sarà zero.
+
+I punti che non cadono direttamente sulla linea di tendenza mostrano il fatto che la variabile dipendente, in questo caso il prezzo, è influenzata da qualcosa di più della semplice variabile indipendente, che rappresenta il passare del tempo. Il termine di errore indica qualsiasi influenza esercitata sulla variabile prezzo, come i cambiamenti nel [sentiment del mercato](/marketsentiment).
+
+I due punti dati con la distanza maggiore dalla linea di tendenza dovrebbero essere a una distanza uguale dalla linea di tendenza, rappresentando il margine di errore più grande.
+
+Se un modello è [eteroschedastico](/heteroskedastic),. un problema comune nell'interpretazione corretta dei modelli statistici, si riferisce a una condizione in cui la [varianza](/variance) del termine di errore in un modello di regressione varia ampiamente.
+
+## Regressione lineare, termine di errore e analisi delle scorte
+
+La regressione lineare è una forma di analisi che si riferisce alle tendenze attuali vissute da un particolare titolo o indice fornendo una relazione tra una variabile dipendente e indipendente, come il prezzo di un titolo e il passare del tempo, risultando in una linea di tendenza che può essere utilizzato come [modello predittivo](/predictive-modeling).
+
+Una regressione lineare mostra un ritardo minore rispetto a quello sperimentato con una [media](/movingaverage) [mobile](/movingaverage),. poiché la linea è adatta ai punti dati anziché essere basata sulle medie all'interno dei dati. Ciò consente alla linea di cambiare più rapidamente e drasticamente rispetto a una linea basata sulla media numerica dei punti dati disponibili.
+
+## La differenza tra termini di errore e residui
+
+Sebbene il termine di errore e residuo siano spesso usati come sinonimi, c'è un'importante differenza formale. Un termine di errore è generalmente non osservabile e un residuo è osservabile e calcolabile, rendendo molto più facile quantificare e visualizzare. In effetti, mentre un termine di errore rappresenta il modo in cui i dati osservati differiscono dalla [popolazione](/population) effettiva , un residuo rappresenta il modo in cui i dati osservati differiscono dai dati della popolazione [campione .](/sample)
+
+## Mette in risalto
+
+- L'eteroschedastico si riferisce a una condizione in cui la varianza del termine residuo, o termine di errore, in un modello di regressione varia ampiamente.
+
+- Il termine di errore è una variabile residua che spiega la mancanza di perfetta bontà di adattamento.
+
+- Un termine di errore compare in un modello statistico, come un modello di regressione, per indicare l'incertezza nel modello.
+
