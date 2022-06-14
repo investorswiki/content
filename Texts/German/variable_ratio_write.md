@@ -1,0 +1,63 @@
+---
+keywords: Investing,Stocks
+title: Schreiben mit variablem Verhältnis
+description: Ein Schreiben mit variablem Verhältnis ist eine Optionsstrategie, die das Halten von Anteilen des zugrunde liegenden Vermögenswerts erfordert, während Call-Optionen zu unterschiedlichen Ausübungspreisen geschrieben werden.
+---
+
+# Schreiben mit variablem Verhältnis
+## Was ist ein Schreiben mit variablem Verhältnis?
+
+Ein Schreiben mit variablem Verhältnis ist eine Strategie beim Investieren in Optionen, bei der eine Long-Position im Basiswert gehalten und gleichzeitig mehrere Call-Optionen zu unterschiedlichen [Ausübungspreisen geschrieben werden müssen](/strikeprice). Es handelt sich im Wesentlichen um eine Ratio [-Buy-Write-](/buy-write) Strategie.
+
+Das Ziel des Händlers ist es, die für die Call-Optionen gezahlten Prämien zu erfassen. Schreibvorgänge mit variablem Verhältnis haben ein begrenztes Gewinnpotenzial. Die Strategie eignet sich am besten für Aktien mit geringer erwarteter Volatilität, insbesondere kurzfristig.
+
+## Schreiben mit variablem Verhältnis verstehen
+
+Beim Schreiben von Ratio-Calls steht das Wort „Verhältnis“ für die Anzahl der Optionen, die für je 100 Aktien der zugrunde liegenden Aktie verkauft werden.
+
+Beispielsweise könnte der Trader bei einem variablen Verhältnis von 2:1 100 Aktien der zugrunde liegenden Aktie besitzen und 200 Optionen verkaufen.
+
+Zwei Aufrufe werden geschrieben: Einer ist "aus dem Geld". Das heißt, der Ausübungspreis ist höher als der aktuelle Wert der zugrunde liegenden Aktie. Andererseits ist der Ausübungspreis „im Geld“ oder niedriger als der Preis der zugrunde liegenden Aktie.
+
+Die Auszahlung bei einem Schreiben mit variablem Verhältnis ähnelt der eines umgekehrten Strangle. Im Optionshandel beinhaltet jede Strangle-Strategie den Kauf eines Calls und eines Puts auf denselben Basiswert.
+
+Das Schreiben mit variablem Verhältnis wird treffend als begrenztes Gewinnpotenzial und unbegrenztes Risiko beschrieben.
+
+> Schreibvorgänge mit variablem Verhältnis haben begrenzte Vorteile und unbegrenzte Nachteile.
+
+>
+
+### Wenn das Schreiben mit variablem Verhältnis verwendet wird
+
+Als Anlagestrategie sollte der Variable Ratio Write von unerfahrenen Optionshändlern vermieden werden, da es sich um eine Strategie mit unbegrenztem Risikopotential handelt.
+
+Die Verluste beginnen, wenn der Kurs der Aktie eine starke Bewegung nach oben oder unten über die vom Händler festgelegten oberen und unteren Breakeven-Punkte hinaus macht.
+
+Der maximal mögliche Verlust bei einer Schreibposition mit variablem Verhältnis ist unbegrenzt. Trotz ihrer erheblichen Risiken kann die Schreibtechnik mit variablem Verhältnis dem erfahrenen Trader ein angemessenes Maß an Flexibilität bei kontrolliertem Marktrisiko bringen und gleichzeitig attraktive Erträge erzielen.
+
+Es gibt zwei [Breakeven-Punkte](/breakevenpoint) für eine Schreibposition mit variablem Verhältnis. Diese Break-Even-Punkte können wie folgt gefunden werden:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Oberer Breakeven-Punkt</mtext><mo>=</mo><mi>S</mi>< mi>P</mi><mi>H</mi><mo>+</mo><mi>P</mi><mi>M</mi><mi>P</mi></mrow ></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Unterer Breakeven-Punkt</mtext><mo>=</mo><mi>S</mi>< mi>P</mi><mi>L</mi><mo>−</mo><mi>P</mi><mi>M</mi><mi>P</mi></mrow ></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">wobei:</mtext></mrow></mstyle></mtd>< /mtr ><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true" ><mrow><mrow></mrow><mi>S</mi><mi>P</mi><mi>H</mi><mo>=</mo><mtext>Ausübungspreis oder höher Strike Short Call</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow>< /mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>P</mi><mi>M</mi>< mi>P</mi><mo>=</mo><mtext>Punkte des maximalen Gewinns</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></ mrow><mi>S</mi><mi>P</mi><mi>L</mi><mo>=</mo><mtext>Ausübungspreis des Short-Calls mit niedrigerem Ausübungspreis</mtext></ mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{Upper Breakeven Point} = SPH+PMP\\ &amp;\text{Unterer Breakeven-Punkt} = SPL-PMP\\ &amp;\textbf{wobei:}\\ &amp;SPH=\text{S Trike-Preis des Short-Calls mit höherem Ausübungspreis}\\ &amp;PMP=\text{Punkte des maximalen Gewinns}\\ &amp;SPL=\text{Ausübungspreis des Short-Calls mit niedrigerem Ausübungspreis} \end{aligned}</annotation></ Semantik></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:9.000000000000002em; vertical-align:-4.250000000000001em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:4.750000000000001em;"><span style="top:-6.750000000000001em;"><span class=" pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-5.25em;"><span class=" pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-3.749999999999999em;"><span class=" pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-2.249999999999999em;"><span class=" pstrut" style="height:2.84em;"></span><span class="mord"> </span></span><span style="top:-0.7499999999999996em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"> </span></span><span style="top:0.7500000000000009em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord">< /span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style=" Höhe:4.250000000000001em;"><span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:4.750000000000001em;"><span style="top:-6.910000000000001em;"><span class=" pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord ">Oberer Breakeven-Punkt</span></span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mrel">=</span>< span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord mathnormal" style="margin-right:0.05764em ;">S</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.08125em ;">H</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace " style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.10903em;">M</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span></span></span> <span style="top:-5.41em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">< /span><span class="mord text"><span class="mord">Unterer Breakeven-Punkt</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"> </span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord mathnormal" style= "margin-right:0.05764em;">S</span><span class="mord m athnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal">L</span><span class="mspace" style="margin-right:0.2222222222222222em; "></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.10903em;">M</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span></span></span><span style="top:-3.9099999999999993em;"><span class="pstrut" style="height: 3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">wobei:</ span></span></span></span><span style="top:-2.4099999999999993em;"><span class="pstrut" style="height:3em;"></span><span-Klasse ="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.05764em;">S</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnorm al" style="margin-right:0.08125em;">H</span><span class="mspace" style="margin-right:0.277777777777777778em;"></span><span class="mrel"> =</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">Ausübungspreis des höheren Ausübungspreises kurzer Aufruf</span></span></span></span><span style="top:-0.9099999999999997em;"><span class="pstrut" style="height:3em;"></span ><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class= "mord mathnormal" style="margin-right:0.10903em;">M</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class= "mspace" style="margin-right:0.27777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778em;" ></span><span class="mord text"><span class="mord">Punkte des maximalen Gewinns</span></span></span></span><span style="top:0.5900000000000007 em;"><span class="pstrut" style=" height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.05764em;"> S</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal">L</span><span class="mspace " style="margin-right:0.27777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.277777777777777778em;">< /span><span class="mord text"><span class="mord">Ausübungspreis der Short-Call-Klasse mit niedrigerem Ausübungspreis</span></span></span></span></span><span-Klasse ="vlist-s"></span></span><span class="vlist-r"><span class="vlist" style="height:4.250000000000001em;"><span></span> </span></span></span></span></span></span></span></span></span>
+
+## Beispiel aus der Praxis für einen Schreibvorgang mit variablem Verhältnis
+
+Stellen Sie sich einen Investor vor, der 1.000 Aktien des Unternehmens XYZ besitzt, die derzeit mit 100 US-Dollar pro Aktie gehandelt werden. Der Investor glaubt, dass sich die Aktie in den nächsten zwei Monaten wahrscheinlich nicht stark bewegen wird.
+
+Der Anleger kann die Aktie halten und trotzdem eine positive Rendite erzielen, während der Preis unverändert bleibt. Dies wird durch die Initiierung einer Schreibposition mit variablem Verhältnis erreicht, bei der 30 der 110 Strike-Calls auf XYZ verkauft werden, die in zwei Monaten auslaufen werden. Die Optionsprämie für die 110-Calls beträgt 0,25 USD, sodass unser Investor 750 USD durch den Verkauf der Optionen erhält.
+
+Das heißt, wenn der Anleger mit seiner Vorhersage richtig liegt, dass der Kurs der Aktie unverändert bleiben wird.
+
+Wenn die XYZ-Aktien nach zwei Monaten unter 110 $ bleiben, verbucht der Investor die gesamte Prämie von 750 $ als Gewinn, da die Calls bei Ablauf wertlos sind.
+
+Wenn die Aktien jedoch über die Gewinnschwelle von 110,25 $ steigen, werden die Gewinne aus der Long-Aktienposition durch die Verluste der Short-Calls mehr als ausgeglichen. Die Optionen stellten 3.000 Aktien von XYZ dar, das Dreifache der Anzahl, die der Händler besitzt.
+
+## Höhepunkte
+
+- Ein Schreiben mit variablem Verhältnis ist eine Optionsstrategie, die von Händlern verwendet wird, die eine Nebeneinkommensquelle für eine Aktie suchen, die sie besitzen.
+
+- Der Trader investiert in mehrere Call-Optionen zu unterschiedlichen Ausübungspreisen.
+
+- Der potenzielle Gewinn liegt in den Prämien, die für die Call-Optionen gezahlt werden.
+
+- Die Strategie wird verwendet, wenn ein Händler glaubt, dass der Preis der Aktie für einige Zeit unverändert bleiben wird.
+
