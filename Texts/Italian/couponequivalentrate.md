@@ -1,0 +1,53 @@
+---
+keywords: Trading,Fixed Income Trading,Fixed Income Trading Strategy and Education,Strategy and Education
+title: Tasso equivalente alla cedola (CER)
+description: Il tasso equivalente cedola (CER) è un calcolo alternativo del tasso cedolare utilizzato per confrontare i titoli a reddito fisso con cedola zero e cedola.
+---
+
+# Tasso equivalente alla cedola (CER)
+## Che cos'è il tasso equivalente al coupon (CER)?
+
+Il tasso equivalente cedola (CER) è un calcolo alternativo del [tasso cedolare](/coupon-rate) utilizzato per confrontare i titoli a reddito fisso con cedola zero e cedola. È il rendimento annualizzato di un'obbligazione zero coupon quando viene calcolato come se pagasse una cedola. È anche noto come [rendimento](/bey) [equivalente obbligazionario](/bey) (BEY) o [rendimento equivalente cedola](/couponequivalentrate) (CEY)
+
+## Comprensione del tasso equivalente alla cedola (CER)
+
+Il tasso equivalente della cedola (CER) consente a un investitore di confrontare un'obbligazione a cedola zero con una a cedola. Mentre la maggior parte delle obbligazioni paga agli investitori pagamenti di interessi annuali o semestrali, alcune obbligazioni, denominate obbligazioni [zero coupon](/zero-couponbond),. non pagano affatto interessi ma sono invece emesse con un forte sconto alla pari.
+
+L'investitore realizza un rendimento su queste obbligazioni di sconto quando l'obbligazione matura. Per confrontare il rendimento dei titoli a cedola con quello di zero coupon in termini relativi, gli analisti utilizzano la formula del tasso cedolare equivalente. Il tasso equivalente cedola (CER) indica il rendimento annualizzato su un titolo di debito a breve termine che è tipicamente quotato su [base di sconto bancario in modo](/bankdiscountbasis) tale che il rendimento possa essere comparabile con le quotazioni di titoli cedolari.
+
+In effetti, indica quale sarebbe il tasso della cedola su uno strumento di sconto (come una cedola zero, un buono del Tesoro o una carta commerciale) se lo strumento avesse una cedola e fosse stato venduto al valore nominale.
+
+Poiché il tasso quotato delle obbligazioni è calcolato sulla base del [valore nominale](/facevalue),. questo tasso per le obbligazioni emesse a sconto è impreciso per confrontarle con altre obbligazioni con cedola. Le obbligazioni a sconto o zero coupon non sono vendute al valore nominale. Sono venduti a uno sconto e l'investitore in genere riceve più di quanto ha investito alla scadenza. Pertanto, è più accurato utilizzare il CER perché utilizza l'investimento iniziale dell'investitore come base per il rendimento.
+
+La formula per il tasso equivalente della cedola è:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.249999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>CR</mtext><mo>=</mo><mfrac><mrow><mtext>Valore nominale </mtext><mo>−</mo><mtext>Prezzo di mercato</mtext></mrow><mtext>Prezzo di mercato</mtext></mfrac><mo>×</mo><mfrac>< mn>360</mn><mtext>Giorni fino alla scadenza</mtext></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant ="bold">dove:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow>< /mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>CR</mtext><mo>=< /mo><mtext>Buono equ tasso ivalente</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned}&amp;\text{CR} =\frac{\text{Valore nominale}-\text{Prezzo di mercato}}{\text{Prezzo di mercato}}\times\frac{360}{\text{Giorni fino alla scadenza}}\\ &amp;\textbf{dove :}\\ &amp;\text{CR}=\text{Tasso equivalente coupon} \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria -hidden="true"><span class="base"><span class="strut" style="height:5.5518800000000001em;vertical-align:-2.5259400000000003em;"></span><span class="mord "><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class=" vlist" style="height:3.0259400000000003em;"><span style="top:-5.02594em;"><span class="pstrut" style="height:3.37143999999999998em;"></span><span class= "mord"></span></span><span style="top:-3.005499999999999996em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class= "mord"></span></span><span style="top:-1.50549999999999 96em;"><span class="pstrut" style="height:3.37143999999999998em;"></span><span class="mord"></span></span></span><span class=" vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:2.5259400000000003em;"><span></span></ span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r">< span class="vlist" style="height:3.02594000000000003em;"><span style="top:-5.02594em;"><span class="pstrut" style="height:3.37143999999999998em;"></span> <span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">CR</span></span><span class= "mspace" style="margin-right:0.2777777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777777778em;" ></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span classe ="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">Prezzo di mercato</span></span></ span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style= "border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;">< /span><span class="mord"><span class="mord text"><span class="mord">Valore nominale</span></span><span class="mspace" style="margin- right:0.22222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class ="mord text"><span class="mord">Prezzo di mercato</span></span></span></span></span><span class="vlist-s">​</span ></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span ></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class=" mbin">×</span><span cla ss="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"> <span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em ;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">Giorni fino a Maturità</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span> <span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut " style="height:3em;"></span><span class="mord"><span class="mord">3</span><span class="mord">6</span><span class="mord">0</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r "><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter" ></span></span></span></span><span st yle="top:-3.0054999999999996em;"><span class="pstrut" style="height:3.37143999999999998em;"></span><span class="mord"><span class="mord"></ span><span class="mord text"><span class="mord textbf">dove:</span></span></span></span><span style="top:-1.5054999999999996em;" ><span class="pstrut" style="height:3.37143999999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord text" ><span class="mord">CR</span></span><span class="mspace" style="margin-right:0.27777777777777777778em;"></span><span class="mrel">= </span><span class="mspace" style="margin-right:0.277777777777777777778em;"></span><span class="mord text"><span class="mord">Tasso equivalente del coupon</span ></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class= "vlist" style="height:2.5259400000000003em;"><span></span></span></span></span></span></span></span></span></ span></span>
+
+Il tasso equivalente cedola (CER) è calcolato come:
+
+1. Trova lo sconto a cui viene scambiata l'obbligazione, che è il valore nominale meno il valore di mercato.
+
+1. Quindi dividere lo sconto per il prezzo di mercato.
+
+1. Dividere 360 per il numero di giorni fino alla scadenza.
+
+1. Si moltiplica poi quel numero (dal n. 3) per il numero che si trova al n. 2.
+
+Il tasso cedolare equivalente è un modo alternativo per calcolare il rendimento di un'obbligazione e consente di confrontare un'obbligazione zero coupon con un'obbligazione di durata diversa. Tuttavia, è un rendimento nominale e non tiene conto della composizione.
+
+Il rendimento alla scadenza (YTM) è il rendimento teorico che un investitore riceverebbe se detenesse l'obbligazione fino alla scadenza. Ma a differenza del rendimento equivalente cedola (CER), il [rendimento alla scadenza](/yieldtomaturity) tiene conto della composizione. Entrambi sono espressi come tassi annualizzati.
+
+## Esempio CER
+
+Ad esempio, un Buono del Tesoro USA da $ 10.000 che scade in 91 giorni viene venduto a $ 9.800. Il suo tasso equivalente alla cedola sarebbe 8,08%, o (($ 10.000 - $ 9.800) / ($ 9.800)) * (360 / 91), che è 0,0204 * 3,96. Rispetto a un'obbligazione che paga una cedola annuale dell'8%, sceglieremmo l'obbligazione zero coupon dato che ha il tasso più alto {8,08% > 8%].
+
+Oppure considera un'attuale [STRIP del Tesoro zero coupon con](/treasurystrips) scadenza il 15 marzo 2022. Il valore nominale è $ 100 e il prezzo di mercato è $ 98,63 al 14 settembre 2021. Il tasso equivalente coupon (CER) è 2,75% o (($ 100 - $ 98,63) / ($ 98,63) * (360 / 182).
+
+## Mette in risalto
+
+- Il tasso equivalente cedola (CER) è il rendimento annualizzato di un'obbligazione zero coupon quando calcolato come se pagasse una cedola
+
+- Il CER è un rendimento nominale e non tiene conto della capitalizzazione.
+
+- CER consente il confronto tra obbligazioni zero coupon e altri titoli a reddito fisso.
+
