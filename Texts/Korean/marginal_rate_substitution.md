@@ -1,0 +1,67 @@
+---
+keywords: Economy,Economics,Microeconomics
+title: 한계 대체율(MRS)
+description: 한계대체율(MRS)은 새로운 재화가 동등하게 만족하는 한 소비자가 한 재화를 다른 재화로 교체하려는 의지입니다.
+---
+
+# 한계 대체율(MRS)
+## 한계 대체율(MRS)이란 무엇입니까?
+
+경제학에서 한계대체율(MRS)은 새로운 재화가 동등하게 만족하는 한 소비자가 다른 재화와 비교하여 소비할 의향이 있는 재화의 양입니다. [MRS](/indifferencecurve) 는 [무차별 이론 에서](/indifferencecurve) 소비자 행동을 분석하는 데 사용됩니다.
+
+## 한계 대체율(MRS)의 공식 및 계산
+
+한계대체율(MRS) 공식은 다음과 같습니다.
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><의미론><mtable rowspacing="0.2499999999999992em " columnalign="오른쪽 왼쪽" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi mathvariant="normal"> ∣ </mi><mi>M</mi><mi>R</ mi><msub><mi>S</mi><mrow><mi>x</mi><mi>y</mi></mrow></msub><mi mathvariant="normal"> ∣ < /mi><mo>=</mo><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi >x</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>M</mi><msub><mi>U</mi><mi> x</mi></msub></mrow><mrow><mi>M</mi><msub><mi>U</mi><mi>y</mi></msub></mrow ></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle ></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">여기서:</mtext></mrow>< /mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" 디스플레이 aystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi> x</mi><mo separator="true">,</mo><mi>y</mi><mo>=</mo><mtext>2개의 다른 상품</mtext></mrow></ mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle 스크립트 수준 ="0" displaystyle="true"><mrow><mrow></mrow><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow>< mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mtext>x에 대한 y의 도함수</mtext></mrow>< /mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>M</mi><mi>U</mi><mo>=</mo><mtext>한계 유틸리티 좋은 x, y</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;|MRS_ {xy}| = \frac{dy}{dx} = \frac{MU_x}{MU_y} \\ &amp;\textbf{where:}\\ &amp;x, y=\text{두 개의 다른 상품}\\ &amp;\frac{ dy}{dx}=\text{x에 대한 y의 도함수}\\ &amp;MU=\text{좋은 x의 한계 효용, y}\\ \end{정렬}</annotation></semantics>< /math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:9.500988em;수직 정렬 :-4.500494em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2 "><span class="vlist-r"><span class="vlist" style="height:5.000494em;"><span style="top:-7.000494em;"><span class="pstrut" 스타일 ="높이:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:-4.888386em;"><span class="pstrut" 스타일 ="높이:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:-3.3883859999999997em;"><span class="pstrut" 스타일 ="높이:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:-1.35694599999 99993em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:0.46905399999999986em ;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span></span><span class="vlist -s">​</span></span><span class="vlist-r"><span class="vlist" style="height:4.500494em;"><span></span></span ></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:5.000494em;"><span style="top:-7.000494em;"><span class="pstrut" style="height:3.3714399999999998em;"></span>< 스팬 class="mord"><span class="mord"></span><span class="mord"> ∣ </span><span class="mord Mathnormal" style="margin-right:0.10903em; ">M</span><span class="mord mathnormal" style="margin-right:0.00773em;">R</span><span class="mord"><span class="mord mathnormal" 스타일= "margin-right:0.05764em;">S</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r" ><span class="vlist" style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span class= "pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">x </span><span class="mord mathnormal mtight" style="margin-right:0.03588em;">y</span></span></span></span></span><span class= "vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.286108em;"><span></span>< /span></span></span></span></span><span class="mord"> ∣ </span><span class="mspace" style="margin-right:0.2777777777777778em;" ></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord">< span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" 스타일="높이:1.3714399999999998em;"><span style="top:-2.314em;"><span class="ps trut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">d</span><span class="mord mathnormal">x</span ></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line " style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="높이:3em; "></span><span class="mord"><span class="mord mathnormal">d</span><span class="mord mathnormal" style="margin-right:0.03588em;">y< /span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist " style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span ><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right :0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2 "><스팬 클래스= "vlist-r"><span class="vlist" style="height:1.36033em;"><span style="top:-2.314em;"><span class="pstrut" 스타일="높이:3em; "></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.10903em;">M</span><span class="mord"><스팬 클래스 ="mord mathnormal" style="margin-right:0.10903em;">U</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist- r"><span class="vlist" style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:-0.10903em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em ;">y</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r">< 스팬 클래스="vlist" 스타일="높이:0.286108em;"><span></span></span></span></span></span></span></span></span ><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="borde r-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></ span><span class="mord"><span class="mord mathnormal" style="margin-right:0.10903em;">M</span><span class="mord"><span class="mord 수학 일반 " style="margin-right:0.10903em;">U</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r">< span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.10903em;margin-right:0.05em;"><span class="pstrut " style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">x</span></span></span ></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;" ><span></span></span></span></span></span></span></span></span></span><span class="vlist-s"> ​</span></span><span class="vlist-r"><span class="vlist" style="height:0.972108em;"><span></span></span></span ></span></span><span class="mclose nu lldelimiter"></span></span></span></span><span style="top:-4.888386em;"><span class="pstrut" style="height:3.3714399999999998em;">< /span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">여기서:</span></span ></span></span><span style="top:-3.3883859999999997em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord" ><span class="mord"></span><span class="mord mathnormal">x</span><span class="mpunct">,</span><span class="mspace" 스타일=" margin-right:0.16666666666666666em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin- 오른쪽:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><스팬 클래스 ="mord text"><span class="mord">2개의 다른 상품</span></span></span></span><span style="top:-1.3569459999999993em;"><span class= "pstrut" style="height:3.3714399999999998em;"></span><스팬 클라 ss="mord"><span class="mord"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><스팬 클래스 ="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.371439999999998em;"><span style="top:-2.314em;"> <span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">d</span><span class="mord Mathnormal" >x</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><스팬 클래스 ="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" 스타일= "높이:3em;"></span><span class="mord"><span class="mord mathnormal">d</span><span class="mord mathnormal" style="margin-right:0.03588em ;">y</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r">< span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></ 스팬></span><span class="mspace" st yle="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></ span><span class="mord text"><span class="mord">x에 대한 y의 도함수</span></span></span></span><span style="top:0.46905399999999986 em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class=" mord mathnormal" style="margin-right:0.10903em;">M</span><span class="mord mathnormal" style="margin-right:0.10903em;">U</span><span class=" mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778em;"> </span><span class="mord text"><span class="mord">x, y의 한계 효용</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:4.500494em;"><span></span ></span></span></span></span></span></span></span></span></span>
+
+## 한계 대체율(MRS)이 알려줄 수 있는 것
+
+한계대체율은 경제학에서 사용되는 용어로, 한 재화의 양이 다른 재화로 대체될 수 있는지를 말하며 다양한 목적으로 소비자 행동을 분석하는 데 사용됩니다. MRS는 [무차별곡선](/indifferencecurve) 에 놓인 두 재화 사이에서 계산되며 "양호 X"와 "양호 Y"의 각 조합에 대한 효용의 경계선을 표시합니다. 이 곡선의 기울기는 서로 대체할 수 있는 좋은 X와 Y의 양을 나타냅니다.
+
+무차별곡선의 기울기는 한계대체율 분석에 매우 중요합니다. 기본적으로 MRS는 곡선을 따라 임의의 단일 점에서 무차별 곡선의 기울기입니다. 대부분의 무차별곡선은 곡선이기 때문에 기울기는 곡선을 따라 이동함에 따라 달라집니다. 대부분의 무차별 곡선은 일반적으로 볼록합니다. 왜냐하면 한 재화를 더 많이 소비할수록 다른 재화도 덜 소비하게 되기 때문입니다. 무차별곡선은 기울기가 일정하면 직선이 될 수 있으며, 결과적으로 우하향하는 직선으로 표현되는 무차별곡선이 됩니다.
+
+한계대체율이 증가하면 무차별곡선은 원점에서 오목하게 된다. 이것은 소비자가 Y의 소비 증가에 대해 X를 더 많이 소비한다는 것을 의미하기 때문에 일반적으로 일반적이지 않습니다(반대의 경우도 마찬가지). 일반적으로 한계대체는 감소하고 있는데, 이는 소비자가 동시에 더 많이 소비하기 보다는 다른 재화 대신 대체재를 선택한다는 것을 의미합니다.
+
+> 한계대체율 체감의 법칙에 따르면 MRS는 표준 볼록형 곡선, 즉 무차별 곡선 아래로 이동할 때 감소합니다.
+
+>
+
+>
+
+>
+
+## 한계 대체율(MRS)의 예
+
+예를 들어 소비자는 햄버거와 핫도그 중 하나를 선택해야 합니다. 한계 대체율을 결정하기 위해 소비자는 햄버거와 핫도그의 어떤 조합이 동일한 수준의 만족도를 제공하는지 질문합니다.
+
+이러한 조합을 그래프로 표시하면 결과 선의 기울기가 음수입니다. 이는 소비자가 한계 대체율 감소에 직면한다는 것을 의미합니다. 즉, 핫도그에 비해 햄버거를 더 많이 가질수록 소비할 의향이 있는 핫도그는 줄어듭니다. 핫도그에 대한 햄버거의 한계 대체율이 -2라면 개인은 햄버거를 추가로 소비할 때마다 핫도그 2개를 기꺼이 포기할 것입니다.
+
+<!--F11E77319B1222D83C244CD6AE5426AD-->
+
+## 한계대체율(MRS)의 한계
+
+한계대체율에는 몇 가지 한계가 있습니다. 주요 결점은 소비자가 다른 조합보다 더 많이 또는 덜 선호하는 재화의 조합을 조사하지 않는다는 것입니다. 이것은 일반적으로 MRS의 분석을 두 가지 변수로 제한합니다. 또한 MRS는 두 비교재의 효용을 동등하게 취급하기 때문에 한계효용을 반드시 조사하지는 않습니다.
+
+## 하이라이트
+
+- MRS 체감의 법칙이 적용될 때 MRS는 다른 재화 대신 한 재화를 더 많이 소비하는 하향, 음의 경사, 볼록한 곡선을 형성합니다.
+
+- 한계대체율은 곡선을 따라 주어진 임의의 점에서의 무차별곡선의 기울기이며 "양호한 X"와 "양호한 Y"의 각 조합에 대한 효용의 경계선을 표시합니다.
+
+- 한계대체율은 새로운 재화가 동등하게 만족하는 한 소비자가 한 재화를 다른 재화로 교체하려는 의지입니다.
+
+## 자주하는 질문
+
+### 무차별곡선과 MRS의 관계는?
+
+기본적으로 MRS는 곡선을 따라 임의의 단일 점에서 무차별 곡선의 기울기입니다. 대부분의 무차별 곡선은 일반적으로 볼록합니다. 왜냐하면 한 재화를 더 많이 소비할수록 다른 재화도 덜 소비하게 되기 때문입니다. 따라서 MRS는 무차별 곡선 아래로 이동함에 따라 감소합니다. 이를 한계대체율 체감의 법칙이라고 합니다. 한계 대체율이 증가하면 무차별 곡선은 오목하게 되어 소비자가 Y의 소비 증가에 대해 X를 더 많이 소비하게 되며 그 반대의 경우도 마찬가지이지만 일반적이지 않습니다.
+
+### 한계대체율(MRS)의 단점은 무엇입니까?
+
+한계대체율에는 몇 가지 한계가 있습니다. 주요 결점은 소비자가 다른 조합보다 더 많이 또는 덜 선호하는 재화의 조합을 조사하지 않는다는 것입니다. 이것은 일반적으로 MRS의 분석을 두 가지 변수로 제한합니다. 또한 MRS는 실제로는 다양한 효용을 가질 수 있지만 두 비교 가능한 재화의 효용을 동등하게 취급하기 때문에 한계 효용을 반드시 조사하지는 않습니다.
+
+### 무차별 곡선 분석이란 무엇입니까?
+
+무차별 곡선 분석은 간단한 2차원 그래프에서 작동합니다. 각 축은 한 가지 유형의 경제적 재화를 나타냅니다. 소비자는 무차별곡선의 점으로 표시되는 재화의 조합이 소비자에게 동일한 수준의 효용을 제공하기 때문에 무차별적입니다. 무차별 곡선은 소비자 선호도와 예산의 한계를 보여주기 위해 현대 미시경제학에서 사용되는 발견적 장치입니다.
+
