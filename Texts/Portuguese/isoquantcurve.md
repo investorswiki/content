@@ -1,0 +1,109 @@
+---
+keywords: Economy,Economics,Microeconomics
+title: Curva Isoquanta
+description: A curva de isoquantas é um gráfico, usado no estudo da microeconomia, que mapeia todos os insumos que produzem um determinado nível de produto.
+---
+
+# Curva Isoquanta
+## O que é uma curva isoquanta?
+
+Uma curva isoquanta é uma linha côncava em um gráfico, usada no estudo da [microeconomia](/microeconomics),. que mapeia todos os fatores, ou entradas, que produzem um nível especificado de saída. Este gráfico é usado como uma métrica para a influência que os insumos – mais comumente, capital e trabalho – têm no nível de produção ou produção obtido.
+
+A curva de isoquantas auxilia empresas e negócios a fazer ajustes nos insumos para maximizar a produção e, portanto, os lucros.
+
+> - Uma curva isoquanta é uma linha côncava traçada em um gráfico, mostrando todas as várias combinações de duas entradas que resultam na mesma quantidade de saída.
+
+> - Mais tipicamente, uma isoquanta mostra combinações de capital e trabalho e o trade-off tecnológico entre os dois.
+
+> - A curva de isoquantas auxilia empresas e negócios a fazer ajustes em suas operações de fabricação, para produzir o maior número de mercadorias ao menor custo.
+
+> - A curva de isoquantas demonstra o princípio da taxa marginal de substituição técnica, que mostra a taxa na qual você pode substituir um insumo por outro, sem alterar o nível de saída resultante.
+
+> - Todas as curvas de isoquantas compartilham sete propriedades básicas, incluindo o fato de que elas não podem ser tangentes ou se cruzar, elas tendem a se inclinar para baixo e aquelas que representam maior produção são colocadas mais altas e à direita.
+
+>
+
+>
+
+## Entendendo uma curva isoquanta
+
+O termo "isoquanta", dividido em latim, significa "quantidade igual", com "iso" significando igual e "quant" significando quantidade. Essencialmente, a curva representa uma quantidade consistente de produção. A isoquanta é conhecida, alternativamente, como curva de produto igual ou curva de indiferença de produção. Também pode ser chamada de curva iso-produto.
+
+Mais tipicamente, uma isoquanta mostra combinações de capital e trabalho e o tradeoff tecnológico entre os dois – quanto capital seria necessário para substituir uma unidade de trabalho em um determinado ponto de produção para gerar a mesma produção. O trabalho é frequentemente colocado ao longo do eixo X do gráfico de isoquantas e o capital ao longo do eixo Y.
+
+Devido à [lei dos retornos decrescentes](/lawofdiminishingmarginalreturn) – a teoria econômica que prevê que, após algum nível ótimo de capacidade de produção ser alcançado, a adição de outros fatores resultará em aumentos menores na produção – uma curva de isoquantas geralmente tem uma forma côncava. A inclinação exata da curva de isoquantas no gráfico mostra a taxa na qual um dado insumo, seja trabalho ou capital, pode ser substituído por outro, mantendo o mesmo nível de produção.
+
+Por exemplo, no gráfico abaixo, o Fator K representa o capital e o Fator L representa o trabalho. A curva mostra que quando uma empresa desce do ponto (a) para o ponto (b) e usa uma unidade adicional de trabalho, a empresa pode abrir mão de quatro unidades de capital (K) e ainda permanecer na mesma isoquanta no ponto ( b). Se a empresa contratar outra unidade de trabalho e passar do ponto (b) para (c), a empresa pode reduzir seu uso de capital (K) em três unidades, mas permanecer na mesma isoquanta.
+
+<!--5498AF8C905D5DF4002B115C27ED2DB0-->
+
+## Curva de isoquanta vs. Curva de indiferença
+
+A curva de isoquantas é, de certa forma, o outro lado de outra medida microeconômica, a [curva de indiferença](/indifferencecurve). O mapeamento da curva de isoquantas aborda problemas de minimização de custos para **produtores** — a melhor maneira de fabricar mercadorias. A curva de indiferença, por outro lado, mede as maneiras ótimas que os **consumidores** usam os bens. Ele tenta analisar o comportamento do consumidor e mapear a demanda do consumidor.
+
+Quando plotada em um gráfico, uma curva de indiferença mostra uma combinação de dois bens (um no eixo Y e outro no eixo X) que dão ao consumidor igual satisfação e igual utilidade, ou uso. Isso torna o consumidor "indiferente" — não no sentido de ficar entediado com eles, mas no sentido de não ter preferência entre eles.
+
+A curva de indiferença tenta identificar em que ponto um indivíduo deixa de ser indiferente à combinação de bens. Digamos que Mary ama maçãs e laranjas. Uma curva de indiferença pode mostrar que Mary às vezes compra seis de cada toda semana, às vezes cinco maçãs e sete laranjas, às vezes oito maçãs e quatro laranjas – qualquer uma dessas combinações combina com ela (ou, ela é indiferente a elas, em termos econômicos). Qualquer disparidade maior entre as quantidades de frutas, porém, e seu interesse e padrão de compra mudam. Um analista examinaria esses dados e tentaria descobrir o porquê: é o custo relativo das duas frutas? O fato de um estragar mais fácil que o outro?
+
+Embora as curvas de isoquanta e de indiferença tenham uma forma inclinada semelhante, a curva de indiferença é lida como convexa, saliente para fora de seu ponto de origem.
+
+> Central como é para a teoria econômica, o criador da curva de isoquantas é desconhecido; foi atribuído a diferentes economistas. O termo "isoquanta" parece ter sido cunhado por Ragnar Frisch, aparecendo em suas notas para palestras sobre teoria da produção na Universidade de Oslo em 1928-29. Quaisquer que sejam suas origens, no final da década de 1930, o gráfico de isoquantas estava em uso generalizado por industriais e economistas industriais.
+
+>
+
+## As propriedades de uma curva isoquanta
+
+**Propriedade 1:** uma curva isoquanta tem inclinação descendente ou inclinação negativa. Isso significa que o mesmo nível de produção só ocorre quando unidades crescentes de insumo são compensadas com unidades menores de outro fator de insumo. Este imóvel enquadra-se no princípio da [Taxa Marginal de Substituição Técnica (TMS)](/marginal-rate-technical-substitution). Por exemplo, o mesmo nível de produção pode ser alcançado por uma empresa quando os insumos de capital aumentam, mas os insumos de trabalho diminuem.
+
+**Propriedade 2:** Uma curva isoquanta, devido ao efeito MRTS, é convexa em relação à sua origem. Isso indica que os fatores de produção podem ser substituídos entre si. O aumento de um fator, no entanto, ainda deve ser usado em conjunto com a diminuição de outro fator de entrada.
+
+**Propriedade 3:** as curvas isoquantas não podem ser tangentes ou se cruzar. As curvas que se cruzam são incorretas e produzem resultados inválidos, pois uma combinação de fatores comuns em cada uma das curvas revelará o mesmo nível de produção, o que não é possível.
+
+**Propriedade 4:** curvas de isoquantas nas partes superiores do gráfico geram saídas mais altas. Isso porque, em uma curva mais alta, os fatores de produção são mais intensamente empregados. Ou mais capital ou mais fatores de entrada de trabalho resultam em um maior nível de produção.
+
+**Propriedade 5:** uma curva isoquanta não deve tocar o eixo X ou Y no gráfico. Se o fizer, a taxa de substituição técnica é nula, pois indicará que um fator é responsável por produzir o determinado nível de produção sem o envolvimento de outros fatores de entrada.
+
+**Propriedade 6:** as curvas de isoquantas não precisam ser paralelas umas às outras; a taxa de substituição técnica entre os fatores pode ter variações.
+
+**Propriedade 7:** as curvas de isoquantas têm formato oval, permitindo que as empresas determinem os fatores de produção mais eficientes.
+
+## Perguntas frequentes sobre isoquant
+
+### O que é uma isoquanta em economia?
+
+Uma isoquanta em economia é uma curva que, quando plotada em um gráfico, mostra todas as combinações de dois fatores que produzem um determinado produto. Frequentemente usadas na manufatura, com capital e trabalho como os dois fatores, as isoquantas podem mostrar a combinação ótima de insumos que produzirá a produção máxima a um custo mínimo.
+
+### O que é uma isoquanta e suas propriedades?
+
+Uma isoquanta é uma curva em formato côncavo em um gráfico que mede a produção e o trade-off entre dois fatores necessários para manter essa produção constante. Entre as propriedades das isoquantas:
+
+- Uma isoquanta se inclina para baixo da esquerda para a direita
+
+- Quanto mais alto e mais à direita uma isoquanta estiver em um gráfico, maior será o nível de saída que ela representa
+
+- Duas isoquantas não podem se cruzar
+
+- Uma isoquanta é convexa ao seu ponto de origem
+
+- Uma isoquanta tem formato oval
+
+### O que é isoquanta e isocusto?
+
+Tanto os isocustos quanto as isoquantas são curvas traçadas em um gráfico. Usados por produtores e fabricantes, eles exibem a melhor interação de dois fatores que resultarão na produção máxima a um custo mínimo. Uma isoquanta mostra todas as combinações de fatores que produzem uma determinada saída. Um isocusto mostra todas as combinações de fatores que custam a mesma quantia.
+
+### Como você calcula uma isoquanta?
+
+Uma isoquanta é um gráfico que mostra combinações de dois fatores, geralmente capital e trabalho, que produzirão o mesmo produto. Para calcular uma isoquanta, você usa a fórmula da taxa marginal de substituição técnica (TMS):
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mrow><mtext>MRTS(</mtext><mtext mathvariant="italic">L</mtext><mtext >, </mtext><mtext mathvariant="italic">K</mtext><mtext>)</mtext></mrow><mo>=</mo><mo>−</mo><mfrac> <mrow><mi mathvariant="normal">Δ</mi><mi>K</mi></mrow><mrow><mi mathvariant="normal">Δ</mi><mi>L</ mi></mrow></mfrac><mo>=</mo><mfrac><msub><mtext>MP</mtext><mi>L</mi></msub><msub><mtext> MP</mtext><mi>K</mi></msub></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant ="bold">onde:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scr iptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></ mrow><mi>K</mi><mo>=</mo><mtext>Capital</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></ mrow><mi>L</mi><mo>=</mo><mtext>Trabalho</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></ mrow><mtext>MP</mtext><mo>=</mo><mtext>Produtos marginais de cada entrada</mtext></mrow></mstyle></mtd></mtr><mtr>< mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow>< mrow></mrow><mfrac><mrow><mi mathvariant="normal">Δ</mi><mi>K</mi></mrow><mrow><mi mathvariant="normal">Δ< /mi><mi>L</mi></mrow></mfrac><mo>=</mo><mtext>Quantidade de capital que pode ser reduzida</mte xt></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></ mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>quando a mão de obra é aumentada (normalmente em uma unidade)</mtext></mrow>< /mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{MRTS(\textit{L}, \textit{K} )} = - \frac{ \Delta K }{ \Delta L } = \frac{ \text {MP}_L }{ \text {MP}_K } \\ &amp;\textbf{onde:} \\ &amp;K = \text{Capital} \\ &amp;L = \text{Trabalho} \\ &amp;\text{MP} = \text{Produtos marginais de cada entrada} \\ &amp;\frac{ \Delta K }{ \Delta L } = \text{Quantidade de capital que pode ser reduzida}\\ &amp;\text{quando o trabalho é aumentado (normalmente em uma unidade)} \\ \end{aligned}</annotation></semantics></math ></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:12.342660000000002em;vertical-align:- 5.921330000000001em;"></span><span class="mord"><span class="mtable"><span cl ass="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:6.42133em;"> <span style="top:-8.421330000000001em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span> <span style="top:-6.44533em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span> <span style="top:-4.94533em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span> <span style="top:-3.4453300000000002em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span> <span style="top:-1.9453300000000002em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span> <span style="top:0.07499999999999984em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span>< span style="top:1.9010000000000007em;"><span class="pstrut" style="heig ht:3.3603300000000003em;"></span><span class="mord"></span></span></span><span class="vlist-s">​</span></span> <span class="vlist-r"><span class="vlist" style="height:5.921330000000001em;"><span></span></span></span></span></span> <span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:6.42133em; "><span style="top:-8.421330000000001em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord "></span><span class="mord text"><span class="mord">MRTS(</span><span class="mord text"><span class="mord textit">L</ span></span><span class="mord">, </span><span class="mord text"><span class="mord textit">K</span></span><span class= "mord">)</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span>< span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord">−</span><span class="mord"><span class="mopen nulldelimiter "> </span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.36033em; "><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord" >Δ</span><span class="mord mathnormal">L</span></span></span><span style="top:-3.23em;"><span class="pstrut" style= "height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:- 3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">Δ</span><span class= "mord mathnormal" style="margin-right:0.07153em;">K</span></span></span></span><span class="vlist-s">​</span></ span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></ span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel"> =</span><span class="mspace" style="margin-right:0.2777 777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"> <span class="vlist-r"><span class="vlist" style="height:1.36033em;"><span style="top:-2.3139999999999996em;"><span class="pstrut" style=" height:3em;"></span><span class="mord"><span class="mord"><span class="mord text"><span class="mord">MP</span></ span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"> <span style="top:-2.5500000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.07153em;">K</span></span></span></span><span class="vlist-s ">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span>< /span></span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="heig ht:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677 em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"><span class="mord text">< span class="mord">MP</span></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class ="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;" ></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">L</span></span></span></span><span class=" vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></ span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span>< span class="vlist-r"><span class="vlist" style="height:0.8360000000000001em;"><span></span></span></span></span></span>< span class="mclose nulldelimiter"></span></span></sp an></span><span style="top:-6.44533em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">onde:</span></span></span></span><span style= "top:-4.94533em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span> <span class="mord mathnormal" style="margin-right:0.07153em;">K</span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord" >Capital</span></span></span></span><span style="top:-3.4453300000000002em;"><span class="pstrut" style="height:3.3603300000000003em;"></ span><span class="mord"><span class="mord"></span><span class="mord mathnormal">L</span><span class="mspace" style="margin-right: 0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" s tyle="margin-right:0.277777777777778em;"></span><span class="mord text"><span class="mord">Trabalho</span></span></span></span> <span style="top:-1.9453300000000002em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"> </span><span class="mord text"><span class="mord">MP</span></span><span class="mspace" style="margin-right:0.2777777777777778em;">< /span><span class="mrel">=</span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mord text"><span class="mord">Produtos marginais de cada entrada</span></span></span></span><span style="top:0.07499999999999984em;"><span class="pstrut" style="height :3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class="mord"><span class="mopen nulldelimiter"></span ><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.36033em;">< span style="top:-2.314em;"><span class="pstrut" style="height:3 em;"></span><span class="mord"><span class="mord">Δ</span><span class="mord mathnormal">L</span></span></span ><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom- largura:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">Δ</span><span class="mord mathnormal" style="margin-right:0.07153em;">K</span></span></ span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em; estilo "><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" ="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.277777777777778em;"></span ><span class="mord text"><span class="mord">Quantidade de capital que pode ser reduzida</span></span></span></span><span style="top:1.9010000000000007em ;"><span class="pstru t" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class=" mord">quando o trabalho é aumentado (normalmente em uma unidade)</span></span></span></span></span><span class="vlist-s">​</span></ span><span class="vlist-r"><span class="vlist" style="height:5.921330000000001em;"><span></span></span></span></span></ span></span></span></span></span></span>
+
+Por exemplo, no gráfico de uma isoquanta onde o capital (representado por K em seu eixo Y e trabalho (representado por L) em seu eixo X, a inclinação da isoquanta, ou o MRTS em qualquer ponto, é calculada como dL/dK.
+
+### Qual é a inclinação de uma isoquanta?
+
+A inclinação da isoquanta indica a taxa marginal de substituição técnica (TMR): a taxa na qual você pode substituir um insumo, como trabalho, por outro insumo, como capital, sem alterar o nível de produção resultante. A inclinação também indica, em qualquer ponto ao longo da curva, quanto capital seria necessário para substituir uma unidade de trabalho naquele ponto de produção.
+
+## A linha de fundo
+
+A curva de isoquantas é uma linha inclinada em um gráfico que mostra todas as várias combinações das duas entradas que resultam na mesma quantidade de saída. É uma métrica microeconômica que as empresas usam para ajustar as quantidades relativas de capital e mão de obra de que precisam para manter a produção estável, descobrindo assim como maximizar os lucros e minimizar os custos.
+
