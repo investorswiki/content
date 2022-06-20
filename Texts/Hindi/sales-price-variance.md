@@ -1,0 +1,43 @@
+---
+keywords: Economy,Economics,Microeconomics
+title: बिक्री मूल्य भिन्नता
+description: बिक्री मूल्य विचरण उस मूल्य के बीच का अंतर है जो एक व्यवसाय अपने उत्पादों या सेवाओं को बेचने की अपेक्षा करता है और यह वास्तव में उन्हें किस लिए बेचता है।
+---
+
+# बिक्री मूल्य भिन्नता
+## बिक्री मूल्य विचरण क्या है?
+
+बिक्री मूल्य भिन्नता उस मूल्य के बीच का अंतर है जिस पर एक व्यवसाय अपने उत्पादों या सेवाओं को बेचने की अपेक्षा करता है और वास्तव में उन्हें किस लिए बेचता है। [बिक्री मूल्य](/price-to-salesratio) भिन्नताओं को या तो "अनुकूल" कहा जाता है, या लक्षित मूल्य से अधिक मूल्य पर बेचा जाता है, या "प्रतिकूल" तब कहा जाता है जब वे लक्षित या मानक मूल्य से कम पर बेचते हैं।
+
+## बिक्री मूल्य भिन्नता को समझना
+
+बिक्री मूल्य भिन्नता प्रकट कर सकती है कि कौन से उत्पाद कुल बिक्री [राजस्व में सबसे अधिक योगदान करते हैं](/revenue) और अन्य उत्पादों पर अंतर्दृष्टि शेड करते हैं जिन्हें कीमत में कमी की आवश्यकता हो सकती है। यदि कोई उत्पाद अपने मानक मूल्य पर बहुत अच्छी तरह से बेचता है, तो एक कंपनी कीमत को थोड़ा बढ़ाने पर भी विचार कर सकती है, खासकर यदि अन्य विक्रेता उच्च इकाई मूल्य ले रहे हों।
+
+बड़े और छोटे व्यवसाय मासिक [बजट तैयार करते](/budget) हैं जो आने वाली अवधि के लिए अनुमानित बिक्री और व्यय दिखाते हैं। ये बजट ऐतिहासिक अनुभव, [मांग के संबंध में प्रत्याशित आर्थिक स्थितियों](/demand),. आपूर्ति के संबंध में प्रत्याशित प्रतिस्पर्धी गतिशीलता, फर्मों द्वारा की गई नई विपणन पहल और नए उत्पाद या सेवा की शुरूआत को एकीकृत करते हैं।
+
+एक व्यापक बजट मानकीकृत कीमतों के एक सेट का उपयोग करेगा और प्रत्येक व्यक्तिगत उत्पाद या सेवा की पेशकश के लिए अपेक्षित बिक्री को तोड़ देगा, अपेक्षित बिक्री मात्रा के और टूटने के साथ, और फिर उन आंकड़ों को एक [शीर्ष -](/topline) [पंक्ति](/topline) बिक्री राजस्व संख्या में रोल करेगा। एक महीने के लिए बिक्री के परिणाम आने के बाद, व्यवसाय बजट बिक्री के आंकड़ों के बगल में वास्तविक बिक्री के आंकड़े दर्ज करेगा और प्रत्येक उत्पाद या सेवा के लिए परिणाम तैयार करेगा।
+
+यह संभावना नहीं है कि किसी व्यवसाय के बिक्री परिणाम होंगे जो बजटीय बिक्री से बिल्कुल मेल खाते हैं, इसलिए किसी अन्य कॉलम में अनुकूल या प्रतिकूल भिन्नताएं दिखाई देंगी। इन भिन्नताओं पर नज़र रखना महत्वपूर्ण है क्योंकि वे व्यवसाय के स्वामी या प्रबंधक को यह जानकारी प्रदान करते हैं कि व्यवसाय कहाँ सफल है और कहाँ नहीं।
+
+एक खराब बिक्री वाली उत्पाद लाइन, उदाहरण के लिए, प्रबंधन द्वारा संबोधित किया जाना चाहिए, या इसे पूरी तरह से हटा दिया जा सकता है। दूसरी ओर, तेजी से बिकने वाली उत्पाद लाइन, प्रबंधक को अपनी बिक्री मूल्य बढ़ाने, इसके अधिक निर्माण, या दोनों के लिए प्रेरित कर सकती है।
+
+सूत्र है:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable Rowpacing="0.24999999999999992em " columnalign="right left" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>बिक्री मूल्य भिन्नता</mtext><mo>=</mo><mo stretchy="false">( </mo><mtext>AP </mtext><mo>−</mo><mtext> SP</mtext><mo stretchy="false">)</mo><mo>×</mo>< mtext> बेची गई इकाइयाँ</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow> </mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">कहाँ:</mtext></ mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd ><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>AP</mtext><mo>=</mo><mtext>वास्तविक विक्रय मूल्य</mtext> </mrow></mstyle> </mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel=" 0" displaystyle="true"><mrow><mrow></mrow><mtext>SP</mtext><mo>=</mo><mtext>मानक मूल्य</mtext></mrow></mstyle >> text{SP}) \times\text{ यूनिट्स बिकी}\\ &amp;\textbf{where:}\\ &amp;\text{AP} = \text{वास्तविक बिक्री मूल्य}\\ &amp;\text{SP} = \text{Standard price} \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base "><span class="strut" style="height:6em;vertical-align:-2.7500000000000004em;"></span><span class="mord"><span class="mtable"><span class= "col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:3.25em;"><span style="top:-5.25em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span शैली = "शीर्ष: -3 .75em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:- 2.249999999999999em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:- 0.7499999999999996em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span></span><span class= "vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:2.7500000000000004em;"><span></span>< /span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"> <span class="vlist" style="height:3.25em;"><span style="top:-5.41em;"><span class="pstrut" style="height:3em;"></span> <span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">बिक्री मूल्य भिन्नता</span></span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778em ;"></span><span c lass="mopen">(</span><span class="mord text"><span class="mord">AP</span></span><span class="mspace"> </span>< स्पैन क्लास="mspace" स्टाइल="मार्जिन-राइट:0.22222222222222222em;"></span><span class="mbin">−</span><span class="mspace"> </span><span class ="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mord text"><span class="mord">SP</span></span><span class= "mclose">)</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin">×</span><span class=" mspace" style="margin-right:0.22222222222222222em;"></span><span class="mord text"><span class="mord"> बिकीं इकाइयाँ</span></span></span>< /span><span style="top:-3.91em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord "></span><span class="mord text"><span class="mord textbf">कहां:</span></span></span></span><span style="top:- 2.409999999999993em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class=" मोर d टेक्स्ट"><span class="mord">AP</span></span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mrel ">=</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">वास्तविक बिक्री मूल्य </span></span></span></span><span style="top:-0.9099999999999997em;"><span class="pstrut" style="height:3em;"></span>< स्पैन क्लास="mord"><span class="mord"></span><span class="mord text"><span class="mord">SP</span></span><span class=" mspace" style="margin-right:0.27777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778em;"> </span><span class="mord text"><span class="mord">मानक मूल्य</span></span></span></span></span><span class="vlist- s">​</span></span><span class="vlist-r"><span class="vlist" style="height:2.7500000000000004em;"><span></span></span> </span></span></span></span></span></span></span></span>
+
+## बिक्री मूल्य विचरण उदाहरण
+
+मान लें कि एक कपड़े की दुकान में 50 शर्ट हैं, जो प्रत्येक $20 के लिए बेचने की उम्मीद करता है, जो $1,000 में लाएगा। शर्ट अलमारियों पर बैठे हैं और बहुत जल्दी नहीं बिक रहे हैं, इसलिए स्टोर उन्हें $ 15 प्रत्येक पर छूट देने का विकल्प चुनता है।
+
+स्टोर सभी 50 शर्टों को $15 की कीमत पर बेचता है, जिससे कुल 750 डॉलर की कुल बिक्री होती है। स्टोर की बिक्री मूल्य भिन्नता $1,000 मानक या अपेक्षित बिक्री राजस्व घटा $750 वास्तविक राजस्व है, $250 के अंतर के लिए। इसका मतलब है कि स्टोर को कमाई की उम्मीद से कम [लाभ होगा।](/profit)
+
+## हाइलाइट्स
+
+- इसका उपयोग यह निर्धारित करने के लिए किया जा सकता है कि कुल बिक्री राजस्व में कौन से उत्पाद सबसे अधिक योगदान करते हैं और अन्य उत्पादों पर अंतर्दृष्टि प्रदान करते हैं जिन्हें कीमत में कमी या बंद करने की आवश्यकता हो सकती है।
+
+- एक अनुकूल बिक्री मूल्य भिन्नता का अर्थ है कि एक कंपनी को अपेक्षा से अधिक बिक्री मूल्य प्राप्त हुआ, अक्सर कम प्रतिस्पर्धियों, आक्रामक बिक्री और विपणन अभियानों, या बेहतर उत्पाद भेदभाव के कारण।
+
+- प्रतिकूल बिक्री मूल्य भिन्नता, लक्षित मूल्य से कम पर बिक्री, बढ़ी हुई प्रतिस्पर्धा, किसी दिए गए उत्पाद की गिरती मांग, या किसी प्रकार के नियामक प्राधिकरण द्वारा अनिवार्य मूल्य में कमी से उपजी हो सकती है।
+
+- बिक्री मूल्य विचरण किसी उत्पाद या सेवा के व्यवसाय की अपेक्षित कीमत और उसके वास्तविक बिक्री मूल्य के बीच के अंतर को संदर्भित करता है।
+
