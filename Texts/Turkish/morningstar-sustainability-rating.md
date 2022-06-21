@@ -1,0 +1,27 @@
+---
+keywords: Investing,Sustainable Investing,Socially Responsible Investing
+title: Morningstar Sürdürülebilirlik Derecelendirmesi
+description: Morningstar Sürdürülebilirlik Derecelendirmesi, yatırım fonlarının ve ETF&#39;lerin değerlendirilmesi için küresel bir standarttır. çevresel, sosyal ve kurumsal yönetim.
+---
+
+# Morningstar Sürdürülebilirlik Derecelendirmesi
+## Morningstar Sürdürülebilirlik Derecelendirmesi Nedir?
+
+Morningstar Sürdürülebilirlik Derecelendirmesi, yatırımcıların yaklaşık 20.000 yatırım fonu ve borsada işlem gören fonların (ETF'ler) çevresel, sosyal ve kurumsal yönetim (ESG) zorluklarını nasıl karşıladığını görmeleri için güvenilir [ve](/etf) [objektif](/etf) bir [yoldur](/environmental-social-and-governance-esg-criteria).
+
+Ağustos 2016'da tanıtılan Morningstar'ın Sürdürülebilirlik Derecelendirmeleri, yatırımın kendi endüstri grubu (bir küre), ortalamanın altında (iki küre), ortalamanın (üç küre) altında olup olmadığını gösteren beş küre sistemi kullanılarak ifade edilir. ortalamanın üzerinde (dört küre) veya endüstri grubu derecelendirmesinin en üst noktasında (beş küre). Yatırımcılar Morningstar'ın sürdürülebilirlik derecelendirmelerini Morningstar.com'un fon teklif sayfalarının sağ tarafında bulabilirler. Morningstar Portföy Sürdürülebilirlik Derecelendirmeleri aylık olarak yayınlanır.
+
+## Morningstar Sürdürülebilirlik Derecelendirmesini Anlama
+
+[sürdürülebilir](/sustainability) yatırımın çarpıcı artışını ve önemini yansıtıyor . Sürdürülebilirlik derecelendirmeleri iki bileşene dayanmaktadır: Sustainalytics ve ESG tartışmaları tarafından geliştirilen şirket düzeyinde ESG puanları. Her bir fonun ESG puanı, altında yatan şirketlerin hazırlık, açıklama ve performansına dayanmaktadır. Portföydeki her şirket, küresel endüstri emsal grubundaki diğer firmalara göre 0 ila 100 arasında derecelendirilir. Sonuç olarak, aynı puana sahip ancak farklı emsal gruplarına ait iki şirket, eşdeğer düzeyde çevresel, sosyal ve kurumsal yönetişim (ESG) performansına sahip olmayabilir. 50 puan, şirketin emsal grubuna göre ortalama olarak kabul edildiği anlamına gelir; 70 veya daha yüksek bir puan, şirketin emsal grubunda ortalamanın en az iki standart sapma üzerinde derecelendirildiği anlamına gelir. 30 veya daha düşük bir puan, şirketin emsal grubunda ortalamanın altında en az iki standart sapma puanı aldığı anlamına gelir.
+
+[yönetim altındaki varlıklarının (AUM)](/aum) en az yarısının, portföyün sürdürülebilirlik puanı alabilmesi için bir şirket ESG puanına sahip olması gerekir. Morningstar Sürdürülebilirlik Derecelendirmesi daha sonra portföyün puanını alır ve portföydeki şirketlerin sahip olabileceği tartışmalı ESG ile ilgili sorunlar için puan çıkarır. Tartışmalar, petrol sızıntıları, ayrımcılık davaları veya şirketi etkileyen olaylar gibi çevreyi ve toplumu etkileyen olayları içerir.
+
+Morningstar'a göre, daha yüksek sürdürülebilirlik derecelerine sahip fonlar, daha yüksek kaliteli holdinglere sahip olma eğilimindedir. Daha yüksek kalite ile Morningstar, [riske göre ayarlanmış getirileri için yüksek yıldız derecelendirmelerine sahip olma olasılığı](/riskadjustedreturn) daha yüksek olan, Morningstar analistleri tarafından tercih edilme olasılığı daha yüksek olan, daha az oynak olan ve daha fazla riske maruz kalan beş küresel sürdürülebilirlik derecelendirmesine sahip fonlara atıfta bulunuyor . [ekonomik hendekleri](/economicmoat) olan mali açıdan sağlıklı şirketler .
+
+Ancak, bir fonun yüksek yıldız derecelendirmesi ve düşük sürdürülebilirlik derecesi olabilir. Örneğin, Fidelity'nin Total Market Index Premium fonu (FSTVX), riske göre ayarlanmış getirileri için beş üzerinden dört yıldızlı bir Morningstar derecesine sahiptir. Morningstar'ın birinci sınıf analist raporu, düşük maliyeti ( [yüksüz](/no-loadfund) ve %0,05'lik bir gider oranı, %0,90'lık grup medyanının oldukça altında) ve "geniş " olması sayesinde bu fonu "her büyüklükteki ABD hisse senetlerine farklı şekillerde maruz kalmak için harika bir seçim" olarak adlandırıyor. , ABD pazarının piyasa [değeri ağırlıklı](/capitalizationweightedindex) kapsama alanı.” Ayrıca, analistlerin fonun en az beş yıllık tam bir piyasa döngüsü boyunca daha iyi performans göstermesini beklediğini gösteren bir altın notu da taşıyor. Ancak, kendi kategorisinde %80'lik bir sıralamaya ve 45'lik bir sürdürülebilirlik puanına dayalı olarak, beş küreden yalnızca iki (ortalamanın altında) bir sürdürülebilirlik derecesine sahiptir.
+
+[sosyal olarak sorumlu yatırım](/sri) ) fonları satın almak zorunda kalmadan portföylerini sürdürülebilir bir yatırım felsefesine yönlendirmelerini mümkün kılar . SRI fonlarının çeşitli potansiyel eksiklikleri vardır: fon evreninin küçük bir yüzdesini temsil ederler (Morningstar tahminlerine göre yaklaşık %2) ve çalışmalar, SRI olmayan muadillerine kıyasla daha yüksek getiri sağlama yeteneklerini hem kanıtlamış hem de çürütmüştür. Sonuç olarak, birçok yatırımcı SRI fonlarına yatırım yapmakta tereddüt ediyor. Ayrıca, SRI fonlarına yatırım yapmak, bazı sektörlerde aşırı maruz kalmaya ve diğerlerinde düşük maruz kalmaya yol açabilir.
+
+Yatırımcılar, ilgili Morningstar Sürdürülebilirlik Derecelendirmelerine dayalı olarak bir geleneksel fonu diğerine tercih etmeye daha meyilli olabilir. Bir yatırımcı, benzer uzun vadeli performans ve yatırım stratejilerine sahip iki büyük [sermayeli büyüme fonu arasında seçim](/growthfund) yapıyorsa ve biri iki dünya, diğeri dört dünya derecelendirmesine sahipse, dünya derecelendirmesi karar faktörü olabilir.
+
