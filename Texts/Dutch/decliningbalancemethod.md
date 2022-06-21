@@ -1,0 +1,43 @@
+---
+keywords: Business,Corporate Finance and Accounting,Accounting
+title: Metode med faldende saldo
+description: Ved at bruge degressive saldo-metoden rapporterer en virksomhed større afskrivningsomkostninger i de tidligere år af et aktivs brugstid.
+---
+
+# Metode med faldende saldo
+## Hvad er metoden med faldende saldo?
+
+Den degressive saldometode er et [accelereret afskrivningssystem](/accelerateddepreciation),. hvor der registreres større afskrivningsomkostninger i de tidligere år af et aktivs brugstid og registrerer mindre afskrivningsomkostninger i aktivets senere år.
+
+## Sådan beregnes faldende saldoafskrivning
+
+Afskrivning efter saldo-metoden beregnes med følgende formel:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Afskrivende saldoafskrivning</mtext><mo>=</mo><mi>C</mi>< mi>B</mi><mi>V</mi><mo>×</mo><mi>D</mi><mi>R</mi></mrow></mstyle></mtd ></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle ="true"><mrow><mrow></mrow><mtext mathvariant="bold">hvor:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd ><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow ></mrow><mi>C</mi><mi>B</mi><mi>V</mi><mo>=</mo><mtext>aktuel bogført værdi</mtext></mrow ></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displayst yle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi> D</mi><mi>R</mi><mo>=</mo><mtext>afskrivningssats (%)</mtext></mrow></mstyle></mtd></mtr>< /mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{Declining Balance Depreciation} = CBV \times DR\\ &amp;\textbf{hvor:}\\ &amp;CBV= \text{aktuel bogført værdi}\\ &amp;DR=\text{afskrivningssats (\%)}\\ \end{aligned}</annotation></semantics></math></span><span class= "katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:6em;vertical-align:-2.75000000000000004em;"></span>< span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"> <span class="vlist" style="height:3.25em;"><span style="top:-5.25em;"><span class="psrut" style="height:2.84em;"></span ><span class="mord"></span></span><span style="top:-3.75em;"><span class="psrut" style="height:2.84em;"></span ><span class="mord"></s pan></span><span style="top:-2.249999999999999em;"><span class="psrut" style="height:2.84em;"></span><span class="mord"></ span></span><span style="top:-0.7499999999999996em;"><span class="psrut" style="height:2.84em;"></span><span class="mord"></ span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height :2.75000000000000004em;"><span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist -t2"><span class="vlist-r"><span class="vlist" style="height:3.25em;"><span style="top:-5.41em;"><span class="pstrut " style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord" >Afskrivning af faldende saldo</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span cl ass="mord mathnormal" style="margin-right:0.05017em;">B</span><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.22222222222222222em ;"></span><span class="mord mathnormal" style="margin-right:0.02778em;">D</span><span class="mord mathnormal" style="margin-right:0.00773em; ">R</span></span></span><span style="top:-3.91em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">hvor:</span></span></span> </span><span style="top:-2.4099999999999993em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class=" mord"></span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mord mathnormal" style="margin-right:0.05017em; ">B</span><span class="mord mathnormal" style="margin-right:0.22222em;">V</sp an><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin- right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">aktuel bogført værdi</span></span></span></span><span style ="top:-0.9099999999999997em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord"></span> <span class="mord mathnormal" style="margin-right:0.02778em;">D</span><span class="mord mathnormal" style="margin-right:0.00773em;">R</span> <span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0,27777777777777778em;"></span><span class="mord text"><span class="mord">afskrivningssats (%)</span></span></span></span></span ><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:2.75000000000000004em;"><span> </span></span></span></span></span></span></span></span></span></span>
+
+
+
+Aktuel bogført værdi er aktivets nettoværdi ved begyndelsen af en regnskabsperiode, beregnet ved at fratrække de [akkumulerede afskrivninger](/accumulated-depreciation) fra kostprisen for anlægsaktivet. [Restværdi](/residual-value) er den estimerede bjærgningsværdi ved slutningen af aktivets brugstid. Og afskrivningssatsen er defineret i henhold til det estimerede mønster for et aktivs brug over dets brugstid. For eksempel, hvis et aktiv, der koster 1.000 USD, med en bjærgningsværdi på 100 USD og en 10-årig levetid falder med 30 % hvert år, så er udgiften 270 USD det første år, 189 USD i det andet år, 132 USD i det tredje år, og så videre.
+
+## Hvad fortæller metoden med faldende saldo dig?
+
+Den faldende saldo metode, også kendt som den reducerende saldo metode, er ideel til aktiver, der hurtigt mister deres værdier eller uundgåeligt bliver forældede. Dette er klassisk sandt med computerudstyr, mobiltelefoner og andre højteknologiske genstande, som generelt er nyttige tidligere, men bliver mindre, efterhånden som nyere modeller bringes på markedet. En fremskyndet afskrivningsmetode medvirker i sidste ende til udfasningen af disse aktiver.
+
+Teknikken med faldende saldo repræsenterer det modsatte af den lineære afskrivningsmetode, som er mere velegnet til aktiver, hvis bogførte værdi falder med en jævn hastighed gennem deres brugstid. Denne metode trækker blot bjærgningsværdien fra aktivets kostpris, som derefter divideres med aktivets brugstid. Så hvis en virksomhed betaler $15.000 for en lastbil med en bjærgningsværdi på $5.000 og en brugstid på fem år, svarer den årlige lineære afskrivningsudgift til $2.000 ($15.000 minus $5.000 divideret med fem).
+
+## Faldende afskrivning vs. dobbeltfaldsmetoden
+
+Hvis en virksomhed ofte anerkender store gevinster ved salg af sine aktiver, kan dette signalere, at den bruger fremskyndede afskrivningsmetoder, såsom den dobbelte faldende saldo afskrivningsmetode. Nettoindtægten vil være lavere i mange år, men fordi den bogførte værdi ender med at være lavere end markedsværdien, fører det i sidste ende til en større gevinst, når aktivet sælges. Hvis dette aktiv stadig er værdifuldt, kan salget af det vise et misvisende billede af virksomhedens underliggende helbred.
+
+> Anvendelse af accelereret afskrivningsteknik betyder, at der vil være mindre skattepligtig indkomst i de tidligere år af et aktivs levetid.
+
+>
+
+## Højdepunkter
+
+- Inden for regnskabsvæsen er degressive saldo-metoden et accelereret afskrivningssystem, hvor der registreres større afskrivningsomkostninger i de tidligere år af et aktivs brugstid, mens der registreres mindre afskrivninger i dets senere år.
+
+- Den faldende saldo-teknikken repræsenterer det modsatte af den lineære afskrivningsmetode, som er mere velegnet til aktiver, hvis bogførte værdi støt falder over tid.
+
+- Denne teknik er nyttig til at registrere værdiforringelsen af computere, mobiltelefoner og andre højteknologiske produkter, der hurtigt bliver forældede.
+
