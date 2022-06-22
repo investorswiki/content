@@ -1,0 +1,79 @@
+---
+keywords: Trading,Trading Skills and Essentials,Risk Management,Trading Skills
+title: Risiko keburukan
+description: Risiko penurunan ialah anggaran potensi kerugian dalam nilai jika keadaan pasaran menyebabkan penurunan harga keselamatan itu.
+---
+
+# Risiko keburukan
+## Apakah Risiko Kelemahan?
+
+Risiko penurunan ialah anggaran potensi kerugian nilai [sekuriti](/security) jika keadaan pasaran menyebabkan penurunan harga sekuriti tersebut. Bergantung pada ukuran yang digunakan, risiko menurun menerangkan senario terburuk untuk pelaburan dan menunjukkan jumlah kerugian pelabur. Langkah-langkah risiko menurun dianggap ujian [berat sebelah](/one-tailed-test) kerana potensi keuntungan tidak dipertimbangkan.
+
+##Memahami Risiko Kelemahan
+
+Sesetengah pelaburan mempunyai jumlah risiko penurunan yang terhad, manakala yang lain mempunyai risiko yang tidak terhingga. Pembelian saham, sebagai contoh, mempunyai jumlah terhingga risiko penurunan yang dihadkan oleh sifar. Pelabur boleh kehilangan keseluruhan pelaburan mereka, tetapi tidak lebih. Kedudukan pendek dalam saham, bagaimanapun, seperti yang dicapai melalui [jualan pendek](/shortsale),. memerlukan risiko penurunan tanpa had kerana harga sekuriti boleh terus meningkat selama-lamanya.
+
+Begitu juga, menjadi [pilihan lama](/optionscontract) —sama ada panggilan atau put—mempunyai risiko menurun terhad kepada harga premium opsyen, manakala kedudukan pilihan [panggilan pendek “telanjang”](/short-call) mempunyai potensi risiko menurun tanpa had kerana secara teorinya tiada had untuk bagaimana jauh stok boleh naik.
+
+Opsyen panggilan telanjang dianggap sebagai strategi pilihan paling berisiko, kerana penjual opsyen tidak memiliki keselamatan, dan perlu membelinya di pasaran terbuka untuk memenuhi kontrak. Sebagai contoh, jika anda menjual pilihan panggilan dengan harga mogok $1 dan saham meningkat kepada $1,000 dengan tamat kontrak, anda perlu membeli saham pada $1,000 dan menjualnya pada $1; bukan pulangan pelaburan yang baik
+
+Pelabur, peniaga dan penganalisis menggunakan pelbagai [metrik teknikal dan asas](/metrics) untuk menganggarkan kemungkinan nilai pelaburan akan menurun, termasuk prestasi sejarah dan pengiraan [sisihan piawai .](/standarddeviation) Secara umum, banyak pelaburan yang mempunyai potensi lebih besar untuk risiko penurunan juga mempunyai potensi peningkatan untuk ganjaran positif.
+
+Pelabur sering membandingkan potensi risiko yang berkaitan dengan pelaburan tertentu dengan kemungkinan ganjaran. Risiko penurunan adalah berbeza dengan potensi [terbalik](/upside),. iaitu kemungkinan nilai keselamatan akan meningkat.
+
+## Contoh Risiko Kelemahan: Separa Sisihan
+
+Dengan pelaburan dan portfolio, ukuran risiko penurunan yang sangat biasa ialah sisihan ke bawah, yang juga dikenali sebagai [separa sisihan](/semideviation). Pengukuran ini ialah variasi sisihan piawai kerana ia mengukur sisihan hanya [turun naik yang tidak baik](/volatility). Ia mengukur berapa besar sisihan kerugian.
+
+Memandangkan sisihan terbalik juga digunakan dalam pengiraan sisihan piawai, pengurus pelaburan mungkin dikenakan penalti kerana mengalami perubahan besar dalam keuntungan. Sisihan ke bawah menangani masalah ini dengan hanya memfokuskan pada [pulangan negatif](/negative-return).
+
+Sisihan piawai (σ), yang mengukur serakan data daripada puratanya, dikira seperti berikut:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantik><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>σ</mi><mo>=</mo><msqrt><mfrac><mrow><munderover ><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>N</mi></ munderover><mo stretchy="false">(</mo><msub><mi>x</mi><mi>i</mi></msub><mo>−</mo><mi>μ </mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup></mrow><mi>N</mi></mfrac></ msqrt></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></ mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">di mana:</mtext></mrow></mstyle> </mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel=" paparan 0". style="true"><mrow><mrow></mrow><mi>x</mi><mo>=</mo><mtext>Titik data atau pemerhatian</mtext></mrow></mstyle ></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel= "0" displaystyle="true"><mrow><mrow></mrow><mi>μ</mi><mo>=</mo><mtext>Purata set data</mtext></mrow>< /mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>N</mi><mo>=</mo><mtext>Bilangan titik data</mtext></ mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\sigma = \sqrt{ \frac{ \sum_{i =1}^{N} (x_i - \mu)^2 }{ N } } \\ &amp;\textbf{di mana:} \\ &amp;x = \text{Titik data atau cerapan} \\ &amp;\mu = \text{Purata set data} \\ &amp;N = \text{Bilangan titik data} \\ \end{aligned}</annotation></semantics></math></span>< span class="katex-html" aria-hidden="true"><span class="base"><span class s="strut" style="height:9.34em;vertical-align:-4.419999999999999em;"></span><span class="mord"><span class="mtable"><span class="col- align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:4.92em;"><span style=" atas:-6.92em;"><span class="pstrut" style="height:4.1263455em;"></span><span class="mord"></span></span><span style=" atas:-4.8663455em;"><span class="pstrut" style="height:4.1263455em;"></span><span class="mord"></span></span><span style=" atas:-3.3663455000000004em;"><span class="pstrut" style="height:4.1263455em;"></span><span class="mord"></span></span><span style=" atas:-1.8663455000000009em;"><span class="pstrut" style="height:4.1263455em;"></span><span class="mord"></span></span><span style=" atas:-0.3663455000000013em;"><span class="pstrut" style="height:4.1263455em;"></span><span class="mord"></span></span></span>< span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist" style="height:4.419999999999999em;"><span></ span > </span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r" ><span class="vlist" style="height:4.92em;"><span style="top:-6.92em;"><span class="pstrut" style="height:4.1263455em;"></ span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.03588em;">σ</span><span class ="mspace" style="margin-right:0.277777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.277777777777778em; "></span><span class="mord sqrt"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 2.1263455em;"><span class="svg-align" style="top:-5em;"><span class="pstrut" style="height:5em;"></span><span class="mord " style="padding-left:1em;"><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist -t2"><span class="vlist-r"><span class="vlist" style="height:1.670941em;"><span style="top:-2.314em;"><span class="ps Trut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.10903em;">N</span></ span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style= "border-bottom-width:0.04em;"></span></span><span style="top:-3.6897100000000003em;"><span class="pstrut" style="height:3em;">< /span><span class="mord"><span class="mop"><span class="mop op-symbol small-op" style="position:relative;top:-0.000005000000000050004em;">∑</ span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.981231em;"> <span style="top:-2.40029em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class ="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">i</span><span class="mrel mtight">=</span><span class="mord mtight">1</span></span></span></span><span style="top:-3.2029em;margin-right:0 .05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.10903em;">N</span></span></span></span></span><span class="vlist-s"> ​</span></span><span class="vlist-r"><span class="vlist" style="height:0.29971000000000003em;"><span></span></span></span ></span></span></span><span class="mopen">(</span><span class="mord"><span class="mord mathnormal">x</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31166399999999994em;"><span style= "atas:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="set semula saiz -size6 size3 mtight"><span class="mord mathnormal mtight">i</span></span></span></span><span class="vlist-s"><​</span>< / span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span>< / span> </span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style=" margin-right:0.2222222222222222em;"></span><span class="mord mathnormal">μ</span><span class="mclose"><span class="mclose">)</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.740108em;"><span style="top: -2.989000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class ="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span></span></span ><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span> </span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style=" atas:-4.0863455em;"><span class="pstrut" style="height:5em;"></span><span class="hide-tail" style="min-width:1.02em;height:3.08 em;"><svg width= '400em' height='3.08em' viewBox='0 0 400000 3240' preserveAspectRatio='xMinYMin hirisan'><path d='M473,2793
+
+c339.3,-1799.3,509.3,-2700,510,-2702 l0 -0
+
+c3.3,-7.3,9.3,-11,18,-11 H400000v40H1017.7
+
+s-90.5,478,-276.2,1466c-185.7,988,-279.5,1483,-281.5,1485c-2.6,-10.9,-24.9
+
+c-8,0,-12,-0.7,-12,-2c0,-1.3,-5.3,-32,-16,-92c-50.7,-293.3,-119.7,-693.3,-207,-1200
+
+c0,-1.3,-5.3,8.7,-16,30c-10.7,21.3,-21.3,42.7,-32.64s-16.33,-16.33s-26,-26,-26,-26
+
+s76,-153.76,-153s77,-151.77,-151c0.7,0.7,35.7,202,105,604c67.3,400.7,102,602.7,104,
+
+606zM1001 80h400000v40H1017.7z'/></svg></span></span></span><span class="vlist-s"></span></span><span class="vlist-r " ><span class="vlist" style="height:0.9136544999999998em;"><span></span></span></span></span></span></span></span></span> < span style="top:-4.8663455em;"><span class="pstrut" style="height:4.1263455em;"></span><span class="mord"><span class="mord"> < /span><span class="mord text"><span class="mord textbf">di mana:</span></span></span></span><span style="top:-3.3663455000000004em ; "><span class="pstrut" style="height:4.1263455em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal ">x</span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mrel">=</span><span class="mspace " style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Titik data atau pemerhatian</span></span></span> < /span><span style="top:-1.8663455000000009em;"><span class="pstrut" style="height:4.1263455em;"></span><span kelas s="mord"><span class="mord"></span><span class="mord mathnormal">μ</span><span class="mspace" style="margin-right:0.2777777777777778em;" ></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"> <span class="mord">Purata set data</span></span></span></span><span style="top:-0.3663455000000013em;"><span class="pstrut" style=" ketinggian:4.1263455em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.10903em;" >N</span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mrel">=</span><span class="mspace" style ="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Bilangan titik data</span></span></span></ span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist" style="height:4.419999999999999em; " ><span></span></span></span></span></span></span></span></span></span></span></spa n>
+
+Formula untuk sisihan bahagian bawah menggunakan formula yang sama ini, tetapi bukannya menggunakan purata, ia menggunakan beberapa ambang pulangan—kadar bebas risiko sering digunakan.
+
+Andaikan 10 pulangan tahunan berikut untuk pelaburan: 10%, 6%, -12%, 1%, -8%, -3%, 8%, 7%, -9%, -7%. Dalam contoh di atas, sebarang pulangan yang kurang daripada 0% telah digunakan dalam pengiraan sisihan bahagian bawah.
+
+Sisihan piawai untuk set data ini ialah 7.69% dan sisihan bawah set data ini ialah 3.27%. Ini menunjukkan bahawa kira-kira 40% daripada jumlah turun naik datang daripada pulangan negatif dan membayangkan bahawa 60% turun naik adalah datang daripada pulangan positif. Dipecahkan dengan cara ini, adalah jelas bahawa kebanyakan turun naik pelaburan ini adalah turun naik "baik".
+
+## Langkah-Lain Lain bagi Risiko Kelemahan
+
+### SFRatio
+
+Pengukuran risiko penurunan yang lain kadangkala digunakan oleh pelabur dan penganalisis juga. Salah satu daripada ini dikenali sebagai [Kriteria Keselamatan-Diutamakan Roy](/roys-safety-first-criterion) (SFRAtio), yang membolehkan portfolio dinilai berdasarkan kebarangkalian pulangan mereka akan jatuh di bawah ambang minimum yang dikehendaki. Di sini, [portfolio optimum ialah portfolio](/efficientfrontier) yang meminimumkan kebarangkalian pulangan portfolio akan jatuh di bawah paras ambang.
+
+> Pelabur boleh menggunakan SFRatio untuk memilih pelaburan yang berkemungkinan besar mencapai pulangan minimum yang diperlukan.
+
+>
+
+### VaR
+
+Pada peringkat perusahaan, ukuran risiko penurunan yang paling biasa mungkin ialah [Nilai-Berisiko](/var) (VaR). VaR menganggarkan jumlah kerugian syarikat dan portfolio pelaburannya dengan kebarangkalian tertentu, berdasarkan keadaan pasaran biasa, dalam tempoh masa yang ditetapkan seperti hari, minggu atau tahun.
+
+VaR kerap digunakan oleh penganalisis dan firma, serta pengawal selia dalam industri kewangan, untuk menganggarkan jumlah aset yang diperlukan untuk menampung potensi kerugian yang diramalkan pada kebarangkalian tertentu—katakan sesuatu yang berkemungkinan berlaku 5% sepanjang masa. Untuk portfolio tertentu, ufuk masa dan kebarangkalian yang ditetapkan **p**, **p**-VaR boleh dihuraikan sebagai anggaran kerugian maksimum dalam tempoh tersebut jika kami mengecualikan hasil yang lebih buruk yang kebarangkaliannya kurang daripada **p* *.
+
+##Sorotan
+
+- Sesetengah pelaburan mempunyai jumlah risiko penurunan yang tidak terhingga, manakala yang lain mempunyai risiko penurunan yang terhad.
+
+- Contoh pengiraan risiko penurunan termasuk separa sisihan, nilai berisiko (VaR) dan nisbah Roy's Safety First.
+
+- Risiko penurunan ialah istilah umum untuk risiko kerugian dalam pelaburan, berbanding dengan kemungkinan simetri kerugian atau keuntungan.
+
+- Risiko penurunan ialah anggaran potensi kerugian nilai sekuriti jika keadaan pasaran menyebabkan penurunan harga sekuriti tersebut.
+
