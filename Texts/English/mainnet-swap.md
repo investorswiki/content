@@ -1,0 +1,13 @@
+---
+keywords: Crypto
+title: Mainnet Swap
+description: Mainnet Swap. At the point when a coin relocates from an outsider platform, for example, Ethereum or other token to a native on-chain token on their mainnet.
+---
+
+# Mainnet Swap
+Basically, a mainnet swap consists of switching starting with one blockchain network then onto the next. Generally speaking, the swap happens when a cryptocurrency project relocates from an outsider platform (e.g., Ethereum) to their own native blockchain network. As of now, their cryptocurrency tokens are step by step replaced by recently issued coins and all blockchain activity is moved to the new chain.
+How about we take [BNB](/binance-coin-bnb) for instance. After the [mainnet](/mainnet) send off of Binance Chain, users were urged to relocate from the Ethereum blockchain to the Binance Chain. Accordingly, [ERC-20](/erc-20) BNB token holders began to replace their tokens with the recently issued BEP2 BNB coin (the native coin of Binance Chain). The mainnet swap followed a 1:1 ratio with the goal that 1 ERC-20 BNB had a similar value as 1 BEP2 BNB. After the swap, all leftover ERC-20 BNB tokens were singed, so presently only the BNB of the new chain can be utilized.
+Consequently, a mainnet swap happens when a blockchain project replaces recently issued tokens with their new cryptocurrency, which is regularly running on their own blockchain network. This cycle may likewise be alluded to as "token migration". Typically, the mainnet swap starts right after the mainnet send off.
+It ought to be noticed that the migration of tokens isn't generally associated solely with the send off of a new blockchain. It might likewise happen in situations where projects essentially move starting with one protocol then onto the next. For instance, Storj played out a mainnet swap, relocating their tokens from a Bitcoin-based protocol to the Ethereum network as a method for keeping away from scalability issues.
+Each mainnet swap has its own particularities in terms of execution. A few projects assign migration periods, with a predefined cutoff time for users to exchange their old tokens for the new ones. Assuming they fail to do as such, they might wind up losing access to their funds on the grounds that the old tokens are generally obliterated or frozen.
+In contrast, the mainnet swap performed by Binance gave users the freedom to leave their BNB tokens on their Binance account, so the swap could be consequently done by Binance team. The swap was performed through withdrawal demands, as a matter of fact. As such, by keeping their ERC-20 BNB on their Binance account, users could later pull out the recently issued BEP2 BNB in equivalent sums, without agonizing over physically swapping their tokens.
