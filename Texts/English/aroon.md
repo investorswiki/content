@@ -1,0 +1,59 @@
+---
+keywords: Trading,Technical Analysis,Technical Analysis Basic Education
+title: Aroon Indicator
+description: The Aroon indicator is a two-lined technical indicator that is utilized to distinguish trend changes and the strength of a trend by utilizing the time elapsed since a high or low.
+---
+
+# Aroon Indicator
+## What Is the Aroon Indicator?
+
+The Aroon indicator is a [technical indicator](/technicalindicator) that is utilized to recognize trend changes in the price of an asset, as well as the strength of that trend. Basically, the indicator measures the time among highs and the time between lows throughout a time span. The thought is that strong uptrends will consistently see new highs, and strong downtrends will routinely see new lows. The indicator signals when this is occurring, and when it isn't.
+
+The indicator comprises of the "Aroon up" line, which measures the strength of the [uptrend](/uptrend), and the "Aroon down" line, which measures the strength of the [downtrend](/downtrend).
+
+The Aroon indicator was developed by Tushar Chande in 1995.
+<!--B362D2ECE96711399DF98B1C690D897B-->
+## Equations for the Aroon Indicator
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em" columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mtext>Aroon Up</mtext></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><mfrac><mrow><mn>25</mn><mo>−</mo><mtext>Periods Since 25 period High</mtext></mrow><mn>25</mn></mfrac><mo>∗</mo><mn>100</mn></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mtext>Aroon Down</mtext></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><mfrac><mrow><mn>25</mn><mo>−</mo><mtext>Periods Since 25 period Low</mtext></mrow><mn>25</mn></mfrac><mo>∗</mo><mn>100</mn></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} \text{Aroon Up}&amp;= \frac{25-\text{Periods Since 25 period High}}{25} \ast100\\ \text{Aroon Down}&amp;=\frac{25-\text{Periods Since 25 period Low}}{25}\ast100 \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:4.71488em;vertical-align:-2.10744em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.60744em;"><span style="top:-4.6074399999999995em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord text"><span class="mord">Aroon Up</span></span></span></span><span style="top:-2.25em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord text"><span class="mord">Aroon Down</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:2.10744em;"><span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.60744em;"><span style="top:-4.6074399999999995em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3714399999999998em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span><span class="mord">5</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span><span class="mord">5</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord text"><span class="mord">Periods Since 25 period High</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">∗</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord">1</span><span class="mord">0</span><span class="mord">0</span></span></span><span style="top:-2.25em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3714399999999998em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span><span class="mord">5</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span><span class="mord">5</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord text"><span class="mord">Periods Since 25 period Low</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">∗</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord">1</span><span class="mord">0</span><span class="mord">0</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:2.10744em;"><span></span></span></span></span></span></span></span></span></span></span>
+## Step by step instructions to Calculate the Aroon Indicator
+
+The Aroon calculation requires the tracking of the high and low prices, regularly north of 25 periods.
+
+1. Track the highs and lows for the last 25 periods on an asset.
+1. Note the number of periods since the last high and low.
+1. Plug these numbers into the Up and Down Aroon equations.
+
+## What Does the Aroon Indicator Tell You?
+
+The Aroon Up and the Aroon Down lines vacillate somewhere in the range of zero and 100, with values close to 100 demonstrating a strong trend and values almost zero showing a weak trend. The lower the Aroon Up, the weaker the uptrend and the stronger the downtrend, and vice versa. The primary assumption [underlying](/underlying) this indicator is that a stock's price will close consistently at new highs during an uptrend, and routinely make new lows in a downtrend.
+
+The indicator centers around the last 25 periods, yet is scaled to zero and 100. In this manner, an Aroon Up perusing over 50 means the price made another high inside the last 12.5 periods. A perusing close to 100 means a high was seen as of late. Similar concepts apply to the Down Aroon. At the point when it is over 50, a low was seen inside the 12.5 periods. A Down perusing close to 100 means a low was seen as of late.
+
+[Crossovers](/crossover) can signal entry or exit points. Up crossing above Down can be a signal to buy. Down crossing below Up might be a signal to sell.
+
+At the point when the two indicators are below 50 it can signal that the price is [consolidating](/union). New highs or lows are not being made. Traders can look for breakouts as well as the next Aroon crossover to signal which heading price is heading.
+
+## Illustration of How to Use the Aroon Indicator
+
+The following chart shows an illustration of the Aroon indicator and how it tends to be deciphered.
+<!--20A73677D06F47AC19EA69E6B7BEAC7A-->
+In the chart above, there is both the Aroon indicator and a [oscillator](/oscillator) that joins the two lines into a single perusing of among 100 and - 100. The crossover of the Aroon Up and Aroon Down indicated a [reversal](/reversal) in the trend. While the index was trending, prior to the reversal, the Aroon Down remained exceptionally low, recommending that the index had a bullish bias. Notwithstanding the rally on the extreme right, the Aroon indicator hasn't shown a bullish bias yet. This is on the grounds that the price bounced back so rapidly that it hasn't made another high in the last 25 periods (at the hour of the screen capture), in spite of the rally.
+
+## The Difference Between the Aroon Indicator and the Directional Movement Index (DMI)
+
+The Aroon indicator is like the [Directional Movement Index (DMI)](/dmi) developed by Welles Wilder. It too goes through and down lines to show the course of a trend. The primary difference is that the Aroon indicator recipes are fundamentally centered around the amount of time among highs and lows. The DMI measures the price difference between current highs/lows and prior highs/lows. In this way, the primary factor in the DMI is price, and not time.
+
+## Limitations of Using the Aroon Indicator
+
+The Aroon indicator may on occasion signal a decent entry or exit, however different times it will give poor or [false signals](/false-signal). The buy or sell signal might happen too late, after a substantial price move has previously happened. This happens on the grounds that the indicator is looking in reverse, and isn't predictive in nature.
+
+A crossover might look great on the indicator, however that doesn't mean the price will essentially take a big action. The indicator isn't factoring the size of moves, it just cares about the number of days since a high or low. Even on the off chance that the price is moderately flat, crossovers will happen as eventually another high or low will be made inside the last 25 periods. Traders actually need to utilize [price analysis](/price-activity), and possibly different indicators, to pursue informed trading choices. It isn't encouraged to Rely exclusively on one indicator.
+
+## Highlights
+- At the point when the Aroon Up is over the Aroon Down, it demonstrates [bullish](/bullmarket) price behavior.
+- The indicator is regularly applied to 25 periods of data, so the indicator is showing the number of periods it that has been since a 25-period high or low.
+- At the point when the Aroon Down is over the Aroon Up, it signals [bearish](/bearmarket) price behavior.
+- Crossovers of the two lines can signal trend changes. For instance, when Aroon Up crosses above Aroon Down it might mean a new uptrend is starting.
+- A perusing below 50 means that the high/low was seen inside the 13 periods.
+- The Aroon indicator is made out of two lines. An up line which measures the number of periods since a High, and a down line which measures the number of periods since a Low.
+- The indicator moves somewhere in the range of zero and 100. A perusing over 50 means that a high/low (whichever line is over 50) was seen inside the last 12 periods.
