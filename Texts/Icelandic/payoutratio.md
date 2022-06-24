@@ -1,0 +1,53 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Ratios
+title: Útborgunarhlutfall
+description: Útborgunarhlutfall, eða arðgreiðsluhlutfall, er hlutfall tekna sem greitt er út sem arður til hluthafa, venjulega gefið upp sem hlutfall.
+---
+
+# Útborgunarhlutfall
+## Hvað er útborgunarhlutfall?
+
+Útborgunarhlutfallið er fjárhagslegt mælikvarði sem sýnir hlutfall tekna sem fyrirtæki greiðir hluthöfum sínum í formi arðs, gefið upp sem hlutfall af heildartekjum fyrirtækisins. Í sumum tilfellum vísar útborgunarhlutfallið til arðs sem greiddur er út sem hlutfall af sjóðstreymi fyrirtækis. Útborgunarhlutfallið er einnig þekkt sem arðgreiðsluhlutfall.
+
+## Skilningur á útborgunarhlutfallinu
+
+Útborgunarhlutfallið er lykilfjárhagsmælikvarði sem notaður er til að ákvarða sjálfbærni arðgreiðsluáætlunar fyrirtækis. Það er upphæð arðs sem greidd er til hluthafa miðað við heildar nettótekjur fyrirtækis.
+
+Til dæmis, við skulum gera ráð fyrir að fyrirtækið ABC hafi hagnað á hlut upp á $1 og greiðir arð á hlut upp á $0,60. Í þessari atburðarás væri útborgunarhlutfallið 60% (0,6 / 1). Við skulum frekar gera ráð fyrir að fyrirtæki XYZ hafi hagnað á hlut upp á $2 og arð á hlut upp á $1,50. Í þessari atburðarás er útborgunarhlutfallið 75% (1,5 / 2). Til samanburðar greiðir fyrirtækið ABC minna hlutfall af tekjum sínum til hluthafa sem arð, sem gefur því sjálfbærara útborgunarhlutfall en fyrirtæki XYZ.
+
+Þó að útborgunarhlutfallið sé mikilvægur mælikvarði til að ákvarða sjálfbærni arðgreiðsluáætlunar fyrirtækis, ætti einnig að huga að öðrum sjónarmiðum. Tilvik: í fyrrnefndri greiningu, ef fyrirtækið ABC er hrávöruframleiðandi og fyrirtækið XYZ er eftirlitsskyld veita, getur hið síðarnefnda státað af meiri sjálfbærni arðs, jafnvel þó að hið fyrra sýni lægra algert útborgunarhlutfall.
+
+Í meginatriðum er engin ein tala sem skilgreinir kjörið útborgunarhlutfall vegna þess að fullnægingin fer að miklu leyti eftir því í hvaða geira tiltekið fyrirtæki starfar. Fyrirtæki í [varnariðnaði](/defensivecompany),. eins og veitur, leiðslur og fjarskipti, hafa tilhneigingu til að státa af stöðugum tekjum og sjóðstreymi sem geta staðið undir háum útborgunum til lengri tíma litið.
+
+Á hinn bóginn greiða fyrirtæki í sveiflukenndum atvinnugreinum venjulega óáreiðanlegri útborganir vegna þess að hagnaður þeirra er viðkvæmur fyrir þjóðhagssveiflum. Á tímum efnahagsþrenginga eyðir fólk minna af tekjum sínum í nýja bíla, afþreyingu og lúxusvörur. Þar af leiðandi hafa fyrirtæki í þessum geirum tilhneigingu til að upplifa tekjutoppa og dali sem falla í takt við hagsveiflur.
+
+## Útborgunarhlutfallsformúla
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>D</mi><mi>P</mi><mi>R</mi><mo> =</mo><mfrac><mrow><mtext mathvariant="italic">Heildar</mtext><mtext> </mtext><mtext mathvariant="italic">arðgreiðslur</mtext></mrow><mrow ><mtext mathvariant="italic">Nettó</mtext><mtext> </mtext><mtext mathvariant="italic">tekjur</mtext></mrow></mfrac></mrow></mstyle> </mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel=" 0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">þar sem:</mtext></mrow></mstyle></mtd></mtr><mtr ><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true "><mrow><mrow></mrow><mi>D</mi><mi>P</mi><mi>R</mi><mo>=</mo><mtext>Deilt útborgunarhlutfall (eða einfaldlega útborgunarhlutfall)</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;DPR =\dfrac{\textit{Heildararðgreiðslur}}{\textit{Hreinar tekjur}} \\ &amp;\textbf{þar:} \\ &amp;DPR = \text{Deilt útborgunarhlutfall (eða einfaldlega útborgunarhlutfall)}\\ \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class= "strut" style="height:5.35744em;vertical-align:-2.42872em;"></span><span class="mord"><span class="mtable"><span class="col-align- r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.92872em;"><span style="top: -4.92872em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top: -3.1027199999999997em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><sp an style="top:-1.6027199999999997em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span>< /span><span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist" style="height:2.42872em;">< span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"></span class="vlist-t vlist-t2"> ="vlist-r"><span class="vlist" style="height:2.92872em;"><span style="top:-4.92872em;"><span class="pstrut" style="height:3.3714399999999998 em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.02778em;">D< /span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.00773em;">R< /span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin -right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span c lass="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style= "top:-2.314em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class= "mord textit">Hreinar tekjur</span></span></span></span><span style="top:-3.23em;"><span class="psrut" style="height:3em; "></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"> <span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord textit">Heildararðgreiðslur</span> span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist-r"><span class ="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span> </span></span></span><span style="top:-3.1027199999999997em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class= "mord"><span class="mord"></span><sp an class="mord text"><span class="mord textbf">þar sem:</span></span></span></span><span style="top:-1.6027199999999997em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="mord" margin-right:0.02778em;">D</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style=" margin-right:0.00773em;">R</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span> <span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Deilt útborgunarhlutfall (eða einfaldlega útborgunarhlutfall)< /span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:2.42872em;"><span></span></span></span></span></span></span></span></span> </span></span>
+
+Sum fyrirtæki greiða út allar tekjur sínar til hluthafa, á meðan önnur greiða aðeins út hluta og renna þeim eignum sem eftir eru aftur inn í fyrirtæki sín. Mælikvarði á óráðstafað hagnaði er þekktur sem varðveisluhlutfall. Því hærra sem varðveisluhlutfallið er, því lægra er útborgunarhlutfallið. Til dæmis, ef fyrirtæki tilkynnir um nettótekjur upp á $100.000 og gefur út $25.000 í arð, þá væri útborgunarhlutfallið $25.000 / $100.000 = 25%. Þetta felur í sér að fyrirtækið státar af 75% varðveisluhlutfalli, sem þýðir að það skráir eftirstöðvar $75.000 af tekjum sínum á tímabilinu í reikningsskilum sínum sem óráðstafað hagnað, sem birtist í hlutafjárhluta efnahagsreiknings fyrirtækisins á næsta ári.
+
+Almennt séð hafa fyrirtæki með bestu langtímaupplýsingar um arðgreiðslur stöðugt útborgunarhlutfall í mörg ár. En útborgunarhlutfall sem er meira en 100% bendir til þess að fyrirtæki sé að greiða út meira í arð en tekjur þess geta staðið undir og gæti verið áhyggjuefni varðandi sjálfbærni.
+
+## Hápunktar
+
+- Lágt útborgunarhlutfall getur gefið til kynna að fyrirtæki sé að endurfjárfesta megnið af tekjum sínum í vaxandi starfsemi.
+
+- Útborgunarhlutfall, einnig þekkt sem arðgreiðsluhlutfall, sýnir hlutfall af tekjum fyrirtækis sem greitt er út sem arður til hluthafa.
+
+- Útborgunarhlutfall yfir 100% gefur til kynna að fyrirtækið sé að greiða út meira í arð en tekjur þess geta staðið undir, sem sumir líta á sem ósjálfbæra vinnu.
+
+## Algengar spurningar
+
+### Er tilvalið útborgunarhlutfall?
+
+Það er engin ein tala sem skilgreinir kjörið útborgunarhlutfall vegna þess að fullnægingin fer að miklu leyti eftir því í hvaða geira tiltekið fyrirtæki starfar. Fyrirtæki í varnariðnaði hafa tilhneigingu til að státa af stöðugum tekjum og sjóðstreymi sem geta staðið undir háum útborgunum til lengri tíma litið á meðan fyrirtæki í sveiflukenndum atvinnugreinum gera venjulega óáreiðanlegri útborganir vegna þess að hagnaður þeirra er viðkvæmur fyrir þjóðhagssveiflum.
+
+### Hvað segir útborgunarhlutfallið þér?
+
+Útborgunarhlutfallið er lykilfjárhagsmælikvarði sem notaður er til að ákvarða sjálfbærni arðgreiðsluáætlunar fyrirtækis. Það er upphæð arðs sem greidd er til hluthafa miðað við heildar nettótekjur fyrirtækis. Almennt, því hærra sem útborgunarhlutfallið er, sérstaklega ef það er yfir 100%, því meira er um sjálfbærni þess að ræða. Aftur á móti getur lágt útborgunarhlutfall bent til þess að fyrirtæki sé að endurfjárfesta megnið af tekjum sínum í vaxandi starfsemi. Sögulega séð hafa fyrirtæki með bestu langtímaupplýsingar um arðgreiðslur haft stöðugt útborgunarhlutfall í mörg ár.
+
+### Hvernig er útborgunarhlutfallið reiknað?
+
+Útborgunarhlutfall sýnir hlutfall tekna sem fyrirtæki greiðir hluthöfum sínum í formi arðs, gefið upp sem hlutfall af heildartekjum fyrirtækisins. Útreikningurinn er fenginn með því að deila heildararðinum sem greiddur er út með hreinum tekjum sem myndast. Önnur leið til að tjá það er að reikna út [arð á hlut](/dividend-per-share) (DPS) og deila því með [hagnaði á hlut](/eps) (EPS) tölu.
+
