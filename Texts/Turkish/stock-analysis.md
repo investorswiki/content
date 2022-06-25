@@ -1,0 +1,33 @@
+---
+keywords: Investing,Fundamental Analysis,Tools for Fundamental Analysis,Tools
+title: stok analizi
+description: Hisse senedi analizi, belirli bir ticaret aracının, bir yatırım sektörünün veya bir bütün olarak piyasanın değerlendirilmesidir. Hisse senedi analistleri, bir enstrümanın, sektörün veya pazarın gelecekteki faaliyetlerini belirlemeye çalışır.
+---
+
+# stok analizi
+## Stok Analizi Nedir?
+
+Hisse senedi analizi, belirli bir ticaret aracının, bir yatırım sektörünün veya bir bütün olarak piyasanın değerlendirilmesidir. Hisse senedi analistleri, bir enstrümanın, sektörün veya pazarın gelecekteki faaliyetlerini belirlemeye çalışır.
+
+## Stok Analizini Anlama
+
+Hisse senedi analizi, yatırımcıların ve tüccarların alım satım kararları vermeleri için bir yöntemdir. Yatırımcılar ve tüccarlar, geçmiş ve güncel verileri inceleyerek ve değerlendirerek bilinçli kararlar vererek piyasalarda avantaj elde etmeye çalışırlar.
+
+## Temel Analiz
+
+İki temel stok analizi türü vardır: [temel analiz](/fundamentalanalysis) ve [teknik analiz](/technicalanalysis). Temel analiz, finansal kayıtlar, ekonomik raporlar, şirket varlıkları ve pazar payı dahil olmak üzere kaynaklardan gelen verilere odaklanır. Halka açık bir şirket veya sektör üzerinde temel analiz yapmak için, yatırımcılar ve analistler genellikle bir şirketin [mali tablolarındaki](/financial-statements) – [bilanço](/balancesheet),. [gelir tablosu](/incomestatement),. [nakit akış tablosu](/cashflowstatement) ve [dipnotlar – metrikleri analiz eder](/footnote). Bu beyanlar, ABD [Menkul Kıymetler ve Borsa Komisyonu](/sec) (SEC) tarafından yönetilen [EDGAR](/edgar) veri tabanı sistemi aracılığıyla [10-Q](/10q) veya [10-K raporu](/10-k) şeklinde kamuoyuna açıklanır . Ayrıca, bir şirketin üç aylık kazanç basın açıklaması sırasında yayınladığı kazanç raporu, bir şirketin ne kadar gelir, gider ve kar elde ettiğini tespit etmeye çalışan yatırımcılar tarafından analiz edilir.
+
+[likidite](/liquidity),. [ödeme gücü](/solvency),. verimlilik, büyüme yörüngesi ve [kaldıraç](/leverage) ölçütlerini kontrol eder . Bir şirketin ne kadar sağlıklı olduğunu belirlemek için farklı oranlar kullanılabilir. Örneğin, [cari](/currentratio) [oran](/currentratio) ve [hızlı oran , bir şirketin](/quickratio) [kısa vadeli yükümlülüklerini](/shorttermdebt) mevcut [dönen varlıklarıyla](/currentassets) ödeyip ödeyemeyeceğini tahmin etmek için kullanılır . Cari oran formülü, dönen varlıkların [kısa vadeli yükümlülüklere](/currentliabilities),. bilançodan alınabilecek rakamlara bölünmesiyle hesaplanır. İdeal bir cari oran diye bir şey olmamasına rağmen, 1'den küçük bir oran, hisse senedi analistine şirketin finansal sağlığının kötü olduğunu ve vadesi geldiğinde kısa vadeli borç yükümlülüklerini karşılayamayabileceğini gösterebilir.
+
+Bilançoya bakıldığında, bir hisse senedi analisti, bir şirket tarafından üstlenilen mevcut borç seviyelerini bilmek isteyebilir. Bu durumda, bir hisse senedi analisti, [toplam yükümlülükleri](/total-liabilities) toplam varlıklara bölerek hesaplanan [borç oranını kullanabilir.](/debtratio) 1'in üzerindeki bir borç oranı, tipik olarak bir şirketin varlıklardan daha fazla borcu olduğu anlamına gelir. Bu durumda, şirketin [kaldıraç derecesi yüksekse](/dcl),. bir hisse senedi analisti, faiz oranlarındaki artışın şirketin temerrüde düşme olasılığını artırabileceği sonucuna varabilir.
+
+Hisse senedi analizi, bir yatırımcıya şirketin büyümekte mi, istikrarlı mı yoksa kötüleşiyor mu olduğu konusunda bir fikir vermek için bir şirketin mevcut mali tablosunu önceki yıllardaki mali tablolarıyla karşılaştırmayı içerir. Bir şirketin mali tablosu, aynı sektördeki bir veya daha fazla şirketinkiyle de karşılaştırılabilir. Bir hisse senedi analisti, gelir tablolarına bakarak iki rakip şirketin [faaliyet kar marjını karşılaştırmaya çalışıyor olabilir.](/operatingmargin) Faaliyet kar marjı, [faaliyet giderleri](/operating_expense) ödendikten sonra ne kadar gelir kaldığını ve [faaliyet dışı maliyetleri karşılamak için kalan gelirin ne kadar kaldığını gösteren bir ölçümdür](/non-operating-expense) ve faaliyet gelirinin gelire bölünmesiyle hesaplanır. Faaliyet marjı 0,30 olan bir şirkete, 0,03 marjlı bir şirketten daha olumlu bakılacaktır. 0,30 işletme marjı, her bir dolar gelir için, bir şirketin işletme maliyetleri karşılandıktan sonra 30 sent kaldığı anlamına gelir. Başka bir deyişle, şirket değişken veya işletme maliyetlerini ödemek için net satışlarda her doların 70 sentini kullanıyor.
+
+## Teknik Analiz
+
+Stok analizinin ikinci yöntemi teknik analizdir. Teknik analiz, gelecekteki fiyat hareketlerinin olasılığını tahmin etmek için geçmiş ve şimdiki fiyat hareketinin çalışmasına odaklanır. Teknik analistler finansal piyasayı bir bütün olarak analiz eder ve öncelikle fiyat ve hacim ile piyasayı hareket ettiren talep ve arz faktörleriyle ilgilenir. Grafikler, belirli bir zaman diliminde bir hisse senedinin [trendinin](/trend) grafiksel bir gösterimini gösterdikleri için teknik analistler için önemli bir araçtır . Örneğin, bir teknik analist bir grafik kullanarak belirli alanları [destek](/support) veya [direnç](/resistance) seviyesi olarak işaretleyebilir. Destek seviyeleri, [mevcut işlem fiyatının](/currentprice) altındaki önceki düşükler tarafından işaretlenir ve direnç işaretleri, hisse senedinin mevcut [piyasa fiyatının](/market-price) üzerindeki önceki yükseklere yerleştirilir . Destek seviyesinin altında bir kırılma , hisse senedi analistine [düşüş eğilimi gösterirken, direnç seviyesinin üzerinde bir kırılma](/bearmarket) [yükseliş görünümü](/bullmarket) alacaktır .
+
+Teknik stok analizi, yalnızca arz ve talep güçleri analiz edilen fiyat eğilimini etkilediğinde etkilidir. Bir fiyat hareketine dış faktörler dahil olduğunda, hisse senetlerini teknik analiz kullanarak analiz etmek başarılı olmayabilir. Bir hisse senedi fiyatını etkileyebilecek arz ve talep dışındaki faktörlerin örnekleri arasında [hisse senedi bölünmeleri](/stocksplit),. birleşmeler, [temettü duyuruları](/announcment-effect),. toplu [dava](/classaction) davası, bir şirketin CEO'sunun ölümü, terör saldırısı, [muhasebe skandalları](/financial-shenanigans),. yönetim değişikliği, [para politikası](/monetarypolicy) değişiklikleri yer alır. , vb.
+
+Hem temel hem de teknik analiz bağımsız olarak veya birlikte yapılabilir. Bazı analistler her iki analiz yöntemini de kullanırken diğerleri bir tanesine bağlı kalır. Her iki durumda da, hisse [senetlerini , sektörleri ve piyasayı incelemek için hisse](/vetting) senedi analizini kullanmak , kişinin portföyü için en iyi yatırım stratejisini oluşturmanın önemli bir yöntemidir.
+
