@@ -1,0 +1,35 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Ratios
+title: Índice de eficiência
+description: O índice de eficiência é usado para analisar quão bem uma empresa utiliza seus ativos e passivos internamente.
+---
+
+# Índice de eficiência
+## O que é um Índice de Eficiência?
+
+O índice de eficiência é normalmente usado para analisar quão bem uma empresa usa seus ativos e passivos internamente. Um índice de [eficiência](/efficiency) pode calcular o giro de recebíveis, o pagamento de passivos, a quantidade e o uso do patrimônio e o uso geral de estoque e maquinário. Esse índice também pode ser usado para acompanhar e analisar o desempenho dos bancos comerciais e de investimento.
+
+## O que um índice de eficiência diz a você?
+
+Os índices de eficiência, também conhecidos como índices de atividade, são usados por analistas para medir o desempenho de curto prazo ou atual de uma empresa. Todos esses índices usam números no ativo ou passivo circulante de uma empresa, quantificando as operações do negócio.
+
+Um índice de eficiência mede a capacidade de uma empresa de usar seus ativos para gerar receita. Por exemplo, um índice de eficiência geralmente analisa vários aspectos da empresa, como o tempo que leva para receber dinheiro dos clientes ou o tempo que leva para converter estoque em dinheiro. Isso torna os índices de eficiência importantes, porque uma melhoria nos índices de eficiência geralmente se traduz em maior lucratividade.
+
+Esses índices podem ser comparados com pares do mesmo setor e podem identificar negócios que são mais bem administrados em relação aos demais. Alguns índices de eficiência comuns são : rotatividade de [contas a receber, rotatividade](/receivableturnoverratio) de [ativos fixos](/fixed-asset-turnover),. vendas para estoque, vendas para capital de giro líquido, contas a pagar sobre vendas e índice de rotatividade de estoque.
+
+## Índices de eficiência para bancos
+
+No setor bancário, um índice de eficiência tem um significado específico. Para os bancos, o índice de eficiência é despesas/receitas não decorrentes de juros. Isso mostra quão bem os gerentes do banco controlam suas despesas gerais (ou "back office"). Assim como os índices de eficiência acima, isso permite que os analistas avaliem o desempenho dos bancos comerciais e de investimento.
+
+## O Índice de Eficiência dos Bancos é:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Taxa de eficiência</mtext><mo>=</mo><mfrac><msup><mtext>Despesas </mtext><mo lspace="0em" rspace="0em">†</mo></msup><mtext>Receita</mtext></mfrac></mrow></mstyle></mtd> </mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle= "true"><mrow><mrow></mrow><mo>†</mo><mtext>não inclui juros</mtext></mrow></mstyle></mtd></mtr></ mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{Efficiency Ratio} = \frac{\text{Expenses}^{\dagger}}{\text{Revenue}} \ \ &amp;\dagger \text{não incluindo juros}\\ \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:4.085338em;vertical-align:-1.792669em;"></ span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist- r"><span class="vlist" style="altura:2.292669em;"><span style="top:-4.292669em;"><span class="pstrut" style="altura:3.599338em;"> </span><span class="mord"></span></span><span style="top:-2.466669em;"><span class="pstrut" style="height:3.599338em;"> </span><span class="mord"></span></span></span><span class="vlist-s"></span></span><span class="vlist-r "><span class="vlist" style="height:1.792669em;"><span></span></span></span></span></span><span class="colalign -l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.292669em;"><span style=" top :-4.292669em;"><span class="pstrut" style="height:3.599338em;"></span><span class="mord"><span class="mord"></span>< span class="mord text"><span class="mord">Effi Taxa de ciência</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class= "mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="altura:1.599338em;"><span style="top:-2.314em;" ><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">Receita</span ></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class= "frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style=" height:3em;"></span><span class="mord"><span class="mord"><span class="mord text"><span class="mord">Despesas</span></ span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9223379999999999em;">< span style="top:-3.1362300000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">†</span></span></span></span></span></span></span> </span></span></span></span></span><span class="vlist-s"></span></span><span class="vlist-r">< span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></ span ></span></span></span><span style="top:-2.466669em;"><span class="pstrut" style="height:3.599338em;"></span><span class ="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">† < /span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord text"><span class="mord">não incluindo juros</span > </span></span></span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class= "vlist " estilo="altura:1,79266 9em;"><span></span></span></span></span></span></span></span></span></span></span>
+
+
+
+Como as despesas operacionais de um banco estão no numerador e sua receita no denominador, um índice de eficiência menor significa que o banco está operando melhor.
+
+Uma taxa de eficiência de 50% ou menos é considerada ideal. Se o índice de eficiência aumentar, significa que as despesas de um banco estão aumentando ou suas receitas estão diminuindo.
+
+Por exemplo, o Banco X reportou lucros trimestrais e teve um índice de eficiência de 57,1%, inferior ao índice de 63,2% reportado no mesmo trimestre do ano passado. Isso significa que as operações da empresa se tornaram mais eficientes, aumentando seus ativos em US$ 80 milhões no trimestre.
+
