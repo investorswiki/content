@@ -1,0 +1,59 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Ratios
+title: Retorno sobre Activos Promedio (ROAA)
+description: El rendimiento sobre los activos promedio (ROAA) es un indicador que se utiliza para evaluar la rentabilidad de los activos de una empresa, y los bancos lo utilizan con mayor frecuencia.
+---
+
+# Retorno sobre Activos Promedio (ROAA)
+## ¿Qué es el rendimiento sobre activos promedio (ROAA)?
+
+El rendimiento sobre los activos promedio (ROAA) es un indicador que se utiliza para evaluar la rentabilidad de los activos de una empresa, y los bancos y otras [instituciones financieras lo utilizan con mayor frecuencia](/financialinstitution) como un medio para medir el desempeño financiero. A veces, ROAA se usa indistintamente con [el rendimiento de los activos](/returnonassets) (ROA), aunque este último a menudo usa activos actuales en lugar de activos promedio.
+
+## Comprender el rendimiento de los activos promedio (ROAA)
+
+El retorno sobre activos promedio (ROAA) muestra la eficiencia con la que una empresa utiliza sus activos y también es útil al evaluar empresas similares en la misma industria. A diferencia [del rendimiento del capital](/returnonequity),. que mide el rendimiento de los dólares invertidos y retenidos, el ROAA mide el rendimiento de los activos comprados con esos dólares.
+
+El resultado del ROAA varía mucho según el tipo de industria, y las empresas que invierten una gran cantidad de dinero por adelantado en equipos y otros activos tendrán un ROAA más bajo. Un resultado de la relación del 5% o mejor generalmente se considera bueno.
+
+La relación muestra qué tan bien se están utilizando los activos de una empresa para generar ganancias. [El ROAA](/netincome) se calcula tomando [la utilidad neta](/netincome) y dividiéndola por los activos totales promedio. La relación final se expresa como un porcentaje de los activos promedio totales. La fórmula es:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semántica><mtable rowspacing="0.24999999999999992em " columnalign="derecha izquierda" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>R</mi><mi>O</mi><mi>A</mi><mi> A</mi><mo>=</mo><mfrac><mtext>Utilidad neta</mtext><mtext>Promedio de activos totales</mtext></mfrac></mrow></mstyle></mtd ></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle ="verdadero"><mrow><mrow></mrow><mtext mathvariant="negrita">donde:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd ><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow ></mrow><mtext>Ingreso neto</mtext><mo>=</mo><mtext>Ingreso neto para el mismo período que los activos</mtext></mrow></mstyle></mtd>< /mtr><mtr><mtd><mstyl e scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow>< /mrow><mtext>Promedio de activos</mtext><mo>=</mo><mo stretchy="false">(</mo><mtext>Inicio</mtext><mo>+</mo>< mtext>Activos finales</mtext><mo stretchy="false">)</mo><mi mathvariant="normal">/</mi><mn>2</mn></mrow></mstyle> </mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;ROAA=\frac{\text{Ingreso neto}}{\text{Activos totales promedio }}\\ &amp;\textbf{donde:}\\ &amp;\text{Ingreso neto} = \text{Ingreso neto para el mismo período que los activos}\\ &amp;\text{Activos promedio} = (\text{ Inicio} + \text{Recursos finales}) / 2 \end{alineado}</anotación></semántica></matemáticas></span><span class="katex-html" aria-hidden="true"> <span class="base"><span class="strut" style="height:7.04077em;vertical-align:-3.2703849999999997em;"></span><span class="mord"><span class=" mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class=" vlist" style="height:3.770385em;"><span style="top:-5.770385em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class= "mord"></span></span><span style="top:-3.7499450000000003em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class= "mord"></span></span><span style="top:-2.2499450000000003em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class= "mord"></span></span><span style="top:-0.7499450000000007em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class= "mord"></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class=" vlist" style="height:3.2703849999999997em;"><span></span></span></span></span></span><span class="col-align-l"><span class ="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:3.770385em;"><span style="top:-5.770385em;"> <span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mo rd"></span><span class="mord mathnormal" style="margin-right:0.00773em;">R</span><span class="mord mathnormal" style="margin-right:0.02778em; ">O</span><span class="mord mathnormal">A</span><span class="mord mathnormal">A</span><span class="mspace" style="margin-right:0.2777777777777778 em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord "><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class= "vlist" style="altura:1.36033em;"><span style="arriba:-2.314em;"><span class="pstrut" style="altura:3em;"></span><span class= "mord"><span class="mord text"><span class="mord">Activos totales promedio</span></span></span></span><span style="top:-3.23em ;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span> </span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="m ord"><span class="mord text"><span class="mord">Ingresos netos</span></span></span></span></span><span class="vlist-s ">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span>< /span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:-3.7499450000000003em;">< span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class="mord text">< span class="mord textbf">donde:</span></span></span></span><span style="top:-2.2499450000000003em;"><span class="pstrut" style="height :3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Ingresos netos< /span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Ingresos netos para el sam e período como activos</span></span></span></span><span style="top:-0.7499450000000007em;"><span class="pstrut" style="height:3.3603300000000003em;"> </span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Activos promedio</span></span ><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right :0.2777777777777778em;"></span><span class="mopen">(</span><span class="mord text"><span class="mord">Principio</span></span>< span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.22222222222222222 em;"></span><span class="mord text"><span class="mord">Recursos finales</span></span><span class="mclose">)</span><span clase="mord">/</span><span clase="mord">2</span></span></span></span><span clase="vlist-s">​</span ></span><span class="vlist-r"><span class="vlist" style="height:3.2703849999999997em;"><span></sp an></span></span></span></span></span></span></span></span></span>
+
+El ingreso neto se encuentra en el estado de [resultados](/incomestatement),. que proporciona una descripción general del desempeño de una empresa durante un período de tiempo determinado. Los analistas pueden consultar el [balance general](/balancesheet) para encontrar activos. A diferencia del estado de resultados, que muestra saldos crecientes a lo largo del año, el balance general es solo una instantánea en el tiempo. No proporciona una descripción general de los cambios realizados durante un período de tiempo determinado, sino al final del período de tiempo.
+
+Para llegar a una medida más precisa del [rendimiento de los activos](/returnonassets),. a los analistas les gusta tomar el promedio de los saldos de activos desde el principio y el final del mismo período que se utilizó para definir el ingreso neto.
+
+> Los analistas suelen utilizar activos promedio porque tiene en cuenta las fluctuaciones del saldo a lo largo del año y proporciona una medida más precisa de la eficiencia de los activos durante un período de tiempo determinado.
+
+>
+
+## Ejemplo ROAA
+
+Suponga que la Compañía A tiene $1,000 en ingresos netos al final del Año 2. Un analista tomará el saldo de activos del balance general de la empresa al final del Año 1 y lo promediará con los activos al final del Año 2 para el ROAA cálculo.
+
+Los activos de la empresa al final del año 1 son de $5 000 y aumentan a $15 000 al final del año 2. Los activos promedio entre el año 1 y el año 2 son ($5 000 + $15 000)/2 = $10 000. Luego, el ROAA se calcula tomando el ingreso neto de $1,000 de la compañía y dividiéndolo por $10,000 para llegar a la respuesta del 10%.
+
+Si el rendimiento de los activos se calcula utilizando los activos solo del final del año 1, el rendimiento es del 20 %, porque la empresa obtiene más ingresos con menos activos. Sin embargo, si el analista calcula el rendimiento de los activos usando solo los activos medidos al final del año 2, la respuesta es 6 %, porque la empresa obtiene menos ingresos con más activos.
+
+## Reflejos
+
+- El retorno sobre activos promedio (ROAA) muestra qué tan bien una empresa usa sus activos para generar ganancias y funciona mejor cuando se compara con empresas similares en la misma industria.
+
+- La fórmula ROAA utiliza activos promedio para capturar cualquier cambio significativo en los saldos de activos durante el período que se analiza.
+
+- Las empresas que invierten mucho por adelantado en equipos y otros activos suelen tener un ROAA más bajo.
+
+## PREGUNTAS MÁS FRECUENTES
+
+### ¿En qué se diferencia el ROAA del ROA?
+
+Si el rendimiento de los activos (ROA) utiliza activos promedio, entonces el ROA y el ROAA serán idénticos. Sin embargo, si un analista utiliza solo activos iniciales o finales (en contraposición al promedio), el ROAA proporcionará una imagen más precisa, ya que los activos promedio suavizarán los cambios o la volatilidad de los activos durante un período contable.
+
+### ¿En qué difiere el ROAA del rendimiento de los activos totales (ROTA)?
+
+ROAA es similar a ROTA, sin embargo, ROAA usa ingresos netos en el numerador, mientras que ROTA usa [EBIT](/return_on_total_assets) (ganancias antes de ingresos e impuestos) en el numerador. Ambos usan activos totales promedio en el denominador.
+
+### ¿Qué son los activos medios?
+
+El balance de una empresa a menudo informará el nivel o valor promedio de los activos mantenidos durante un período contable, como un trimestre o un año fiscal. A menudo se calcula como los activos iniciales menos los activos finales divididos por dos. Esto se hace porque en un día determinado, el nivel real de activos de una empresa fluctuará en el curso de la actividad comercial. El promedio, por lo tanto, proporciona una mejor métrica.
+
