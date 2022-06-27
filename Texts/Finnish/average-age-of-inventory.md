@@ -1,0 +1,45 @@
+---
+keywords: Business,Corporate Finance and Accounting,Accounting
+title: Varaston keski-ikä
+description: Varastojen keskimääräinen ikä on keskimääräinen päivien lukumäärä, joka yrityksellä kestää varaston myymiseen.
+---
+
+# Varaston keski-ikä
+## Mikä on varaston keski-ikä?
+
+Varastojen keskimääräinen ikä on keskimääräinen päivien lukumäärä, joka yrityksellä kestää varaston myymiseen. Se on mittari, jota analyytikot käyttävät myynnin tehokkuuden määrittämiseen. Varaston keski-ikää kutsutaan myös varaston [päivien myyntiksi](/days-sales-inventory-dsi) (DSI).
+
+## Varaston keskimääräisen iän kaava ja laskenta
+
+Kaava varaston keskimääräisen iän laskemiseksi on:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantiikka><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Mainosjakauman keskimääräinen ikä</mtext><mo>=</mo><mfrac><mi>C< /mi><mi>G</mi></mfrac><mo>×</mo><mn>365</mn></mrow></mstyle></mtd></mtr><mtr> <mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow> <mrow></mrow><mtext mathvariant="bold">missä:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi> C</mi><mo>=</mo><mtext>Keskimääräinen varaston hinta nykyisellä tasollaan</mtext></mrow></mstyle></mtd></mtr><mtr><mtd ><mstyle scriptlevel="0" -näyttö ystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi> G</mi><mo>=</mo><mtext>Myytyjen tavaroiden hinta (COGS)</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{Inventory Ageage of Inventory}= \frac{ C }{ G } \times 365 \\ &amp;\textbf{where:} \\ &amp ;C = \text{Keskimääräinen varaston hinta nykyisellä tasollaan} \\ &amp;G = \text{Myytyjen tavaroiden hinta (COGS)} \\ \end{aligned}</annotation></semantics>< /math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:6.846329999999999em;vertical-align :-3.1731649999999996em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2 "><span class="vlist-r"><span class="vlist" style="height:3.6731649999999996em;"><span style="top:-5.673165em;"><span class="pstrut" style ="height:3.3603300000000003em;"></span><span class="mord"></span></span>< span style="top:-3.8471650000000004em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span>< span style="top:-2.3471650000000004em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span>< span style="top:-0.8471650000000008em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span>< /span><span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist" style="height:3.1731649999999996em;">< span ></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class = "vlist-r"><span class="vlist" style="height:3.6731649999999996em;"><span style="top:-5.673165em;"><span class="pstrut" style="height:3.3603300000000003 em ;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Varaston keskimääräinen ikä</ / span></span><span class="mspace" style="margin-right:0.2777777777777778em; "></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"> <span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist " style="height:1.36033em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord "><span class="mord mathnormal">G</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em ;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;" ><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07153em;">C </span></span></span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class=" vlist " style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></ span ><span class="mspace" style="margin-right t:0.2222222222222222em;"></span><span class="mbin"></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class = "mord">3</span><span class="mord">6</span><span class="mord">5</span></span></span><span style="top : -3.8471650000000004em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class ="mord text"><span class="mord textbf">missä:</span></span></span></span><span style="top:-2.3471650000000004em;"><span class = "pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin - right:0.07153em;">C</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span>< span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Keskimääräinen varaston hinta nykyisellä tasollaan</ span ></span></span></span><span style="top:-0.847165000 0000008em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class=" mord mathnormal">G</span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mrel">=</span><span class=" mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Myytyjen tavaroiden hinta (COGS)</span></span ></span></span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist" style = "korkeus:3,1731649999999996em;"><span></span></span></span></span></span></span></span></span></span></ span >
+
+
+
+## Mitä varaston keski-ikä voi kertoa sinulle
+
+Varaston keski-ikä kertoo analyytikolle, kuinka nopeasti [varasto vaihtuu](/inventory) yhdessä yrityksessä verrattuna toiseen. Mitä nopeammin yritys pystyy myymään varastojaan voitolla, sitä kannattavampaa se on. Yritys voisi kuitenkin käyttää strategiaa ylläpitää korkeampaa varastotasoa alennuksia tai pitkän aikavälin suunnittelutoimia varten. Vaikka mittaria voidaan käyttää tehokkuuden mittana, se tulee vahvistaa muilla tehokkuuden mittareilla, kuten [bruttovoittomarginaalilla](/gross_profit_margin),. ennen kuin teet mitään johtopäätöksiä.
+
+Varastojen keski-ikä on kriittinen luku toimialoilla, joilla on nopea myynti ja [tuotesyklit](/product-life-cycle),. kuten teknologiateollisuudessa. Varastojen korkea keski-ikä voi osoittaa, että yritys ei hallitse varastoaan kunnolla tai että sillä on vaikeasti myytävää varastoa.
+
+Varaston keski-ikä auttaa ostoagentteja tekemään ostopäätöksiä ja johtajia tekemään hinnoittelupäätöksiä, kuten diskonttaamalla olemassa olevan varaston tuotteiden siirtämiseksi ja [kassavirran lisäämiseksi](/cashflow). Yrityksen varastojen keski-iän kasvaessa myös sen altistuminen [vanhentumisriskille](/obsolescencerisk) kasvaa. Vanhentumisriski on riski siitä, että varaston arvo menettää arvonsa ajan myötä tai [pehmeillä markkinoilla](/soft_market). Jos yritys ei pysty siirtämään varastoa, se voi tehdä [varaston alaskirjauksen,](/inventory-write-off) joka on pienempi kuin yrityksen taseessa ilmoitettu arvo.
+
+## Esimerkki varaston keskimääräisen iän käyttämisestä
+
+Sijoittaja päättää vertailla kahta vähittäiskauppayritystä. Yritys A omistaa varaston arvoltaan 100 000 dollaria ja COGS on 600 000 dollaria. Yrityksen A varaston keski-ikä lasketaan jakamalla varaston keskihinta COGS:lla ja kertomalla sitten tuote 365 päivällä. Laskelma on 100 000 dollaria jaettuna 600 000 dollarilla kerrottuna 365 päivällä. Yrityksen A varaston keski-ikä on 60,8 päivää. Tämä tarkoittaa, että yrityksellä kestää noin kaksi kuukautta myydä varastonsa.
+
+Toisaalta yritys B omistaa myös varaston, jonka arvo on 100 000 dollaria, mutta myydyn varaston hinta on 1 miljoona dollaria, mikä vähentää varaston keskimääräistä ikää 36,5 päivään. Pinnalta katsoen yritys B on tehokkaampi kuin yritys A.
+
+##Kohokohdat
+
+- Mitä nopeammin yritys pystyy myymään varastonsa, sitä kannattavampaa se voi olla.
+
+- Varaston keski-ikä tunnetaan myös varastopäivien myyntinä.
+
+- Varaston keski-ikä kertoo, kuinka monta päivää yrityksellä keskimäärin kestää myydä varastonsa.
+
+- Tämä mittari on vahvistettava muilla luvuilla, kuten bruttokate.
+
+- Kasvava luku voi viitata siihen, että yrityksellä on varastoongelmia.
+
