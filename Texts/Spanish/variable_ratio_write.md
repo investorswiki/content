@@ -1,0 +1,63 @@
+---
+keywords: Investing,Stocks
+title: Escritura de relación variable
+description: Una escritura de relación variable es una estrategia de opciones que requiere mantener acciones del activo subyacente mientras se suscriben opciones de compra a precios de ejercicio variables.
+---
+
+# Escritura de relación variable
+## ¿Qué es una escritura de relación variable?
+
+Una escritura de relación variable es una estrategia de inversión en opciones que requiere mantener una posición larga en el activo subyacente mientras se suscriben simultáneamente varias opciones de compra a [precios de ejercicio variables](/strikeprice). Es esencialmente una estrategia [de compra-escritura de relación.](/buy-write)
+
+El objetivo del comerciante es capturar las primas pagadas por las opciones de compra. Las escrituras de relación variable tienen un potencial de ganancias limitado. La estrategia se usa mejor en acciones con poca volatilidad esperada, particularmente en el corto plazo.
+
+## Comprender las escrituras de relación variable
+
+En la escritura de llamada de relación, la palabra "ratio" representa la cantidad de opciones vendidas por cada 100 acciones que se poseen en la acción subyacente.
+
+Por ejemplo, en una escritura de relación variable de 2:1, el comerciante podría poseer 100 acciones de la acción subyacente y vender 200 opciones.
+
+Se escriben dos llamadas: una está "fuera del dinero". Es decir, el precio de ejercicio es mayor que el valor actual de la acción subyacente. Por otro lado, el precio de ejercicio está "en el dinero" o es más bajo que el precio de la acción subyacente.
+
+El pago en una escritura de proporción variable se parece al de un estrangulamiento inverso. En el comercio de opciones, cualquier estrategia de estrangulamiento implica comprar tanto una opción de compra como una opción de venta del mismo activo subyacente.
+
+La escritura de relación variable se describe acertadamente como que tiene un potencial de ganancias limitado y un riesgo ilimitado.
+
+> Las escrituras de relación variable tienen una ventaja limitada y una desventaja ilimitada.
+
+>
+
+### Cuando se utiliza la escritura de relación variable
+
+Como estrategia de inversión, los comerciantes de opciones sin experiencia deben evitar la escritura de relación variable, ya que es una estrategia con un potencial de riesgo ilimitado.
+
+Las pérdidas comienzan si el precio de la acción hace un fuerte movimiento alcista o bajista más allá de los puntos de equilibrio superior e inferior establecidos por el operador.
+
+No hay límite para la pérdida máxima posible en una posición de escritura de relación variable. A pesar de sus riesgos significativos, la técnica de escritura de relación variable puede brindar al comerciante experimentado una gran flexibilidad con el riesgo de mercado administrado al tiempo que proporciona ingresos atractivos.
+
+Hay dos [puntos de equilibrio](/breakevenpoint) para una posición de escritura de relación variable. Estos puntos de equilibrio se pueden encontrar de la siguiente manera:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semántica><mtable rowspacing="0.24999999999999992em " columnalign="derecha izquierda" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Punto de equilibrio superior</mtext><mo>=</mo><mi>S</mi>< mi>P</mi><mi>H</mi><mo>+</mo><mi>P</mi><mi>M</mi><mi>P</mi></mrow ></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Punto de equilibrio inferior</mtext><mo>=</mo><mi>S</mi>< mi>P</mi><mi>L</mi><mo>−</mo><mi>P</mi><mi>M</mi><mi>P</mi></mrow ></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">donde:</mtext></mrow></mstyle></mtd>< /metro ><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true" ><mrow><mrow></mrow><mi>S</mi><mi>P</mi><mi>H</mi><mo>=</mo><mtext>Precio de ejercicio de mayor llamar brevemente</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow>< /mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>P</mi><mi>M</mi>< mi>P</mi><mo>=</mo><mtext>Puntos de máxima ganancia</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></ mrow><mi>S</mi><mi>P</mi><mi>L</mi><mo>=</mo><mtext>Precio de ejercicio de call corto de ejercicio más bajo</mtext></ mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{Punto de equilibrio superior} = SPH+PMP\\ &amp;\text{Punto de equilibrio inferior} = SPL-PMP\\ &amp;\textbf{donde:}\\ &amp;SPH=\text{S precio de trike de call de strike corto más alto}\\ &amp;PMP=\text{Puntos de ganancia máxima}\\ &amp;SPL=\text{Precio de strike de call de strike corto más bajo} \end{aligned}</annotation></ semántica></matemáticas></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:9.000000000000002em; vertical-align:-4.250000000000001em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:4.750000000000001em;"><span style="top:-6.750000000000001em;"><span class=" pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-5.25em;"><span class=" pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-3.749999999999999em;"><span class=" pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-2.249999999999999em;"><span class=" pstrut" style="altura:2.84em;"></span><span class="mord"> </span></span><span style="top:-0.74999999999999996em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"> </span></span><span style="top:0.75000000000000009em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord">< /span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style=" altura:4.250000000000001em;"><span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:4.750000000000001em;"><span style="top:-6.910000000000001em;"><span class=" pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord ">Punto de equilibrio superior</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span>< abarcan clase="mspace" style="margen derecho:0.2777777777777778em;"></span><span class="mord mathnormal" style="margen derecho:0.05764em ;">S</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.08125em ;">H</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace " style="margin-right:0.22222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.10903em;">M</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span></span></span> <span style="top:-5.41em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">< /span><span class="mord text"><span class="mord">Punto de equilibrio inferior</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"> </span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord mathnormal" style= "margin-right:0.05764em;">S</span><span class="mord m athnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal">L</span><span class="mspace" style="margin-right:0.2222222222222222em; "></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.10903em;">M</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span></span></span><span style="top:-3.90999999999999993em;"><span class="pstrut" style="height: 3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">donde:</ span></span></span></span><span style="top:-2.4099999999999993em;"><span class="pstrut" style="height:3em;"></span><span clase ="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.05764em;">S</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnorm al" style="margin-right:0.08125em;">H</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel"> =</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Precio de ejercicio de ejercicio más alto llamada corta</span></span></span></span><span style="top:-0.9099999999999997em;"><span class="pstrut" style="height:3em;"></span ><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class= "mord mathnormal" style="margin-right:0.10903em;">M</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class= "mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;" ></span><span class="mord text"><span class="mord">Puntos de máxima ganancia</span></span></span></span><span style="top:0.5900000000000007 em;"><span class="pstrut" style=" altura:3em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.05764em;"> S</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal">L</span><span class="mspace " style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;">< /span><span class="mord text"><span class="mord">Precio de ejercicio de call corto de ejercicio más bajo</span></span></span></span></span><span class ="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:4.250000000000001em;"><span></span> </span></span></span></span></span></span></span></span></span>
+
+## Ejemplo del mundo real de una escritura de relación variable
+
+Considere a un inversionista que posee 1000 acciones de la empresa XYZ, que actualmente cotiza a $100 por acción. El inversor cree que es poco probable que las acciones se muevan mucho en los próximos dos meses.
+
+El inversionista puede conservar la acción y aun así obtener un rendimiento positivo mientras su precio permanece estático. Esto se logra iniciando una posición de escritura de relación variable, vendiendo 30 de las 110 llamadas de huelga en XYZ que vencerán dentro de dos meses. La prima de las opciones en las llamadas 110 es de $ 0,25, por lo que nuestro inversor cobrará $ 750 por la venta de las opciones.
+
+Es decir, si el inversionista tiene razón al predecir que el precio de las acciones se mantendrá estable.
+
+Después de dos meses, si las acciones de XYZ permanecen por debajo de $110, el inversionista registrará la prima total de $750 como ganancia, ya que las llamadas no tendrán valor cuando expiren.
+
+Sin embargo, si las acciones suben por encima del punto de equilibrio de $110,25, las ganancias en la posición larga de acciones serán más que compensadas por las pérdidas de las llamadas cortas. Las opciones representaban 3.000 acciones de XYZ, el triple del número que posee el comerciante.
+
+## Reflejos
+
+- Una escritura de relación variable es una estrategia de opciones utilizada por los comerciantes que buscan una fuente secundaria de ingresos para una acción que poseen.
+
+- El comerciante invierte en múltiples opciones de compra a diferentes precios de ejercicio.
+
+- La ganancia potencial está en las primas pagadas por las opciones de compra.
+
+- La estrategia se utiliza cuando un comerciante cree que el precio de las acciones permanecerá estático durante un período de tiempo.
+
