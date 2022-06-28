@@ -1,0 +1,11 @@
+---
+keywords: Crypto
+title: Etere avvolto (WETH)
+description: Etere avvolto (WETH). Token ERC-20 che rappresenta Ether con un rapporto 1:1. Consente agli utenti di scambiare ETH con token ERC-20 su piattaforme decentralizzate.
+---
+
+# Etere avvolto (WETH)
+Wrapped Ether (WETH) si riferisce alla versione compatibile [con ERC-20](/erc-20) di etere (è possibile anche avvolgere l'etere con altri standard ERC). WETH può essere creato inviando l'etere a uno smart contract in cui l'etere viene messo in attesa, ricevendo a sua volta il token WETH ERC-20 con un rapporto 1:1. Questo WETH può in seguito essere rispedito nello stesso contratto intelligente per essere "scartato" o riscattato per l'etere originale con un rapporto 1:1.
+
+L'etere, essendo la valuta nativa sulla blockchain di Ethereum, è stato creato prima dell'implementazione dello standard ERC-20 e di altri standard; quindi l'etere stesso non è compatibile con ERC-20 e non può essere scambiato direttamente con altri token ERC-20 in modo decentralizzato senza la mediazione di una terza parte fidata o l'aggiunta di complesse implementazioni tecniche. Invece di implementare due interfacce (una per l'etere e l'altra per i token ERC-20) all'interno dello stesso contratto intelligente che porta a complessità inutili, gli sviluppatori hanno deciso di "avvolgere" l'etere per aggiornarlo allo standard ERC-20 in modo da gestire comodamente WETH e altri ERC-20 all'interno dello stesso contratto. Il wrapping dell'etere consente lo scambio diretto e senza interruzioni tra l'etere e i token ERC-20 senza la necessità di una terza parte affidabile e senza incorrere in rischi inutili come errori imprevisti durante le transazioni derivanti da implementazioni complesse. Molte [applicazioni decentralizzate (dApp) basate su Ethereum](/decentralized-applications-dapps),. come le piattaforme di [scambio decentralizzate](/decentralized-exchange),. utilizzano WETH al posto di ether per facilitare lo scambio diretto e decentralizzato peer to peer tra ether in "forma avvolgente" e token ERC-20 con lo stesso standard tecnico. I recenti sviluppi stanno cercando di avere uno standard WETH canonico che potrebbe essere utilizzato da tutte le dApp basate su Ethereum.
+
