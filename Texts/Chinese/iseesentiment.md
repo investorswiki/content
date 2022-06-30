@@ -1,0 +1,39 @@
+---
+keywords: Trading,Technical Analysis,Technical Analysis Basic Education
+title: ISEE 情绪指标
+description: ISEE 情绪指标是衡量投资者情绪的指标，它着眼于打开多头看涨期权到打开多头看跌期权的数量。
+---
+
+# ISEE 情绪指标
+## 什么是 ISEE 情绪指标？
+
+ISEE 情绪指标（或情绪指数）衡量市场中的投资者[情绪，通过查看在](/marketsentiment)电子衍生品[交易所](/exchange)国际证券交易所 ( [ISE ) 上购买的多头看涨期权和多头看跌期权的数量来衡量](/internationalsecurityexchange)。
+
+## 了解 ISEE 情绪指标
+
+ISEE 情绪指标仅考虑零售客户的购买，不包括做市商或机构客户的购买，因为客户被认为是衡量情绪的最佳指标。
+
+计算如下：
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>ISEE</mtext><mo>=</mo><mrow><mo fence="true"> (</mo><mfrac><mtext>多头看涨</mtext><mtext>多头看跌</mtext></mfrac><mo fence="true">)</mo></mrow><mo> ×</mo><mn>100</mn></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow ></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">其中：< /mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle>< /mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>ISEE</mtext><mo>=</mo><mtext>ISE 情绪索引</mtext></mrow></mstyle></mtd> </mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle= "true"><mrow><mrow></mrow><mtext>长期看涨期权</mtext><mo>=</mo><mtext>购买的长期看涨期权数量</mtext></mrow></ mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel ="0" displaystyle="true"><mrow><mrow></mrow><mtext>看涨期权</mtext><mo>=</mo><mtext>买入看跌期权数量</mtext> </mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{ISEE} = \left ( \frac { \text{做多看涨} }{ \text{做多看跌} } \right ) \times 100\\ &amp;\textbf{where:}\\ &amp;\text{ISEE} = \text{ISE 情绪指数} \ \ &amp;\text{多头看涨期权} = \text{买入多头看涨期权数量} \\ &amp;\text{多头看跌期权} = \text{买入多头看跌期权数量} \\ \end{对齐}</注释></semantics></math></span><span class="katex-html" aria-hidden ="true"><span class="base"><span class="strut" style="height:8.700029999999998em;vertical-align:-4.100015em;"></span><span class="mord"> <span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:4.600014999999999em;"><span style="top:-6.600015000000001em;"><span class="psstrut" style="height:3.45em;"></span><span class="mord "></span></span><span style="top:-4.5099849999999995em;"><span class="psstrut" style="height:3.45em;"></span><span class="mord "></span></span><span style="top:-3.0099849999999995em;"><span class="psstrut" style="height:3.45em;"></span><span class="mord "></span></span><span style="top:-1.509985em;"><span class="psstrut" style="height:3.45em;"></span><span class="mord "></span></span><span style="top:-0.009985000000000355em;"><span class="psstrut" style="height:3.45em;"></span><span class="mord "></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist"风格= "height:4.100015em;"><span></span></span></span></span></span><span class="col-align-l"><span class="vlist- t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:4.600014999999999em;"><span style="top:-6.600015000000001em;"><span class= "pstrut" style="height:3.45em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class= "mord">ISEE</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span>< span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class ="delimsizing size3">(</span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist -t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3714399999999998em;"><span style="top:-2.314em;"><span class ="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class ="mord">长期看跌期权</span></span></span></span><span style="top:-3.23em;"><span class="psstrut" style="height:3em; "></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"> <span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">长调用</span ></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class= "vlist" style="height:0.8804400000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span>< /span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size3">)</span></span></span><span class="mspace" style ="margin-right:0.2222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span ><span class="mord">1</span><span class="mord">0</span><span class="mord">0</span></span></span><span style="top:-4.5099849999999995em;"><span cl ass="pstrut" style="height:3.45em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">哪里：</span></span></span></span><span style="top:-3.0099849999999995em;"><span class="psstrut" style="height: 3.45em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">ISEE</span ></span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mrel">=</span><span class="mspace" style= "margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">ISE 情绪指数</span></span></span></span> <span style="top:-1.509985em;"><span class="psstrut" style="height:3.45em;"></span><span class="mord"><span class="mord"> </span><span class="mord text"><span class="mord">长调用</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"> </span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span cl ass="mord text"><span class="mord">购买的长期看涨期权数量</span></span></span></span><span style="top:-0.009985000000000355em;"> <span class="pstrut" style="height:3.45em;"></span><span class="mord"><span class="mord"></span><span class="mord text"> <span class="mord">长期看跌</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">= </span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mord text"><span class="mord">买入看跌期权数量</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r">< span class="vlist" style="height:4.100015em;"><span></span></span></span></span></span></span></span></span ></span></span>
+
+如果该指标的值大于 100，则意味着投资者购买的多头[看涨期权多于多头](/calloption)[看跌](/putoption)期权。如果指标低于 100，则意味着与多头看涨期权相比，购买了更多看跌期权。该指数越高，高于 100，市场情绪被认为越看涨，低于 100 的指标表明看跌情绪。
+
+ISE 情绪指数 (ISEE) 将自己标榜为使用看跌/看涨价值的独特衡量市场情绪的指标，该指标仅使用开仓多头客户交易。客户进行的多头交易被认为最能代表市场情绪，因为投资者经常购买看涨和看跌期权来表达他们对特定股票的实际市场看法——他们通常在预期市场上涨时买入看涨期权，并看跌期权以保护自己当市场下跌时。
+
+[做市商](/marketmaker)和公司（机构）交易被排除在指数计算之外，因为由于它们的专业性，它们被认为不能代表真实的市场情绪。正因为如此，ISEE 计算方法被吹捧为比传统的看跌期权比率更准确地衡量真实投资者情绪。
+
+## 特别注意事项
+
+传统的看跌/看涨比率是一个指标，它提供有关给定证券上所有看跌期权与看涨期权的交易量的信息。长期以来，看跌期权比率一直被视为市场投资者情绪的指标。技术交易者使用看跌期权比率作为业绩指标和整体市场情绪的晴雨表。
+
+尽管 ISEE 采用独特的方法，但它的缺点是它只跟踪客户在其自己的平台 - ISE Exchange 上进行的交易。根据期权清算公司 ( [OCC](/occ) ) 的数据，ISE 贡献了美国所有交易所交易期权交易量的 7% 左右，其中很大一部分由做市商或机构订单组成。尽管如此，ISEE 可以与传统的看跌/看涨比率结合使用，以做出更明智的交易决策。
+
+＃＃ 强调
+
+- ISEE 情绪指标考虑了开仓多头看涨期权与开仓多头看跌期权的比率，以衡量市场情绪。
+
+- ISEE 情绪指标仅考虑零售客户的购买，不包括做市商或机构客户的购买。
+
+- 尽管 ISEE 采用独特的方法，但它的缺点是它只跟踪客户在其自己的平台 - ISE Exchange 上进行的交易。
+
