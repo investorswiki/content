@@ -1,0 +1,67 @@
+---
+keywords: Trading,Technical Analysis,Technical Analysis Basic Education
+title: Williams %R
+description: Williams %R é um indicador de momento em análise técnica que mede os níveis de sobrecompra e sobrevenda. É semelhante ao oscilador estocástico na forma como gera sinais de negociação.
+---
+
+# Williams %R
+## O que é Williams %R?
+
+Williams %R, também conhecido como Williams Percent Range, é um tipo de indicador de momento que se move entre 0 e -100 e mede os níveis de [sobrecompra](/overbought) e [sobrevenda](/oversold). O Williams %R pode ser usado para encontrar pontos de entrada e saída no mercado. O indicador é muito semelhante ao oscilador estocástico e é usado da mesma maneira. Ele foi desenvolvido por Larry Williams e compara o preço de fechamento de uma ação com a [faixa alta-baixa](/high-low-method) durante um período específico, normalmente 14 dias ou períodos .
+
+<!--4670EC5A0EEDF8A5B41B289DEAF6E847-->
+
+## A Fórmula para o %R da Williams é:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Williams %</mtext><mi>R</mi><mo>=</mo><mfrac ><mrow><mtext>Mais alto</mtext><mo>−</mo><mtext>Fechar</mtext></mrow><mrow><mtext>Mais alto</mtext><mo>−< /mo><mtext>Mais baixo</mtext></mrow></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle ="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant= "bold">onde</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow ></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Mais alto</mtext><mo>=</ mo><mtext>Preço mais alto e no lookback</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow> </mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>período, normalmente 14 dias.</mtext></mrow ></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Fechar</mtext><mo>=</mo><mtext>Preço de fechamento mais recente.</mtext> ></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd ><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Mais baixo</mtext><mo>=</mo><mtext>Menor preço em o lookback</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></ mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>período, normalmente 14 dias.</mtext></mrow>< /mstyle></mtd></mtr></mt capaz><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{Williams \%}R=\frac{\text{Highest High}-\text{Close}}{\text{ Mais alto}-\text{Mais baixo}}\\ &amp;\textbf{onde}\\ &amp;\text{Mais alto} = \text{Maior preço no lookback}\\ &amp;\text{período, normalmente 14 dias.}\\ &amp;\text{Fechar} = \text{Preço de fechamento mais recente.}\\ &amp;\text{Mais baixo} = \text{Menor preço no lookback}\\ &amp;\text{ período, normalmente 14 dias.} \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class=" base"><span class="strut" style="height:11.55188em;vertical-align:-5.525939999999999em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:6.02594em;"> <span style="top:-8.02594em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span> <span style="top:-6.0055000000000005em;"><span c lass="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:-4.5055000000000005em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:-3.0055000000000005em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:-1.505500000000001em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:-0.0055000000000005045em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:1.4944999999999995em;"><span class ="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span></span><span class="vlist-s">​< /span></span><span class="vlist-r"><span class="vlist" style="height:5.525939999999999em;"><span></span></span></span>< /span></span><span class="col-align-l"><span class="vlist-t vli st-t2"><span class="vlist-r"><span class="vlist" style="height:6.02594em;"><span style="top:-8.02594em;"><span class=" pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class=" mord">Williams %</span></span><span class="mord mathnormal" style="margin-right:0.00773em;">R</span><span class="mspace" style="margin- right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class ="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r">< span class="vlist" style="height:1.3714399999999998em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span>< span class="mord"><span class="mord text"><span class="mord">Mais alto</span></span><span class="mspace" style="margin-right:0.2222222222222222em ;"></span><span class="mbin">−</span><span class="mspace" style=" margin-right:0.2222222222222222em;"></span><span class="mord text"><span class="mord">Mais baixo</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04 em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class=" mord"><span class="mord text"><span class="mord">Mais alto</span></span><span class="mspace" style="margin-right:0.2222222222222222em;">< /span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord text"><span class="mord">Fechar</span></span></span></span></span><span class="vlist-s"><​</span></span><span class = "vlist-r"><span class="vlist" style="height:0.8804400000000001em;"><span></span></span></span></span></span><span class = "mclose nulldelimiter"></span></span></span></span><span style="top:-6.0055000000000005em;"><span class="pstrut" style="height:3.3714399999999 998em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">onde</span ></span></span></span><span style="top:-4.5055000000000005em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class ="mord"><span class="mord"></span><span class="mord text"><span class="mord">Mais alto</span></span><span class="mspace " style="margin-right:0.277777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;">< /span><span class="mord text"><span class="mord">Preço mais alto no lookback</span></span></span></span><span style="top:-3.0055000000000005 em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class=" mord text"><span class="mord">período, normalmente 14 dias.</span></span></span></span><span style="top:-1.505500000000001em;"><span class ="pstrut" style="height:3.3714399999999998em;"></span><span class="mo rd"><span class="mord"></span><span class="mord text"><span class="mord">Fechar</span></span><span class="mspace" style= "margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.277777777777778em;"></span> <span class="mord text"><span class="mord">Preço de fechamento mais recente.</span></span></span></span><span style="top:-0.0055000000000005045em;" ><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"></span><span class="mord text" ><span class="mord">Mais baixo</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel"> =</span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mord text"><span class="mord">Menor preço no lookback </span></span></span></span><span style="top:1.49449999999999995em;"><span class="pstrut" style="height:3.3714399999999998em;"></span>< span class="mord"><span class="mord"></span><sp um class="mord text"><span class="mord">período, normalmente 14 dias.</span></span></span></span></span><span class="vlist-s ">​</span></span><span class="vlist-r"><span class="vlist" style="height:5.525939999999999em;"><span></span></span>< /span></span></span></span></span></span></span></span>
+
+
+
+Como calcular o %R de Williams
+
+O Williams %R é calculado com base no preço, normalmente nos últimos 14 períodos.
+
+1. Registre o máximo e o mínimo para cada período em 14 períodos.
+
+1. No 14º período, anote o preço atual, o preço mais alto e o preço mais baixo. Agora é possível preencher todas as variáveis da fórmula para Williams %R.
+
+1. No 15º período, anote o preço atual, o preço mais alto e o preço mais baixo, mas apenas para os últimos 14 períodos (não os últimos 15). Calcule o novo valor Williams %R.
+
+1. À medida que cada período termina, calcule o novo %R de Williams, usando apenas os últimos 14 períodos de dados.
+
+## O que Williams %R disse a você?
+
+O indicador está dizendo a um trader onde o preço atual é relativo à maior alta nos últimos 14 períodos (ou qualquer número de períodos de lookback escolhido).
+
+Quando o indicador está entre -20 e zero, o preço está sobrecomprado ou próximo ao máximo de sua faixa de preço recente. Quando o indicador está entre -80 e -100, o preço está sobrevendido, ou longe do máximo de sua faixa recente.
+
+Durante uma [tendência de alta](/uptrend),. os traders podem observar o indicador se mover abaixo de -80. Quando o preço começa a subir, **e** o indicador volta acima de -80, pode sinalizar que a tendência de alta do preço está começando novamente.
+
+O mesmo conceito pode ser usado para encontrar negociações [curtas em uma tendência de baixa.](/shortselling) Quando o indicador estiver acima de -20, observe o preço começar a cair junto com o Williams %R voltando abaixo de -20 para sinalizar uma possível continuação da tendência de baixa.
+
+Os comerciantes também podem observar falhas de [impulso .](/momentum) Durante uma forte tendência de alta, o preço geralmente atinge -20 ou acima. Se o indicador cair e não puder voltar acima de -20 antes de cair novamente, isso sinaliza que o impulso ascendente do preço está com problemas e uma queda maior do preço pode ocorrer.
+
+O mesmo conceito se aplica a uma tendência de baixa. Leituras de -80 ou inferiores são frequentemente alcançadas. Quando o indicador não pode mais atingir esses níveis baixos antes de subir, pode indicar que o preço vai subir.
+
+## A diferença entre Williams %R e o oscilador estocástico rápido
+
+O %R de Williams representa o nível de fechamento de um mercado versus a máxima mais alta para o período de retrospectiva. Por outro lado, o [Fast Stochastic Oscillator](/stochasticoscillator),. que se move entre 0 e 100, ilustra o fechamento de um mercado em relação à mínima mais baixa. O %R de Williams corrige isso multiplicando por -100. O Williams %R e o Fast Stochastic Oscillator acabam sendo quase o mesmo indicador. A única diferença entre os dois é como os indicadores são dimensionados.
+
+## Limitações do uso do Williams %R
+
+As leituras de sobrecompra e sobrevenda no indicador não significam que uma reversão ocorrerá. As leituras de sobrecompra realmente ajudam a confirmar uma tendência de alta, uma vez que uma forte tendência de alta deve ver regularmente os preços que estão chegando ou ultrapassando as máximas anteriores (o que o indicador está calculando).
+
+O indicador também pode ser muito responsivo, o que significa que dá muitos [sinais falsos](/false-signal). Por exemplo, o indicador pode estar em território de sobrevenda e começar a subir, mas o preço não o faz. Isso ocorre porque o indicador está olhando apenas para os últimos 14 períodos. À medida que os períodos passam, o preço atual em relação aos altos e baixos no período de retrospectiva muda, mesmo que o preço não tenha realmente se movido.
+
+##Destaques
+
+- Pode ser usado para gerar sinais de negociação quando o preço e o indicador saem do território de sobrecompra ou sobrevenda.
+
+- Uma leitura de sobrecompra ou sobrevenda não significa que o preço será revertido. Overbought significa simplesmente que o preço está próximo dos máximos de sua faixa recente, e oversold significa que o preço está na extremidade inferior de sua faixa recente.
+
+- Williams %R se move entre zero e -100.
+
+- Uma leitura abaixo de -80 é sobrevendida.
+
+- Uma leitura acima de -20 é sobrecomprada.
+
