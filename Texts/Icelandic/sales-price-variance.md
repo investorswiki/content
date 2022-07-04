@@ -1,0 +1,43 @@
+---
+keywords: Economy,Economics,Microeconomics
+title: Söluverðsfrávik
+description: Söluverðsfrávik er munurinn á því verði sem fyrirtæki býst við að selja vörur sínar eða þjónustu fyrir og það sem það selur þær í raun fyrir.
+---
+
+# Söluverðsfrávik
+## Hvað er frávik í söluverði?
+
+Söluverðsfrávik er munurinn á því verði sem fyrirtæki býst við að selja vörur sínar eða þjónustu á og því sem það selur þær í raun á. [Söluverðsfrávik](/price-to-salesratio) eru sögð vera annaðhvort „hagstæð“ eða seld fyrir hærra verð en miðað er við, eða „óhagstætt“ þegar þau seljast fyrir minna en ásett verð eða staðlað verð.
+
+## Skilningur á söluverðsfráviki
+
+Söluverðsfrávikið getur leitt í ljós hvaða vörur leggja mest til heildarsölutekna [og](/revenue) varpað innsýn í aðrar vörur sem gætu þurft að lækka í verði. Ef vara selst mjög vel á venjulegu verði gæti fyrirtæki jafnvel íhugað að hækka verðið lítillega, sérstaklega ef aðrir seljendur taka hærra einingarverð.
+
+Stór og lítil fyrirtæki útbúa mánaðarlegar [fjárhagsáætlanir](/budget) sem sýna spár um sölu og útgjöld fyrir komandi tímabil. Þessar fjárhagsáætlanir samþætta sögulega reynslu, fyrirséðar efnahagslegar aðstæður með tilliti til [eftirspurnar](/demand),. fyrirséð samkeppnisvirkni með tilliti til framboðs, ný markaðsátak sem fyrirtækin hafa tekið að sér og nýjar vörur eða þjónustu sem eiga að eiga sér stað.
+
+Alhliða fjárhagsáætlun mun nota sett staðlaðra verðs og sundurliða væntanleg sölu fyrir hverja einstaka vöru eða þjónustuframboð, með frekari sundurliðun á væntanlegu sölumagni, og síðan rúlla þeim tölum inn í sölutekjutölu á [efstu](/topline) [línu .](/topline) Eftir að söluniðurstöður hafa borist í mánuð mun fyrirtækið færa inn raunverulegar sölutölur við hliðina á áætluðum sölutölum og raða niður niðurstöðum fyrir hverja vöru eða þjónustu.
+
+Það er ólíklegt að fyrirtæki muni hafa söluniðurstöður sem samsvara nákvæmlega áætluðum sölu, þannig að annaðhvort hagstæð eða óhagstæð frávik birtast í öðrum dálki. Mikilvægt er að fylgjast með þessum afbrigðum vegna þess að þau veita eiganda eða stjórnanda fyrirtækisins upplýsingar um hvar fyrirtækið gengur vel og hvar ekki.
+
+Vörulína sem selst er illa, til dæmis, verður að bregðast við af stjórnendum, eða hún gæti verið sleppt alveg. Vörulína sem selur hratt gæti aftur á móti fengið stjórnandann til að hækka söluverð sitt, framleiða meira af því eða hvort tveggja.
+
+Formúlan er:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Frávik söluverðs</mtext><mo>=</mo><mo stretchy="false">( </mo><mtext>AP </mtext><mo>−</mo><mtext> SP</mtext><mo stretchy="false">)</mo><mo>×</mo>< mtext> Seldar einingar</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow> </mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">þar sem:</mtext></ mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mtd></mstyle></mtd><mtd ><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>AP</mtext><mo>=</mo><mtext>Raunverulegt söluverð</mtext> </mrow></mstyle> </mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel=" 0" displaystyle="true"><mrow><mrow></mrow><mtext>SP</mtext><mo>=</mo><mtext>Staðlað verð</mtext></mrow></mstyle ></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{Söluverðsfrávik} = (\text{AP}\ -\ \ text{SP}) \times\text{ Seldar einingar}\\ &amp;\textbf{þar:}\\ &amp;\text{AP} = \text{Raunverulegt söluverð}\\ &amp;\text{SP} = \text{Staðlað verð} \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base "><span class="strut" style="height:6em;vertical-align:-2.75000000000000004em;"></span><span class="mord"><span class="mtable"><span class= "col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:3.25em;"><span style="top:-5.25em;"><span class="psrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:-3 .75em;"><span class="psrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:- 2.249999999999999em;"><span class="psrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top:- 0.7499999999999996em;"><span class="psrut" style="height:2.84em;"></span><span class="mord"></span></span></span><span class= "vlist-s"></span></span><span class="vlist-r"><span class="vlist" style="height:2.7500000000000004em;"><span></span>< / span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"> < span class="vlist" style="height:3.25em;"><span style="top:-5.41em;"><span class="psrut" style="height:3em;"></span> < span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Frávik söluverðs</span></span><span class ="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em ; "></span><span c lass="mopen">(</span><span class="mord text"><span class="mord">AP</span></span><span class="mspace"> </span>< span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin">−</span><span class="mspace"> </span><span class="mspace"> ="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mord text"><span class="mord">SP</span></span><span class= "mclose">)</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin">×</span><span class=" mspace" style="margin-right:0.22222222222222222em;"></span><span class="mord text"><span class="mord"> Seldar einingar</span></span></span>< /span><span style="top:-3.91em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord "></span><span class="mord text"><span class="mord textbf">þar sem:</span></span></span></span><span style="top:- 2.4099999999999993em;"><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord" mor d text"><span class="mord">AP</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel ">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Raunverulegt söluverð </span></span></span></span><span style="top:-0.9099999999999997em;"><span class="psrut" style="height:3em;"></span>< span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">SP</span></span><span class=" mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"> </span><span class="mord text"><span class="mord">Staðlað verð</span></span></span></span></span><span class="vlist- s"></span></span><span class="vlist-r"><span class="vlist" style="height:2.7500000000000004em;"><span></span></span> </span></span></span></span></span></span></span></span>
+
+## Söluverðsfrávik Dæmi
+
+Segjum að fataverslun sé með 50 skyrtur sem hún býst við að selja á $20 hver, sem myndi skila $1.000. Bolirnir sitja í hillunum og seljast ekki mjög hratt, svo verslunin velur að gefa þeim afslátt upp í $15 hver.
+
+Verslunin endar með því að selja allar 50 skyrturnar á $15 verði, sem skilar heildarsala upp á $750. Söluverðsfrávik verslunarinnar er $1.000 staðall eða væntanleg sölutekjur að frádregnum $750 raunverulegum tekjum sem berast, fyrir mismun upp á $250. Þetta þýðir að verslunin mun hafa minni [hagnað](/profit) en gert er ráð fyrir.
+
+##Hápunktar
+
+- Það er hægt að nota til að ákvarða hvaða vörur leggja mest til heildarsölutekna og varpa innsýn í aðrar vörur sem gætu þurft að lækka í verði eða hætta framleiðslu.
+
+- Hagstætt söluverðsfrávik þýðir að fyrirtæki fékk hærra söluverð en búist var við, oft vegna færri keppinauta, árásargjarnra sölu- og markaðsherferða eða bættrar vöruaðgreiningar.
+
+- Óhagstætt frávik í söluverði, sem selst fyrir minna en ásett verð, getur stafað af aukinni samkeppni, minnkandi eftirspurn eftir tiltekinni vöru eða verðlækkun sem einhvers konar eftirlitsyfirvald hefur fyrirskipað.
+
+- Söluverðsfrávik vísar til mismunsins á væntanlegu verði fyrirtækis á vöru eða þjónustu og raunverulegu söluverði þess.
+
