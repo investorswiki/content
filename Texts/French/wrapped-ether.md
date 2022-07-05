@@ -1,0 +1,11 @@
+---
+keywords: Crypto
+title: Éther enveloppé (WETH)
+description: Éther enveloppé (WETH). Jeton ERC-20 représentant Ether dans un rapport de 1:1. Il permet aux utilisateurs d&#39;échanger des jetons ETH contre ERC-20 sur des plateformes décentralisées.
+---
+
+# Éther enveloppé (WETH)
+Wrapped Ether (WETH) fait référence à la version compatible [ERC-20](/erc-20) de l'éther (l'encapsulation de l'éther avec d'autres normes ERC est également possible). WETH peut être créé en envoyant de l'éther à un contrat intelligent où l'éther est mis en attente, recevant à son tour le jeton WETH ERC-20 dans un rapport de 1: 1. Ce WETH peut ensuite être renvoyé dans le même contrat intelligent pour être «déballé» ou échangé contre l'éther d'origine à un rapport de 1: 1.
+
+Ether, étant la monnaie native de la blockchain Ethereum, a été créée avant la mise en œuvre de la norme ERC-20 et d'autres normes ; par conséquent, l'éther lui-même n'est pas compatible ERC-20 et ne peut pas être échangé directement contre d'autres jetons ERC-20 de manière décentralisée sans la médiation d'un tiers de confiance ou l'ajout d'implémentations techniques complexes. Au lieu d'implémenter deux interfaces (une pour l'éther et une autre pour les jetons ERC-20) dans le même contrat intelligent, ce qui entraîne des complexités inutiles, les développeurs ont décidé d'« envelopper » l'éther pour le mettre à niveau vers la norme ERC-20 afin de gérer facilement WETH et autres ERC-20 dans le cadre du même contrat. L'encapsulation d'ether permet l'échange direct et transparent entre l'ether et les jetons ERC-20 sans avoir besoin d'un tiers de confiance et sans encourir de risques inutiles tels que des erreurs inattendues lors de transactions résultant d'implémentations complexes. De nombreuses applications décentralisées basées sur Ethereum [(dApps)](/decentralized-applications-dapps),. telles que les plates-formes d' [échange décentralisées](/decentralized-exchange),. utilisent WETH à la place de l'éther pour faciliter les échanges directs et décentralisés d'égal à égal entre l'éther sous "forme enveloppée" et les jetons ERC-20 sous la même norme technique. Les développements récents tentent d'avoir une norme WETH canonique qui pourrait être utilisée par tous les dApps basés sur Ethereum.
+
