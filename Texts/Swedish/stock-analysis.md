@@ -1,0 +1,33 @@
+---
+keywords: Investing,Fundamental Analysis,Tools for Fundamental Analysis,Tools
+title: Aktieanalys
+description: Aktieanalys är utvärderingen av ett visst handelsinstrument, en investeringssektor eller marknaden som helhet. Aktieanalytiker försöker fastställa den framtida aktiviteten för ett instrument, en sektor eller en marknad.
+---
+
+# Aktieanalys
+## Vad är aktieanalys?
+
+Aktieanalys är utvärderingen av ett visst handelsinstrument, en investeringssektor eller marknaden som helhet. Aktieanalytiker försöker fastställa den framtida aktiviteten för ett instrument, en sektor eller en marknad.
+
+## Förstå aktieanalys
+
+Aktieanalys är en metod för investerare och handlare att fatta köp- och säljbeslut. Genom att studera och utvärdera tidigare och aktuella data försöker investerare och handlare få ett försprång på marknaderna genom att fatta välgrundade beslut.
+
+## Grundläggande analys
+
+Det finns två grundläggande typer av aktieanalys: [fundamental analys](/fundamentalanalysis) och [teknisk analys](/technicalanalysis). Grundläggande analys koncentrerar sig på data från källor, inklusive finansiella poster, ekonomiska rapporter, företagstillgångar och marknadsandelar. För att utföra grundläggande analys av ett offentligt företag eller sektor analyserar investerare och analytiker vanligtvis måtten på ett företags [finansiella rapporter](/financial-statements) – [balansräkning](/balancesheet),. [resultaträkning](/incomestatement),. [kassaflödesanalys](/cashflowstatement) och [fotnoter](/footnote). Dessa uttalanden släpps till allmänheten i form av en [10-Q](/10q) eller [10-K-rapport](/10-k) genom databassystemet, [EDGAR](/edgar),. som administreras av US [Securities and Exchange Commission](/sec) (SEC). Dessutom analyseras resultatrapporten som släpptes av ett företag under dess kvartalsvisa vinstpressmeddelande av investerare som ser till att ta reda på hur mycket i intäkter, kostnader och vinster ett företag gjorde.
+
+När man kör aktieanalys på ett företags bokslut, kommer en analytiker vanligtvis att kontrollera måttet på ett företags lönsamhet, [likviditet](/liquidity),. [solvens](/solvency),. effektivitet, tillväxtbana och [hävstångseffekt](/leverage). Olika nyckeltal kan användas för att avgöra hur sunt ett företag är. Till exempel används [strömkvoten](/currentratio) och [snabbkvoten](/currentratio) [för](/quickratio) att uppskatta om ett företag kommer att kunna betala sina [kortfristiga skulder](/shorttermdebt) med sina tillgängliga [omsättningstillgångar](/currentassets). Formeln för aktuellt förhållande beräknas genom att dividera omsättningstillgångar med [kortfristiga skulder](/currentliabilities),. siffror som kan hämtas från balansräkningen. Även om det inte finns något sådant som en idealisk strömkvot, kan ett förhållande mindre än 1 indikera för aktieanalytikern att företaget har dålig ekonomisk hälsa och kanske inte kan täcka sina kortsiktiga skuldförpliktelser när de förfaller.
+
+Om man fortfarande tittar på balansräkningen, kanske en aktieanalytiker vill veta de nuvarande skuldnivåerna som ett företag tar på sig. I det här fallet kan en aktieanalytiker använda [skuldkvoten](/debtratio),. som beräknas genom att dividera [totala skulder](/total-liabilities) med totala tillgångar. En skuldkvot över 1 innebär vanligtvis att ett företag har mer skulder än tillgångar. I det här fallet, om företaget har en hög [grad av hävstång](/dcl),. kan en aktieanalytiker dra slutsatsen att en räntehöjning kan öka företagets sannolikhet att gå i konkurs.
+
+Aktieanalys innebär att jämföra ett företags aktuella bokslut med dess finansiella rapporter under tidigare år för att ge en investerare en känsla av om företaget växer, stabilt eller försämras. Ett företags bokslut kan också jämföras med ett eller flera andra företag inom samma bransch. En aktieanalytiker kanske vill jämföra [rörelsevinstmarginalen](/operatingmargin) för två konkurrerande företag genom att titta på deras resultaträkningar. Rörelsevinstmarginalen är ett mått som visar hur mycket intäkter som finns kvar efter att [driftskostnader](/operating_expense) har betalats och vilken del av intäkterna som finns kvar för att täcka [icke-operativa kostnader](/non-operating-expense) och beräknas som rörelseintäkter dividerat med intäkter. Ett företag med en rörelsemarginal på 0,30 kommer att ses mer fördelaktigt än ett med en marginal på 0,03. En rörelsemarginal på 0,30 betyder att för varje dollar i intäkter har ett företag 30 cent kvar efter att driftskostnaderna har täckts. Med andra ord använder företaget 70 cent av varje dollar i nettoomsättning för att betala för sina rörliga kostnader eller driftskostnader.
+
+## Teknisk analys
+
+Den andra metoden för aktieanalys är teknisk analys. Teknisk analys fokuserar på studiet av tidigare och nuvarande prisåtgärder för att förutsäga sannolikheten för framtida prisrörelser. Tekniska analytiker analyserar finansmarknaden som helhet och sysslar i första hand med pris och volym, samt de efterfråge- och utbudsfaktorer som rör marknaden. Diagram är ett nyckelverktyg för tekniska analytiker eftersom de visar en grafisk illustration av en akties [trend](/trend) inom en angiven tidsperiod. Till exempel, med hjälp av ett diagram, kan en teknisk analytiker markera vissa områden som en [stöd-](/support) eller [motståndsnivå](/resistance). Stödnivåerna är markerade av tidigare låga nivåer under det [aktuella handelspriset](/currentprice),. och motståndsmarkörerna är placerade på tidigare toppar över aktiens nuvarande [marknadspris](/market-price). Ett brott under stödnivån skulle indikera en [baisseartad trend](/bearmarket) för aktieanalytikern, medan ett brott över motståndsnivån skulle få en [hausseartad utsikt](/bullmarket).
+
+Teknisk aktieanalys är endast effektiv när utbuds- och efterfrågekrafter påverkar den analyserade pristrenden. När externa faktorer är inblandade i en kursrörelse kan det hända att det inte blir framgångsrikt att analysera aktier med hjälp av teknisk analys. Exempel på faktorer, andra än utbud och efterfrågan, som kan påverka en aktiekurs inkluderar [aktieuppdelningar](/stocksplit),. fusioner, [utdelningsmeddelanden](/announcment-effect),. en [grupptalan](/classaction),. ett företags vd:s död, en terroristattack, [redovisningsskandaler](/financial-shenanigans),. förändringar i ledningen, förändringar i [penningpolitiken](/monetarypolicy),. etc.
+
+Både grundläggande och teknisk analys kan göras oberoende eller tillsammans. Vissa analytiker använder båda analysmetoderna, medan andra håller sig till en. Hur som helst, att använda aktieanalys för att [kontrollera aktier](/vetting),. sektorer och marknaden är en viktig metod för att skapa den bästa investeringsstrategin för ens portfölj.
+
