@@ -1,0 +1,103 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Ratios
+title: Coeficiente de solvencia
+description: Un índice de solvencia es una métrica clave utilizada para medir la capacidad de una empresa para cumplir con su deuda y otras obligaciones.
+---
+
+# Coeficiente de solvencia
+## ¿Qué es un índice de solvencia?
+
+Un índice de solvencia es una métrica clave que se utiliza para medir la capacidad de una empresa para cumplir con sus obligaciones de deuda a largo plazo y, a menudo, lo utilizan los posibles prestamistas comerciales. Un índice de solvencia indica si el flujo de efectivo de una empresa es suficiente para cumplir con sus [obligaciones a largo plazo](/longtermliabilities) y, por lo tanto, es una medida de su salud financiera. Una relación desfavorable puede indicar cierta probabilidad de que una empresa [incumpla](/default2) sus obligaciones de deuda.
+
+## Comprender los índices de solvencia
+
+Un índice de solvencia es una de las muchas métricas que se utilizan para determinar si una empresa puede mantenerse solvente a largo plazo. Un índice de solvencia es una medida integral de la solvencia, ya que mide el flujo de efectivo real de una empresa, en lugar de [los ingresos netos](/netincome),. al sumar la [depreciación](/depreciation) y otros gastos no monetarios para evaluar la capacidad de una empresa para mantenerse a flote.
+
+Mide esta capacidad de flujo de efectivo frente a todos los pasivos, en lugar de solo [la deuda a corto plazo](/shorttermdebt). De esta manera, un índice de solvencia evalúa la salud a largo plazo de una empresa al evaluar su capacidad de pago de su deuda a largo plazo y el [interés](/interest) de esa deuda.
+
+Los índices de solvencia varían de una industria a otra. Por lo tanto, el índice de solvencia de una empresa debe compararse con sus competidores en la misma industria en lugar de verse de forma aislada.
+
+La terminología del índice de solvencia también se utiliza al evaluar las compañías de seguros, comparar el tamaño de su capital en relación con las [primas emitidas](/insurance-premium) y medir el riesgo que enfrenta una aseguradora en [reclamos](/insurance_claim) que no puede cubrir.
+
+> Los principales índices de solvencia son el índice de deuda sobre activos, el índice de cobertura de intereses, el índice de recursos propios y el índice de deuda sobre recursos propios (D/E). Estas medidas pueden compararse con los [índices de liquidez](/liquidityratios),. que consideran la capacidad de una empresa para cumplir con las obligaciones a corto plazo en lugar de las de mediano a largo plazo.
+
+>
+
+## Tipos de Razones de Solvencia
+
+### Porcentaje de cobertura de intereses
+
+El [índice de cobertura de intereses](/interestcoverageratio) se calcula de la siguiente manera:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semántica><mrow><mtext>Interés Ratio de cobertura</mtext><mo>=</mo><mfrac><mtext>EBIT</mtext><mtext>Gastos por intereses</mtext></mfrac></mrow><annotation encoding="application/x -tex">\text{Coeficiente de cobertura de intereses}=\frac{\text{EBIT}}{\text{Gastos por intereses}}</annotation></semantics></math></span><span class=" katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span>< span class="mord text"><span class="mord">Coeficiente de cobertura de intereses</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span> <span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.3534389999999998em;vertical-align:-0.481108em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span clase="mfrac"><span clase= "vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.872331em;"><span style="top:-2.6550000000000002em;">< span class="pstrut" style="height:3em;"></span><span class="restablecimiento de tamaño-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight" ><span class="mord mtight">Gastos por intereses</span></span></span></span></span><span style="top:-3.23em;"><span class=" pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style= "superior:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="restablecer tamaño-size6 size3 mtight"><span class="mord mtight" ><span class="mord text mtight"><span class="mord mtight">EBIT</span></span></span></span></span></span><span class=" vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.481108em;"><span></span></ span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>
+
+dónde:
+
+- EBIT = Ganancias antes de intereses e impuestos
+
+El índice de cobertura de intereses mide cuántas veces una empresa puede cubrir sus pagos de intereses actuales con sus [ganancias disponibles](/earnings). En otras palabras, mide el margen de seguridad que tiene una empresa para pagar los intereses de su deuda durante un período determinado.
+
+Cuanto mayor sea la proporción, mejor. Si la relación cae a 1,5 o menos, puede indicar que una empresa tendrá dificultades para cumplir con los intereses de sus deudas.
+
+### Relación deuda-activos
+
+La [relación deuda-activos](/totaldebttototalassets) se calcula de la siguiente manera:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semántica><mrow><mtext>Deuda Relación entre activos</mtext><mo>=</mo><mfrac><mtext>Deuda</mtext><mtext>Activos</mtext></mfrac></mrow><annotation encoding="application /x-tex">\text{Relación deuda-activos}=\frac{\text{Deuda}}{\text{Activos}}</annotation></semantics></math></span>< span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span ><span class="mord text"><span class="mord">Relación deuda-activos</span></span><span class="mspace" style="margin-right:0.2777777777777778em;" ></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class=" base"><span class="strut" style="height:1.2251079999999999em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter">< /span><span clase="mfrac"><span clase="vlist-t vlist-t2"><span clase="vlist-r"><span clase ="vlist" style="height:0.8801079999999999em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span clase ="restablecer tamaño-tamaño6 tamaño3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord mtight">Activos</span></span></span ></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line " style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em; "></span><span class="restablecer tamaño-tamaño6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord mtight">Deuda</ span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r" ><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"> </span></span></span></span></span>
+
+La relación deuda-activos mide la deuda total de una empresa en relación con sus [activos totales](/asset). Mide el apalancamiento de una empresa e indica qué parte de la empresa está financiada con deuda versus activos y, por lo tanto, su capacidad para pagar su deuda con sus activos disponibles. Un índice más alto, especialmente por encima de 1,0, indica que una empresa está financiada significativamente por deuda y puede tener dificultades para cumplir con sus obligaciones.
+
+### Relación de capital
+
+El [índice de capital social](/shareholderequityratio) se calcula de la siguiente manera:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semántica><mtable rowspacing="0.24999999999999992em " columnalign="derecha izquierda" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>SER</mtext><mo>=</mo><mfrac><mtext>TSE</mtext> <mtext>Activos totales</mtext></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mtext mathvariant="negrita">donde:</mtext></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow> </mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>SER</mtext><mtext> ⁣</mtext> <mo>=</mo><mtext> ⁣</mtext><mtext>Ratio de capital accionario</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></ mrow><mtext>TSE</mtext><mtext> ⁣</mtext><mo>=</mo><mtext> ⁣</mtext><mtext>Patrimonio total de los accionistas</mtext></mrow></ mstyle></mtd></mtr></mtable><anotación codificación="aplicación/x-tex">\begin{alineado}&amp;\text{SER}=\frac{\text{TSE}}{\ text{Activos totales}}\\\textbf{donde:}\\&amp;\text{SER}\!=\!\text{Ratio de capital social}\\&amp;\text{TSE}\!=\!\ text{Patrimonio total de los accionistas}\end{alineado}</anotación></semántica></matemáticas></span><span class="katex-html" aria-hidden="true"><span class="base "><span class="strut" style="height:6.84633em;vertical-align:-3.173165em;"></span><span class="mord"><span class="mtable"><span class ="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:3.6731649999999996em;">< span style="top:-5.673165em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span>< span style="top:-3.8471650000000004em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord" ><span class="mord text"><span class="mord textbf">donde:</span></span></span></span><span style="top:-2.3471650000000004em;"> <span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span><span style="top:-0.84716500000000008em;"> <span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span></span><span class="vlist-s" ></span></span><span class="vlist-r"><span class="vlist" style="height:3.1731649999999996em;"><span></span></span></ span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class=" vlist" style="height:3.6731649999999996em;"><span style="top:-5.673165em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class= "mord"><span class="mord"></span><span class="mord text"><span class="mord">SER</span></span><span class="mspace" estilo ="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-rig ht:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist- t2"><span class="vlist-r"><span class="vlist" style="height:1.36033em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">Activos totales</span></span></ span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style= "border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;">< /span><span class="mord"><span class="mord text"><span class="mord">TSE</span></span></span></span></span>< span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></ span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="top: -2.347165em;"><span class="pstrut" style="altura:3.3603300000 000003em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">SER</span> </span><span class="mspace" style="margin-right:-0.16666666666666666em;"></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span ><span class="mrel">=</span><span class="mspace" style="margin-right:-0.16666666666666666em;"></span><span class="mspace" style="margin- right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Ratio de capital accionario</span></span></span></span><span style ="arriba:-0.8471650000000004em;"><span class="pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span ><span class="mord text"><span class="mord">TSE</span></span><span class="mspace" style="margin-right:-0.16666666666666666em;"></span ><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right :-0.16666666666666666em;"></span><span class= "mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Patrimonio total de los accionistas</span></span></span ></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="altura: 3.173165em;"><span></span></span></span></span></span></span></span></span></span></span>
+
+La relación de capital, o capital a activos, muestra qué parte de una empresa está financiada por [capital](/equity) en lugar de deuda. Cuanto mayor sea el número, más saludable es una empresa. Cuanto menor sea el número, más deuda tiene una empresa en sus libros en relación con el capital.
+
+### Relación de deuda a capital (D/E)
+
+La relación [deuda-capital](/debtequityratio) (D/E) se calcula de la siguiente manera:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semántica><mrow><mtext>Deuda Razón de capital</mtext><mo>=</mo><mfrac><mtext>Deuda pendiente</mtext><mtext>Patrimonio</mtext></mfrac></mrow><annotation encoding="application/ x-tex">\text{Relación entre deuda y capital}=\frac{\text{Deuda pendiente}}{\text{Patrimonio}}</annotation></semantics></math></span><span class ="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span ><span class="mord text"><span class="mord">Relación entre deuda y capital</span></span><span class="mspace" style="margin-right:0.2777777777777778em;">< /span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base" ><span class="strut" style="height:1.4133239999999998em;vertical-align:-0.481108em;"></span><span class="mord"><span class="mopen nulldelimiter"></span ><span class="mfrac"><span class="vlist- t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.93221599999999999em;"><span style="top:-2.6550000000000002em;"><span class= "pstrut" style="height:3em;"></span><span class="restablecimiento de tamaño-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord mtight">Actividad</span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style= "altura:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:- 3.446108em;"><span class="pstrut" style="height:3em;"></span><span class="restablecimiento de tamaño-size6 size3 mtight"><span class="mord mtight"><span class ="mord text mtight"><span class="mord mtight">Deuda pendiente</span></span></span></span></span></span><span class="vlist-s ">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.481108em;"><span></span></span>< /span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>
+
+La relación D/E es similar a la relación deuda-activos, ya que indica cómo se financia una empresa, en este caso, mediante deuda. Cuanto mayor sea el índice, más deuda tiene una empresa en sus libros, lo que significa que la probabilidad de incumplimiento es mayor. La relación analiza qué parte de la deuda puede cubrirse con capital si la empresa necesitara liquidar.
+
+## Ratios de Solvencia vs. Ratios de Liquidez
+
+Los índices de solvencia y los índices de liquidez son similares pero tienen algunas diferencias importantes. Ambas categorías de razones financieras indicarán la salud de una empresa. La principal diferencia es que los índices de solvencia ofrecen una perspectiva a más largo plazo de una empresa, mientras que los índices de liquidez se centran en el plazo más corto.
+
+Los índices de solvencia analizan todos los activos de una empresa, incluidas las deudas a largo plazo, como los bonos con vencimientos superiores a un año. Los índices de liquidez, por otro lado, analizan solo los [activos más líquidos](/liquidasset),. como el efectivo y los [valores negociables](/marketablesecurities),. y cómo se pueden usar para cubrir las próximas obligaciones a corto plazo.
+
+## Limitaciones de los Ratios de Solvencia
+
+Una empresa puede tener un monto de deuda bajo, pero si sus prácticas [de administración de efectivo](/cash-management) son deficientes y , como resultado, las [cuentas por pagar](/accountspayable) están aumentando, su posición de solvencia puede no ser tan sólida como lo indican las medidas que incluyen solo deuda.
+
+Es importante observar una variedad de índices para comprender la verdadera [salud financiera](/financial-health) de una empresa, así como comprender la razón por la que un índice es lo que es. Además, un número en sí mismo no dará mucha indicación. Una empresa necesita compararse con sus pares, particularmente con las empresas fuertes en su industria, para determinar si la relación es aceptable o no.
+
+Por ejemplo, una compañía aérea tendrá más deuda que una empresa de tecnología simplemente por la naturaleza de su negocio. Una compañía aérea tiene que comprar aviones, pagar el espacio del hangar y comprar combustible para aviones; costos que son significativamente más altos de lo que una empresa de tecnología tendrá que enfrentar.
+
+## Reflejos
+
+- Los principales índices de solvencia incluyen el índice de deuda sobre activos, el índice de cobertura de intereses, el índice de recursos propios y el índice de deuda sobre recursos propios (D/E).
+
+- Tanto los índices de solvencia como los índices de liquidez miden la salud financiera de una empresa, pero los índices de solvencia tienen una perspectiva a más largo plazo que los índices de liquidez.
+
+- Un índice de solvencia examina la capacidad de una empresa para cumplir con sus deudas y obligaciones a largo plazo.
+
+- Los posibles prestamistas suelen utilizar los índices de solvencia al evaluar la solvencia de una empresa, así como los posibles inversores en bonos.
+
+## PREGUNTAS MÁS FRECUENTES
+
+### ¿Cómo se calcula un índice de solvencia?
+
+Los índices de solvencia miden el flujo de efectivo de una empresa, que incluye los gastos que no son en efectivo y la depreciación, frente a todas las obligaciones de deuda. Por ejemplo, considere la relación deuda-activos, una métrica popular que mide el grado en que los activos de una empresa están financiados por deuda, donde la deuda-activos es igual a la deuda total dividida por los activos totales. Otro índice de solvencia común, el índice de deuda a capital (D/E), muestra cuán apalancada financieramente está una empresa, donde la deuda a capital es igual a la deuda total dividida por el capital total.
+
+### ¿Cuál es la diferencia entre un índice de solvencia y un índice de liquidez?
+
+Los índices de solvencia, también conocidos como índices de apalancamiento, analizan el impacto en las obligaciones a largo plazo y la capacidad de una empresa para continuar operando en un horizonte más largo. Por el contrario, los índices de liquidez tienen en cuenta dos objetivos principales: la capacidad de una empresa para pagar pasivos a corto plazo con vencimiento inferior a un año y la capacidad de vender activos rápidamente para obtener efectivo.
+
+### ¿Qué son los índices de solvencia?
+
+Un índice de solvencia mide qué tan bien el flujo de efectivo de una empresa puede cubrir su deuda a largo plazo. Los índices de solvencia son una métrica clave para evaluar la salud financiera de una empresa y se pueden utilizar para determinar la probabilidad de que una empresa incumpla con su deuda. Los índices de solvencia difieren de los índices de liquidez, que analizan la capacidad de una empresa para cumplir con sus obligaciones a corto plazo.
+
