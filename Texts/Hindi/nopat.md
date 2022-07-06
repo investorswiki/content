@@ -1,0 +1,39 @@
+---
+keywords: Business,Business Essentials
+title: कर के बाद शुद्ध परिचालन लाभ (एनओपीएटी)
+description: कर के बाद शुद्ध परिचालन लाभ (एनओपीएटी) एक कंपनी की संभावित नकद आय है यदि इसके पूंजीकरण का लाभ नहीं उठाया गया था।
+---
+
+# कर के बाद शुद्ध परिचालन लाभ (एनओपीएटी)
+## कर के बाद शुद्ध परिचालन लाभ क्या है?
+
+कर के बाद शुद्ध परिचालन लाभ (एनओपीएटी) एक वित्तीय उपाय है जो दर्शाता है कि किसी कंपनी ने अपने मूल संचालन के माध्यम से करों को छोड़कर कितना अच्छा प्रदर्शन किया है। NOPAT का उपयोग अक्सर [आर्थिक मूल्य वर्धित (EVA)](/eva) गणनाओं में किया जाता है और यह लीवरेज्ड कंपनियों के लिए परिचालन दक्षता पर अधिक सटीक नज़र रखता है। एनओपीएटी में मौजूदा कर्ज के कारण कई कंपनियों को मिलने वाली कर बचत शामिल नहीं है।
+
+## कर के बाद शुद्ध परिचालन लाभ (एनओपीएटी) को समझना
+
+कर के बाद शुद्ध परिचालन लाभ (एनओपीएटी) एक कंपनी की संभावित नकद आय है यदि इसके पूंजीकरण का लाभ नहीं उठाया गया था - यानी, अगर उस पर कोई कर्ज नहीं था। इस आंकड़े में एकमुश्त हानि या शुल्क शामिल नहीं है; ये किसी कंपनी की वास्तविक लाभप्रदता का सही प्रतिनिधित्व नहीं देते हैं। इनमें से कुछ शुल्कों में विलय या अधिग्रहण से संबंधित शुल्क शामिल हो सकते हैं, जिन पर यदि विचार किया जाता है, तो कंपनी के संचालन की सटीक तस्वीर दिखाना जरूरी नहीं है, भले ही वे उस वर्ष कंपनी की निचली रेखा को प्रभावित कर सकें।
+
+किसी कंपनी का निवेश के रूप में आकलन करते समय विश्लेषक प्रदर्शन के कई अलग-अलग उपायों को देखते हैं। प्रदर्शन के सबसे अधिक इस्तेमाल किए जाने वाले उपाय बिक्री और शुद्ध आय वृद्धि हैं। बिक्री प्रदर्शन का एक शीर्ष-पंक्ति माप प्रदान करती है, लेकिन वे परिचालन दक्षता से बात नहीं करती हैं। शुद्ध आय में परिचालन व्यय शामिल हैं, लेकिन इसमें ऋण से कर बचत भी शामिल है। कर के बाद शुद्ध परिचालन लाभ एक संकर गणना है जो विश्लेषकों को उत्तोलन के प्रभाव के बिना कंपनी के प्रदर्शन की तुलना करने की अनुमति देता है। इस तरह, यह शुद्ध परिचालन दक्षता का अधिक सटीक माप है।
+
+एनओपीएटी की गणना करने के लिए, परिचालन आय, जिसे परिचालन लाभ के रूप में भी जाना जाता है, का निर्धारण किया जाना चाहिए। इसमें सकल लाभ कम परिचालन व्यय शामिल है, जिसमें बिक्री, सामान्य और प्रशासनिक (जैसे, कार्यालय की आपूर्ति) खर्च शामिल हैं। एनओपीएटी सूत्र है
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable Rowpacing="0.24999999999999992em " columnalign="right left" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>NOPAT</mtext><mo>=</mo><mtext>परिचालन आय</mtext><mo >×</mo><mrow><mo बाड़="true">(</mo><mn>1</mn><mo>−</mo><mtext>कर की दर</mtext><mo बाड़ ="true">)</mo></mrow></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true">< mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">कहाँ: </mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle> </mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>परिचालन आय</mtext><mo>=</mo><mtext> सकल लाभ कम परिचालन व्यय< /mtext></mrow></mstyle></mtd></mtr></mtable><एनोटेशन एन्कोडिंग="एप्लिकेशन/x-tex">\begin{aligned} &amp;\text{NOPAT} = \text {परिचालन आय} \गुना \बाएं (1 - \पाठ{कर की दर} \दाएं) \\ &amp;\textbf{जहां:} \\ &amp;\text{परिचालन आय} = \पाठ{सकल लाभ कम परिचालन व्यय} \\ \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:4.500000000000002em;vertical-align:-2.000000000000001em;"></span><span class="mord"><span class="mtable"><span class="col- align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.5000000000000004em;"><span style=" शीर्ष:-4.5em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style=" top:-3em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span><span style="top : -1.4999999999999991em;"><span class="pstrut" style="height:2.84em;"></span><span class="mord"></span></span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class = "vlist" शैली="ऊंचाई:2.000000000000001em;"><span></span></span></span></span></span><span class="col-align-l">< अवधि class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.5000000000000004em;"><span style="top:-4.66em; " ><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text" > <span class="mord">NOPAT</span></span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mrel">= < /span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord text"><span class="mord">ऑपरेटिंग इनकम</span> < /span><span class="mspace" style="margin-right:0.222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style=" मार्जिन -दाएं: 0.222222222222222em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;">(</span><s pan class="mord">1</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mord text"><span class="mord">टैक्स की दर</span></span><span class="mclose delimcenter" style="top:0em;">)</span></span></span></span><span style="top:-3.16em;"><span class=" pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">कहां:</span></span></span></span><span style="top:-1.6599999999999993em;"><span class="pstrut" style="height:3em;"> </span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">ऑपरेटिंग इनकम</span></span ><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right" :0.27777777777777778em;"></span><span class="mord text"><span class="mord">सकल लाभ कम परिचालन व्यय</span> स्पैन></span></span></span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class = "vlist" शैली="ऊंचाई:2.000000000000001em;"><span></span></span></span></span></span></span></span></span>< / अवधि></अवधि>
+
+
+
+## एनओपीएटी उदाहरण
+
+उदाहरण के लिए, यदि EBIT $10,000 है और कर की दर 30% है, तो कर के बाद शुद्ध परिचालन लाभ 0.7 है, जो $7,000 के बराबर है (गणना: $10,000 x (1 - 0.3))। यह ऋण के कर लाभ के बिना कर-पश्चात नकदी प्रवाह का एक अनुमान है। ध्यान दें कि अगर किसी कंपनी पर कर्ज नहीं है, तो कर के बाद शुद्ध परिचालन लाभ कर के बाद शुद्ध आय के समान है। कर के बाद शुद्ध परिचालन लाभ की गणना करते समय, विश्लेषक एक ही उद्योग में समान कंपनियों के साथ तुलना करना पसंद करते हैं, क्योंकि कुछ उद्योगों की लागत दूसरों की तुलना में अधिक या कम होती है।
+
+## विशेष ध्यान
+
+ऋण, विलय और अधिग्रहण के प्रभाव के बिना विश्लेषकों को मुख्य परिचालन दक्षता प्रदान करने के अलावा, विश्लेषक कर के बाद शुद्ध परिचालन लाभ का उपयोग करते हैं। वे इसका उपयोग [फर्म (एफसीएफएफ) को मुफ्त नकदी प्रवाह की गणना करने के लिए करते हैं](/freecashflowfirm),. जो कर के बाद शुद्ध परिचालन लाभ के बराबर है, कार्यशील पूंजी में परिवर्तन घटा है। वे इसका उपयोग फर्म (एफसीएफएफ) को आर्थिक मुक्त नकदी प्रवाह की गणना में भी करते हैं, जो कर घटाकर पूंजी के बाद शुद्ध परिचालन लाभ के बराबर होता है। दोनों का उपयोग मुख्य रूप से विश्लेषकों द्वारा अधिग्रहण लक्ष्यों की तलाश में किया जाता है क्योंकि अधिग्रहणकर्ता का वित्तपोषण वर्तमान वित्तपोषण व्यवस्था को बदल देगा। कर के बाद शुद्ध परिचालन लाभ की गणना करने का एक और तरीका है, शुद्ध आय प्लस शुद्ध कर-पश्चात ब्याज व्यय (या शुद्ध आय प्लस शुद्ध ब्याज व्यय) को 1 से गुणा करके कर की दर घटाना।
+
+##हाइलाइट
+
+- एनओपीएटी मौजूदा ऋण और एकमुश्त नुकसान या शुल्क से कर बचत को बाहर करता है।
+
+- कर के बाद शुद्ध परिचालन लाभ (एनओपीएटी) एक लीवरेज्ड कंपनी के संचालन की दक्षता को मापता है।
+
+- विलय और अधिग्रहण विश्लेषक फर्म को मुफ्त नकदी प्रवाह (एफसीएफएफ) और फर्म को आर्थिक मुक्त नकदी प्रवाह की गणना के लिए एनओपीएटी का उपयोग करते हैं।
+
