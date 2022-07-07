@@ -1,0 +1,41 @@
+---
+keywords: Economy,Fiscal Policy,Tax Laws
+title: Taxe sur l&#39;énergie
+description: La taxe sur l&#39;énergie est une taxe prélevée sur la production, la distribution ou la consommation d&#39;énergie, d&#39;électricité ou de combustibles.
+---
+
+# Taxe sur l'énergie
+## Qu'est-ce qu'une taxe sur l'énergie ?
+
+Une taxe sur l'énergie est une taxe sur les combustibles, la production, le transport ou la consommation d'énergie. En raison de l'inélasticité de la demande d'énergie, ces taxes peuvent être des sources importantes de recettes publiques. Les recettes fiscales ainsi perçues peuvent ou non être affectées à des dépenses qui soutiennent l'industrie ou l'activité taxée. Outre leur objectif principal, les taxes sur l'énergie sont aussi parfois utilisées pour manipuler les incitations auxquelles sont confrontés les consommateurs et les entreprises afin de modifier leurs décisions en matière de consommation et de production d'énergie. Cela peut être fait pour gérer l'utilisation globale de l'énergie, promouvoir la conservation du carburant et de l'énergie, ou pour favoriser ou décourager certains types de carburant ou d'utilisation de l'énergie par rapport à d'autres.
+
+## Comprendre les taxes sur l'énergie
+
+Les taxes sur l'énergie peuvent exister sous plusieurs formes, allant des redevances à la tête de puits sur le pétrole brut aux droits d'accise sur l'essence au détail, en passant par les surtaxes aux heures de pointe sur les factures d'électricité des consommateurs. Étant donné qu'une grande partie de l'activité économique des entreprises et des ménages dépend des technologies énergétiques de base et des combustibles pour fonctionner, la demande d'énergie en tant que bien économique est ce que les économistes appellent l'inélasticité des prix. Cela signifie que les gens ne modifient pas beaucoup leur consommation d'énergie lorsque le prix qu'ils paient pour l'énergie change, du moins à court terme. Par exemple, de nombreuses personnes devront encore conduire pour se rendre au travail et chauffer leur maison, quelles que soient les fluctuations du prix de l'essence ou du mazout domestique. Ainsi, lorsque les prix augmenteront, les gens n'auront d'autre choix que de payer le coût supplémentaire.
+
+Cette inélasticité des prix fait des biens énergétiques une cible commune pour les taxes visant à augmenter les recettes publiques. Des taxes, des surtaxes et des droits d'accise peuvent être prélevés sur ces biens et répercutés sur les consommateurs et les entreprises qui devront en supporter le coût, car ils dépendent de l'utilisation de l'énergie pour vivre et poursuivre leurs activités commerciales. En conséquence, ces taxes peuvent devenir des sources importantes et stables de recettes publiques. Souvent, ces revenus peuvent être affectés à des utilisations spécifiques, telles que l'affectation de taxes sur le carburant diesel à l'entretien et à la construction des routes. Ou, il peut simplement être versé dans le fonds général d'un gouvernement.
+
+## Autres fins pour les taxes sur l'énergie
+
+Comme d'autres taxes, les taxes sur l'énergie peuvent également être utilisées comme un outil politique pour façonner le comportement des gens, en taxant des activités jugées socialement indésirables plus que d'autres. Les économistes appellent ces types de taxes les taxes [pigouviennes](/pigoviantax),. d'après Arthur Pigou qui a décrit comment elles peuvent être utilisées pour décourager les activités qui imposent des coûts aux autres. Par exemple, les taxes d'État sur l'électricité peuvent inclure des surtaxes supplémentaires pour les clients électriques pendant les heures de pointe de la journée, afin d'atténuer la demande de pointe sur la capacité de production et de distribution d'électricité en encourageant les gens à réduire ou à étaler leur consommation d'électricité pour éviter les pannes de réseau et pannes d'électricité.
+
+Au cours des dernières décennies, une utilisation populaire des taxes énergétiques pigouviennes a été de décourager l'utilisation de combustibles fossiles tels que le pétrole, le charbon et le gaz naturel. L'objectif de ce type de taxe est d'inciter les entreprises et les consommateurs à utiliser des sources d'énergie alternatives, telles que l'énergie solaire et éolienne. Une partie ou la totalité des recettes qui en résultent peuvent également être utilisées pour aider à financer les dépenses publiques consacrées à d'autres sources d'énergie telles que les énergies renouvelables.
+
+Certains écologistes pensent que ces taxes sont nécessaires pour réduire les émissions de gaz à effet de serre qui sont censées provoquer le réchauffement climatique. Les opposants aux taxes sur l'énergie mettent en garde contre leurs conséquences imprévues, telles que l'augmentation des prix de pratiquement tout, ce qui pourrait nuire au niveau de vie des familles et des individus, en particulier dans les pays en développement.
+
+Le défi économique de ces types de taxes est que la propriété d'inélasticité des prix qui fait des taxes sur l'énergie de si bonnes sources de revenus peut rendre difficile et coûteuse l'utilisation d'une telle taxe pour modifier le comportement des consommateurs et des entreprises. Les coûts de conversion d'une maison ou d'une usine en une source de chaleur ou d'électricité plus propre peuvent être importants par rapport au coût de la taxe à court terme. D'un autre côté, imposer une taxe suffisamment élevée pour compenser rapidement les coûts de changement peut mettre les particuliers et les entreprises dans une situation désespérée entraînant la fermeture d'usines ou les familles confrontées à la possibilité de se passer de chauffage domestique ou de service électrique. À long terme, une taxe plus modérée peut avoir de meilleures chances d'obtenir un changement de comportement à un coût raisonnable, bien que certains des changements de comportement puissent également inclure des conséquences imprévues telles que des entreprises et des résidents quittant la juridiction taxée ou adoptant des sources d'énergie et des pratiques qui contournent la taxe sans réellement réduire les émissions.
+
+## Taxes sur le carbone
+
+Un autre exemple est une [taxe américaine sur le carbone](/carbon-dioxide-tax) que les promoteurs espèrent mettre en œuvre au niveau fédéral ou étatique, ou les deux. Une taxe sur le carbone est une redevance payée par les entreprises et les industries qui produisent du dioxyde de carbone en brûlant des combustibles fossiles. De nombreux pays qui ont prélevé une redevance sur l'énergie, telle qu'une taxe sur le carbone ou un [système de plafonnement et d'échange](/cap-and-trade),. ont signalé une diminution ultérieure des émissions de carbone. Actuellement, les États-Unis n'ont pas de politique officielle de taxe sur le carbone.
+
+De nombreux opposants à une taxe carbone soulignent le fardeau économique potentiel d'une telle politique. Une taxe sur le carbone augmente généralement les prix de l'essence et du pétrole, ce qui pourrait menacer la survie des entreprises et le niveau de vie de base des consommateurs. Même parmi ceux qui veulent réduire les émissions de carbone, certains pensent que toute réduction des émissions de gaz à effet de serre résultant d'une taxe sur le carbone ne serait pas suffisamment importante pour justifier ces coûts. Pourtant, d'autres soutiennent que le lien entre les gaz à effet de serre et le réchauffement climatique n'a pas encore été prouvé scientifiquement et pensent qu'une taxe carbone n'aurait aucun effet bénéfique sur les conditions du climat futur.
+
+## Points forts
+
+- Parce que l'énergie est un besoin fondamental pour les entreprises et les ménages, la demande tend à être relativement inélastique par rapport aux prix à court terme, ce qui en fait une cible attrayante pour lever des recettes fiscales substantielles.
+
+- Les taxes sur l'énergie peuvent également être utilisées comme taxes pigouviennes pour décourager certains comportements censés imposer des coûts aux autres, comme une taxe carbone sur les combustibles fossiles pour réduire les émissions de carbone.
+
+- Une taxe sur l'énergie est une taxe, une accise, une surtaxe ou une redevance que le gouvernement impose sur la production, la distribution ou la consommation d'énergie, d'électricité ou de carburants.
+
