@@ -1,0 +1,39 @@
+---
+keywords: Investing,Fundamental Analysis,Tools for Fundamental Analysis,Tools
+title: Pris-tillväxtflöde
+description: Pris-tillväxtflöde är ett mått på ett företags intäktskraft och FoU-utgifter jämfört med dess nuvarande marknadsvärde.
+---
+
+# Pris-tillväxtflöde
+## Vad är pristillväxtflöde?
+
+Pristillväxtflöde är ett [finansiellt nyckeltal](/ratioanalysis) som identifierar företag som producerar solida vinster samtidigt som de gör rejäla investeringar i [forskning och utveckling](/randd) (FoU). Ett högt pris-tillväxtflödesmått indikerar att ett företag sannolikt kan tjäna på innovation och uppfinningar.
+
+## Formeln för pris-tillväxtflöde
+
+Det mäts med följande formel:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Pris-tillväxtflöde</mtext><mo>=</mo><mfrac><mrow><mtext >EPS</mtext><mo>+</mo><mtext>R &amp; D per aktie</mtext></mrow><mtext>Pris per aktie</mtext></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel ="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow ><mtext mathvariant="bold">där:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"> <mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>EPS</mtext>< mo>=</mo><mtext>vinst per aktie</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\ start{aligned} &amp;\text{Pris-tillväxtflöde} = \frac{ \text{EPS} + \text{R \&amp; D per aktie} }{ \text{Pris per aktie} } \\ &amp;\textbf{där:} \\ &amp;\text{EPS} = \text{vinst per aktie} \\ \end{aligned}</ annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height :5.35744em;vertical-align:-2.42872em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class= "vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.92872em;"><span style="top:-4.92872em;">< span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:-3.1027199999999997em;">< span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:-1.6027199999999997em;">< span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span></span><span class="vlist-s"> </span></span><span class="vlist-r"><span class="vlist" style="height:2.42872em;"><span></ span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist- r"><span class="vlist" style="height:2.92872em;"><span style="top:-4.92872em;"><span class="psrut" style="height:3.3714399999999998em;"> </span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Pris-tillväxtflöde</span>< /span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin -right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist -t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut " style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">Pris per aktie</span></span> </span></span><span style="top:-3.23em;"><span class="psrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="psrut" style="height:3em;" ></span><span class="mord"><span class="mord text"><span class="mord">EPS</span></span><span class="mspace" style="margin -right:0.22222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mord text"><span class="mord">R &amp; D per aktie</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r "><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter" ></span></span></span></span><span style="top:-3.1027199999999997em;"><span class="pstrut" style="height:3.371439999999998em;"></span ><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">där:</span></span>< /span></span><span style="top:-1.6027199999999997em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord">>< span class="mord"></span><span class="mord text"><span class="mord">EPS</span></span><span class="mspace" style="margin-right :0.27777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class= "mord text"><span class="mord">vinst per aktie</span></span></span></span></span><span class="vlist-s">​</span ></span ><span class="vlist-r"><span class="vlist" style="height:2.42872em;"><span></span></span></span></span></span ></span></span></span></span></span>
+
+
+
+## Förstå pris-tillväxtflöde
+
+Pris-tillväxtflöde är ett uttryck för [vinstkraft](/earnings-power) och potentiell tillväxt i förhållande till det aktuella priset per aktie. Som formeln ovan visar, dividerar förhållandet vinst per aktie (EPS) plus [FoU-utgifter](/research-and-development-expenses) per aktie med aktiekursen.
+
+Analytiker tittar på måttet för ett fönster till ett företags kapitalallokeringsstruktur. Till exempel kan ledningen spendera mer på att utveckla nya produkter och tjänster än på nuvarande resultatenheter. Tanken är att låga inkomster kan kompenseras med större FoU-utgifter och vice versa. Om ett företag bestämmer sig för att spendera på idag och försummar framtiden, kan nuvarande vinst per aktie överstiga FoU-utgifterna. Båda fallen resulterar i en hög läsning av förhållandet, vilket innebär solid vinst per aktie eller FoU-utgifter. På så sätt kan investerare utvärdera potentiell vinsttillväxt nu och i framtiden.
+
+## Pristillväxt och FoU-kapacitet
+
+Men pristillväxtflödet är inte talande för hur effektivt ledningen allokerar [kapital](/capital). En stor FoU-räkning, till exempel, garanterar inte att nya produktlanseringar eller marknadsimplementeringar kommer att generera vinster under kommande kvartal. Samtidigt lyckas inte en robust vinsttillväxt ge investerare insikt i framtida utsikter eller tillväxtmöjligheter. Ett optimalt förhållande är ett som skapar en balans mellan resultat och forskning och utveckling utan att helt luta till ett mått.
+
+I det fall att pristillväxtflödet visar en låg läsning, säger det till investerare att aktiekursen har avvikit långt bortom fundamentala värden. Kort sagt, marknadsaktiviteten drivs av något annat än nuvarande vinsttillväxt eller av potentiell innovation. Det kan vara politiskt, ekonomiskt eller något helt orelaterade som driver den dagliga rörelsen. I så fall skulle investerare göra klokt i att övervaka nyhetscykeln, ekonomiska data eller andra finansiella mätvärden som pris-till-försäljning och pris-till-bok.
+
+## Höjdpunkter
+
+– Pristillväxtflöde är en populär metod för att mäta nuvarande och framtida vinstkraft eftersom det indikerar vilka företag som framgångsrikt kan utnyttja forskning och utveckling till vinster.
+
+- Ett lågt förhållande kan innebära att ett företag antingen inte spenderar mycket på FoU, eller om det är det, så speglar aktiekursen inte framtida vinster från sådana utgifter.
+
+- Pris-tillväxtflöde delar summan av vinst per aktie (EPS) och FoU-utgifter per aktie med pris per aktie.
+
