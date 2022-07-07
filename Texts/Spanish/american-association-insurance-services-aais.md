@@ -1,0 +1,21 @@
+---
+keywords: Personal Finance,Insurance
+title: Asociación Estadounidense de Servicios de Seguros (AAIS)
+description: La Asociación Estadounidense de Servicios de Seguros es una organización asesora que desarrolla formularios de pólizas de seguros e información de calificación de experiencia de pérdida.
+---
+
+# Asociación Estadounidense de Servicios de Seguros (AAIS)
+## ¿Qué es la Asociación Estadounidense de Servicios de Seguros (AAIS)?
+
+La Asociación Estadounidense de Servicios de Seguros (AAIS) fue fundada en 1936 y desarrolla formularios de pólizas de seguro e información de calificación de experiencia de pérdida que utilizan las compañías [de seguros de propiedad y accidentes](/casualtyinsurance). AAIS brinda información a más de 700 compañías de seguros de todos los tamaños que las ayuda con el desarrollo de pólizas, [análisis actuariales](/actuarialanalysis),. automatización, trámites regulatorios y capacitación profesional. AAIS no es una compañía de seguros .
+
+## DESGLOSE Asociación Estadounidense de Servicios de Seguros (AAIS)
+
+Durante décadas, la Asociación Estadounidense de Servicios de Seguros (AAIS, por sus siglas en inglés) ha sido autorizada como agente estadístico en 51 jurisdicciones para todo tipo de líneas de propiedad y siniestros. Recopilan datos que ayudan a sus miembros a cumplir con las responsabilidades regulatorias de informes estadísticos, sirviendo como intermediario entre transportistas y reguladores de seguros. Los datos de transacciones también respaldan el desarrollo de costos de pérdida y las actividades de creación de tarifas. Los productos y servicios de AAIS se complementan con ofertas de valor agregado disponibles a través de relaciones especiales con socios, empresas de datos y tecnología, empresas de gestión de riesgos y reclamos, reaseguros y otros servicios que respaldan un mejor desarrollo de productos, suscripción, administración de pólizas y velocidad de comercialización. .
+
+## Cómo se utilizan los datos de la Asociación Estadounidense de Servicios de Seguros
+
+La AAIS proporciona información a las aseguradoras personales, comerciales, agrícolas y marítimas. Por ejemplo, proporciona a las compañías de seguros de propietarios de viviendas formularios modelo que describen lo que cubre la póliza de propietario de vivienda, lo que excluye y si proporciona [valor real en efectivo , costo de reemplazo, costo de](/actual-cash-value) [reemplazo](/replacementcost) modificado o reemplazo funcional después de una pérdida. AAIS actualiza sus formularios modelo a medida que ocurren cambios en el mercado, como cambios en la exposición, reclamos y demandas, para ayudar a las aseguradoras a protegerse continuamente. A raíz del aumento de las reclamaciones por moho en las pólizas de seguro de propietarios de viviendas, por ejemplo, AAIS desarrolló un lenguaje de póliza modificado para ayudar a las aseguradoras a limitar su exposición a las pérdidas por moho. De manera similar, AAIS trabaja para identificar nuevas fuentes de riesgo para las compañías de seguros antes de que ocurran reclamos generalizados para que las aseguradoras puedan elegir no cubrir estos riesgos o cobrar más para cubrirlos. Las aseguradoras pueden utilizar estos formularios tal como los proporciona la AAIS o personalizarlos al emitir pólizas a los consumidores.
+
+AAIS también recopila datos de las compañías de seguros participantes para proporcionar a las compañías de seguros información sobre reclamos que las aseguradoras han pagado en el pasado (historiales de pérdidas) para ayudarlos a decidir cuánto cobrar a los consumidores en [primas](/premium) y qué tipos de riesgos cubrir. Las aseguradoras deben saber que las primas que cobran son lo suficientemente altas como para reflejar los riesgos que cubren y lo suficientemente altas como para permitirles pagar las reclamaciones de sus clientes. AAIS también proporciona a las compañías de seguros información estadística sobre propiedad, responsabilidad general y seguros de automóviles que les ayuda a decidir qué nuevos productos de seguros ofrecer y en qué estados ofrecer seguros. Esta información puede ayudar a las compañías de seguros a seguir siendo competitivas en el mercado de seguros.
+
