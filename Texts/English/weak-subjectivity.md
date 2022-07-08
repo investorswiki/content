@@ -1,0 +1,17 @@
+---
+keywords: Crypto
+title: Weak Subjectivity
+description: Weak subjectivity. Connects with the requirement for certain nodes to depend on different nodes while deciding the current state of a PoS blockchain.
+---
+
+# Weak Subjectivity
+
+Weak subjectivity is a concept made by Vitalik Buterin to portray a requirement found on Proof of Stake (PoS) blockchains, where nodes need to depend on different nodes to figure out what is the current state of the system.
+To comprehend weak subjectivity, we first need to comprehend what objectivity and subjectivity mean with regards to blockchains. These concepts are connected with the possibility that a [blockchain](/blockchain) - as a distributed system - frequently presents more than one legitimate chain. All in all, there are various possible paths from the [genesis block](/genesis-block) to the latest block, and every one of them can be thought of as legitimate.
+Contingent upon the way a blockchain is planned, nodes aren't generally able to rapidly characterize which is the active chain (i.e., which path to pick). With regards to [Bitcoin](/bitcoin), the system is planned so that the participants of the network (nodes) are expected to pick the chain (path) that has the most accumulated work in it. This is connected with the most common way of mining and gives objectivity to the Bitcoin network.
+In this way, we might characterize objectivity as the ability for another node to join the network and immediately "realize" which is the active chain (likewise alluded to as the longest chain). Put in another manner, objectivity means that new nodes can without much of a stretch synchronize to the substantial state of the system since there is just a single path that can be thought of as the longest.
+Then again, a few networks might introduce a strong subjectivity, meaning that characterizing which chain is the active one isn't as direct. Basically, subjectivity is connected with a blockchain network that is available to different understandings. Basically on the grounds that their consensus mechanism is molded by a "informal community" that depends on the communication between nodes.
+In this case, the nodes need to help each other while arriving at consensus as opposed to keeping a deterministic guideline, for example, the "longest chain rule." And that gives a certain degree of subjectivity to some blockchain networks.
+So we might say that subjectivity is connected with the possibility that certain nodes need to receive data from different nodes while attempting to decide the current state of the ledger. Note that this isn't connected with consensus accomplishment yet rather to figuring out which chain is the active one.
+At long last, we have the concept of weak subjectivity, which was made by Vitalik Buterin as a requirement for blockchains that carry out a PoS model. In short, new nodes (or nodes that are detached from the network for a long period) need weak subjectivity to realize which is the active chain.
+Thus, in the event that a node stays online ceaselessly, there won't be a subjectivity problem since they will actually want to rapidly figure out which ledger is the "substantial" one. Yet, on the off chance that the node goes offline for a long period of time, they should depend on different nodes, and that is where subjectivity occurs. In any case, the subjectivity is considered weak in light of the fact that it just happens in two circumstances: when new nodes join the network, or when nodes go offline for long periods.
