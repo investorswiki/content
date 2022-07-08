@@ -1,0 +1,12 @@
+---
+keywords: Crypto
+title: Coin
+description: Coin. A cryptocurrency or digital cash that is independent of whatever other platform, which is utilized as exchange of value.
+---
+
+# Coin
+A cryptocurrency or digital cash that is independent of some other blockchain or platform. The key feature of a coin is that of a currency, and the term may likewise be utilized to portray a cryptocurrency asset that is certainly not a token.
+Dissimilar to cryptocurrency tokens, coins are not expected to serve utility capabilities -, for example, to address votes inside a community or to signify storage capacity on a decentralized cloud storage. All things being equal, a coin works on its own independent blockchain and acts like a native currency inside a specific financial system. As needs be, a coin is basically utilized as a medium of exchange or store of value inside a digital economic network. Most blockchains function as a decentralized, distributed ledger that tracks and confirms every transaction, and their native coins must be moved between participants of this specific network.
+A coin, as a single unit of currency, can be traded for an agreed upon value contingent upon current market conditions. Sporadically it tends to be exchanged for an alternate coin or token that has a place with another blockchain, either through a cryptocurrency exchange or through private transfers (like peer-to-peer and OTC trades). Decentralized exchanges and atomic swaps are additionally reasonable alternatives for coin and token trading.
+Many companies and startups in the blockchain industry decide to raise funds prior to building their own blockchain, and this is much of the time done through an Initial Coin Offering (ICO) crowdsale. The majority of ICO raising money occasions were performed on top of the Ethereum network, giving tokens through the purported Ethereum Token Standard protocol (otherwise called ERC20). This means that as opposed to giving their native coin, these companies chose to make a digital token that is issued on top of an existing blockchain network.
+Normally, these ICO tokens are offered in exchange for Bitcoin or Ethereum, however a few startups likewise accepted fiat currency or other cryptocurrencies as payment during their raising money. At times, the tokens are representative representing things to come project and should be swapped for native coins when the blockchain is at long last conveyed.
