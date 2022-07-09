@@ -1,0 +1,35 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Ratios
+title: Nisbah Kecekapan
+description: Nisbah kecekapan digunakan untuk menganalisis sejauh mana syarikat menggunakan aset dan liabilitinya secara dalaman.
+---
+
+# Nisbah Kecekapan
+## Apakah Nisbah Kecekapan?
+
+Nisbah kecekapan biasanya digunakan untuk menganalisis sejauh mana syarikat menggunakan aset dan liabilitinya secara dalaman. Nisbah [kecekapan](/efficiency) boleh mengira pusing ganti belum terima, pembayaran balik liabiliti, kuantiti dan penggunaan ekuiti, dan penggunaan am inventori dan mesin. Nisbah ini juga boleh digunakan untuk mengesan dan menganalisis prestasi bank komersial dan pelaburan.
+
+## Apakah Nisbah Kecekapan Beritahu Anda?
+
+Nisbah kecekapan, juga dikenali sebagai nisbah aktiviti, digunakan oleh penganalisis untuk mengukur prestasi prestasi jangka pendek atau semasa syarikat. Semua nisbah ini menggunakan nombor dalam aset semasa atau liabiliti semasa syarikat, yang mengukur operasi perniagaan.
+
+Nisbah kecekapan mengukur keupayaan syarikat menggunakan asetnya untuk menjana pendapatan. Sebagai contoh, nisbah kecekapan sering melihat pelbagai aspek syarikat, seperti masa yang diambil untuk mengumpul tunai daripada pelanggan atau jumlah masa yang diperlukan untuk menukar inventori kepada tunai. Ini menjadikan nisbah kecekapan penting, kerana peningkatan dalam nisbah kecekapan biasanya diterjemahkan kepada keuntungan yang lebih baik.
+
+Nisbah ini boleh dibandingkan dengan rakan sebaya dalam industri yang sama dan boleh mengenal pasti perniagaan yang diurus dengan lebih baik berbanding yang lain. Beberapa nisbah kecekapan biasa ialah [pusing ganti akaun belum terima , pusing](/receivableturnoverratio) ganti [aset tetap](/fixed-asset-turnover),. jualan kepada inventori, jualan kepada modal kerja bersih, akaun belum bayar kepada jualan dan nisbah pusing ganti stok.
+
+## Nisbah Kecekapan untuk Bank
+
+Dalam industri perbankan, nisbah kecekapan mempunyai maksud tertentu. Bagi bank, nisbah kecekapan ialah perbelanjaan/hasil bukan faedah. Ini menunjukkan sejauh mana pengurus bank mengawal perbelanjaan overhed (atau "pejabat belakang") mereka. Seperti nisbah kecekapan di atas, ini membolehkan penganalisis menilai prestasi bank komersial dan pelaburan.
+
+## Nisbah Kecekapan untuk Bank Adalah:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantik><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Nisbah Kecekapan</mtext><mo>=</mo><mfrac><msup><mtext>Perbelanjaan </mtext><mo lspace="0em" rspace="0em">†</mo></msup><mtext>Hasil</mtext></mfrac></mrow></mstyle></mtd> </mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle= "true"><mrow><mrow></mrow><mo>†</mo><mtext>tidak termasuk minat</mtext></mrow></mstyle></mtd></mtr></ mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{Nisbah Kecekapan} = \frac{\text{Perbelanjaan}^{\dagger}}{\text{Hasil}} \ \ &amp;\dagger \text{tidak termasuk minat}\\ \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:4.085338em;vertical-align:-1.792669em;"></ span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist- r"><span class="vlist" style="height:2.292669em;"><span style="top:-4.292669em;"><span class="pstrut" style="height:3.599338em;"> </span><span class="mord"></span></span><span style="top:-2.466669em;"><span class="pstrut" style="height:3.599338em;"> </span><span class="mord"></span></span></span><span class="vlist-s"></span></span><span class="vlist- r "><span class="vlist" style="height:1.792669em;"><span></span></span></span></span></span><span class="col- align -l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.292669em;"><span style=" atas :-4.292669em;"><span class="pstrut" style="height:3.599338em;"></span><span class="mord"><span class="mord"></span>< span class="mord text"><span class="mord">Effi Nisbah ciency</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class= "mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.599338em;"><span style="top:-2.314em;" ><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">Hasil</span ></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class= "frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style=" height:3em;"></span><span class="mord"><span class="mord"><span class="mord text"><span class="mord">Perbelanjaan</span></ span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9223379999999999em;">< span style="top:-3.1362300000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">†</span></span></span></span></span></span></span> </span></span></span></span></span><span class="vlist-s"></span></span><span class="vlist-r">< span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></ span ></span></span></span><span style="top:-2.466669em;"><span class="pstrut" style="height:3.599338em;"></span><kelas span ="mord"><span class="mord"></span><span class="mspace" style="margin-right:0.222222222222222em;"></span><span class="mbin">† < /span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord text"><span class="mord">tidak termasuk minat</span > </span></span></span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class= "vlist " style="height:1.79266 9em;"><span></span></span></span></span></span></span></span></span></span></span></span>
+
+
+
+Memandangkan perbelanjaan operasi bank berada dalam pengangka dan hasilnya adalah dalam penyebut, nisbah kecekapan yang lebih rendah bermakna bank beroperasi dengan lebih baik.
+
+Nisbah kecekapan 50% atau ke bawah dianggap optimum. Jika nisbah kecekapan meningkat, bermakna perbelanjaan bank meningkat atau pendapatannya berkurangan.
+
+Sebagai contoh, Bank X melaporkan pendapatan suku tahunan dan ia mempunyai nisbah kecekapan 57.1%, yang lebih rendah daripada nisbah 63.2% yang dilaporkan untuk suku yang sama tahun lepas. Ini bermakna operasi syarikat menjadi lebih cekap, meningkatkan asetnya sebanyak $80 juta untuk suku tersebut.
+
