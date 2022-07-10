@@ -1,0 +1,15 @@
+---
+keywords: Crypto
+title: Proof of Attendance Protocol (POAP)
+description: A protocol that makes digital identifications or collectibles to celebrate and record the attendance of an event. POAPs are minted as ERC-721 tokens on the Ethereum blockchain.
+---
+
+# Proof of Attendance Protocol (POAP)
+Proof of Attendance Protocol (POAP) is a protocol that makes digital identifications or collectibles using blockchain technology. While the abbreviation gets from the protocol name, POAP is additionally used to portray the actual collectibles.
+POAPs are minted through smart contracts as non-fungible tokens (NFTs) on the Ethereum blockchain. They are ERC-721 tokens made to celebrate and record the attendance of an event.
+Regularly, the unique NFTs are given out for free to event participants, which act as certain proof that the holders went to that specific event. You could compare POAPs with a collection of show passes, then again, actually they are digital and secured by blockchain technology.
+POAPs were initially minted and distributed on the Ethereum mainnet. It was first made at the ETHDenver Convention in 2019 to reward programmers who joined in and partook in the hackathon event. In October 2020, POAP migrated to the Ethereum sidechain xDai due to its higher speed and lower transaction costs. This permits issuers to mint POAPs for very little cost.
+POAP NFTs can be minted through the official POAP platform. They must contain a picture and data connected with the event, with a specific time or date. Each POAP identification has a unique serial number. They are permanent and can be collected by means of the POAP app as a digital representation of the holders' life encounters.
+Since POAPs are NFTs, they can be traded on different NFT commercial centers also. In any case, POAPs are basically proof of holders' personal attendance at an event. As per the team, POAP was intended to showcase what Ethereum can accomplish and for crypto fans to demonstrate their commitment to Ethereum "before it was cool." So, they are not expected to carry extremely high monetary value, as trading POAPs would be an inconsistency to the original use case.
+POAP offers another way for event coordinators to draw in and cooperate with their community. Normally, event participants can collect these unique NFT identifications by means of QR codes at the event and join extra activities on the POAP platform, for example, community surveys, pools, and the POAP competitor list. For instance, SushiSwap airdropped POAPs to their AMA participants and the people who decided in favor of its governance proposition; Decentraland likewise gave out POAPs for virtual event participants inside its metaverse.
+Later on, POAP might grow its utilization cases past demonstrating one's attendance. For instance, it very well may be utilized to recognize contributions or to offer privileges to community individuals. POAP collection could likewise function as a dependable blockchain resume for individuals to demonstrate their mastery and instructive foundation.
