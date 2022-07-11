@@ -1,0 +1,39 @@
+---
+keywords: Investing,Fundamental Analysis,Tools for Fundamental Analysis,Tools
+title: تدفق نمو السعر
+description: تدفق نمو السعر هو مقياس لقوة أرباح الشركة ونفقات البحث والتطوير مقارنة بقيمتها السوقية الحالية.
+---
+
+# تدفق نمو السعر
+## ما هو تدفق نمو السعر؟
+
+تدفق نمو السعر هو [نسبة مالية](/ratioanalysis) تحدد الشركات التي تحقق أرباحًا قوية بينما تقوم باستثمارات ضخمة في [البحث والتطوير](/randd) (R & D). يشير مقياس تدفق نمو السعر المرتفع إلى أن الشركة من المحتمل أن تستفيد من الابتكار والاختراع.
+
+## معادلة تدفق نمو السعر
+
+يتم قياسه باستخدام الصيغة التالية:
+
+<span class = "katex"> <span class = "katex-mathml"> <math xmlns = "http://www.w3.org/1998/Math/MathML"> <semantics> <mtable rowspacing = "0.24999999999999992em "columnalign =" right left "columnspacing =" 0em "> <mtr> <mtd> <mstyle scriptlevel =" 0 "displaystyle =" true "> <mrow> </mrow> </mstyle> </mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </mrow> <mtext> تدفق نمو السعر </ mtext> <mo> = </mo> <mfrac> <mrow> <mtext > EPS </mtext> <mo> + </mo> <mtext> R & amp؛ د لكل سهم = "0" displaystyle = "true"> <mrow> </mrow> </mstyle> </mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </ mrow > <mtext mathvariant = "bold"> حيث: </mtext> </mrow> </mstyle> </mtd> </mtr> <mtr> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> </mrow> </mstyle> </mtd> <mtd> <mstyle scriptlevel = "0" displaystyle = "true"> <mrow> <mrow> </mrow> <mtext> EPS </mtext> < mo> = </mo> <mtext> ربحية السهم </ mtext> </mrow> </mstyle> </mtd> </mtr> </mtable> <ترميز التعليقات التوضيحية = "application / x-tex"> \ ابدأ {align} & amp؛ \ text {Price-Growth Flow} = \ frac {\ text {EPS} + \ text {R \ & amp؛ D Per Share}} {\ text {Price Per Share}} \\ & amp؛ \ textbf {where:} \\ & amp؛ \ text {EPS} = \ text {الأرباح لكل سهم} \\ \ end {align} </ تعليق توضيحي> </semantics> </math> </span> <span class = "katex-html" aria-hidden = "true"> <span class = "base"> <span class = "strut" style = "height : 5.35744em؛ vertical-align: -2.42872em؛ "> </span> <span class =" mord "> <span class =" mtable "> <span class =" col-align-r "> <span class = "vlist-t vlist-t2"> <span class = "vlist-r"> <span class = "vlist" style = "height: 2.92872em؛"> <span style = "top: -4.92872em؛"> < span class = "pstrut" style = "height: 3.3714399999999998em؛"> </span> <span class = "mord"> </span> </span> <span style = "top: -3.1027199999999997em؛"> < span class = "pstrut" style = "height: 3.3714399999999998em؛"> </span> <span class = "mord"> </span> </span> <span style = "top: -1.6027199999999997em؛"> < span class = "pstrut" style = "height: 3.3714399999999998em؛"> </span> <span class = "mord"> </span> </span> </span> <span class = "vlist-s"> </span> </span> <span class = "vlist-r"> <span class = "vlist" style = "height: 2.42872em؛"> <span> </ span> </span> </span> </span> </span> <span class = "col-align-l"> <span class = "vlist-t vlist-t2"> <span class = "vlist- r "> <span class =" vlist "style =" height: 2.92872em؛ "> <span style =" top: -4.92872em؛ "> <span class =" pstrut "style =" height: 3.37143999999998em؛ "> </span> <span class = "mord"> <span class = "mord"> </span> <span class = "mord text"> <span class = "mord"> تدفق نمو الأسعار </ span> < / span> <span class = "mspace" style = "margin-right: 0.2777777777777778em؛"> </span> <span class = "mrel"> = </span> <span class = "mspace" style = "margin -right: 0.2777777777777778em؛ "> </span> <span class =" mord "> <span class =" mopen nulldelimiter "> </span> <span class =" mfrac "> <span class =" vlist-t vlist -t2 "> <span class =" vlist-r "> <span class =" vlist "style =" height: 1.37144em؛ "> <span style =" top: -2.314em؛ "> <span class =" pstrut "style =" height: 3em؛ "> </span> <span class =" mord "> <span class =" mord text "> <span class =" mord "> سعر السهم </ span> </span> </span> <span style = "top: -3.23em؛"> <span class = "pstrut" style = "height: 3em؛"> </span> <span class = "frac-line" style = "border-bottom-width: 0.04em؛"> </span> </span> <span style = "top: -3.677em؛"> <span class = "pstrut" style = "height: 3em؛" > </span> <span class = "mord"> <span class = "mord text"> <span class = "mord"> EPS </span> </span> <span class = "mspace" style = "margin -right: 0.2222222222222222em؛ "> </span> <span class =" mbin "> + </span> <span class =" mspace "style =" margin-right: 0.22222222222222em؛ "> </span> <span class = "mord text"> <span class = "mord"> R & amp؛ د لكل سهم </ span> </span> </span> </span> </span> <span class = "vlist-s"> </span> </span> <span class = "vlist-r "> <span class =" vlist "style =" height: 0.686em؛ "> <span> </span> </span> </span> </span> </span> <span class =" mclose nulldelimiter " > </span> </span> </span> </span> <span style = "top: -3.1027199999999997em؛"> <span class = "pstrut" style = "height: 3.3714399999999998em؛"> </ span > <span class = "mord"> <span class = "mord"> </span> <span class = "mord text"> <span class = "mord textbf"> حيث: </ span> </span> < / span> </span> <span style = "top: -1.6027199999999997em؛"> <span class = "pstrut" style = "height: 3.3714399999999998em؛"> </span> <span class = "mord"> < span class = "mord"> </span> <span class = "mord text"> <span class = "mord"> EPS </span> </span> <span class = "mspace" style = "margin-right : 0.2777777777777778em؛ "> </span> <span class =" mrel "> = </span> <span class =" mspace "style =" margin-right: 0.2777777777777778em؛ "> </span> <span class = "mord text"> <span class = "mord"> ربحية السهم </ span> </span> </span> </span> </span> <span class = "vlist-s"> </ span > </ سبان > <span class = "vlist-r"> <span class = "vlist" style = "height: 2.42872em؛"> <span> </span> </span> </span> </span> </ span > </span> </span> </span> </span> </span>
+
+
+
+## فهم تدفق نمو السعر
+
+تدفق نمو السعر هو تعبير عن [قوة الأرباح](/earnings-power) والنمو المحتمل بالنسبة للسعر الحالي للسهم. كما توضح الصيغة أعلاه ، تقسم النسبة أرباح السهم (EPS) بالإضافة إلى [نفقات البحث والتطوير](/research-and-development-expenses) لكل سهم على سعر السهم.
+
+ينظر المحللون إلى المقياس الخاص بنافذة في هيكل تخصيص رأس مال الشركة. على سبيل المثال ، قد تنفق الإدارة على تطوير منتجات وخدمات جديدة أكثر مما تنفقه على مراكز الربح الحالية. الفكرة هي أنه يمكن تعويض الدخل المنخفض من خلال زيادة الإنفاق على البحث والتطوير والعكس صحيح. إذا قررت شركة الإنفاق اليوم وإهمال المستقبل ، فقد تتجاوز الأرباح الحالية للسهم الإنفاق على البحث والتطوير. تؤدي كلتا الحالتين إلى قراءة عالية للنسبة ، مما يعني عائدًا قويًا للسهم أو الإنفاق على البحث والتطوير. بهذه الطريقة ، يمكن للمستثمرين تقييم نمو الأرباح المحتمل الآن وفي المستقبل.
+
+## نمو الأسعار وقدرات البحث والتطوير
+
+لكن تدفق نمو الأسعار لا يوضح مدى فعالية الإدارة في تخصيص [رأس المال](/capital). على سبيل المثال ، لا تضمن فاتورة البحث والتطوير الكبيرة أن إطلاق منتج جديد أو تطبيقات السوق ستدر أرباحًا في الأرباع المستقبلية. وفي الوقت نفسه ، فشل نمو الأرباح القوي في إعطاء المستثمرين نظرة ثاقبة حول الآفاق المستقبلية أو فرص النمو. النسبة المثلى هي تلك التي تحقق التوازن بين الأرباح والبحث والتطوير دون إمالة كليًا لمقياس واحد.
+
+في حالة تسجيل تدفق نمو الأسعار قراءة منخفضة ، فإنه يخبر المستثمرين أن سعر السهم قد انحرف إلى ما هو أبعد من الأساسيات. باختصار ، يكون نشاط السوق مدفوعًا بشيء آخر غير نمو الأرباح الحالية أو من الابتكار المحتمل. يمكن أن يكون سياسيًا أو اقتصاديًا أو شيئًا غير ذي صلة تمامًا يقود الحركة اليومية. في هذه الحالة ، سيكون من الحكمة أن يراقب المستثمرون دورة الأخبار أو البيانات الاقتصادية أو المقاييس المالية الأخرى مثل السعر إلى المبيعات والسعر إلى الكتاب.
+
+## يسلط الضوء
+
+- يعد تدفق نمو الأسعار طريقة شائعة لقياس قوة الأرباح الحالية والمستقبلية حيث يشير إلى الشركات التي يمكنها الاستفادة بنجاح من البحث والتطوير في الأرباح.
+
+- قد تعني النسبة المنخفضة أن الشركة إما لا تنفق الكثير على البحث والتطوير ، أو إذا كان الأمر كذلك ، فإن سعر السهم لا يعكس المكاسب المستقبلية من هذه النفقات.
+
+- يقسم تدفق نمو السعر مجموع أرباح السهم (EPS) ونفقات البحث والتطوير لكل سهم حسب سعر السهم.
+
