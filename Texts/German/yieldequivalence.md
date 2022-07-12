@@ -1,0 +1,53 @@
+---
+keywords: Investing,Bonds,Municipal Bonds
+title: Ertragsäquivalenz
+description: Die Äquivalenzrendite ist der Zinssatz auf ein steuerpflichtiges Wertpapier, der eine Rendite erzielen würde, die der eines steuerbefreiten Wertpapiers entspricht, und umgekehrt.
+---
+
+# Ertragsäquivalenz
+## Was ist Ertragsäquivalenz?
+
+Die Äquivalenzrendite ist der [Zinssatz](/interestrate) auf ein steuerpflichtiges Wertpapier, der eine Rendite generieren würde, die der Rendite eines [steuerbefreiten Wertpapiers entspricht](/tax_exempt_security),. und umgekehrt.
+
+## Ertragsäquivalenz verstehen
+
+Die Äquivalenz der Rendite ist wichtig für Anleger in [Kommunalanleihen](/municipalbond) [,](/municipalbond) die wissen möchten, ob die Steuerersparnis ihrer Anleihen die niedrigeren [Renditen](/yield) im Vergleich zu steuerpflichtigen Wertpapieren mit ähnlicher Duration ausgleichen wird. Die Äquivalenz der Rendite ist ein Vergleich, der häufig von Anlegern verwendet wird, wenn sie versuchen herauszufinden, ob sie mit einer steuerbefreiten oder steuerfreien Anlage eine bessere Rendite erzielen würden als mit einer steuerpflichtigen Alternative.
+
+Die Ertragsäquivalenz kann mit den folgenden Gleichungen berechnet werden:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Steuerliche Ertragsäquivalenz</mtext><mo>=</mo><mfrac><mtext>Steuerbefreit Rendite</mtext><mrow><mn>1</mn><mo>−</mo><mtext>Steuersatz</mtext></mrow></mfrac></mrow></mstyle>< /mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{Taxable Yield Equivalence} = \frac { \text{Tax-Exempt Yield} } { 1 - \text{Steuersatz} } \\ \end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"> <span class="base"><span class="strut" style="height:2.4407699999999997em;vertikale Ausrichtung:-0.970385em;"></span><span class="mord"><span class=" mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.4703849999999996em;"><span style="top:-3.4703849999999994em;"><span class="pstrut" style="height: 3.3714399999999998em;"></span><span class="mord"></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.970385em;"><span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.4703849999999996em;"> <span style="top:-3.4703849999999994em;"><span class="pstrut" style="height:3.3714399999999998em;"></span><span class="mord"><span class="mord"> </span><span class="mord text"><span class="mord">Steuerliche Ertragsäquivalenz</span></span><span class="mspace" style="margin-right:0.27777777777777778em;" ></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord">< span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vli st-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3714399999999998em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span><span class="mspace" style="margin -right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord text"><span class="mord">Steuersatz</span></span></span></span><span style="top:-3.23em;"><span class= "pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style ="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class ="mord">Steuerbefreiter Ertrag</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.7693300000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span ></span></span></span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class= "vlist" style="height:0.970385em;"><span></span></span></span></span></span></span></span></span></ span></span>
+
+﻿﻿
+
+und
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mtext>Steuerbefreite Ertragsäquivalenz</mtext><mo> =</mo></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext> Steuerpflichtiger Ertrag </ mtext><mo>×</mo></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></ mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo stretchy="false">(</mo>< mn>1</mn><mo>−</mo><mtext>Steuersatz</mtext><mo stretchy="false">)</mo></mrow></mstyle></mtd>< /mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} \text{Tax-Exempt Yield Equivalence} =&amp; \ \text{Steuerlicher Ertrag} \ \times \\ &amp;( 1 - \text{Steuersatz} ) \\ \end{aligned}</annotation></semantics></math></span><span class ="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:3.0000000000000004em;vertikale Ausrichtung:-1.2500000000000002em;"></span ><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r "><span class="vlist" style="height:1.7500000000000002em;"><span style="top:-3.91em;"><span class="pstrut" style="height:3em;"></ span><span class="mord"><span class="mord text"><span class="mord">Äquivalenz von steuerbefreiten Erträgen</span></span><span class="mspace" style=" margin-right:0.27777777777777778em;"></span><span class="mrel">=</span></span></span><span style="top:-2.41em;"><span class ="pstrut" style="height:3em;"></span><span class="mord"></span></span></span><span class="vlist-s">​</ span></span><span class="vlist-r"><span class="vlist" style="height:1.2500000000000002em;"><span></span></span ></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.7500000000000002em;"><span style="top:-3.91em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mspace"> </span><span class="mord text"><span class="mord">Steuerpflichtiger Ertrag< /span></span><span class="mspace"> </span><span class="mord">×</span></span></span><span style="top:-2.41em ;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mopen" >(</span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin"> −</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord text"><span class="mord">Steuersatz</span ></span><span class="mclose">)</span></span></span></span><span class="vlist-s"></span></span>< span class="vlist-r"><span class="vlist" style="height:1 .2500000000000002em;"><span></span></span></span></span></span></span></span></span></span></span>
+
+﻿﻿
+
+Um die Renditeäquivalenz zwischen steuerfreien und steuerpflichtigen Wertpapieren zu berechnen, dividieren Sie zunächst die steuerfreie Rendite der Anleihe durch 1 abzüglich des [Steuersatzes des Anlegers](/taxrate). Nehmen wir zum Beispiel an, Sie erwägen eine Investition in eine 6 % steuerbefreite Kommunalanleihe, wollten aber wissen, wie hoch der Zinssatz für eine steuerpflichtige [Unternehmensanleihe](/corporatebond) sein müsste, um die gleiche Rendite zu erzielen. Wenn Sie einen Steuersatz von 24 % haben, würden Sie 0,24 minus eins abziehen, was 0,76 ergibt. Dann würden Sie 6, den steuerfreien Ertrag, durch 0,76 dividieren, was 7,9 entspricht.
+
+Diese Berechnung sagt Ihnen, dass Sie eine [Rendite](/return) von 7,9 % auf Ihre steuerpflichtige Investition benötigen würden, um die 6 % Rendite auf die steuerbefreite Investition zu erreichen. Wenn Sie andererseits in der Steuerklasse von 35 % liegen, benötigen Sie eine Rendite von 9,2 % auf Ihre Unternehmensanleihe, um die Rendite von 6 % auf Ihre kommunale Investition zu erreichen.
+
+Umgekehrt, wenn Sie Ihre steuerpflichtige Rendite kennen, können Sie den entsprechenden Satz auf eine steuerbefreite Anlage berechnen. Dazu multiplizieren Sie den steuerpflichtigen Satz mit 1 abzüglich Ihres Steuersatzes. Wenn also Ihre steuerpflichtige Rendite 6 % und Ihr Steuersatz 24 % beträgt, benötigen Sie eine Rendite von 4,6 % für ein steuerbefreites Wertpapier, um der Rendite nach Steuern für ein steuerpflichtiges Wertpapier zu entsprechen.
+
+## Neue Grenzsteuersätze
+
+Die Verabschiedung des Tax Cuts and Jobs Act Ende 2017 führte ab 2018 zu einer Reihe von Änderungen der [Grenzsteuersätze](/marginaltaxrate) und Einkommensklassen.﻿﻿﻿Der Grenzsteuersatz ist der Steuersatz, den Einkommensbezieher für jeden zusätzlichen Dollar an [Einkommen zahlen](/income). Wenn der Grenzsteuersatz steigt, haben die Steuerzahler am Ende weniger Geld pro verdientem Dollar, als sie für zuvor verdiente Dollar einbehalten hatten.
+
+Steuersysteme mit Grenzsteuersätzen wenden unterschiedliche Steuersätze auf unterschiedliche Einkommensniveaus an; bei steigendem Einkommen wird es höher besteuert. Es ist jedoch wichtig zu beachten, dass das Einkommen nicht mit einem einzigen Satz besteuert wird, sondern mit vielen Sätzen, wenn es sich über den Grenzsteuersatz [bewegt](/taxschedule).
+
+Bei der Berechnung der Renditeäquivalenz zwischen steuerfreien und steuerpflichtigen Anlagen sollten Anleger diese neuen Steuersätze kennen und entsprechend in ihre Renditeäquivalenzgleichungen einbeziehen.
+
+** Einkommensteuerklassen 2021 **
+
+<h5><a href="">TTT</a></h5>
+
+## Höhepunkte
+
+- Die Äquivalenz der Rendite ist wichtig für Anleger in Kommunalanleihen, die wissen möchten, ob die Steuerersparnis ihrer Anleihen die niedrigeren Renditen im Vergleich zu steuerpflichtigen Wertpapieren mit ähnlicher Laufzeit ausgleichen wird.
+
+- Die Äquivalenzrendite ist der Zinssatz auf ein steuerpflichtiges Wertpapier, der eine Rendite erzielen würde, die der Rendite eines steuerbefreiten Wertpapiers entspricht, und umgekehrt.
+
+- Bei der Berechnung der Renditeäquivalenz zwischen steuerfreien und steuerpflichtigen Anlagen sollten Anleger die aktuellen Steuersätze beachten.
+
