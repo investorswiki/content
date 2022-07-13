@@ -1,0 +1,53 @@
+---
+keywords: Economy,Economics,Macroeconomics
+title: tempoh asas
+description: Tempoh asas ialah titik masa yang digunakan sebagai titik rujukan untuk mengukur perubahan dalam pembolehubah dari semasa ke semasa.
+---
+
+# tempoh asas
+## Apakah itu Tempoh Asas?
+
+Tempoh asas ialah titik masa yang mana data dikumpul dan digunakan sebagai penanda aras terhadap data ekonomi dari tempoh lain untuk mentafsirkannya pada asas yang sama. Tempoh asas sering digunakan dalam aplikasi kewangan dan ekonomi, seperti mengukur inflasi atau pembolehubah lain tertakluk kepada perubahan berdasarkan peredaran masa.
+
+Tempoh asas juga boleh dirujuk sebagai "tempoh rujukan", "tempoh asas", atau "tempoh indeks."
+
+## Memahami Tempoh Asas
+
+Tempoh asas boleh dianggap sebagai kayu ukur biasa untuk data ekonomi. Daripada menyatakan setiap titik data dalam satu siri sebagai nombor mentah, ia sebaliknya boleh dinyatakan sebagai bahagian atau peratusan nilai data dalam tempoh asas. Nilai untuk tempoh asas lazimnya ditetapkan sebagai unit ukuran, biasanya 1 atau 100, dan semua titik data lain dinyatakan semula sebagai nilai perpuluhan, pecahan atau peratus nilai data untuk tempoh tersebut.
+
+Membandingkan setiap titik data kepada tempoh asas boleh menjadi cara yang mudah untuk mengendalikan siri data yang terdiri daripada nombor besar atau kompleks. Setiap titik data dalam siri yang diindeks kemudiannya boleh ditafsirkan dengan mudah sebagai perkadaran, perubahan peratus atau kadar pertumbuhan siri data asas dari semasa ke semasa, berbanding dengan tempoh asas.
+
+## contoh
+
+Sebagai contoh, jika [indeks harga](/consumerpriceindex) mempunyai [tahun asas](/base-year-analysis) 1990, dan harga semasa dibandingkan dengan harga dalam tempoh masa itu untuk membina indeks siri masa, maka tahap harga dalam semua tahun lain akan dinyatakan sebagai peratusan tahun 1990-an paras harga. Indeks harga untuk tahun 1990 mungkin diberi nilai 100 dan paras harga untuk tahun-tahun lain akan mempunyai nilai yang berkadar lebih besar (atau kurang daripada) 100 berkadaran dengan nisbah paras harga sebenar tahun-tahun tersebut.
+
+Pengiraan paras harga untuk tahun 1995 mungkin dikira dengan mengambil bahagian:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantik><mrow><mfrac>< mrow><mn>1990</mn><mtext> paras harga</mtext></mrow><mn>100</mn></mfrac><mo>=</mo><mfrac><mrow>< mn>1995</mn><mtext>tahap harga</mtext></mrow><mi>x</mi></mfrac></mrow><annotation encoding="application/x-tex">\frac {1990 \text{ tahap harga}}{100}=\frac{1995 \text{ tahap harga}}{x}</annotation></semantics></math></span><span class="katex- html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.277216em;vertical-align:-0.345em;"></span><span class ="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r">< span class="vlist" style="height:0.9322159999999999em;"><span style="top:-2.655000000000002em;"><span class="pstrut" style="height:3em;"></span>< span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span><span class="mord mtight">0</span>< span class="mord mtight">0</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height: 3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108em; "><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span><span class="mord mtight">9</span><span class="mord mtight">9</span><span class="mord mtight">0</span> <span class="mord text mtight"><span class="mord mtight"> paras harga</span></span></span></span></span></span><span class=" vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></ span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"> </span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base ">< kelas span ="strut" style="height:1.277216em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class ="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9322159999999999em;"><span style=" atas:-2.655000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"> <span class="mord mathnormal mtight">x</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style=" height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108 em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class= "mord mtight">1</span><span class="mord mtight">9</span><span class="mord mtight">9</span><span class="mord mtight">5</ span><span class="mord text mtight"><span class="mord mtight"> paras harga</span></sp an></span></span></span></span><span class="vlist-s"><​</span></span><span class="vlist-r"><span class ="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span > </span></span></span></span>
+
+dan penyelesaian untuk **x:**
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantik><mrow><mfrac>< mrow><mn>1990</mn><mtext>tahap harga</mtext></mrow><mrow><mn>100</mn><mo>×</mo><mn>1995</mn> <mtext> tahap harga</mtext></mrow></mfrac><mo>=</mo><mi>x</mi></mrow><annotation encoding="application/x-tex">\ frac{1990\text{ paras harga}}{100\times1995 \text{ paras harga}}={x}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.4133239999999998em;vertical-align:-0.481108em;"></span><span class=" mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class ="vlist" style="height:0.9322159999999999em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><kelas span ="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span><span class="mord mtight">0</ span><span class="mord mtight">0</span><span class="mbin mtight">×</span><span class="mord mtight">1</span><span class="mord mtight">9</span><span class="mord mtight">9</span><span class="mord mtight">5</span><span class="mord text mtight"><span class= "mord mtight"> paras harga</span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style=" height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108 em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class= "mord mtight">1</span><span class="mord mtight">9</span><span class="mord mtight">9</span><span class="mord mtight">0</ span><span class="mord text mtight"><span class="mord mtight"> paras harga</span></span></span></span></span></span><span class ="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.481108em;"><span></span> </span></span></span> </span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel ">=</span><span class="mspace" style="margin-right:0.277777777777778em;"></span></span><span class="base"><span class="strut" style ="height:0.43056em;vertical-align:0em;"></span><span class="mord"><span class="mord mathnormal">x</span></span></span>< /span></span>
+
+Sebagai alternatif, walaupun kurang biasa, tempoh asas mungkin merujuk kepada membandingkan setiap titik data kepada nilai data lalu menggunakan selang masa yang tetap dan bukannya tempoh asas yang tetap. Teknik ini tidak menghasilkan perbandingan indeks yang konsisten dari semasa ke semasa, tetapi boleh membantu menghapuskan kesan turun naik bermusim atau jangka pendek dalam data. Perbandingan [tahun ke tahun](/year-over-year) atau bulan ke bulan ialah contoh menggunakan data lepas pada selang masa yang tetap sebagai asas untuk perbandingan dengan data semasa.
+
+> Penggunaan tempoh asas untuk mengindeks data tidak terhad kepada aplikasi kewangan. Banyak sains semula jadi juga kerap menggunakan tempoh asas sebagai sebahagian daripada proses analisis mereka. Sebagai contoh, untuk mengukur perubahan dalam corak iklim global, tahun asas mesti diwujudkan.
+
+>
+
+## Tempoh Asas dan Kesan Asas
+
+Apabila membina indeks, pilihan asas untuk perbandingan boleh mempengaruhi cara data boleh ditafsirkan dan harus dipilih dengan teliti untuk menerangkan objektif yang dikehendaki yang digunakan untuk data tersebut. Nilai atipikal atau keadaan tidak normal dalam tempoh asas boleh membawa kepada perbandingan yang memesongkan aliran dalam siri data. Herotan ini kadangkala dipanggil [kesan asas](/base-effect).
+
+Sebagai contoh, katakan City of New York melaksanakan kod bangunan baharu yang berkuat kuasa pada 1 Jun pada tahun tertentu. Pada bulan Mei, pembina berebut untuk memulakan projek bangunan baharu untuk mengelakkan perbelanjaan mematuhi kod baharu. Ini mungkin membawa kepada situasi di mana data untuk bangunan bermula menunjukkan nilai luar biasa tinggi untuk bulan Mei dan nilai luar biasa rendah untuk Jun, apabila pembina menaikkan jadual pembinaan mereka, yang tidak mencerminkan sebarang aliran asas dalam data, hanya satu- luar perubahan peraturan.
+
+Dalam kes ini, memilih sama ada titik data Mei atau Jun sebagai tahun asas dalam perbandingan atau untuk membina indeks siri masa akan membawa kepada keputusan yang sangat herot dalam data transformasi yang terhasil kerana setiap titik data dalam indeks akan membandingkan data semasa dengan nilai luar biasa tinggi (atau rendah) dalam penyebut. Seorang penganalisis dinasihatkan untuk memilih nilai yang lebih tipikal sebagai tempoh asas untuk perbandingan titik data kemudian.
+
+##Sorotan
+
+- Membandingkan titik data lain kepada tempoh asas yang tetap membolehkan penganalisis mengesan perubahan dan membezakan arah aliran jangka panjang daripada turun naik jangka pendek.
+
+- Tempoh asas merujuk kepada penanda aras yang digunakan untuk mengukur data ekonomi daripada tempoh lain.
+
+- Pilihan tempoh asas boleh mempengaruhi perspektif pemerhati terhadap data, yang dikenali sebagai kesan asas.
+
