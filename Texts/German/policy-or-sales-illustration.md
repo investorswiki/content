@@ -1,0 +1,19 @@
+---
+keywords: Personal Finance,Insurance
+title: Politik oder Verkaufsillustration
+description: Eine Policen- oder Verkaufsillustration ist ein Lehrmittel, das einem potenziellen oder neuen Versicherungsnehmer zeigt, wie eine Lebens- oder Berufsunfähigkeitsversicherung funktioniert.
+---
+
+# Politik oder Verkaufsillustration
+Eine Policen- oder Verkaufsillustration ist ein Lehrmittel, das einem potenziellen oder neuen Versicherungsnehmer zeigt, wie eine Lebens- oder Berufsunfähigkeitsversicherung funktioniert. Eine Police oder Verkaufsillustration berücksichtigt alle wichtigen Details einer Police, einschließlich Alter, Geschlecht und Zeichnungsklasse des Antragstellers oder Versicherten (die Risikostufe, die zur Bestimmung der Prämien verwendet wird).
+
+## Richtlinie oder Verkaufsillustration aufschlüsseln
+
+Eine Police oder Verkaufsillustration zeigt auch den Namen des Versicherungsprodukts, die Laufzeit, den Leistungsbetrag, die [Prämie](/premium),. die Barwerte (wenn die Police eine Barwertkomponente hat) und die voraussichtlichen [Dividenden](/premium) [(](/dividend) wenn die Police von einer Versicherungsgesellschaft auf Gegenseitigkeit ausgestellt wird). Die Abbildung beschreibt auch alle Richtlinienreiter oder Optionen. Eine Policenillustration zeigt, wie sich der Wert der Police voraussichtlich im Laufe der Zeit ändern wird und auf welchen Annahmen diese Werte basieren. Eine Illustration der Invaliditätspolice zeigt auch die Wartezeit, bevor die Leistungen fällig werden, und beschreibt die Bedingungen, die erfüllt sein müssen, damit die Police ausgezahlt werden kann.
+
+Eine Police oder Verkaufsabbildung ist kein bindender Vertrag und garantiert nicht, wie viel eine Police in einem bestimmten Jahr wert sein wird, es sei denn, die Werte sind ausdrücklich als „garantiert“ angegeben. Die Illustration ist größtenteils eine fundierte Vermutung, die von einem Computerprogramm basierend auf den verfügbaren Informationen zum Zeitpunkt der Erstellung der Illustration bestimmt wurde. Die mit der Police verbundenen tatsächlichen gesetzlichen Garantien sind im Policenvertrag enthalten.
+
+Versicherungsagenten stellen Antragstellern, die den Abschluss einer Lebens- oder Berufsunfähigkeitsversicherung in Betracht ziehen, eine Policenillustration zur Verfügung. Die Abbildung erläutert die Merkmale und Vorteile der Police. Nachdem die Police ausgestellt wurde, stellt der Agent eine neue Illustration auf der Grundlage der tatsächlich ausgestellten Police aus, da diese andere Annahmen enthalten kann als die Illustration, die in der Antragsphase verwendet wurde. Beispielsweise könnte die medizinische Untersuchung des Antragstellers den Kunden in eine höhere Risikokategorie eingeordnet haben als ursprünglich angenommen, oder der Antragsteller hat seine Meinung über die Höhe des Versicherungsschutzes, den er erwerben möchte, geändert.
+
+Die [National Association of Insurance Commissioners](/nainsurancec) (NAIC) hat eine Musterpolice-Illustration entwickelt, die viele Versicherer als Grundlage für ihre Policen- oder Verkaufsillustrationen verwenden, weil sie leicht verständlich ist und alle Informationen enthält, die Verbraucher wissen müssen.﻿Sie zeigt den aktuellen Stand des Produkts garantierte und nicht garantierte Werte basierend darauf, wie sich die zugrunde liegenden Unterkonten der Police auf den Barwert und die Todesfallleistung der Police auswirken, unter der Annahme einer angemessenen Rendite unter Berücksichtigung der Risikotoleranz und der Marktbedingungen des Kunden. Die Abbildung der Police sollte auch alle mit der Police verbundenen Gebühren zeigen. Verkaufs- oder Policenillustrationen werden bei Produkten wie Lebensversicherungen, universellen Lebensversicherungen, variablen universellen Lebensversicherungen und Langzeitinvaliditätsversicherungen verwendet.
+
