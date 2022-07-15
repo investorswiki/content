@@ -1,0 +1,57 @@
+---
+keywords: Investing,Fundamental Analysis,Sectors and Industries Analysis,Sectors and Industries
+title: Indústria em crescimento
+description: Uma indústria em crescimento é o setor da economia que apresenta uma taxa de crescimento acima da média.
+---
+
+# Indústria em crescimento
+## O que é uma indústria em crescimento?
+
+Uma indústria em crescimento é o setor de uma economia que apresenta uma taxa de crescimento acima da média em comparação com outros setores. As indústrias de crescimento são muitas vezes indústrias novas ou pioneiras que não existiam no passado. Seu crescimento é resultado da demanda por novos produtos ou serviços oferecidos por empresas do ramo. Um exemplo de indústria em crescimento é o setor de tecnologia, cujos produtos se tornaram sucessos descontrolados entre os consumidores e levaram a avaliações multibilionárias de empresas de tecnologia no mercado de ações.
+
+## Entendendo as indústrias em crescimento
+
+Vários fatores são responsáveis por catalisar uma indústria em crescimento.
+
+Uma delas é o advento de novas e inovadoras tecnologias que podem impulsionar empreendedores e startups a desenvolver novos produtos e serviços relacionados ao setor. Dada a natureza em constante mudança da tecnologia, a lógica por trás do investimento em tais tecnologias é a promessa de um crescimento futuro exponencial.
+
+A indústria de smartphones, que reuniu várias tecnologias inovadoras em um único telefone, tornou-se uma indústria em crescimento no início desta década. Nos últimos tempos, a realidade virtual (VR) e o aprendizado de máquina são dois exemplos dessa abordagem. A RV é um cenário imersivo gerado por computador que pode simular uma experiência da vida real. Ele tem aplicações em muitos setores, desde headsets VR para jogos até simulações para testes de direção e aprendizado em faculdades de medicina.
+
+Big data envolve o processamento de grandes quantidades de dados para pesquisa ou para identificar tendências e probabilidades estatísticas. Empresas de big data fornecem serviços para grandes corporações ou indústrias, como saúde. Startups e empresas do setor se multiplicaram à medida que a tecnologia se popularizou. Os investidores normalmente avaliam as empresas em um múltiplo de seus ganhos atuais e seu potencial de crescimento futuro.
+
+Mudanças nas regulamentações também podem estimular o crescimento. Por exemplo, o crescimento no setor de saúde é principalmente impulsionado por mudanças na regulamentação relacionada a seguros. A desregulamentação dos mercados de eletricidade e uma maior conscientização sobre a vida sustentável também levaram os investidores a colocar seu dinheiro em ações de empresas de energia solar e empresas de energia renovável. A maconha medicinal é outra indústria em crescimento que surgiu devido ao relaxamento das leis estritas da maconha.
+
+A Tesla, Inc. (TSLA), que tem uma das mais altas avaliações de empresas automobilísticas, é um exemplo de empresa que se beneficia das mudanças nas regulamentações e de seus avanços tecnológicos. Os investidores acorreram à empresa devido à sua promessa de um futuro mais verde, bem como aos seus carros, que incorporam tecnologia de ponta.
+
+Um terceiro fator que impulsiona as indústrias em crescimento é uma mudança no estilo de vida e nas preferências dos consumidores. Com mais tempo de lazer e disponibilidade de tecnologia e opções de transporte, os consumidores começaram a viajar mais. Aplicativos e sites de viagens proliferaram. Startups relacionadas a viagens, como Airbnb e Uber, conquistaram avaliações recordes em mercados privados e são consideradas commodities quentes para mercados públicos.
+
+## Características das indústrias em crescimento
+
+As características particulares das indústrias em crescimento incluem empresas de uma indústria exibindo números de vendas consistentes e de rápido crescimento e um influxo de investimentos. Isso muitas vezes pode ser acompanhado por muito hype da imprensa. As indústrias em crescimento tendem a ser compostas por ações relativamente voláteis e arriscadas. Muitas vezes, os investidores estão dispostos a aceitar um risco maior para participar dos ganhos potencialmente grandes.
+
+Os riscos adicionais que as indústrias em crescimento representam podem incluir altas taxas de queima de caixa, falta de lucratividade apesar do entusiasmo de consumidores e investidores, bolhas e contratempos tecnológicos que podem obstruir o progresso.
+
+## Indústrias de crescimento e CAGR
+
+Muitos analistas usam a taxa de crescimento anual composta (CAGR) ao determinar a viabilidade atual e o potencial futuro de um investimento. O CAGR é a taxa média de crescimento anual de um investimento durante um determinado período de tempo superior a um ano e pode ser aplicado a empresas em setores de crescimento e regulares.
+
+Para calcular a taxa de crescimento anual composta, os analistas dividem o valor de um investimento no final do período pelo seu valor no início do período. O analista então eleva o resultado à potência de um, dividido pela duração do período, e subtrai um do resultado subsequente:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext>CAGR </mtext><mo>=</mo><msup><mrow><mo fence="true">(</mo><mfrac><mtext>Valor final</mtext><mtext>Valor inicial</mtext> mtext></mfrac><mo fence="true">)</mo></mrow><mrow><mo fence="true">(</mo><mfrac><mn>1</mn> <mrow><mi mathvariant="normal">#</mi><mtext> de anos</mtext></mrow></mfrac><mo fence="true">)</mo></mrow> </msup><mo>−</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">\text{CAGR}=\left(\frac{\text {Valor final}}{\text{Valor inicial}}\right)^{\left(\frac{1}{\#\ \text{of years}}\right)}-1</annotation></semantics ></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical -align:0em;"></span><span class="mord text"><span class="mord">CAGR</span></span><span class="mspace" style="margin-right :0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-righ t:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:2.25042em;vertical-align:-0.65002em;"></ span><span class="minner"><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size2">(</span>< /span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class=" vlist-r"><span class="vlist" style="height:0.9322159999999999em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;" ></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord mtight">Valor inicial</span> span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span ><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108em;"><span class=" pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 m tight"><span class="mord mtight"><span class="mord text mtight"><span class="mord mtight">Valor final</span></span></span></span>< /span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.481108em ;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose delimcenter " style="top:0em;"><span class="delimsizing size2">)</span></span></span><span class="msupsub"><span class="vlist-t"> <span class="vlist-r"><span class="vlist" style="height:1.6004em;"><span style="top:-3.9029em;margin-right:0.05em;"><span class ="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="minner mtight"><span class="mopen dimensionamento reset-size3 size6 mtight delimcenter" style="top:0.07500000000000001em;"><span class="mtight">(</span></span><span class="mord mtight"><span class="mopen nulldelimiter dimensionamento reset-size3 size6"></span><span class="mfrac">< span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8443142857142858em;"><span style="top:-2.656em; "><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">#</span><span class="mspace mtight"><span class="mtight"> </span></span><span class="mord text mtight"><span class="mord mtight ">de anos</span></span></span></span></span><span style="top:-3.2255000000000003em;"><span class="pstrut" style="height:3em ;"></span><span class="frac-line mtight" style="border-bottom-width:0.049em;"></span></span><span style="top:-3.384em; "><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist- r"><span class="vlist" style="height:0.48288571428571425em;"><span></span></span></span></span></span><span class="mclose nulldelimiter dimensionamento reset-size3 size6"></span></span><span class="mclose dimensionamento reset-size3 size6 mtight delimcenter" style="top:0.07500000000000001em;"><span class="mtight ">)</span></span></span></span></span></span></span></span></span></span></span><span class ="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em; "></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class=" mord">1</span></span></span></span>
+
+
+
+CAGR é amplamente utilizado para calcular o crescimento médio de um investimento. Um investimento pode aumentar em valor em 6% em um ano, diminuir em valor em 3% no ano seguinte e aumentar novamente em 2% no ano seguinte. Com um crescimento anual inconsistente, o CAGR pode ser usado para dar uma visão mais ampla do progresso de um investimento; no entanto, não leva em consideração fatores externos, como a volatilidade do mercado.
+
+## Exemplo de uma indústria em crescimento
+
+A indústria da maconha tornou-se um exemplo de uma indústria em crescimento nos últimos tempos. A maconha tinha má reputação e sua posse e uso eram fortemente regulamentados no país. A situação mudou na última década, pois uma onda de opinião popular levou os legisladores a mudar sua postura proibitiva em relação à usina. Em janeiro de 2019, 33 estados legalizaram a maconha medicinal e seu uso e posse são legais em 10 estados. As universidades estão realizando pesquisas sobre seus usos e aplicações para a ciência médica. Por exemplo, pesquisadores da Universidade de Nova York estão usando para tratar veteranos com TEPT. Empresários de alimentos e empresas de bebidas estão infundindo seus produtos com produtos químicos de maconha. Os investidores despejaram dinheiro em empresas de maconha com expectativas de crescimento para o futuro.
+
+## Destaques
+
+- Analistas usam CAGR para avaliar indústrias em crescimento.
+
+- As indústrias de crescimento são setores de economias que experimentam um crescimento acima da média devido a novas tecnologias ou mudanças nas preferências sociais ou regulamentações governamentais.
+
+- Embora possam ser ações voláteis e arriscadas, as empresas em setores em crescimento geralmente são acompanhadas por hype da imprensa e números de vendas cada vez maiores.
+
