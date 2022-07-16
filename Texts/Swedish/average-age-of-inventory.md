@@ -1,0 +1,45 @@
+---
+keywords: Business,Corporate Finance and Accounting,Accounting
+title: Genomsnittlig ålder för inventering
+description: Medelåldern för varulager är det genomsnittliga antalet dagar det tar för ett företag att sälja ut lager.
+---
+
+# Genomsnittlig ålder för inventering
+## Vad är medelåldern för lager?
+
+Medelåldern för varulager är det genomsnittliga antalet dagar det tar för ett företag att sälja ut lager. Det är ett mått som analytiker använder för att bestämma effektiviteten i försäljningen. Medelåldern på lagret kallas också [dagars försäljning i lager](/days-sales-inventory-dsi) (DSI).
+
+## Formel och beräkning av medelålder för lager
+
+Formeln för att beräkna medelåldern för lager är:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Genomsnittlig ålder för lager</mtext><mo>=</mo><mfrac><mi>C< /mi><mi>G</mi></mfrac><mo>×</mo><mn>365</mn></mrow></mstyle></mtd></mtr><mtr> <mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow> <mrow></mrow><mtext mathvariant="bold">där:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi> C</mi><mo>=</mo><mtext>Den genomsnittliga kostnaden för lager på nuvarande nivå</mtext></mrow></mstyle></mtd></mtr><mtr><mtd ><mstyle scriptlevel="0" display ystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi> G</mi><mo>=</mo><mtext>Kostnaden för sålda varor (COGS)</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;\text{Average Age of Inventory}= \frac{ C }{ G } \times 365 \\ &amp;\textbf{där:} \\ &amp ;C = \text{Den genomsnittliga kostnaden för lager på nuvarande nivå} \\ &amp;G = \text{Kostnaden för sålda varor (COGS)} \\ \end{aligned}</annotation></semantics>< /math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:6.846329999999999em;vertical-align :-3.1731649999999996em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2 "><span class="vlist-r"><span class="vlist" style="height:3.6731649999999996em;"><span style="top:-5.673165em;"><span class="pstrut" style ="height:3.3603300000000003em;"></span><span class="mord"></span></span>< span style="top:-3.8471650000000004em;"><span class="psrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span>< span style="top:-2.3471650000000004em;"><span class="psrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span>< span style="top:-0.8471650000000008em;"><span class="psrut" style="height:3.3603300000000003em;"></span><span class="mord"></span></span>< /span><span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist" style="height:3.1731649999999996em;">< span ></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2">><span class = "vlist-r"><span class="vlist" style="height:3.6731649999999996em;"><span style="top:-5.673165em;"><span class="psrut" style="height:3.3603300000000003 em ;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Genomsnittlig ålder för lager< / span></span><span class="mspace" style="margin-right:0.2777777777777778em; "></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"> <span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist " style="height:1.36033em;"><span style="top:-2.314em;"><span class="psrut" style="height:3em;"></span><span class="mord "><span class="mord mathnormal">G</span></span></span><span style="top:-3.23em;"><span class="psrut" style="height:3em ;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;" ><span class="psrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07153em;">C </span></span></span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class=" vlist " style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></ span ><span class="mspace" style="margin-right t:0.22222222222222222em;"></span><span class="mbin"></span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class = "mord">3</span><span class="mord">6</span><span class="mord">5</span></span></span><span style="top : -3.8471650000000004em;"><span class="psrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class ="mord text"><span class="mord textbf">där:</span></span></span></span><span style="top:-2.3471650000000004em;"><span class = "pstrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin - right:0.07153em;">C</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span>< span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Den genomsnittliga kostnaden för lager på nuvarande nivå</ span ></span></span></span><span style="top:-0.847165000 0000008em;"><span class="psrut" style="height:3.3603300000000003em;"></span><span class="mord"><span class="mord"></span><span class="mord" mord mathnormal">G</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class=" mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Kostnaden för sålda varor (COGS)</span></span ></span></span></span><span class="vlist-s"></span></span><span class="vlist-r"><span class="vlist" style = "height:3.1731649999999996em;"><span></span></span></span></span></span></span></span></span></span></ span >
+
+
+
+## Vad genomsnittsåldern för lager kan berätta
+
+Medelåldern på lagret berättar för analytikern hur snabbt [lagret](/inventory) omsätts hos ett företag jämfört med ett annat. Ju snabbare ett företag kan sälja inventarier med vinst, desto mer lönsamt är det. Ett företag kan dock använda en strategi för att upprätthålla högre lagernivåer för rabatter eller långsiktiga planeringsinsatser. Även om måttet kan användas som ett mått på effektivitet, bör det bekräftas med andra effektivitetsmått, till exempel [bruttovinstmarginal](/gross_profit_margin),. innan du drar några slutsatser.
+
+Medelåldern på lagret är en kritisk siffra i branscher med snabba försäljnings- och [produktcykler](/product-life-cycle),. såsom teknikindustrin. En hög medelålder på lagret kan indikera att ett företag inte sköter sitt lager ordentligt eller att det har ett lager som är svårt att sälja.
+
+Medelåldern på lagret hjälper inköpsagenter att fatta köpbeslut och chefer fatta prissättningsbeslut, som att diskontera befintligt lager för att flytta produkter och öka [kassaflödet](/cashflow). I takt med att ett företags medelålder på lagret ökar, ökar också dess exponering för [inkuransrisken](/obsolescencerisk). Inkuransrisk är risken att värdet på varulager tappar i värde över tid eller på en [mjuk marknad](/soft_market). Om ett företag inte kan flytta lager kan det ta en [lageravskrivning](/inventory-write-off) för ett belopp som är mindre än det angivna värdet på ett företags balansräkning.
+
+## Exempel på hur man använder medelåldern för lager
+
+En investerare bestämmer sig för att jämföra två detaljhandelsföretag. Företag A äger lager värderat till 100 000 USD och COGS är 600 000 USD. Medelåldern för företag A:s lager beräknas genom att dividera den genomsnittliga kostnaden för lager med COGS och sedan multiplicera produkten med 365 dagar. Beräkningen är $100 000 dividerat med $600 000, multiplicerat med 365 dagar. Medelåldern för lager för företag A är 60,8 dagar. Det betyder att det tar cirka två månader för företaget att sälja sitt lager.
+
+Omvänt äger företag B också inventarier värderade till 100 000 USD, men kostnaden för såld inventarie är 1 miljon USD, vilket minskar medelåldern för inventarier till 36,5 dagar. På ytan är företag B mer effektivt än företag A.
+
+##Höjdpunkter
+
+– Ju snabbare ett företag kan sälja sitt lager desto mer lönsamt kan det bli.
+
+- Medelåldern på lagret kallas också för dagars försäljning i lager.
+
+– Medelåldern på lagret säger hur många dagar det i genomsnitt tar ett företag att sälja sitt lager.
+
+- Detta mått bör bekräftas med andra siffror, till exempel bruttovinstmarginalen.
+
+- En stigande siffra kan tyda på att ett företag har lagerproblem.
+
