@@ -1,0 +1,39 @@
+---
+keywords: Investing,Fundamental Analysis,Tools for Fundamental Analysis,Tools
+title: Verð-vaxtarflæði
+description: Verð-vaxtarflæði er mælikvarði á afkomugetu fyrirtækis og útgjöld til rannsókna og þróunar miðað við núverandi markaðsvirði þess.
+---
+
+# Verð-vaxtarflæði
+## Hvað er verðvaxtarflæði?
+
+Verðvaxtarflæði er [fjárhagslegt hlutfall](/ratioanalysis) sem auðkennir fyrirtæki sem eru að skila traustum tekjum á sama tíma og leggja í miklar fjárfestingar í [rannsóknum og þróun](/randd) (R&D). Mikið verð-vaxtarflæðismælikvarði gefur til kynna að fyrirtæki sé líklegt til að hagnast á nýsköpun og uppfinningum.
+
+## Formúlan fyrir verð-vaxtarflæði
+
+Það er mælt með eftirfarandi formúlu:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Verðvaxtarflæði</mtext><mo>=</mo><mfrac><mrow><mtext >EPS</mtext><mo>+</mo><mtext>R &amp; D á hlut</mtext></mrow><mtext>Verð á hlut</mtext></mfrac></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel ="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow ><mtext mathvariant="bold">þar sem:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"> <mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>EPS</mtext>< mo>=</mo><mtext>hagnaður á hlut</mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\ byrja{jafnað} &amp;\text{Price-Growth Flow} = \frac{ \text{EPS} + \text{R \&amp; D á hlut} }{ \text{Price Per Share} } \\ &amp;\textbf{þar:} \\ &amp;\text{EPS} = \text{hagnaður á hlut} \\ \end{aligned}</ annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height" :5.35744em;vertical-align:-2.42872em;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class= "vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.92872em;"><span style="top:-4.92872em;">< span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:-3.1027199999999997em;">< span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span><span style="top:-1.6027199999999997em;">< span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord"></span></span></span><span class="vlist-s"> </span></span><span class="vlist-r"><span class="vlist" style="height:2.42872em;"><span></ span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist- r"><span class="vlist" style="height:2.92872em;"><span style="top:-4.92872em;"><span class="pstrut" style="height:3.3714399999999998em;"> </span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">Verðvaxtarflæði</span>< /span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin -right:0.2777777777777778em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist -t2"><span class="vlist-r"><span class="vlist" style="height:1.37144em;"><span style="top:-2.314em;"><span class="pstrut " style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">Verð á hlut</span></span> </span></span><span style="top:-3.23em;"><span class="psrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="psrut" style="height:3em;" ></span><span class="mord"><span class="mord text"><span class="mord">EPS</span></span><span class="mspace" style="margin -right:0.22222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.22222222222222222em;"></span><span class="mord text"><span class="mord">R &amp; D á hlut</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r "><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter" ></span></span></span></span><span style="top:-3.1027199999999997em;"><span class="psrut" style="height:3.3714399999999998em;"></span ><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">þar sem:</span></span>< /span></span><span style="top:-1.6027199999999997em;"><span class="psrut" style="height:3.3714399999999998em;"></span><span class="mord">>< span class="mord"></span><span class="mord text"><span class="mord">EPS</span></span><span class="mspace" style="margin-right :0.27777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class= "mord text"><span class="mord">hagnaður á hlut</span></span></span></span></span><span class="vlist-s">​</span ></span ><span class="vlist-r"><span class="vlist" style="height:2.42872em;"><span></span></span></span></span></span ></span></span></span></span></span>
+
+
+
+## Að skilja verð-vaxtarflæði
+
+Verðvaxtarflæði er tjáning á [tekjumátt](/earnings-power) og hugsanlegum vexti miðað við núverandi verð á hlut. Eins og formúlan hér að ofan sýnir, deilir hlutfallið hagnaði á hlut (EPS) að viðbættu [R&D útgjöldum](/research-and-development-expenses) á hlut með hlutabréfaverðinu.
+
+Sérfræðingar skoða mælikvarða fyrir glugga inn í uppbyggingu fjármagnsúthlutunar fyrirtækis. Stjórnendur geta til dæmis eytt meira í að þróa nýjar vörur og þjónustu en í núverandi afkomumiðstöðvar. Hugsunin er sú að hægt sé að bæta upp lágar tekjur með meiri útgjöldum til rannsókna og þróunar og öfugt. Ef fyrirtæki ákveður að eyða í dag og vanrækja framtíðina getur núverandi hagnaður á hlut verið meiri en útgjöld til rannsókna og þróunar. Bæði tilvikin leiða til mikillar lestrar á hlutfallinu, sem þýðir traustur tekjur á hlut eða útgjöld til rannsókna og þróunar. Þannig geta fjárfestar metið hugsanlegan tekjuvöxt nú og í framtíðinni.
+
+## Verðvöxtur og rannsóknar- og þróunargeta
+
+En verðvaxtarflæði segir ekki til um hversu áhrifarík stjórnendur úthluta [fjármagni](/capital). Stórt rannsóknar- og þróunarfrumvarp, til dæmis, tryggir ekki að nýjar vörukynningar eða markaðsútfærslur muni skila hagnaði á komandi ársfjórðungum. Á sama tíma nær öflugur tekjuvöxtur ekki að veita fjárfestum innsýn í framtíðarhorfur eða vaxtartækifæri. Ákjósanlegt hlutfall er það sem nær jafnvægi á milli tekna og rannsókna og þróunar án þess að halla alfarið að einum mælikvarða.
+
+Ef flæði verðvaxta mælist lágt segir það fjárfestum að gengi hlutabréfa hafi vikið langt umfram grundvallaratriði. Í stuttu máli má segja að markaðsvirkni sé knúin áfram af einhverju öðru en núverandi tekjuvexti eða hugsanlegri nýsköpun. Það gæti verið pólitískt, efnahagslegt eða eitthvað algjörlega ótengt sem keyrir daglega hreyfingu. Í því tilviki væri skynsamlegt fyrir fjárfesta að fylgjast með fréttalotunni, efnahagsgögnum eða öðrum fjárhagslegum mælikvörðum eins og verð-til-sölu og verð-til-bók.
+
+## Hápunktar
+
+- Verðvaxtarflæði er vinsæl aðferð til að mæla núverandi og framtíðartekjustyrk þar sem það gefur til kynna hvaða fyrirtæki geta nýtt sér rannsóknir og þróun í hagnað.
+
+- Lágt hlutfall getur þýtt að fyrirtæki er annað hvort ekki að eyða miklu í rannsóknir og þróun, eða ef það er, endurspeglar verð hlutabréfa ekki framtíðarhagnað af slíkum útgjöldum.
+
+- Verðvaxtarflæði deilir summan af hagnaði á hlut (EPS) og útgjöldum til rannsókna og þróunar á hlut með verði á hlut.
+
