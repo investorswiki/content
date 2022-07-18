@@ -1,0 +1,123 @@
+---
+keywords: Business,Corporate Finance and Accounting,Financial Analysis
+title: Bayes&#39; Théorème
+description: Bayes&#39; théorème est une formule mathématique pour déterminer la probabilité conditionnelle d&#39;un événement. Apprenez à calculer Bayes&amp;#39; théorème et voir des exemples.
+---
+
+# Bayes' Théorème
+## Qu'est-ce que le théorème de Bayes ?
+
+Le théorème de Bayes, du nom du mathématicien britannique du XVIIIe siècle Thomas Bayes, est une formule mathématique permettant de déterminer [la probabilité conditionnelle](/conditional_probability). La probabilité conditionnelle est la probabilité qu'un résultat se produise, basé sur un résultat précédent qui s'est produit dans des circonstances similaires. Le théorème de Bayes fournit un moyen de réviser les prédictions ou théories existantes (probabilités de mise à jour) en fonction de preuves nouvelles ou supplémentaires.
+
+En finance, le théorème de Bayes peut être utilisé pour évaluer le [risque](/risk) de prêter de l'argent à des emprunteurs potentiels. Le théorème est également appelé règle de Bayes ou loi de Bayes et constitue le fondement du domaine des statistiques bayésiennes.
+
+## Comprendre le théorème de Bayes
+
+Les applications du théorème de Bayes sont répandues et ne se limitent pas au domaine financier. Par exemple, le théorème de Bayes peut être utilisé pour déterminer l'exactitude des résultats des tests médicaux en tenant compte de la probabilité qu'une personne donnée soit atteinte d'une maladie et de l'exactitude générale du test. Le théorème de Bayes repose sur l'incorporation de distributions de [probabilités a priori](/prior_probability) afin de générer des [probabilités a posteriori](/posterior-probability).
+
+La probabilité a priori, dans l'inférence statistique bayésienne, est la probabilité qu'un événement se produise avant que de nouvelles données ne soient collectées. En d'autres termes, il représente la meilleure évaluation rationnelle de la probabilité d'un résultat particulier basée sur les connaissances actuelles avant la réalisation d'une expérience.
+
+La probabilité postérieure est la probabilité révisée qu'un événement se produise après avoir pris en compte les nouvelles informations. La probabilité postérieure est calculée en mettant à jour la probabilité antérieure à l'aide du théorème de Bayes. En termes statistiques, la probabilité a posteriori est la probabilité que l'événement A se produise étant donné que l'événement B s'est produit.
+
+## Considérations particulières
+
+Le théorème de Bayes donne ainsi la probabilité d'un événement basé sur de nouvelles informations qui sont, ou peuvent être, liées à cet événement. La formule peut également être utilisée pour déterminer comment la probabilité qu'un événement se produise peut être affectée par de nouvelles informations hypothétiques, en supposant que les nouvelles informations se révéleront vraies.
+
+Par exemple, envisagez de tirer une seule carte d'un jeu complet de 52 cartes.
+
+La probabilité que la carte soit un roi est de quatre divisé par 52, ce qui équivaut à 1/13 ou environ 7,69 %. N'oubliez pas qu'il y a quatre rois dans le jeu. Supposons maintenant qu'il soit révélé que la carte sélectionnée est une figure. La probabilité que la carte sélectionnée soit un roi, étant donné qu'il s'agit d'une carte faciale, est de quatre divisé par 12, soit environ 33,3%, car il y a 12 cartes faciales dans un jeu.
+
+## Formule du théorème de Bayes
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="droite gauche" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>P</mi><mrow><mo fence="true">(</mo><mi> A</mi><mi mathvariant="normal"> ∣ </mi><mi>B</mi><mo fence="true">)</mo></mrow><mo>=</mo ><mfrac><mrow><mi>P</mi><mrow><mo fence="true">(</mo><mi>A</mi><mo> ⋂ </mo><mi> B</mi><mo fence="true">)</mo></mrow></mrow><mrow><mi>P</mi><mrow><mo fence="true">(< /mo><mi>B</mi><mo fence="true">)</mo></mrow></mrow></mfrac><mo>=</mo><mfrac><mrow> <mi>P</mi><mrow><mo fence="true">(</mo><mi>A</mi><mo fence="true">)</mo></mrow>< mo> ⋅ </mo><mrow><mi>P</mi><mrow><mo fence="true">(</mo><mi>B</mi><mi mathvariant="normal"> ∣ </mi><mi>A</mi><mo fence="true">)</mo></mrow></mrow></mrow><mrow><mi>P</mi>< mrow><mo fence="true">(</mo>< mi>B</mi><mo fence="true">)</mo></mrow></mrow></mfrac></mrow></mstyle></mtd></mtr><mtr ><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow ><mrow></mrow><mtext mathvariant="bold">où :</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0 " displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi >P</mi><mrow><mo fence="true">(</mo><mi>A</mi><mo fence="true">)</mo></mrow><mo> =</mo><mtext> La probabilité que A se produise</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true "><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>P</mi ><mrow><mo fence="true">(</mo><mi>B</mi><mo fence="true">)</mo></mrow><mo>=</mo> <mtext> La probabilité que B se produise</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow> </mrow></mstyle e></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>P</mi><mrow><mo fence="true" >(</mo><mi>A</mi><mi mathvariant="normal"> ∣ </mi><mi>B</mi><mo fence="true">)</mo></ mrow><mo>=</mo><mtext>La probabilité de A étant donné B</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel=" 0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow>< mi>P</mi><mrow><mo fence="true">(</mo><mi>B</mi><mi mathvariant="normal"> ∣ </mi><mi>A</ mi><mo fence="true">)</mo></mrow><mo>=</mo><mtext> La probabilité de B compte tenu de A</mtext></mrow></mstyle></ mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>P</mi><mrow><mo fence="true">(</mo><mi>A</mi><mo > ⋂ </mo><mi>B</mi><mo fence="true">)</mo></mrow><mo stretchy="false">)</mo><mo>=</ mo><mtext> La probabilité que A et B se produisent</mtext></mrow></mstyle></mtd> </mtr></mtable><annotation encoding="application/x-tex">\begin{aligned} &amp;P\left(A|B\right)=\frac{P\left(A\bigcap{B }\right)}{P\left(B\right)}=\frac{P\left(A\right)\cdot{P\left(B|A\right)}}{P\left(B\right )}\\ &amp;\textbf{où :}\\ &amp;P\left(A\right)=\text{ La probabilité que A se produise}\\ &amp;P\left(B\right)=\text{ La probabilité que B se produise}\\ &amp;P\left(A|B\right)=\text{La probabilité que A soit donné B}\\ &amp;P\left(B|A\right)=\text{ probabilité de B étant donné A}\\ &amp;P\left(A\bigcap{B}\right))=\text{ La probabilité que A et B se produisent}\\ \end{aligned}</annotation></ sémantique></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:12.263020000000001em ; vertical-align:-5.8815100000000005em ;"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:6.3815100000000005em;"><span style="top:-8.38151em;"><span class=" pstrut" style="height:3.427em;"></span><span class="mord"></span></span><span style="top:-6.30551em;"><span class=" pstrut" style="height:3.427em;"></span><span class="mord"></span></span><span style="top:-4.80551em;"><span class=" pstrut" style="height:3.427em;"></span><span class="mord"></span></span><span style="top:-3.3055100000000004em;"><span class=" pstrut" style="height:3.427em;"></span><span class="mord"></span></span><span style="top:-1.8055100000000004em;"><span class=" pstrut" style="height:3.427em;"></span><span class="mord"></span></span><span style="top:-0.3055100000000004em;"><span class=" pstrut" style="height:3.427em;"></span><span class="mord"></span></span><span style="top:1.5044900000000003em;"><span class="pstrut " style="height:3.427em;"></span><span class="mord"></span></span></span><span class="vlist-s">​</span> </span><span class="vlist-r"><span class="vlist" style="height:5.8815100000000005em ;"><span></span></span></span></span> </span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:6.3815100000000005em;"><span style="top:-8.38151em;" ><span class="pstrut" style="height:3.427em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;">(</span><span class="mord mathnormal">A</span><span class="mord"> ∣ </span><span classe ="mord mathnormal" style="margin-right:0.05017em;">B</span><span class="mclose delimcenter" style="top:0em;">)</span></span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2">< span class="vlist-r"><span class="vlist" style="height:1.427em;"> <span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style ="margin-right:0.13889em;">P</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="minner"><span class ="mopen delimcenter" style="top:0em;">(</span><span class="mord mathnormal" style="margin-right:0.05017em;">B</span><span class="mclose delimcenter" style="top:0em;">)</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style= "hauteur : 3 em ;"></span><span class="frac-line" style="border-bottom-width : 0.04em ;"></span></span><span style="top :- 3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.13889em ;">P</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="minner"><span class="mopen delimcenter" style=" top:0em ;">(</span><span class="mord mathnormal">A</span><span class="mspace" style="marge -right:0.16666666666666666em ;"></span><span class="mop op-symbol small-op" style="position:relative;top:-0.0000050000000000050004em ;"> ⋂ </span><span class=" mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.05017em;">B</span ></span><span class="mclose delimcenter" style="top:0em;">)</span></span></span></span></span><span class="vlist- s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.936em;"><span></span></span> </span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em ;"></ span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord"><span class= "mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style=" hauteur:1.427em;"><span style="top:-2.314em;"><span class="pstrut" style="hauteur : 3em ;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mspace" style= "margin-right:0.16666666666666666em ;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;">(</span><span class="mord mathnormal" style="margin-right:0.05017em;">B</span><span class="mclose delimcenter" style="top:0em;">)</span></span></span>< /span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border- bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span> <span class="mord"><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mspace" style="margin-right:0.16666666666666666em ; "></span><span class="minner"><span class="mopen delimcenter" style="top:0em;">(</span><span class="mord mathnormal">A</span> <span class="mclose delimcenter" style="top:0em;">)</span></span><span class="mspace" style="marg in-right:0.222222222222222em ;"></span><span class="mbin"> ⋅ </span><span class="mspace" style="margin-right:0.2222222222222222em ;"></span>< span class="mord"><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mspace" style="margin-right:0.16666666666666666em ;" ></span><span class="minner"><span class="mopen delimcenter" style="top:0em;">(</span><span class="mord mathnormal" style="margin-right : 0.05017em ;">B</span><span class="mord"> ∣ </span><span class="mord mathnormal">A</span><span class="mclose delimcenter" style="top : 0em ;">)</span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.936em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span><span style="top:-6.30551em;"><span class="pstrut" style="height:3.427em ;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">où :</ span></span></span></span><span style="top:-4.80551em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mspace" style="margin-right:0.16666666666666666em ;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;">(</span><span class= "mord mathnormal">A</span><span class="mclose delimcenter" style="top:0em;">)</span></span><span class="mspace" style="margin-right : 0.277777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class=" mord text"><span class="mord"> La probabilité que A se produise</span></span></span></span><span style="top:-3.3055100000000004em;"><span class= "pstrut" style="height:3.427em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin- right:0.13889em;">P</span><span class="mspace" style="margin-right:0.16 666666666666666em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;">(</span><span class="mord mathnormal" style="margin -right:0.05017em;">B</span><span class="mclose delimcenter" style="top:0em;">)</span></span><span class="mspace" style="margin -right:0.277777777777778em ;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mord text"><span class="mord"> La probabilité que B se produise</span></span></span></span><span style="top:-1.8055100000000004em;">< span class="pstrut" style="height:3.427em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style= "margin-right:0.13889em ;">P</span><span class="mspace" style="margin-right:0.16666666666666666em ;"></span><span class="minner"><span class= "mopen delimcenter" style="top:0em;">(</span><span class="mord mathnormal">A</span><span class="mord"> ∣ </span><span class=" mord mathnormal" style="margin-right:0.05017em;">B< /span><span class="mclose delimcenter" style="top:0em;">)</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></ span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mord text"><span class ="mord">La probabilité de A étant donné B</span></span></span></span><span style="top:-0.3055100000000004em;"><span class="pstrut" style=" hauteur : 3,427 em ;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.13889em ;" >P</span><span class="mspace" style="margin-right:0.1666666666666666em ;"></span><span class="minner"><span class="mopen delimcenter" style="top : 0em;">(</span><span class="mord mathnormal" style="margin-right:0.05017em;">B</span><span class="mord"> ∣ </span><span classe ="mord mathnormal">A</span><span class="mclose delimcenter" style="top:0em;">)</span></span><span class="mspace" style="margin-right :0.2777777777777778em;"></span><span class="mrel">=</span><sp an class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord"> La probabilité de B compte tenu de A</span>< /span></span></span><span style="top:1.5044900000000003em ;"><span class="pstrut" style="height:3.427em;"></span><span class="mord "><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mspace" style="margin -right : 0.16666666666666666em ;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size2">(</span ></span><span class="mord mathnormal">A</span><span class="mspace" style="margin-right:0.16666666666666666em ;"></span><span class="mop op- symbole large-op" style="position:relative;top:-0.000004999999999977245em;"> ⋂ </span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.05017em;">B</span></span><span class="mclose delimcenter" style="top:0em ; "><sp an class="delimsizing size2">)</span></span></span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2777777777777778em ;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text "><span class="mord"> La probabilité que A et B se produisent</span></span></span></span></span><span class="vlist-s">​< /span></span><span class="vlist-r"><span class="vlist" style="height:5.8815100000000005em ;"><span></span></span></span>< /span></span></span></span></span></span></span>
+
+## Exemples du théorème de Bayes
+
+Vous trouverez ci-dessous deux exemples du théorème de Bayes dans lequel le premier exemple montre comment la formule peut être dérivée dans un exemple d'investissement en actions utilisant Amazon.com Inc. (AMZN). Le deuxième exemple applique le théorème de Bayes aux tests de médicaments pharmaceutiques.
+
+### Dérivation de la formule du théorème de Bayes
+
+Le théorème de Bayes découle simplement des axiomes de la probabilité conditionnelle. La probabilité conditionnelle est la probabilité d'un événement étant donné qu'un autre événement s'est produit. Par exemple, une question de probabilité simple peut demander : "Quelle est la probabilité que le cours de l'action Amazon.com baisse ?" La probabilité conditionnelle pousse cette question un peu plus loin en demandant : "Quelle est la probabilité que le cours de l'action AMZN chute ** étant donné que ** l' [indice Dow Jones Industrial Average](/djia) (DJIA) a chuté plus tôt ?"
+
+La probabilité conditionnelle de A étant donné que B s'est produit peut être exprimée comme suit :
+
+Si A est : "le prix AMZN chute", alors P(AMZN) est la probabilité que AMZN chute ; et B est : "DJIA est déjà en baisse", et P(DJIA) est la probabilité que le DJIA soit tombé ; alors l'expression de probabilité conditionnelle se lit comme suit : "la probabilité que l'AMZN baisse compte tenu d'une baisse du DJIA est égale à la probabilité que le prix de l'AMZN baisse et que le DJIA baisse sur la probabilité d'une baisse de l'indice DJIA.
+
+>
+
+> P(AMZN|DJIA) = P(AMZN et DJIA) / P(DJIA)
+
+>
+
+P(AMZN et DJIA) est la probabilité que **à la fois** A et B se produisent. C'est également la même chose que la probabilité que A se produise multipliée par la probabilité que B se produise étant donné que A se produise, exprimée sous la forme P(AMZN) x P(DJIA|AMZN). Le fait que ces deux expressions soient égales conduit au théorème de Bayes, qui s'écrit :
+
+>
+
+> si, P(AMZN et DJIA) = P(AMZN) x P(DJIA|AMZN) = P(DJIA) x P(AMZN|DJIA)
+
+>
+
+>
+
+> alors, P(AMZN|DJIA) = [P(AMZN) x P(DJIA|AMZN)] / P(DJIA).
+
+>
+
+Où P(AMZN) et P(DJIA) sont les probabilités de chute d'Amazon et du Dow Jones, indépendamment l'une de l'autre.
+
+La formule explique la relation entre la probabilité de l'hypothèse avant de voir la preuve que P(AMZN) et la probabilité de l'hypothèse après avoir obtenu la preuve P(AMZN|DJIA), étant donné une hypothèse pour Amazon donnée dans le Dow Jones.
+
+### Exemple numérique du théorème de Bayes
+
+À titre d'exemple numérique, imaginez qu'il existe un test de dépistage de drogue précis à 98 %, ce qui signifie que 98 % du temps, il affiche un résultat vraiment positif pour quelqu'un qui utilise la drogue, et 98 % du temps, il affiche un résultat vraiment négatif. pour les non-usagers de la drogue.
+
+Ensuite, supposons que 0,5 % des personnes consomment la drogue. Si une personne sélectionnée au hasard est testée positive pour la drogue, le calcul suivant peut être effectué pour déterminer la probabilité que la personne soit réellement un utilisateur de la drogue.
+
+>
+
+> (0,98 x 0,005) / [(0,98 x 0,005) + ((1 - 0,98) x (1 - 0,005))] = 0,0049 / (0,0049 + 0,0199) = 19,76 %
+
+>
+
+Le théorème de Bayes montre que même si une personne est testée positive dans ce scénario, il y a environ 80 % de chances qu'elle ne prenne pas le médicament.
+
+## Questions fréquemment posées.
+
+## L'essentiel
+
+Dans sa forme la plus simple, le théorème de Bayes prend un résultat de test et le relie à la probabilité conditionnelle de ce résultat de test compte tenu d'autres événements connexes. Pour les faux positifs à forte probabilité, le théorème donne une probabilité plus raisonnée d'un résultat particulier.
+
+## Points forts
+
+- Le théorème de Bayes vous permet de mettre à jour les probabilités prédites d'un événement en incorporant de nouvelles informations.
+
+- Il est souvent employé en finance pour calculer ou mettre à jour l'évaluation des risques.
+
+- Le théorème est devenu un élément utile dans la mise en œuvre de l'apprentissage automatique.
+
+- Le théorème de Bayes a été nommé d'après le mathématicien du XVIIIe siècle Thomas Bayes.
+
+- Le théorème a été inutilisé pendant deux siècles en raison du volume élevé de capacité de calcul nécessaire pour exécuter ses transactions.
+
+## FAQ
+
+### Qu'est-ce qu'un calculateur de théorème de Bayes ?
+
+Un calculateur de théorème de Bayes calcule la probabilité d'un événement **A** conditionnel à un autre événement **B**, étant donné les probabilités antérieures de **A** et **B**, et la probabilité de **B ** sous réserve de **A**. Il calcule des probabilités conditionnelles basées sur des probabilités connues.
+
+### Quelle est l'histoire du théorème de Bayes ?
+
+Le théorème a été découvert parmi les articles du ministre presbytérien et mathématicien anglais Thomas Bayes et publié à titre posthume en étant lu à la Royal Society en 1763. Longtemps ignoré en faveur des calculs booléens, le théorème de Bayes est récemment devenu plus populaire en raison d'une capacité de calcul accrue. pour effectuer ses calculs complexes. Ces progrès ont conduit à une augmentation des applications utilisant le théorème de Bayes. Il est maintenant appliqué à une grande variété de calculs de probabilité, y compris les calculs financiers, la génétique, la consommation de drogues et le contrôle des maladies.
+
+### Quel est l'état du théorème de Bayes ?
+
+Le théorème de Bayes stipule que la probabilité conditionnelle d'un événement, basée sur l'occurrence d'un autre événement, est égale à la probabilité du deuxième événement étant donné le premier événement multiplié par la probabilité du premier événement.
+
+### Comment le théorème de Bayes est-il utilisé dans l'apprentissage automatique ?
+
+Le théorème de Bayes fournit une méthode utile pour réfléchir à la relation entre un ensemble de données et une probabilité. En d'autres termes, le théorème dit que la probabilité qu'une hypothèse donnée soit vraie sur la base de données observées spécifiques peut être définie comme la recherche de la probabilité d'observer les données compte tenu de l'hypothèse multipliée par la probabilité que l'hypothèse soit vraie quelles que soient les données, divisée par la probabilité d'observer les données quelle que soit l'hypothèse.
+
+### Qu'est-ce qui est calculé dans le théorème de Bayes ?
+
+Le théorème de Bayes calcule la probabilité conditionnelle d'un événement, sur la base des valeurs de probabilités connues liées spécifiques.
+
