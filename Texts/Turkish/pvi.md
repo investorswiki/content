@@ -1,0 +1,85 @@
+---
+keywords: Trading,Technical Analysis,Technical Analysis Basic Education
+title: Pozitif Hacim Endeksi (PVI)
+description: PVI, işlem hacmindeki pozitif artışlara dayalı fiyat değişiklikleri için sinyaller sağlayan teknik analizde kullanılan bir göstergedir.
+---
+
+# Pozitif Hacim Endeksi (PVI)
+## Pozitif Hacim Endeksi (PVI) Nedir?
+
+işlem hacmindeki pozitif artışlara dayalı fiyat değişimleri için sinyaller sağlayan [teknik analizde](/technicalanalysis) kullanılan bir göstergedir . PVI, [trend](/trend) gücünü değerlendirmede ve potansiyel olarak fiyat [dönüşlerini teyit etmede yardımcı olur](/reversal) ve popüler piyasa endeksleri için hesaplanabilir ve ayrıca bireysel menkul kıymetlerdeki hareketleri analiz etmek için kullanılabilir.
+
+<!--211AF18ACC535B52E3128079C7430E5C-->
+
+## Pozitif Hacim Endeksi (PVI) Formülü
+
+Bugünün hacmi dünün hacminden büyükse, o zaman:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="sağ sol" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>PVI</mtext><mo>=</mo><mi>P</mi><mi> P</mi><mi>V</mi><mi>I</mi><mo>+</mo><mfrac><mrow><mo Stretchy="false">(</mo><mi >T</mi><mi>C</mi><mi>P</mi><mo>−</mo><mi>Y</mi><mi>C</mi><mi>P </mi><mo Stretchy="false">)</mo></mrow><mrow><mi>Y</mi><mi>C</mi><mi>P</mi></mi></mrow><mi> mrow></mfrac><mo>×</mo><mi>P</mi><mi>P</mi><mi>V</mi><mi>I</mi></mrow> </mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd>< mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext mathvariant="bold">burada:</mtext></mrow></mstyle></mtd></ mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd ><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>P</mi><mi>V</mi><mi>I</mi><mo >=</mo><mtext>pozitif hacim indeksi</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true" ><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>P</mi> <mi>P</mi><mi>V</mi><mi>I</mi><mo>=</mo><mtext>önceki pozitif hacim endeksi</mtext></mrow></mstyle ></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel= "0" displaystyle="true"><mrow><mrow></mrow><mi>T</mi><mi>C</mi><mi>P</mi><mo>=</mo ><mtext>bugünkü kapanış fiyatı</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow>< /mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>Y</mi><mi>C< /mi><mi>P</mi><mo>=</mo><mtext>dünün kapanış fiyatı</mtext></mrow></mstyle></mtd></mtr></mtable>< açıklama kodlaması="application/x-te x">\begin{aligned} &amp;\text{PVI} = PPVI + \frac{(TCP - YCP)}{YCP}\times PPVI \\ &amp;\textbf{nerede:}\\ &amp;PVI=\ metin{pozitif hacim indeksi}\\ &amp;PPVI=\text{önceki pozitif hacim indeksi}\\ &amp;TCP=\text{bugünün kapanış fiyatı}\\ &amp;YCP=\text{dün&#x27; kapanış fiyatı}\\ \end{hizalı}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base "><span class="strut" style="height:9.913em;vertical-align:-4.7064999999999999em;"></span><span class="mord"><span class="mtable"><span class ="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:5.2065em;"><span span style="top:-7.206499999999999em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"></span></span>< span style="top:-5.3805em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"></span></span>< span style="top:-3.8805em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"></span ></span><span style="top:-2.3805000000000005em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"></span ></span><span style="top:-0.8805000000000005em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"></span ></span><span style="top:0.61949999999999em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"></span> </span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:4.7064999999999999 em;"><span></span></span></span></span></span><span class="col-align-l"><span class="vlist-t vlist-t2 "><span class="vlist-r"><span class="vlist" style="height:5.2065em;"><span style="top:-7.2064999999999999em;"><span class="pstrut" stili ="height:3.427em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord"> PVI</span></span><span class="mspace" style="margin-right:0.2777777777777777em;"></span><span class="mrel">=</span><span class=" mspace" style="marj -right:0.27777777777777778em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin- right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="mord mathnormal" style="margin- right:0.07847em;">I</span><span class="mspace" style="margin-right:0.222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"> <span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.427em;"><span style="top:-2.314em ;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.22222em;" >Y</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mord mathnormal" style="margin-right:0.13889em;" >P</span></span></span><span style="top:- 3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class ="mopen">(</span><span class="mord mathnormal" style="margin-right:0.13889em;">T</span><span class="mord mathnormal" style="margin-right: 0.07153em;">C</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mspace" style="margin-right:0.22222222222222222 em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.22222em;">Y</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mclose">)</span></span></span></span><span class="vlist -s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><spa n></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin -right:0.222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.222222222222222em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span></span></span></span></span> span></span><span style="top:-5.3805em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">burada:</span></span></span></span><span style= "top:-3.8805em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"><span class="mord"></span> <span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-r ight:0.22222em;">V</span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="mspace" style="margin-right :0.27777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class= "mord text"><span class="mord">pozitif hacim indeksi</span></span></span></span><span style="top:-2.380500000000005em;"><span class=" pstrut" style="height:3.427em;"></span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-sağ :0.13889em;">P</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mord mathnormal" style="margin-right :0.22222em;">V</span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="mspace" style="margin-right: 0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class=" mord text"><span class="mord">önceki konum ive volume index</span></span></span></span><span style="top:-0.8805000000000005em;"><span class="pstrut" style="height:3.427em;">< /span><span class="mord"><span class="mord"></span><span class="mord mathnormal" style="margin-right:0.13889em;">T</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778em ;"></span><span class="mord text"><span class="mord">bugünkü kapanış fiyatı</span></span></span></span><span style="top: 0.61949999999999em;"><span class="pstrut" style="height:3.427em;"></span><span class="mord"><span class="mord"></span><span class= "mord mathnormal" style="margin-right:0.22222em;">Y</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class= "mord mathnormal" style="margin-right:0.13889em;">P</span>< span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778 em;"></span><span class="mord text"><span class="mord">dünün kapanış fiyatı</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:4.70649999999999em;"><span></span ></span></span></span></span></span></span></span></span></span>
+
+[hacim](/volume) dünkü hacme eşit veya daha azsa :
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>P </mi><mi>V</mi><mi>I</mi><mo>=</mo><mtext>Önceki PVI</mtext></mrow><annotation encoding="application/x- tex">PVI = \text{Önceki PVI}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base "><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P </span><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="mord mathnormal" style="margin-right:0.07847em;">I </span><span class="mspace" style="margin-right:0.277777777777778em;"></span><span class="mrel">=</span><span class="mspace" style=" margin-right:0.27777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span span><span class="mord text"><span class="mord">Önceki PVI</span></span></span></span></span>
+
+### Pozitif Hacim İndeksi (PVI) Nasıl Hesaplanır
+
+1. Bugünkü hacim dünkü hacimden büyükse, PVI formülünü kullanın.
+
+1. Önceki PVI hesaplamasıyla birlikte bugün ve dün için fiyat verilerini girin.
+
+1. Daha önce PVI hesaplaması yoksa, önceki PVI gibi bugünün fiyat hesaplamasını da kullanın.
+
+1. Bugünkü hacim dünkü hacimden büyük değilse, o gün için PVI aynı kalır.
+
+## Pozitif Hacim Endeksini (PVI) Anlama
+
+PVI tipik olarak bir [negatif hacim indeksi](/nvi) (NVI) hesaplaması ile birlikte izlenir. Birlikte fiyat birikim hacmi göstergeleri olarak bilinirler.
+
+PVI ve NVI ilk olarak 1930'larda Paul Dysart tarafından ilerleme-düşüş çizgisi gibi pazar [genişliği göstergeleri kullanılarak geliştirildi. PVI ve NVI göstergeleri, uygulamalarını bireysel](/breadthindicator) [menkul kıymetlere](/security) genişleten Norman Fosback'in 1976 tarihli **Hisse Senedi Piyasası Mantığı** adlı kitabına dahil edildikten sonra popülerlik kazandı .
+
+Fosback'in 1941'den 1975'e kadar olan dönemi kapsayan araştırması, PVI bir yıllık ortalamasının altında olduğunda, %67'lik bir [ayı piyasası şansı olduğunu öne sürdü](/bearmarket). PVI bir yıllık ortalamasının üzerindeyse, ayı piyasası şansı %21'e düşer.
+
+Genel olarak, tüccarlar, piyasanın hacim açısından eğilimi hakkında bir fikir edinmek için hem PVI hem de NVI göstergelerini izleyeceklerdir. Hacim yükselirken PVI daha değişken olacak ve hacim azalırken NVI daha değişken olacaktır.
+
+> PVI'nın birincil faktörü fiyat olduğundan, tüccarlar hacim yüksek olduğunda ve fiyatlar arttığında PVI'nın arttığını göreceklerdir. Hacim yüksekken fiyatlar düştüğünde PVI düşecektir. Bu nedenle, PVI yükseliş ve düşüş trendleri için bir sinyal olabilir.
+
+>
+
+## Özel Hususlar
+
+Genel kanı, yüksek hacimli günlerin kalabalıkla ilişkilendirildiği yönündedir. PVI, bir yıllık [hareketli ortalamanın](/movingaverage) (yaklaşık 255 işlem günü) üzerinde olduğunda, kalabalığın iyimser olduğunu gösterir ve bu da fiyat artışlarının artmasına yardımcı olur. PVI bir yıllık ortalamanın altına düşerse, bu, kalabalığın karamsarlaştığını ve bir fiyat düşüşünün yaklaşmakta olduğunu veya halihazırda devam etmekte olduğunu gösterir.
+
+Tüccarlar genellikle dokuz dönemlik bir PVI hareketli ortalamasını (MA) çizer ve bunu 255 dönemlik bir PVI MA ile karşılaştırır. Daha sonra yukarıda açıklandığı gibi ilişkileri izleyeceklerdir. [Geçişler](/crossover),. fiyattaki potansiyel eğilim değişikliklerini işaret eder. Örneğin, PVI aşağıdan 255 dönemlik MA'nın üzerine çıkarsa, bu yeni bir [yükseliş trendinin başladığını gösterebilir](/uptrend). Bu yükseliş trendi, PVI bir yıllık ortalamanın üzerinde kaldığı sürece onaylanır.
+
+Yukarıda belirtilen olasılıkları aklınızda bulundurun. PVI sinyalleri %100 doğru değildir. Genel olarak, bir yıllık MA ile karşılaştırıldığında PVI, eğilimleri ve geri dönüşleri doğrulamaya yardımcı olur, ancak her zaman doğru olmayacaktır.
+
+Bazı tüccarlar PVI yerine NVI'yı tercih eder veya birbirlerini doğrulamak için bunları birlikte kullanırlar. NVI, kalabalığa değil, profesyonel tüccar faaliyeti ile ilişkili daha düşük hacimli günlere bakar. Bu nedenle, NVI "akıllı paranın" ne yaptığını gösterir.
+
+## Pozitif Hacim Endeksi (PVI) ve On Balance Volume (OBV)
+
+Pozitif hacim, mevcut seansta hacmin öncekine göre yükselip yükselmediğine dayalı bir fiyat hesaplamasıdır. [Bakiye hacmi](/onbalancevolume) (OBV), bugünkü fiyatın sırasıyla dün fiyattan daha yüksek veya daha düşük olmasına bağlı olarak pozitif ve negatif hacmin devam eden toplamıdır.
+
+Başka bir deyişle, her iki gösterge de hacim ve fiyat açısından faktoring yapıyor, ancak bunu çok farklı şekillerde yapıyor. Farklı hesaplamaları nedeniyle, PVI ve OBV, tüccarlara farklı ticaret sinyalleri ve bilgileri sağlayacaktır.
+
+## Pozitif Hacim Endeksini (PVI) Kullanmanın Sınırlamaları
+
+PVI, etkinliği tipik olarak daha yüksek hacimli günlerle ilişkilendirilen kalabalığı izliyor. Kalabalık tipik olarak para kaybeder veya profesyonel tüccarlardan daha az fuar yapar. Bu nedenle, PVI "akıllı olmayan parayı" takip ediyor. Daha kaliteli sinyaller ve belirli bir pazarın veya hisse senedinin ne yaptığına ilişkin daha iyi bir bağlam için PVI, NVI ile birlikte kullanılır.
+
+Tarihsel testlerde, PVI, fiyatta boğa ve ayı piyasalarını vurgulamak için iyi bir iş çıkardı. %100 doğru olmasa da...hiçbir şey değil.
+
+, hızlı bir şekilde art arda birden fazla geçiş meydana geldiğinde, yalnızca göstergeye dayalı olarak gerçek trend yönünü belirlemeyi zorlaştıran [kamçılara](/whipsaw) eğilimli olabilir . PVI ayrıca bazı anormalliklere eğilimlidir. Örneğin, fiyat agresif bir şekilde yükselse bile sürekli olarak düşebilir.
+
+daha uzun vadeli ticaret fırsatlarına bakıyorlarsa [fiyat hareket](/price-action) analizi, diğer teknik göstergeler ve [temel analiz](/fundamentalanalysis) ile birlikte PVI'yı kullanmaları önerilir .
+
+## Öne Çıkanlar
+
+- Pozitif hacim endeksi (PVI), mevcut hacmin önceki dönemden daha yüksek olup olmadığına bağlı olarak fiyat hareketlerine dayanmaktadır.
+
+- PVI bir yıllık ortalamanın üzerinde olduğunda, fiyat artışını teyit etmeye yardımcı olur. PVI bir yıllık ortalamanın altına düştüğünde, fiyat düşüşünü teyit etmeye yardımcı olur.
+
+- Tüccarlar, 255 dönemlik PVI hareketli ortalamaya göre dokuz dönemlik bir PVI hareketli ortalamasının (veya diğer MA uzunluğunun) ilişkisini izler.
+
+- PVI genellikle hareketli bir ortalama olarak gösterilir (hareketlerini yumuşatmaya yardımcı olmak için) ve bir yıllık ortalamayla (255 gün) karşılaştırılır.
+
+- Hacim bir periyottan diğerine artmazsa, PVI aynı kalır.
+
