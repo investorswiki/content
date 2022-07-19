@@ -1,0 +1,81 @@
+---
+keywords: Trading,Technical Analysis,Technical Analysis Basic Education
+title: Kanały Donchiańskie
+description: Kanały Donchian to wskaźniki średniej ruchomej opracowane przez Richarda Donchiana. Wyznaczają najwyższą najwyższą cenę i najniższą najniższą cenę papieru wartościowego w danym okresie czasu.
+---
+
+# Kanały Donchiańskie
+## Czym są kanały Donchian?
+
+Kanały Donchiana to trzy linie generowane przez obliczenia średniej ruchomej, które zawierają wskaźnik utworzony przez górne i dolne pasma wokół pasma średniego lub mediany. Górne pasmo oznacza najwyższą cenę papieru wartościowego w ciągu N okresów, podczas gdy dolne pasmo oznacza najniższą cenę papieru wartościowego w ciągu N okresów. Obszar pomiędzy górnym i dolnym pasmem reprezentuje kanał Donchian.
+
+Karierowy trader kontraktów terminowych Richard Donchian opracował wskaźnik w połowie XX wieku, aby pomóc mu zidentyfikować trendy. Później zyskał przydomek „Ojciec podążania za trendami”.
+
+<!--2BE71D89CDD8D134C2261267283D2929-->
+
+## Formuła kanałów Donchian to:
+
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable rowspacing="0.24999999999999992em " columnalign="prawy lewy" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd> <mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>UC = najwyższy najwyższy w ostatnich </mtext><mi>N</mi><mtext> okresach</ mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></ mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Kanał środkowy</mtext><mo>=</mo><mo stretchy=" false">(</mo><mo stretchy="false">(</mo><mi>U</mi><mi>C</mi><mo>+</mo><mi>L< /mi><mi>C</mi><mo stretchy="false">))</mo><mi mathvariant="normal">/</mi><mn>2</mn><mo stretchy=" false">)</mo></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow> </mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow> <mrow></mrow><mtext>LC = najniższy najniższy w ostatnich </mtext><mi>N</mi><mtext> okresach</mtext></mrow></mstyle></mtd></ mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true "><mrow><mrow></mrow><mtext mathvariant="bold">gdzie:</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></ mrow><mi>U</mi><mi>C</mi><mo>=</mo><mtext>Kanał górny</mtext></mrow></mstyle></mtd></mtr <mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"> <mrow><mrow></mrow><mtable rowspaceing="0.24999999999999992em" columnalign="prawy lewy" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"> < mrow><mi>N</mi><mo>=</mo></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow> < mrow></mrow><mtext> Liczba minut , godziny, dni,</mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow ></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext> tygodnie, miesiące</mtext></mrow>< /mstyle></mtd></mtr></mtable></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"> <mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtable rowspaceing="0.24999999999999992em" columnalign ="prawy lewy" columnpacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mtext>Okres</mtext><mo>=</mo>< /mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>Minuty, godziny, dni, tygodnie,</ mtext></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></ mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mtext>miesiące</mtext></mrow></mstyle></mtd></ mtr></mtable></mrow>< /mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>L</mi><mi>C</mi><mo>=</mo><mtext>Dolny kanał </mtext></mrow></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned}&amp;\text{UC = najwyższy wysoki w ostatnich }N\text{ okresach}\\&amp;\text{Kanał środkowy} = ((UC+LC)/2)\\&\text{LC = najniższy najniższy w ostatnich }N\text{ okresach}\ \&amp;\textbf{gdzie:}\\&amp;UC=\text{Kanał górny}\\&\begin{aligned}N=&amp;\text{ Liczba minut, godzin, dni,}\\&amp; \text{ tygodnie, miesiące}\end{wyrównane}\\&amp;\begin{wyrównane}\text{Okres}=&\text{Minuty, godziny, dni, tygodnie,}\\&\text{miesiące} \end{aligned}\\&amp;LC=\text{Dolny kanał}\end{aligned}</annotation></semantics></math></span><span class="katex-html" aria-hidden ="true"><span class="base"><span class="strut" style="height:15.600000000000003em;vertical-align:-7.5500000000000025em;"></span><span class=" mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class= "vlist" style="height:8.05em;"><span style="top:-10.96em;"><span class="pstrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-9.46em;"><span class="pstrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-7.96em;"><span class="pstrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-6.46em;"><span class="pstrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-4.96em;"><span class="pstrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:-2.5499999999999985em;"><span class="pstrut" style="height:3.75em;"></span><span class ="mord"></span></span><span style="top:0.7500000000000022em;"><span class="pstrut" style="height:3.75em;"></span><span class= "mord"></span></span><span style="top:3.14000000000000023em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"></span></span></span><span class="vlist-s">​ </span></span><span class="vlist-r"><span class="vlist" style="height:7.550000000000025em;"><span></span></span></span> </span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:8.05em;"><span style="top:-10.96em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord "><span class="mord"></span><span class="mord text"><span class="mord">UC = najwyższy najwyższy w ostatnim </span></span><span class=" mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord text"><span class="mord"> Kropki</span></span></span> </span><span style="top:-9.46em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"><span class= "mord"></span><span class="mord text"><span class="mord">Kanał środkowy</span></span><span class="mspace" style="margin-right:0.27777777777777778 em;"></span><span class="mr el">=</span><span class="mspace" style="margin-right:0.277777777777777778em;"></span><span class="mopen">(</span><span class="mopen ">(</span><span class="mord mathnormal" style="margin-right:0.10903em;">U</span><span class="mord mathnormal" style="margin-right:0.07153em; ">C</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathnormal">L</span><span class="mord mathnormal" style="margin-right:0.07153em;"> C</span><span class="mclose">)</span><span class="mord">/</span><span class="mord">2</span><span class="mclose ">)</span></span></span><span style="top:-7.96em;"><span class="pstrut" style="height:3.75em;"></span>< span class="mord"><span class="mord"></span><span class="mord text"><span class="mord">LC = najniższy najniższy w ostatnim </span></span> <span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mord text"><span class="mord"> okresy</span></span></span></span><span style="top:-6.46em;"><span class="pstrut" style="height:3.75em;"></span ><span class="mord"><span class="mord"></span><span class="mord text"><span class="mord textbf">gdzie:</span></span>< /span></span><span style="top:-4.96em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord">< span class="mord"></span><span class="mord mathnormal" style="margin-right:0.10903em;">U</span><span class="mord mathnormal" style="margin-right :0.07153em;">C</span><span class="mspace" style="margin-right:0.277777777777777778em;"></span><span class="mrel">=</span><span klasa ="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mord text"><span class="mord">Kanał górny</span></span></span ></span><span style="top:-2.5499999999999985em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"><span class ="mord"></span><span class="mord"><span class="mtable"><span class="col-align-r"><span class="vlist-t vlist-t2"> <spancl ass="vlist-r"><span class="vlist" style="height:1.7500000000000002em;"><span style="top:-3.91em;"><span class="pstrut" style="height: 3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mspace" style= "margin-right:0.2777777777777778em;"></span><span class="mrel">=</span></span></span><span style="top:-2.41em;"><span class="pstrut" style="height:3em;"></span><span class="mord"></span></span></span><span class="vlist-s">​< /span></span><span class="vlist-r"><span class="vlist" style="height:1.2500000000000002em;"><span></span></span></span>< /span></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" styl ="height:1.7500000000000002em;"><span style="top:-3.91em;"><span class="pstrut" style="height:3em;"></span><span class="mord"> <span class="mord"></span><span class="mord text"><span class="mord"> Liczba minut, godzin, dni,</span></span></span>< /span><spanstyle="góra:-2,41 em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"></span><span class="mord tekst"><span class="mord"> tygodnie, miesiące</span></span></span></span></span><span class="vlist-s"></span>< / span><span class="vlist-r"><span class="vlist" style="height:1.2500000000000002em;"><span></span></span></span></span>< / span></span></span></span></span><span style="top:0.7500000000000022em;"><span class="pstrut" style="height:3.75em;"></ span ><span class="mord"><span class="mord"></span><span class="mord"><span class="mtable"><span class="col-align-r"> < span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.7500000000000002em;"><span style="top:-3.91em ; "><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord text"><span class="mord">Okres< / span></span><span class="mspace" style="margin-right:0.277777777777777778em;"></span><span class="mrel">=</span></span></span > <span style="top:-2.41em;"><span class="pstr ut" style="height:3em;"></span><span class="mord"></span></span></span><span class="vlist-s"><​</span > </span><span class="vlist-r"><span class="vlist" style="height:1.2500000000000002em;"><span></span></span></span></span > </span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style=" height :1.7500000000000002em;"><span style="top:-3.91em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class ="mord"></span><span class="mord text"><span class="mord">Minuty, godziny, dni, tygodnie,</span></span></span></span > <span style="top:-2.41em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"> </span><span class="mord text"><span class="mord">miesiące</span></span></span></span></span><span class="vlist-s " ></span></span><span class="vlist-r"><span class="vlist" style="height:1.2500000000000002em;"><span></span></span></ span></span></span></span></span></span></span><span style="top:3.14000000 0000023em;"><span class="pstrut" style="height:3.75em;"></span><span class="mord"><span class="mord"></span><span class=" mord mathnormal">L</span><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="mspace" style="margin-right:0.27777777777777778em ;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.27777777777777778em;"></span><span class="mord text "><span class="mord">Dolny kanał</span></span></span></span></span><span class="vlist-s">​</span></span ><span class="vlist-r"><span class="vlist" style="height:7.55000000000000025em;"><span></span></span></span></span></span ></span></span></span></span></span>
+
+## Jak obliczyć kanały Donchian
+
+### Kanał wysoki
+
+1. Wybierz okres czasu (N minut/godzin/dni/tygodni/miesięcy).
+
+1. Porównaj wysoki druk dla każdej minuty, godziny, dnia, tygodnia lub miesiąca w tym okresie.
+
+1. Wybierz najwyższy druk.
+
+1. Wykreśl wynik.
+
+### Niski poziom kanału
+
+1. Wybierz okres czasu (N minut/godzin/dni/tygodni/miesięcy).
+
+1. Porównaj niski druk dla każdej minuty, godziny, dnia, tygodnia lub miesiąca w tym okresie.
+
+1. Wybierz najniższy wydruk.
+
+1. Wykreśl wynik.
+
+### Kanał centralny
+
+1. Wybierz okres czasu (N minut/godzin/dni/tygodni/miesięcy).
+
+1. Porównaj wysokie i niskie wydruki dla każdej minuty, godziny, dnia, tygodnia lub miesiąca w tym okresie.
+
+1. Dodaj najniższy niski druk do najwyższego wysokiego druku i podziel przez 2.
+
+1. Wykreśl wynik.
+
+## Co mówią Ci kanały Donchian?
+
+Kanały Donchian identyfikują relacje porównawcze między aktualną ceną a zakresami transakcyjnymi w ustalonych z góry okresach. Trzy wartości budują wizualną mapę cen w czasie, podobnie jak wstęgi Bollingera, wskazujące na zakres byka i niedźwiedzia dla wybranego okresu. Górna linia określa zakres byczej energii, podkreślając najwyższą cenę osiągniętą w okresie przez konflikt byków.
+
+Linia środkowa wskazuje medianę lub średnią cenę powrotu w danym okresie, podkreślając środek osiągnięty w tym okresie przez konflikt byków. Dolna linia określa zakres niedźwiedziej energii, podkreślając najniższą cenę osiągniętą w tym okresie w wyniku konfliktu z bykami.
+
+## Przykład korzystania z kanałów Donchian
+
+<!--A1779CDD9C61EDC888BA3471CFCECA78-->
+
+W tym przykładzie kanał Donchian jest zacienionym obszarem ograniczonym górną zieloną linią i dolną czerwoną linią, z których obie używają 20 dni jako okresów budowy pasma (N). Gdy cena podnosi się do najwyższego punktu w ciągu ostatnich 20 dni lub dłużej, słupki ceny „wypychają” zieloną linię w górę, a gdy cena spada do najniższego punktu w ciągu 20 dni lub dłużej, słupki cenowe „wypychają” czerwony linia niższa.
+
+Gdy cena spada przez 20 dni od maksimum, zielona linia będzie pozioma, a następnie zacznie spadać. I odwrotnie, gdy cena wzrośnie z minimum przez 20 dni, czerwona linia będzie pozioma przez 20 dni, a następnie zacznie rosnąć.
+
+## Różnica między kanałami Donchian a pasmami Bollingera
+
+Kanały Donchiana wykreślają najwyższy szczyt i najniższy dołek w N okresach, podczas gdy wstęgi Bollingera wykreślają prostą średnią ruchomą (SMA) dla N okresów plus/minus standardowe odchylenie ceny dla N okresów X 2. Daje to bardziej zrównoważone obliczenia, które zmniejszają wpływ dużych wysokich lub niskich wydruków.
+
+## Ograniczenia korzystania z kanałów Donchian
+
+Rynki poruszają się zgodnie z wieloma cyklami aktywności. Dowolna lub powszechnie stosowana wartość okresu N dla kanałów Donchian Channels może nie odzwierciedlać aktualnych warunków rynkowych, generując fałszywe sygnały, które mogą negatywnie wpłynąć na wyniki handlowe i inwestycyjne.
+
+##Przegląd najważniejszych wydarzeń
+
+- Kanały Donchian to wskaźnik techniczny mający na celu identyfikację byczych i niedźwiedzich skrajności, które sprzyjają odwróceniu, a także wyższym i niższym wyłamaniom, załamaniom i pojawiającym się trendom.
+
+- Te punkty określają medianę lub średnią cenę odwrócenia.
+
+- Środkowe pasmo po prostu oblicza średnią między najwyższym szczytem w N okresach a najniższym dołem w N okresach.
+
