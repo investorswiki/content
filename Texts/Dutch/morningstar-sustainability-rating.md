@@ -1,0 +1,27 @@
+---
+keywords: Investing,Sustainable Investing,Socially Responsible Investing
+title: Morningstar Bæredygtighedsvurdering
+description: Morningstar Sustainability Rating er en global standard for vurdering af investeringsforeninger og ETF&#39;er&amp;#39; miljø-, social- og virksomhedsledelse.
+---
+
+# Morningstar Bæredygtighedsvurdering
+## Hvad er Morningstars bæredygtighedsvurdering?
+
+Morningstar Sustainability Rating er en pålidelig og objektiv måde, hvorpå investorer kan se, hvordan cirka 20.000 investeringsforeninger og [børshandlede](/etf) [fonde](/etf) (ETF'er) imødekommer [miljømæssige, sociale og corporate governance -](/environmental-social-and-governance-esg-criteria) udfordringer (ESG).
+
+Morningstars bæredygtighedsvurderinger, som blev introduceret i august 2016, er udtrykt ved hjælp af et fem-klode-system, der angiver, om investeringen er i den nederste ende af ratingen for sin branchegruppe (én jordklode), under gennemsnittet (to jordkloder), gennemsnittet (tre jordkloder), over gennemsnittet (fire jordkloder) eller i den høje ende (fem jordkloder) af sin branchegruppevurdering. Investorer kan finde Morningstars bæredygtighedsvurderinger i højre side af morningstar.coms fondstilbudssider. Morningstar Portfolio Sustainability Ratings udstedes månedligt.
+
+## Forstå Morningstars bæredygtighedsvurdering
+
+Morningstars udvikling af dette ratingsystem afspejler den dramatiske stigning og vigtigheden af [bæredygtig](/sustainability) investering. Bæredygtighedsvurderingerne er baseret på to komponenter: ESG-score på virksomhedsniveau udviklet af Sustainalytics og ESG-kontroverser. Hver fonds ESG-score er baseret på dens underliggende virksomheders beredskab, offentliggørelse og resultater. Hver virksomhed i porteføljen er klassificeret på en skala fra 0 til 100 i forhold til andre virksomheder i dens globale branchesammenligningsgruppe. Som et resultat heraf har to virksomheder, der har den samme score, men tilhører forskellige peer-grupper, muligvis ikke tilsvarende niveauer af miljømæssig, social og virksomhedsledelse (ESG). En score på 50 betyder, at virksomheden betragtes som gennemsnitlig i forhold til sin peer group; en score på 70 eller højere betyder, at virksomheden er vurderet til mindst to standardafvigelser over gennemsnittet i sin peer-gruppe. En score på 30 eller lavere betyder, at virksomheden scorer mindst to standardafvigelser under gennemsnittet i sin peer-gruppe.
+
+Mindst halvdelen af en porteføljes [aktiver under forvaltning](/aum) (AUM) skal have en virksomheds ESG-score for at porteføljen opnår en bæredygtighedsscore. Morningstar Sustainability Rating tager derefter porteføljens score og trækker point fra for kontroversielle ESG-relaterede problemer, som virksomheder i porteføljen kan have. Kontroverser omfatter hændelser, der påvirker miljøet og samfundet, såsom olieudslip, diskriminationssager eller begivenheder, der påvirker virksomheden.
+
+Ifølge Morningstar har fonde med højere bæredygtighedsvurderinger en tendens til at have beholdninger af højere kvalitet. Med højere kvalitet refererer Morningstar til fonde med fem-klode bæredygtighedsvurderinger, der er mere tilbøjelige til at have høje stjernevurderinger for deres [risikojusterede afkast](/riskadjustedreturn),. er mere tilbøjelige til at blive begunstiget af Morningstar-analytikere, er mindre volatile og har mere eksponering for finansiel sunde virksomheder med [økonomiske voldgrave](/economicmoat).
+
+En fond kan dog have en høj stjernevurdering og en lav bæredygtighedsvurdering. For eksempel har Fidelitys Total Market Index Premium-fond (FSTVX) en firestjernet Morningstar-rating ud af fem for sine risikojusterede afkast. Morningstars præmieanalytikerrapport kalder denne fond "et godt valg for diversificeret eksponering til amerikanske aktier af alle størrelser" takket være dens lave omkostninger ( [ingen belastning](/no-loadfund) og et omkostningsforhold på 0,05 %, et godt stykke under gruppens median på 0,90 %) og dens "brede , [markedsværdivægtet](/capitalizationweightedindex) dækning af det amerikanske marked." Den har også en guldrating, hvilket indikerer, at analytikere forventer, at fonden vil klare sig bedre over en fuld markedscyklus på mindst fem år. Den har dog kun en bæredygtighedsvurdering på to ud af fem jordkloder (under gennemsnittet) baseret på en rangering på 80 % i dens kategori og en bæredygtighedsscore på 45.
+
+Morningstars bæredygtighedsvurderinger gør det muligt for investorer at vippe deres porteføljer mod en bæredygtig investeringsfilosofi uden at skulle købe bæredygtige, ansvarlige og virkningsfulde (SRI, tidligere [socialt ansvarlige investeringer](/sri) ) fonde. SRI-fonde har flere potentielle mangler: De repræsenterer en lille procentdel af fondens univers (ca. 2 % ifølge Morningstar-estimater), og undersøgelser har både bevist og modbevist deres evne til at tilbyde højere afkast sammenlignet med deres ikke-SRI-modparter. Som følge heraf er mange investorer tøvende med at investere i SRI-fonde. Derudover kan investering i SRI-fonde føre til overeksponering i nogle sektorer og undereksponering i andre.
+
+Investorer kan være mere tilbøjelige til at vælge en traditionel fond frem for en anden baseret på de relative Morningstar Sustainability Ratings. Hvis en investor vælger mellem to store [vækstfonde](/growthfund) med lignende langsigtede præstations- og investeringsstrategier, og den ene har en rating på to jorder og den anden en rating på fire jorder, kan globusvurderingen være den afgørende faktor.
+
