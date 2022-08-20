@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains markdown source files for [investors.wiki](https://investors.wiki) website. 
+This repository contains markdown source files for <a href="https://investors.wiki" referrer="github" >investors.wiki</a> website. 
 
 ## Contributing
 
